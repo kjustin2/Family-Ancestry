@@ -1,0 +1,24 @@
+# Kramer: the Wilkes-Barre line
+
+## Working lineage
+
+Justin Paul Kramer → Paul Joseph Kramer → Ferdinand Francis Kramer (1939–2023) → **proposed** Ferdinand Kramer (chart: 1913–1976) → Ferdinand Kramer (chart: born December 1882) → Matthew Kramer (chart: 1840–1918) → Bernhard Kramer/Kraemer and Mary Horner (**chart only**). The [four-page family chart](../research/chart-transcription.md) supplies most links. Ferdinand Francis's [obituary](https://www.legacy.com/person/ferdinand-francis-kramer-%28fred%29-52588560) directly names his parents as **Ferdinand Louis Kramer and Mary Andrews**. A birth, baptism, or census record is needed to establish whether Ferdinand Louis is the chart's Ferdinand born in 1913.
+
+## People and work
+
+- **Matthew/Matthias, identity proposed.** The chart says Matthew was born 29 August 1840, married Magdalena Disque in Wilkes-Barre on 26 August 1866, and died 15 July 1918. [City-directory transcriptions](https://pagenweb.org/~luzerne/towns/donnacd.htm) list Matthew/Krammer as a mason in 1871 and Matthew Kramer as a mason in 1878–79; Matthew as a laborer at 22 Susquehanna in 1888; Matthias as a ropemaker there in 1898 and at 17 Susquehanna in 1900. The matching address and name variant make a match plausible, not proven.
+- **Ferdinand, born circa 1882 in the chart.** A 1904 [directory](https://pagenweb.org/~luzerne/towns/donnacd.htm) lists Ferdinand Kramer, laborer, boarding at 17 Susquehanna alongside other Kramers; a 1914 directory lists a Ferdinand Kramer, laborer and householder at 146 Prospect. Age and neighborhood fit the proposed ancestor, but neither entry states a father.
+- **Ferdinand and Rose Bosch Kramer.** Their daughter Hilda M. Kramer Wolosz's [2020 obituary](https://www.legacy.com/us/obituaries/citizensvoice/name/hilda-wolosz-obituary?id=7822560) names them as parents and Ferdinand and Paul as her brothers. Hilda graduated G.A.R. Memorial High School in 1940 and worked for Pennsylvania Millers Mutual Insurance. This supports a family memory of Aunt Hilda and gives one firm school and occupation story.
+- **Ferdinand Francis (“Fred”), 1939–2023.** His [obituary](https://www.legacy.com/person/ferdinand-francis-kramer-%28fred%29-52588560) reports birth in Wilkes-Barre on 8 July 1939, death on 29 July 2023, Army Reserves service, and employment at Techneglas.
+
+## Their setting
+
+The directories document masonry, labor and ropemaking. They do **not** establish that Matthew or Ferdinand mined coal. A separate William Kramer is listed as a miner, but no relationship is proven. The shared conversation suggests a family coal story; keep it as oral history until a census, employer, or mine record links a named ancestor. [Directory](https://pagenweb.org/~luzerne/towns/donnacd.htm).
+
+The 1972 Agnes flood reshaped Wilkes-Barre's commercial Main Street; [Wilkes University's photo walking tour](https://www.wilkes.edu/academics/library/agnes-flood-walking-tour/main-street.aspx) shows the damage and rebuilding. This was a city backdrop for younger generations, not evidence about any person's house or school. The shared chat suggests Paul attended Coughlin High School around 1978–82; an [online 1982 yearbook listing](https://coughlinhighschool.org/yearbooks.html) exists, but this pass did not verify his entry or graduation.
+
+## Oral histories
+
+**“Nine Ferdinands”:** the supplied direct line has three consecutive Ferdinands, followed by Matthew and Bernhard. The larger count could refer to collateral relatives; it is not established as a father-to-son sequence.
+
+**“The Kramer surname came from Germany”:** Bernhard's birthplace, immigration, and even the chart's parentage link are unverified. The documented early German millers are on Magdalena's **Disqué branch**, not evidence of the paternal Kramer surname's origin.
