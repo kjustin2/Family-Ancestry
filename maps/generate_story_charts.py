@@ -25,11 +25,11 @@ def lineage():
     b = [f'<rect width="{w}" height="{h}" fill="#f6f3eb"/>',
          '<rect x="0" y="0" width="12" height="805" fill="#127f82"/>',
          txt(54, 62, 'The Kramer names, one generation at a time', size=32, weight=700),
-         txt(54, 93, 'Solid = recorded or family-supplied link     Dashed = chart/proposed link', size=16, fill="#52616a")]
+         txt(54, 93, 'Solid = census or family-reported link     Dashed = strong identity match', size=16, fill="#52616a")]
     people = [
-        ("Matthew / Matthias Kramer", "charted 1840–1918 · mason, later ropemaker", "CHART / INDEX", "#547487"),
-        ("Ferdinand (c. 1882)", "older foreman · 146 Prospect · 1940 census", "CENSUS", "#127f82"),
-        ("Ferdinand Louis (1913)", "younger machine operator · 1950 census match", "STRONG MATCH", "#127f82"),
+        ("Matthew Kramer (c. 1840)", "1900 census father · Matthias identity open", "CENSUS", "#547487"),
+        ("Ferdinand (c. 1882)", "1900 son · 1930 father · later foreman", "CENSUS", "#127f82"),
+        ("Ferdinand Louis (1913)", "1930 son · 1950 machine-operator match", "CENSUS", "#127f82"),
         ("Fred / Ferdinand Francis (1939)", "Techneglas · Army Reserve · obituary", "OBITUARY", "#b46827"),
         ("Paul Joseph Kramer", "Army Reserve · family account", "FAMILY", "#5c6ba0"),
         ("Justin Paul Kramer", "son of Paul and Melissa Miller Kramer", "FAMILY", "#5c6ba0"),
@@ -39,7 +39,7 @@ def lineage():
         y = ys[i]
         if i:
             prev = ys[i-1] + 73
-            dash = ' stroke-dasharray="7 7"' if i in (1, 2, 3) else ''
+            dash = ' stroke-dasharray="7 7"' if i == 3 else ''
             b.append(f'<line x1="102" y1="{prev}" x2="102" y2="{y}" stroke="{color}" stroke-width="3"{dash}/>')
             b.append(f'<circle cx="102" cy="{y}" r="5" fill="{color}"/>')
         b.extend([f'<rect x="54" y="{y}" width="990" height="73" rx="13" fill="#fff" stroke="#d8dedc"/>',
@@ -48,10 +48,10 @@ def lineage():
                   txt(85, y+57, detail, size=16, fill="#52616a"),
                   f'<rect x="850" y="{y+18}" width="165" height="35" rx="17" fill="{color}"/>',
                   txt(932, y+42, label, size=13, fill="#fff", weight=700, extra='text-anchor="middle"')])
-    b += [txt(54, 774, 'Open: Matthew → 1882 Ferdinand; 1882 → 1913 Ferdinand; 1913 record → Fred’s father.', size=16, fill="#52616a")]
+    b += [txt(54, 774, 'Open: Matthew = Matthias? 1913 Ferdinand L. = Fred’s father? Bernhard parent link?', size=16, fill="#52616a")]
     save('kramer-lineage.svg', ''.join(b), w, h,
          'Kramer working lineage',
-         'Six people from Matthew Kramer to Justin Kramer. Two early parent-child links are proposed; three successive Ferdinand generations have distinct labels.')
+         'Six people from Matthew Kramer to Justin Kramer. The 1900 and 1930 census households record the first two links; the next identity match needs a certificate. Three Ferdinand generations have distinct labels.')
 
 
 def property_assessments():
@@ -84,15 +84,16 @@ def property_assessments():
 
 
 def kramer_work():
-    w, h = 1050, 615
+    w, h = 1050, 710
     b = [f'<rect width="{w}" height="{h}" fill="#f6f3eb"/>',
-         '<rect x="0" y="0" width="12" height="615" fill="#127f82"/>',
+         '<rect x="0" y="0" width="12" height="710" fill="#127f82"/>',
          txt(52, 59, 'Work recorded along the Wilkes-Barre line', size=30, weight=700),
          txt(52, 89, 'Different people and sources; this is a sequence of records, not one continuous job.', size=16, fill="#52616a")]
     rows = [
         ('1871–1900', 'Matthew / Matthias', 'mason → laborer → ropemaker', 'city directories; identity proposed'),
         ('1889–1904', 'Same-address Kramers', 'silk beamer · book sewer · dressmaker · bottler', 'directories; kinship unproved'),
         ('1940', 'Ferdinand (c. 1882)', 'wire-rope foreman · $1,996 wages in 1939', 'census; owned home estimated $2,400'),
+        ('1940–43', 'Emil Carl (1915)', 'ACCO strander → Army enlistment', 'draft card; marriage; enlistment'),
         ('1950', 'Ferdinand Louis (1913)', 'wire-rope machine operator', 'census match; no income on sheet'),
         ('Later', 'Fred (1939) and Paul', 'Techneglas / Army Reserve; Army Reserve', 'Fred obituary / Paul family account'),
     ]
@@ -104,10 +105,36 @@ def kramer_work():
                   txt(230, y+29, name, size=19, weight=700),
                   txt(230, y+55, work, size=17),
                   txt(976, y+27, note, size=13, fill="#52616a", extra='text-anchor="end"')])
-    b.append(txt(52, 599, 'Money figures are one 1940 census snapshot. They cannot establish a family wealth trend.', size=15, fill="#52616a"))
+    b.append(txt(52, 690, 'Money figures are one 1940 census snapshot. They cannot establish a family wealth trend.', size=15, fill="#52616a"))
     save('kramer-work.svg', ''.join(b), w, h,
          'Recorded Kramer work in Wilkes-Barre',
-         'A dated sequence of occupations from city directories, censuses, obituary and family account. The only income figures are a 1939 wage and 1940 home estimate for the older Ferdinand.')
+         'A dated sequence of occupations from directories, censuses, Emil Carl Kramers signed draft card, marriage and enlistment records, obituary and family account. The only income figures are a 1939 wage and 1940 home estimate for the older Ferdinand.')
+
+
+def bosch_connection():
+    w, h = 1040, 480
+    b = [f'<rect width="{w}" height="{h}" fill="#f6f3eb"/>',
+         '<rect x="0" y="0" width="12" height="480" fill="#b46827"/>',
+         txt(48, 59, 'The Bosch link, across a census page break', size=30, weight=700),
+         txt(48, 87, '1920: sheet 8A ends with the parents; sheet 8B continues their household.', size=16, fill="#52616a")]
+
+    def box(x, y, width, color, title, detail):
+        b.extend([f'<rect x="{x}" y="{y}" width="{width}" height="76" rx="12" fill="#fff" stroke="#d8dedc"/>',
+                  f'<rect x="{x}" y="{y}" width="8" height="76" rx="4" fill="{color}"/>',
+                  txt(x + 22, y + 31, title, size=20, weight=700),
+                  txt(x + 22, y + 57, detail, size=16, fill="#52616a")])
+
+    box(48, 116, 440, '#b46827', 'Amiel + Hildegard Bosch', 'Baden-born · reported arrival c. 1880')
+    box(552, 116, 440, '#127f82', 'Ferdinand + Rose A. Kramer', '1920 household head + wife')
+    b += ['<path d="M268 192 L268 222 L520 222 L520 245 M772 192 L772 222 L520 222" fill="none" stroke="#85979b" stroke-width="3"/>',
+          txt(520, 242, 'in-laws to Ferdinand = Rose’s parents', size=15, fill="#52616a", extra='text-anchor="middle"')]
+    box(48, 259, 944, '#127f82', 'Ferdinand L. (1913) + Emil Carl (1915)', 'Sons on 1920 sheet 8B · Hilda joined the household by 1930')
+    b += ['<line x1="520" y1="245" x2="520" y2="259" stroke="#85979b" stroke-width="3"/>',
+          txt(48, 377, 'Rose’s Bosch surname is named in Emil’s 1941 marriage application.', size=17),
+          txt(48, 408, 'Greener as Hildegard’s maiden name and an exact immigration date still need records.', size=16, fill="#52616a")]
+    save('bosch-1920-connection.svg', ''.join(b), w, h,
+         'The Bosch and Kramer households in the 1920 census',
+         'The 1920 census spans two sheets. Ferdinand and Rose Kramer are on sheet 8A. Rose’s parents Amiel and Hildegard Bosch and the two sons are on sheet 8B. The Bosch couple reported birth in Baden and immigration about 1880; their exact arrival and Hildegard’s maiden name remain open.')
 
 
 def weatherford_smith_generations():
@@ -205,6 +232,7 @@ if __name__ == '__main__':
     lineage()
     property_assessments()
     kramer_work()
+    bosch_connection()
     weatherford_smith_generations()
     weatherford_deep_lineage()
     miller_raber_family()
