@@ -89,7 +89,7 @@ def main():
         ("5", "Hinterweidenthal", 7.75, 49.20, "Disqué mill, documented"),
         ("6", "Knittelsheim", 8.25, 49.20, "Johann Ludwig's mill, documented"),
         ("7", "Hofstätten", 7.90, 49.24, "1844 migrant's recorded birthplace"),
-        ("8", "Trippstadt", 7.82, 49.36, "Froelich chart lead"),
+        ("8", "Trippstadt", 7.82, 49.36, "Fröhlich birth; migration card"),
     ]
     for index, name, lon, lat, note in places:
         x, y = project(lon, lat, pf_bounds[:4], pf_box)
