@@ -1,0 +1,116 @@
+"""Regenerate the small evidence diagrams embedded in the family pages."""
+
+from pathlib import Path
+from xml.sax.saxutils import escape
+
+
+HERE = Path(__file__).resolve().parent
+
+
+def txt(x, y, value, *, size=20, fill="#163348", weight=400, extra=""):
+    return (f'<text x="{x}" y="{y}" font-family="Segoe UI, Arial, sans-serif" '
+            f'font-size="{size}" font-weight="{weight}" fill="{fill}" {extra}>{escape(value)}</text>')
+
+
+def save(name, body, width, height, title, description):
+    svg = (f'<svg xmlns="http://www.w3.org/2000/svg" width="{width}" height="{height}" '
+           f'viewBox="0 0 {width} {height}" role="img" aria-labelledby="title desc">'
+           f'<title id="title">{escape(title)}</title><desc id="desc">{escape(description)}</desc>'
+           + body + '</svg>')
+    (HERE / name).write_text(svg, encoding="utf-8")
+
+
+def lineage():
+    w, h = 1100, 805
+    b = [f'<rect width="{w}" height="{h}" fill="#f6f3eb"/>',
+         '<rect x="0" y="0" width="12" height="805" fill="#127f82"/>',
+         txt(54, 62, 'The Kramer names, one generation at a time', size=32, weight=700),
+         txt(54, 93, 'Solid = recorded or family-supplied link     Dashed = chart/proposed link', size=16, fill="#52616a")]
+    people = [
+        ("Matthew / Matthias Kramer", "charted 1840–1918 · mason, later ropemaker", "CHART / INDEX", "#547487"),
+        ("Ferdinand (c. 1882)", "older foreman · 146 Prospect · 1940 census", "CENSUS", "#127f82"),
+        ("Ferdinand Louis (1913)", "younger machine operator · 1950 census match", "STRONG MATCH", "#127f82"),
+        ("Fred / Ferdinand Francis (1939)", "Techneglas · Army Reserve · obituary", "OBITUARY", "#b46827"),
+        ("Paul Joseph Kramer", "Army Reserve · family account", "FAMILY", "#5c6ba0"),
+        ("Justin Paul Kramer", "son of Paul and Melissa Miller Kramer", "FAMILY", "#5c6ba0"),
+    ]
+    ys = [124 + i * 105 for i in range(len(people))]
+    for i, (name, detail, label, color) in enumerate(people):
+        y = ys[i]
+        if i:
+            prev = ys[i-1] + 73
+            dash = ' stroke-dasharray="7 7"' if i in (1, 2, 3) else ''
+            b.append(f'<line x1="102" y1="{prev}" x2="102" y2="{y}" stroke="{color}" stroke-width="3"{dash}/>')
+            b.append(f'<circle cx="102" cy="{y}" r="5" fill="{color}"/>')
+        b.extend([f'<rect x="54" y="{y}" width="990" height="73" rx="13" fill="#fff" stroke="#d8dedc"/>',
+                  f'<rect x="54" y="{y}" width="8" height="73" rx="4" fill="{color}"/>',
+                  txt(85, y+31, name, size=23, weight=700),
+                  txt(85, y+57, detail, size=16, fill="#52616a"),
+                  f'<rect x="850" y="{y+18}" width="165" height="35" rx="17" fill="{color}"/>',
+                  txt(932, y+42, label, size=13, fill="#fff", weight=700, extra='text-anchor="middle"')])
+    b += [txt(54, 774, 'Open: Matthew → 1882 Ferdinand; 1882 → 1913 Ferdinand; 1913 record → Fred’s father.', size=16, fill="#52616a")]
+    save('kramer-lineage.svg', ''.join(b), w, h,
+         'Kramer working lineage',
+         'Six people from Matthew Kramer to Justin Kramer. Two early parent-child links are proposed; three successive Ferdinand generations have distinct labels.')
+
+
+def property_assessments():
+    w, h = 1010, 535
+    years = [2000, 2005, 2008, 2016, 2026]
+    vals = [234650, 620700, 597560, 471700, 850640]
+    x0, x1, y0, y1 = 100, 940, 155, 405
+    x = lambda year: x0 + (year - 2000) / 26 * (x1-x0)
+    y = lambda value: y1 - value / 900000 * (y1-y0)
+    b = [f'<rect width="{w}" height="{h}" fill="#f6f3eb"/>',
+         '<rect x="0" y="0" width="12" height="535" fill="#b46827"/>',
+         txt(55, 62, 'One property, five county assessments', size=31, weight=700),
+         txt(55, 92, '6307 Colette Drive · nominal dollars · selected years', size=17, fill="#52616a")]
+    for value in (0, 300000, 600000, 900000):
+        yy = y(value)
+        b += [f'<line x1="{x0}" y1="{yy:.1f}" x2="{x1}" y2="{yy:.1f}" stroke="#d8dedc"/>',
+              txt(78, yy+5, '$0' if value == 0 else f'${value//1000}k', size=15, fill="#52616a", extra='text-anchor="end"')]
+    points = ' '.join(f'{x(yr):.1f},{y(v):.1f}' for yr,v in zip(years, vals))
+    b.append(f'<polyline points="{points}" fill="none" stroke="#b46827" stroke-width="5" stroke-linecap="round" stroke-linejoin="round"/>')
+    for yr, val in zip(years, vals):
+        xx, yy = x(yr), y(val)
+        b += [f'<circle cx="{xx:.1f}" cy="{yy:.1f}" r="8" fill="#fff" stroke="#b46827" stroke-width="4"/>',
+              txt(xx, yy-19 if yr != 2000 else yy-20, f'${val:,}', size=16, weight=700, extra='text-anchor="middle"'),
+              txt(xx, 433, str(yr), size=17, fill="#52616a", extra='text-anchor="middle"')]
+    b += ['<rect x="55" y="465" width="900" height="44" rx="9" fill="#e9e2d5"/>',
+          txt(72, 493, 'Assessments are estimates of this parcel; they are not equity, income, or family net worth.', size=17, fill="#344954")]
+    save('colette-assessments.svg', ''.join(b), w, h,
+         'Fairfax County assessments for 6307 Colette Drive',
+         'Line chart of nominal county assessments: 2000 $234,650; 2005 $620,700; 2008 $597,560; 2016 $471,700; 2026 $850,640. These are property estimates, not family wealth.')
+
+
+def kramer_work():
+    w, h = 1050, 615
+    b = [f'<rect width="{w}" height="{h}" fill="#f6f3eb"/>',
+         '<rect x="0" y="0" width="12" height="615" fill="#127f82"/>',
+         txt(52, 59, 'Work recorded along the Wilkes-Barre line', size=30, weight=700),
+         txt(52, 89, 'Different people and sources; this is a sequence of records, not one continuous job.', size=16, fill="#52616a")]
+    rows = [
+        ('1871–1900', 'Matthew / Matthias', 'mason → laborer → ropemaker', 'city directories; identity proposed'),
+        ('1889–1904', 'Same-address Kramers', 'silk beamer · book sewer · dressmaker · bottler', 'directories; kinship unproved'),
+        ('1940', 'Ferdinand (c. 1882)', 'wire-rope foreman · $1,996 wages in 1939', 'census; owned home estimated $2,400'),
+        ('1950', 'Ferdinand Louis (1913)', 'wire-rope machine operator', 'census match; no income on sheet'),
+        ('Later', 'Fred (1939) and Paul', 'Techneglas / Army Reserve; Army Reserve', 'Fred obituary / Paul family account'),
+    ]
+    for i,(period,name,work,note) in enumerate(rows):
+        y=115+i*92
+        b.extend([f'<rect x="52" y="{y}" width="946" height="78" rx="12" fill="#fff" stroke="#d8dedc"/>',
+                  f'<rect x="52" y="{y}" width="155" height="78" rx="12" fill="#127f82"/>',
+                  txt(129, y+45, period, size=17, fill="#fff", weight=700, extra='text-anchor="middle"'),
+                  txt(230, y+29, name, size=19, weight=700),
+                  txt(230, y+55, work, size=17),
+                  txt(976, y+27, note, size=13, fill="#52616a", extra='text-anchor="end"')])
+    b.append(txt(52, 599, 'Money figures are one 1940 census snapshot. They cannot establish a family wealth trend.', size=15, fill="#52616a"))
+    save('kramer-work.svg', ''.join(b), w, h,
+         'Recorded Kramer work in Wilkes-Barre',
+         'A dated sequence of occupations from city directories, censuses, obituary and family account. The only income figures are a 1939 wage and 1940 home estimate for the older Ferdinand.')
+
+
+if __name__ == '__main__':
+    lineage()
+    property_assessments()
+    kramer_work()

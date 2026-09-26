@@ -1,0 +1,7 @@
+# Family-history writing and visual standard
+
+- Keep pages concise. Put a simple, purposeful visualization near any long lineage, timeline, geographic account, or series of money figures. A reader should understand its point within seconds.
+- Use diagrams to show relationships and confidence, maps to show where people lived, timelines to show sequence, and charts to show comparable values over time. Give each visual a descriptive title, readable labels, alt text, and a short source/caveat caption. Make them attractive without decoration that obscures evidence.
+- Do not imply a relationship, visit, school experience, income, inheritance, or inflation-adjusted trend that the cited records do not establish. Label family accounts, proposed connections, and documented facts directly on the visual.
+- Disambiguate repeated names with stable names and years everywhere. In the Kramer line use **Ferdinand (c. 1882)**, **Ferdinand Louis (1913)**, and **Fred / Ferdinand Francis (1939)**; the birth years are chart/obituary identifiers, not official generational suffixes.
+- Keep editable SVG sources in `maps/`, check that they render legibly, and link the underlying source records in the accompanying Markdown.
