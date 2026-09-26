@@ -1,6 +1,6 @@
 # Places, schools, and events
 
-These are documented **settings**, not accounts of what a particular ancestor personally experienced.
+Place histories below are **settings**. Individual school claims are identified separately and tied to personal records.
 
 ## Siebeldingen, Rinnthal and the Palatinate
 
@@ -14,7 +14,7 @@ The [city directories](https://pagenweb.org/~luzerne/towns/donnacd.htm) place ca
 
 The [1889 directory](https://pagenweb.org/~luzerne/towns/donnacd.htm) lists Kate Kramer at 22 Susquehanna as a silk-mill beamer. [Pennsylvania Heritage](https://paheritage.wpengine.com/article/if-looms-could-speak-story-pennsylvanias-silk-industry/) explains how northeastern Pennsylvania silk mills employed women and girls in the coal region. The listing does not establish Kate's age, school history, wages, or which mill employed her.
 
-Hilda Kramer Wolosz is the one ancestor here with independently reported school attendance: [G.A.R. Memorial High School, class of 1940](https://www.legacy.com/us/obituaries/citizensvoice/name/hilda-wolosz-obituary?id=7822560). The shared chat also mentions Paul at Coughlin High School circa 1978–82; the [yearbook index](https://coughlinhighschool.org/yearbooks.html) shows a 1982 yearbook, but no entry for him was checked. The 1972 Agnes flood and post-flood rebuilding are shown in [Wilkes University's annotated photograph tour](https://www.wilkes.edu/academics/library/agnes-flood-walking-tour/main-street.aspx). The 1982 Wilkes-Barre-area shooting discussed in the shared chat occurred **after** a normal spring graduation and at other locations, so it should not be described as a Coughlin school incident; absent a personal link it adds little to a family biography.
+Hilda Kramer Wolosz's [obituary](https://www.legacy.com/us/obituaries/citizensvoice/name/hilda-wolosz-obituary?id=7822560) reports G.A.R. Memorial High School, class of 1940. Mary Andrews Kramer's sampled [1950 census answer](https://1950census.archives.gov/iiif/2/1950census%2F43290879-Pennsylvania%2F43290879-Pennsylvania-135713%2F43290879-Pennsylvania-135713-0005.jpg/full/full/0/default.jpg) records **seventh grade completed**; it does not name her school or explain why formal schooling stopped then. The shared chat also mentions Paul at Coughlin High School circa 1978–82; the [yearbook index](https://coughlinhighschool.org/yearbooks.html) shows a 1982 yearbook, but no entry for him was checked. The 1972 Agnes flood and post-flood rebuilding are shown in [Wilkes University's annotated photograph tour](https://www.wilkes.edu/academics/library/agnes-flood-walking-tour/main-street.aspx). The 1982 Wilkes-Barre-area shooting discussed in the shared chat occurred **after** a normal spring graduation and at other locations, so it should not be described as a Coughlin school incident; absent a personal link it adds little to a family biography.
 
 ## Alexandria, Virginia
 
