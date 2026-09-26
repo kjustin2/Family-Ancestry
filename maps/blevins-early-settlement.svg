@@ -1,6 +1,6 @@
 <svg xmlns="http://www.w3.org/2000/svg" width="1080" height="420" viewBox="0 0 1080 420" role="img" aria-labelledby="title desc">
   <title id="title">Early Blevins sightings across Maryland and Virginia</title>
-  <desc id="desc">Three separate horizontal lanes show the 1733 Maryland James, the 1737 Goochland landholder and 1740s Smith River hunter, and the 1772 Peach Bottom landholder. Question marks show that these sightings have not been linked as one person or to Ashley's confirmed line.</desc>
+  <desc id="desc">Three separate horizontal lanes show the 1733 Maryland James, a James selling Goochland land in 1743 to 1745 and the Smith River hunters, and the 1772 Peach Bottom landholder. Question marks show that these sightings have not been linked as one person or to Ashley's confirmed line.</desc>
   <rect width="1080" height="420" fill="#f6f3eb"/>
   <rect x="0" width="12" height="420" fill="#b46827"/>
   <text x="46" y="47" font-family="Segoe UI,Arial,sans-serif" font-size="27" font-weight="700" fill="#163348">Which James was on Virginia's frontier?</text>
@@ -16,8 +16,8 @@
     <text x="551" y="198" font-size="16" fill="#9b7955">?</text>
     <rect x="44" y="204" width="992" height="74" rx="12" fill="#fff" stroke="#d8dedc"/>
     <rect x="44" y="204" width="7" height="74" rx="3" fill="#b46827"/>
-    <text x="69" y="232" font-size="18" font-weight="700" fill="#163348">1737–1748 · Virginia Piedmont</text>
-    <text x="69" y="258" font-size="16" fill="#52616a">A James patented Goochland land; James and Daniel hunted along Smith River</text>
+    <text x="69" y="232" font-size="18" font-weight="700" fill="#163348">1743–1748 · Virginia Piedmont</text>
+    <text x="69" y="258" font-size="16" fill="#52616a">A James sold Goochland land; James and Daniel hunted along Smith River</text>
     <rect x="852" y="221" width="154" height="37" rx="18" fill="#f3e4d5"/>
     <text x="929" y="246" font-size="14" text-anchor="middle" fill="#81501f">may be different men</text>
     <path d="M541 279v20" stroke="#9b7955" stroke-width="3" stroke-dasharray="5 6"/>
