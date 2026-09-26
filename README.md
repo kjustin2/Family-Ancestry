@@ -8,10 +8,10 @@ An evidence-led map of Justin and Ashley's family history. **Research snapshot: 
 - [Kramer line](branches/kramer.md): Wilkes-Barre people and the unresolved surname origin.
 - [Disqué and Schaaf lines](branches/disque-schaaf.md): Palatinate mill families and a possible migration path.
 - [Bosch, Greener, Froelich, and Andrews leads](branches/other-paternal-lines.md).
-- [Weatherford and Smith lines](branches/weatherford-smith.md): Ashley's Alexandria family.
+- [Weatherford and Smith neighborhood](branches/weatherford-smith.md), [Weatherford line](branches/weatherford.md), and [Smith line](branches/smith.md): Ashley's Fairfax family, Danville roots, sibling leads, transit work, and three documented parcels.
 - [Justin's maternal side](branches/maternal-kramer-side.md): awaiting a starting person or record.
 - [Places, education, and events](context/places-and-schools.md).
-- [Generated map](maps/ancestral-places.svg) and [picture guide](media/README.md).
+- [Regional family map](maps/ancestral-places.svg), [Colette Drive neighborhood map](maps/colette-neighborhood.svg), and [picture guide](media/README.md).
 - [Source ledger](research/sources.md), [chart transcription](research/chart-transcription.md), and [open questions](research/open-questions.md).
 
 ![Generated map of recorded and proposed family places](maps/ancestral-places-preview.png)
@@ -22,10 +22,10 @@ The supplied chart proposes a Kramer line through three successive Ferdinands to
 
 The chart's long German branch belongs to **Magdalena Disque**, who married into the Kramer family. A specialist Palatinate mill history independently documents Sebastian Disqué, Anna Barbara Schaaf, and their mill operations. The later chain from the 1700s to Magdalena remains a research target; published accounts and the chart disagree on some dates and spouses.
 
-The Weatherford–Smith branch currently begins with information supplied directly by the family. Common names and a city alone cannot identify earlier generations reliably.
+The Weatherford–Smith branch now has three mapped family homes in one Fairfax County neighborhood. The family identifies **Garnett and Florence Weatherford** as John's parents, **Gladys (“Gladus” in the family account) Smith** as Alice's mother, and siblings on both sides. County parcel histories independently connect those names with **6312 and 6330 Miller Drive** and John and Alice with **6307 Colette Drive**. A 1954 marriage index and 2007 obituaries trace Garnett's line back toward **Danville** and document his Navy service and long bus-driving career. The neighborhood is in **Franconia, Fairfax County**, despite its Alexandria postal city. Alice's father remains unnamed.
 
 ## Evidence rules
 
 **Recorded** means a cited record directly states the fact. **Family-supplied** means the chart or Justin/Ashley gave it. **Proposed** means records fit but identity or relationship still needs proof. **Context** describes a place or era and is never presented as something a named ancestor personally experienced. Dates and spellings are preserved as each source gives them; conflicts stay visible.
 
-The repository is currently private. Avoid adding living people's addresses, contact information, precise birth dates, finances, or unverified claims. No individual wealth figure, school experience, motive for migration, or lost inheritance is established in this pass.
+The repository is currently private. Justin has authorized recording family-provided living-person details and proposed connections here. Keep them labeled by source and confidence; a family account is valuable evidence but should not be silently upgraded to a verified public record. Publish or share a copy only after checking living-person details. Property prices and assessments are recorded where a county source supports them, with their limits stated. No individual net worth, motive for migration, or lost inheritance is established in this pass.
