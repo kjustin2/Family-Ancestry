@@ -17,6 +17,8 @@ Source: [Kramer family tree.doc](../sources/family/Kramer%20family%20tree.doc), 
 | Johann Ludwig Disque; Magdalena Froelich | Johann born 7 Jul 1796 in Knittelsheim/Pfalz, died 2 Jan 1853 in Wilgartswiesen; Magdalena born 14 Nov 1808 in Trippstadt/Pfalz. Proposed parents of Magdalena Disque. |
 | Philippe Froelich; Eleonora Kreb | Born about 1777 and 1781; proposed parents of Magdalena Froelich. |
 
+**Cross-check:** The [Institute for Palatinate History's Magdalena Fröhlich card](https://migration.pfalzgeschichte.de/person/98001) instead names **Casimir Fröhlich and Katharina Rauschel** as her parents. Its [Johann Ludwig Disque card](https://migration.pfalzgeschichte.de/person/98000) also differs from the chart by a month on his 1796 birth and by 20 days on his 1853 death. The card set omits the chart's Magdalena Disque from its children. These are unresolved conflicts, not transcription corrections to the supplied chart.
+
 ## Page 2 — proposed Disque descent
 
 Sebastian Johann Disque: born 12 Nov 1696 in Siebeldingen; married 22 Nov 1718; died 6 Jul 1759 in Rinnthal. Anna Barbara Schaaf: born 9 Apr 1700 at Geiselberger Mühle. They are presented as parents of Johann Ludwig Disque (born 18 Nov 1745 in Rinnthal; died 15 Jan 1814 in Knittelsheim). The screenshot also shows Johann Conrad Disque (born 31 Jul 1771 in Knittelsheim; married 1 Dec 1792; died 2 Mar 1839 in Hofstätten), Maria Barbara Klein, and Agnes Schott (born 12 Jan 1776; died 26 Oct 1810). The relationship lines/spouse placement should be confirmed in the original tree file or church records; several entries conflict with the [specialist miller-family history](https://www.eberhard-ref.net/pf%C3%A4lzisches-m%C3%BChlenlexikon/pf%C3%A4lzische-m%C3%BCllerfamilien/litera-d/).
