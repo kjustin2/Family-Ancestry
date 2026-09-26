@@ -1,0 +1,35 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 980 570" role="img" aria-labelledby="title desc">
+  <title id="title">Monty's pedigree with documented parents and proposed paternal grandparents</title>
+  <desc id="desc">Monty, born 17 April 2025, has two documented parents: Triple H Bechanci Knight To Remember and Triple H Shadow Dancer. A volunteer pedigree proposes Calloway Memories Of Cinonnie and Bechanci's Stormi Knight as his paternal grandparents. Maternal grandparents remain unknown.</desc>
+  <rect width="980" height="570" rx="22" fill="#f7f5ef"/>
+  <text x="38" y="48" font-family="Arial,sans-serif" font-size="29" font-weight="700" fill="#263c48">Monty’s known family</text>
+  <text x="38" y="75" font-family="Arial,sans-serif" font-size="15" fill="#536974">Solid: AKC certificate · Dashed: volunteer pedigree lead</text>
+  <path d="M490 177 V203 H266 V226 M490 203 H714 V226" fill="none" stroke="#2f7180" stroke-width="4"/>
+  <path d="M266 336 V363 H145 V386 M266 363 H386 V386" fill="none" stroke="#ab794c" stroke-width="3" stroke-dasharray="8 6"/>
+  <path d="M714 336 V363 H594 V386 M714 363 H835 V386" fill="none" stroke="#c5c9ca" stroke-width="3" stroke-dasharray="8 6"/>
+  <rect x="290" y="102" width="400" height="75" rx="14" fill="#264d59"/>
+  <text x="490" y="132" text-anchor="middle" font-family="Arial,sans-serif" font-size="24" font-weight="700" fill="#fff">MONTY</text>
+  <text x="490" y="156" text-anchor="middle" font-family="Arial,sans-serif" font-size="15" fill="#e6f0ec">Triple H Knight Shadow From Cedar Springs · 2025</text>
+  <rect x="46" y="226" width="440" height="110" rx="14" fill="#dcebea" stroke="#2f7180" stroke-width="2"/>
+  <text x="266" y="251" text-anchor="middle" font-family="Arial,sans-serif" font-size="15" font-weight="700" fill="#356174">FATHER · CERTIFICATE</text>
+  <text x="266" y="280" text-anchor="middle" font-family="Arial,sans-serif" font-size="19" font-weight="700" fill="#263c48">Triple H Bechanci</text>
+  <text x="266" y="306" text-anchor="middle" font-family="Arial,sans-serif" font-size="19" font-weight="700" fill="#263c48">Knight To Remember</text>
+  <rect x="494" y="226" width="440" height="110" rx="14" fill="#dcebea" stroke="#2f7180" stroke-width="2"/>
+  <text x="714" y="251" text-anchor="middle" font-family="Arial,sans-serif" font-size="15" font-weight="700" fill="#356174">MOTHER · CERTIFICATE</text>
+  <text x="714" y="291" text-anchor="middle" font-family="Arial,sans-serif" font-size="20" font-weight="700" fill="#263c48">Triple H Shadow Dancer RN</text>
+  <rect x="36" y="386" width="219" height="85" rx="12" fill="#fff8eb" stroke="#ab794c" stroke-width="2" stroke-dasharray="7 5"/>
+  <text x="145" y="413" text-anchor="middle" font-family="Arial,sans-serif" font-size="13" font-weight="700" fill="#94643e">PROPOSED GRANDFATHER</text>
+  <text x="145" y="440" text-anchor="middle" font-family="Arial,sans-serif" font-size="15" fill="#263c48">Calloway Memories</text>
+  <text x="145" y="459" text-anchor="middle" font-family="Arial,sans-serif" font-size="15" fill="#263c48">Of Cinonnie</text>
+  <rect x="275" y="386" width="222" height="85" rx="12" fill="#fff8eb" stroke="#ab794c" stroke-width="2" stroke-dasharray="7 5"/>
+  <text x="386" y="413" text-anchor="middle" font-family="Arial,sans-serif" font-size="13" font-weight="700" fill="#94643e">PROPOSED GRANDMOTHER</text>
+  <text x="386" y="448" text-anchor="middle" font-family="Arial,sans-serif" font-size="16" fill="#263c48">Bechanci’s Stormi Knight</text>
+  <rect x="516" y="386" width="156" height="85" rx="12" fill="#fff" stroke="#c5c9ca" stroke-width="2" stroke-dasharray="7 5"/>
+  <text x="594" y="414" text-anchor="middle" font-family="Arial,sans-serif" font-size="13" fill="#536974">MATERNAL</text>
+  <text x="594" y="440" text-anchor="middle" font-family="Arial,sans-serif" font-size="17" fill="#536974">Unknown</text>
+  <rect x="692" y="386" width="252" height="85" rx="12" fill="#fff" stroke="#c5c9ca" stroke-width="2" stroke-dasharray="7 5"/>
+  <text x="818" y="414" text-anchor="middle" font-family="Arial,sans-serif" font-size="13" fill="#536974">MATERNAL</text>
+  <text x="818" y="440" text-anchor="middle" font-family="Arial,sans-serif" font-size="17" fill="#536974">Unknown</text>
+  <text x="38" y="522" font-family="Arial,sans-serif" font-size="14" fill="#536974">Next source: AKC pedigree for DN82035901 to fill the maternal side and check older links.</text>
+  <text x="38" y="544" font-family="Arial,sans-serif" font-size="12" fill="#536974">Evidence: family-provided AKC registration; proposed grandparents: Pedigree Database sire entry.</text>
+</svg>

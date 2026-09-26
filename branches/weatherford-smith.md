@@ -2,6 +2,8 @@
 
 Start with the [generation-by-generation family guide](weatherford-smith-generations.md) for birth/death status and sibling groups. For work histories, see the separate [Weatherford line](weatherford.md) and [Smith line](smith.md). This page compares their shared neighborhood and property records.
 
+[What Franconia was like while John and Alice grew up](../context/franconia-growing-up.md) summarizes the changing schools, roads, local racing and crime evidence behind their recollections.
+
 ## The family so far
 
 - **Ashley Marie Weatherford** is Justin's wife. Her parents are **John Weatherford** and **Alice Smith Weatherford**. [Family-supplied]

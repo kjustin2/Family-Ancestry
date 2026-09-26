@@ -1,0 +1,32 @@
+# Monty: a Pembroke Welsh Corgi family tree
+
+The family calls him **Monty**. His [photographed AKC registration certificate](../sources/pets/monty-akc-certificate.jpg) names him **Triple H Knight Shadow From Cedar Springs**, registration **DN82035901**: a male **Pembroke Welsh Corgi**, sable with white markings, born **17 April 2025**. It names **Mrs. Kristen Strecker** as breeder and **Deborah G. Cox** as the owner shown on that certificate. It does not give Monty's date of arrival in Justin's home or demonstrate a later AKC ownership transfer. “Cedar Springs” is part of his registered name; no birthplace is stated.
+
+The [Pembroke Welsh Corgi Club of the Potomac](https://www.pwccp.org/Breeders/Breeders.htm) lists Deborah Cox with the **Triple H** kennel in Virginia. That helps explain the repeated kennel prefix, but does not establish that Monty was born there: his own certificate names a different breeder.
+
+![Monty's documented parents and proposed paternal grandparents](../maps/monty-pedigree.svg)
+
+*Solid branches come from Monty's certificate. Dashed grandparent branches come from a [user-maintained pedigree for his sire](https://www.pedigreedatabase.com/pembroke_welsh_corgi/dog.html?id=2834850-triple-h-bechanci-knight-to-remember); they await Monty's AKC pedigree or another original stud-book record. Maternal grandparents remain unknown.*
+
+## Timeline
+
+| When | What the records show |
+| --- | --- |
+| **28 July 2017** | His sire, **Triple H Bechanci Knight To Remember**, was born, according to the [Canadian Kennel Club's 2022 stud book](https://members.ckc.ca/docs/default-source/studbooks/2022-stud-book/english/herding/en-2022-studbook-report---welsh-corgi-%28pembroke%29.pdf), p. 126. The same stud book gives his Canadian registration and red-and-white color. |
+| **January 2019** | A [contemporary show report](https://caninechronicle.com/show-wins-gallery/2019100601-corpus-christi-kennel-club-inc/) lists Monty's sire as an **AKC Champion** and names him the National Owner-Handled Series winner at a Corpus Christi Kennel Club event. This is the father's achievement, not Monty's. |
+| **August 2019** | A [breeder's litter history](https://www.coppercrestkennels.com/previous-litters.html) calls the sire **“Tony”** and reports three male puppies he sired with a different dam. Those dogs would be paternal half-siblings of Monty if the recorded identities are correct; they are **not** Monty's 2025 littermates. |
+| **December 2021** | The [Canadian stud book](https://members.ckc.ca/docs/default-source/studbooks/2022-stud-book/english/herding/en-2022-studbook-report---welsh-corgi-%28pembroke%29.pdf), pp. 126–127, records another litter sired by him in Quebec, with a different dam. It names **Cadwyn Rhythm of the Knight**, among others. This extends Tony's documented breeding history, not Monty's birthplace. |
+| **17 April 2025** | Monty was born. The certificate supplies his date, registered name, breed, color and both parents. The litter size and his littermates are absent. |
+| **By the certificate's issue date, unknown** | Monty's sire is styled **GCHB CH** and his dam **RN** on the document. The certificate itself does not date either title. The [breed club's current Register of Merit list](https://pwcca.org/ROM-List) also names the sire, but does not give its award year. |
+
+## Who his parents are
+
+**Father: GCHB CH Triple H Bechanci Knight To Remember**, AKC **DN51084302**. The [AKC title guide](https://www.akc.org/sports/titles-and-abbreviations/) explains **CH** as conformation Champion and **GCHB** as Grand Champion Bronze. The [Pembroke Welsh Corgi Club of America](https://pwcca.org/ROM-List) lists him as **ROM**, its Register of Merit; for a male, [that award requires 10 champion offspring](https://pwcca.org/ROM/ROMX). The certificate gives his AKC DNA profile **V892158**, hip shorthand **OFA25G**, and **CHIC 143670**. [OFA explains](https://ofa.org/chic-programs/) that a CHIC number means the breed's required screening results were published; it is **not** a blanket statement that every result was normal or that Monty has the same results. A third-party [Corgi Wiki pedigree](https://www.corgi.wiki/details/171320) expands the sire's hip entry to **WCP-10950G25M-VPI (Good)**, consistent with the certificate shorthand, but the original OFA profile should be checked for a complete health report.
+
+**Mother: Triple H Shadow Dancer RN**, AKC **DN67273401**. The [AKC title guide](https://www.akc.org/sports/titles-and-abbreviations/) defines **RN** as Rally Novice, earned with qualifying scores in three trials. Her name, number and title come from Monty's certificate. Searches of public AKC, breed-club, show-catalog and pedigree indexes in September 2026 did **not** produce a reliable record naming her parents, birth date, health screens or other offspring. The **07/24** printed beside her number may be a stud-book notation; it is **not** her birth date.
+
+## Older branches and close relatives
+
+A [volunteer pedigree database entry](https://www.pedigreedatabase.com/pembroke_welsh_corgi/dog.html?id=2834850-triple-h-bechanci-knight-to-remember) proposes Tony's parents as **CH Calloway Memories Of Cinonnie** and **Bechanci's Stormi Knight**. It continues back through Triple H Moonwalker / Calloway Summer Dust on his father's side, and Summertime Enchanted Knight / Lin-Kel Nanteos Eirian on his mother's. The breed club independently lists [Calloway Memories Of Cinonnie as a Register of Merit dog](https://pwcca.org/ROM-List); the **parent-child links** still rely on the volunteer tree. Those dogs are **possible paternal ancestors of Monty**, never a substitute for his own official pedigree. A similar-sounding “Shadow” or “Knight” dog should not be inserted on his mother's side by name alone.
+
+**Best next source:** an [AKC four-generation research pedigree](https://www.akc.org/register/pedigree/online-pedigree/) keyed to **DN82035901** would supply Monty's maternal grandparents and permit each older link to be checked against the AKC Stud Book. The AKC lists that report as a paid product; no purchase has been made. A breeder-provided litter pedigree, puppy contract, or full pedigree already in the family papers may answer the same questions. His certificate's owner line calls for any transfer paperwork if the goal is also to document AKC ownership history. [Detailed dog-source notes](../research/monty-sources.md).

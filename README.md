@@ -10,15 +10,17 @@ An evidence-led map of Justin and Ashley's family history. **Research snapshot: 
 - [Bosch, Greener, Froelich, and Andrews leads](branches/other-paternal-lines.md).
 - [Weatherford and Smith neighborhood](branches/weatherford-smith.md), [Weatherford line](branches/weatherford.md), and [Smith line](branches/smith.md): Ashley's Fairfax family, Danville roots, sibling leads, transit work, and three documented parcels.
 - [Weatherford–Smith generations](branches/weatherford-smith-generations.md): birth/death status and the full named sibling groups, with a [family-layer diagram](maps/weatherford-smith-generations.svg).
+- [Monty's corgi family](branches/monty.md): his AKC certificate, birth and sire timeline, known parents and proposed older paternal line, with an [evidence-marked pedigree](maps/monty-pedigree.svg).
 - [Deep Blevins research](branches/blevins-deep-lineage.md): the colonial member-tree trail, Shubiel's Civil War lead, original records, and [evidence ladder](maps/blevins-deep-lineage.svg).
 - [Justin's maternal Berwick side](branches/maternal-kramer-side.md): the [Miller–Gower–Reese household](branches/miller-gower-reese.md), [Raber–Kreisher–Fairchild line](branches/raber-kreisher-fairchild.md), and [two-branch diagram](maps/miller-raber-family.svg).
 - [Ashley's immigration question](branches/ashley-immigration.md): what the present records establish and the exact links still needed to date an arrival.
 - [Places, education, and events](context/places-and-schools.md).
+- [Growing up around Franconia](context/franconia-growing-up.md): schools, suburban growth, racing and crime in the years Ashley's parents remember, with a [population chart](maps/fairfax-growth-1950-1985.svg).
 - [The families in their times](context/family-in-its-times.md): local events and carefully bounded migration explanations.
-- [Civil War across the family lines](context/civil-war-family-lines.md): Gad Marshall Miller's service lead, the 171st Pennsylvania candidate, Shubiel Blevins, and why a direct encounter is unproved.
+- [Civil War across the family lines](context/civil-war-family-lines.md): the 1890 veterans schedule strongly links Gad Marshall Miller to the Union 171st Pennsylvania; Shubiel Blevins's Confederate lead and any direct encounter remain unproved.
 - [Regional family map](maps/ancestral-places.svg), [Colette Drive neighborhood map](maps/colette-neighborhood.svg), and [picture guide](media/README.md), now with a WWII Navy scene and actual-relative photo leads.
 - [Kramer family-line diagram](maps/kramer-lineage.svg), [Kramer work timeline](maps/kramer-work.svg), and [Colette property assessment chart](maps/colette-assessments.svg).
-- [Source ledger](research/sources.md), [chart transcription](research/chart-transcription.md), and [open questions](research/open-questions.md).
+- [Source ledger](research/sources.md), [Monty source ledger](research/monty-sources.md), [chart transcription](research/chart-transcription.md), and [open questions](research/open-questions.md).
 
 ![Generated map of recorded and proposed family places](maps/ancestral-places-preview.png)
 

@@ -1,0 +1,18 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 760 340" role="img" aria-labelledby="title desc">
+  <title id="title">Fairfax County population, 1950 to 1985</title>
+  <desc id="desc">Bars show 98,557 residents in 1950, 248,897 in 1960, 454,275 in 1970, 596,901 in 1980, and an estimated 668,300 in 1985. Countywide totals, not the Franconia neighborhood.</desc>
+  <rect width="760" height="340" rx="20" fill="#f7f5ef"/>
+  <text x="34" y="42" font-family="Arial,sans-serif" font-size="23" font-weight="700" fill="#203748">A county transforming around Franconia</text>
+  <text x="34" y="68" font-family="Arial,sans-serif" font-size="14" fill="#526573">Fairfax County residents · 1950–1985</text>
+  <line x1="145" y1="89" x2="145" y2="277" stroke="#aab7bd"/>
+  <line x1="145" y1="277" x2="690" y2="277" stroke="#aab7bd"/>
+  <g font-family="Arial,sans-serif" font-size="15" fill="#203748">
+    <text x="76" y="115">1950</text><text x="76" y="153">1960</text><text x="76" y="191">1970</text><text x="76" y="229">1980</text><text x="69" y="267">1985*</text>
+  </g>
+  <g fill="#287c8e"><rect x="146" y="94" width="77" height="23" rx="4"/><rect x="146" y="132" width="194" height="23" rx="4"/><rect x="146" y="170" width="354" height="23" rx="4"/><rect x="146" y="208" width="465" height="23" rx="4"/></g>
+  <rect x="146" y="246" width="521" height="23" rx="4" fill="#b06a38"/>
+  <g font-family="Arial,sans-serif" font-size="14" font-weight="700" fill="#203748">
+    <text x="233" y="111">98,557</text><text x="350" y="149">248,897</text><text x="510" y="187">454,275</text><text x="621" y="225">596,901</text><text x="673" y="263">668,300</text>
+  </g>
+  <text x="34" y="315" font-family="Arial,sans-serif" font-size="12" fill="#526573">*1985 estimate · Source: Fairfax County Profile (1986), p. II-1 · countywide, not Franconia alone</text>
+</svg>

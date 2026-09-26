@@ -42,4 +42,6 @@ The [neighborhood map](../maps/colette-neighborhood.svg) shows current Fairfax C
 
 For Garnett Weatherford Sr.'s bus-driving years, the City of Alexandria's [AB&W history shows a company bus in the 1960s](https://media.alexandriava.gov/docs-archives/historic/info/attic/2010/attic20101021bus.pdf). His [obituary](https://www.washingtonpost.com/archive/local/2007/07/03/obituaries/43ba782a-181c-4c59-a78e-7d361d86bf4a/) names AB&W and Metro as employers. The image is illustrative company equipment, not proof that it was his assigned vehicle.
 
+For John and Alice's school-era surroundings, [FCPS's Hayfield Elementary history](https://hayfieldes.fcps.edu/about/history) includes period photographs of the school and 1970s construction. They illustrate how the area grew, but neither parent is identified in the photographs or known to have attended that elementary school. See the [Franconia period account](../context/franconia-growing-up.md).
+
 The three place JPGs are reduced-size versions supplied by Wikimedia Commons. No additional cropping or color changes were made. The Navy JPG is the 740 × 610 online image supplied by the Navy's selected-image archive mirror.
