@@ -2,6 +2,8 @@
 
 This compares **documented work and assets**, not measured net worth. The German mill branch is one ancestral line among many; its property cannot be treated as wealth inherited by every later descendant.
 
+For major events happening around each family, see [the families in their times](context/family-in-its-times.md).
+
 | Period | People and place | Evidence about circumstances | Unknown |
 | --- | --- | --- | --- |
 | 1684–1718 | Bernhard and Sebastian Disqué, Siebeldingen/Rinnthal | A specialist [history](https://www.eberhard-ref.net/pf%C3%A4lzisches-m%C3%BChlenlexikon/pf%C3%A4lzische-m%C3%BCllerfamilien/litera-d/) quotes Bernhard's offer to rebuild a ruined mill in 1684; Sebastian is later described as a master miller. | Income and school attendance. |

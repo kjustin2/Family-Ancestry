@@ -1,6 +1,20 @@
 # Picture guide
 
-These are **place illustrations**, not portraits, property deeds, or evidence that an ancestor visited the exact camera location. Local reduced-size copies are included for a durable view; each original and license is linked.
+These are **place and period illustrations**, not portraits, property deeds, or evidence that an ancestor visited the exact camera location. Local copies are included for a durable view; each original and credit is linked.
+
+## A Navy scene from Garnett Sr.'s era
+
+![1945 USS Wileman sailors celebrating Japan's acceptance of surrender terms; no sailor is identified as Garnett Weatherford](wwii-pacific-navy-vj-day.jpg)
+
+An [official U.S. Navy photograph, 80-G-343608](https://www.ibiblio.org/hyperwar/OnlineLibrary/photos/images/g340000/g343608c.htm), shows **USS Wileman** crew members hearing of Japan's acceptance of surrender terms around **15 August 1945**, photographed by Naval Air Station Ebeye, Kwajalein. Garnett's [obituary](https://www.washingtonpost.com/archive/local/2007/07/03/obituaries/43ba782a-181c-4c59-a78e-7d361d86bf4a/) establishes only that he served in the **Navy in the Pacific during WWII**. **No one in this picture is identified as Garnett, and there is no evidence he served aboard USS Wileman.** The image illustrates his service era, not his ship or experience. Credit: Department of the Navy / National Archives, 80-G-343608; official U.S. Navy photograph.
+
+### Leads for photographs of relatives
+
+- **Garnett Sr.:** No publicly indexed, identified service portrait turned up in this pass. The [Naval History and Heritage Command photo guide](https://www.history.navy.mil/our-collections/photography.html) says its main collection generally lacks individual enlisted-sailor and boot-camp portraits; it points to the **National Museum of the American Sailor**, Navy cruise books, and National Archives military personnel photographs. His service file or a family discharge paper naming a ship, unit, or training company would make those searches specific.
+- **Garnett Jr., possible yearbook lead:** [Hayfield Secondary School's 1972 yearbook, page 258](https://www.e-yearbook.com/yearbooks/Hayfield_Secondary_School_Harvester_Yearbook/1972/Page_258.html) indexes a “Garnett Weatherford.” The name alone does **not** prove it is John's brother; the site also restricts image copying, so no page is reproduced here.
+- **Hilda Kramer Wolosz:** Her [obituary](https://www.legacy.com/us/obituaries/citizensvoice/name/hilda-wolosz-obituary?id=7822560) says she graduated **G.A.R. Memorial High School in 1940**. The [1940 Garchive yearbook](https://www.e-yearbook.com/yearbooks/G_A_R_Memorial_High_School_Garchive_Yearbook/1940/Page_5.html) is a place to check for her portrait, but no page or image has yet been confirmed as hers. The yearbook site's reproduction rules apply.
+
+If family albums supply a named original photograph, add its date, photographer or owner when known, and the identifying evidence beside it.
 
 ## Wilkes-Barre, Pennsylvania
 
@@ -26,4 +40,4 @@ The [neighborhood map](../maps/colette-neighborhood.svg) shows current Fairfax C
 
 For Garnett Weatherford Sr.'s bus-driving years, the City of Alexandria's [AB&W history shows a company bus in the 1960s](https://media.alexandriava.gov/docs-archives/historic/info/attic/2010/attic20101021bus.pdf). His [obituary](https://www.washingtonpost.com/archive/local/2007/07/03/obituaries/43ba782a-181c-4c59-a78e-7d361d86bf4a/) names AB&W and Metro as employers. The image is illustrative company equipment, not proof that it was his assigned vehicle.
 
-The three JPGs are reduced-size versions supplied by Wikimedia Commons. No additional cropping or color changes were made.
+The three place JPGs are reduced-size versions supplied by Wikimedia Commons. No additional cropping or color changes were made. The Navy JPG is the 740 × 610 online image supplied by the Navy's selected-image archive mirror.

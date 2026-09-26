@@ -12,7 +12,8 @@ An evidence-led map of Justin and Ashley's family history. **Research snapshot: 
 - [Weatherford–Smith generations](branches/weatherford-smith-generations.md): birth/death status and the full named sibling groups, with a [family-layer diagram](maps/weatherford-smith-generations.svg).
 - [Justin's maternal Miller side](branches/maternal-kramer-side.md): Melissa Miller Kramer and the next records needed.
 - [Places, education, and events](context/places-and-schools.md).
-- [Regional family map](maps/ancestral-places.svg), [Colette Drive neighborhood map](maps/colette-neighborhood.svg), and [picture guide](media/README.md).
+- [The families in their times](context/family-in-its-times.md): local events and carefully bounded migration explanations.
+- [Regional family map](maps/ancestral-places.svg), [Colette Drive neighborhood map](maps/colette-neighborhood.svg), and [picture guide](media/README.md), now with a WWII Navy scene and actual-relative photo leads.
 - [Kramer family-line diagram](maps/kramer-lineage.svg), [Kramer work timeline](maps/kramer-work.svg), and [Colette property assessment chart](maps/colette-assessments.svg).
 - [Source ledger](research/sources.md), [chart transcription](research/chart-transcription.md), and [open questions](research/open-questions.md).
 

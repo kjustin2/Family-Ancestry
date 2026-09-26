@@ -25,3 +25,5 @@ The [family chart](../research/chart-transcription.md) names Magdalena Disque (b
 - The specialist history calls the Disqués a Huguenot miller family, but their exact route from France and any proposed medieval noble ancestry need original records. No noble connection is claimed here. [Knittelsheim history](https://www.eberhard-ref.net/pf%C3%A4lzisches-m%C3%BChlenlexikon/pf%C3%A4lzische-m%C3%BChlen-u-m%C3%BChlorte/kleinottweiler-kusel/).
 
 For a modern view of the area, see the [Geiselberger mill locality](https://www.pfalz.de/de/kulinarik-in-waldfischbach-burgalben) and the [photographed former Knittelsheim mill](https://commons.wikimedia.org/wiki/File:2026-09-02_Knittelsheimer_M%C3%BChle_(Z5-10899E)_by_Achim_Lammerts.jpg). Modern buildings do not prove what a specific 18th-century ancestor saw.
+
+For the [1864 migration wave and the limits of a family-specific explanation](../context/family-in-its-times.md#the-migration-questions), see the family-in-its-times page.

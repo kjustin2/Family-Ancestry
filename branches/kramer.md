@@ -48,3 +48,5 @@ The 1972 Agnes flood reshaped Wilkes-Barre's commercial Main Street; [Wilkes Uni
 **“Nine Ferdinands”:** the three charted direct-line people are Ferdinand (c. 1882), Ferdinand Louis (1913), and Fred / Ferdinand Francis (1939). The proposed direct line then reaches Matthew and Bernhard. The larger count could refer to collateral relatives; it is not established as a father-to-son sequence.
 
 **“The Kramer surname came from Germany”:** Bernhard's birthplace, immigration, and even the chart's parentage link are unverified. The documented early German millers are on Magdalena's **Disqué branch**, not evidence of the paternal Kramer surname's origin.
+
+The [family-in-its-times comparison](../context/family-in-its-times.md#the-migration-questions) sets out the different evidence for a Disque departure and a possible Kramer one.
