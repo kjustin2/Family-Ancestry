@@ -142,7 +142,7 @@ def weatherford_smith_generations():
     b = [f'<rect width="{w}" height="{h}" fill="#f6f3eb"/>',
          '<rect x="0" y="0" width="12" height="660" fill="#127f82"/>',
          txt(54, 62, 'Four layers of the Weatherford–Smith family', size=31, weight=700),
-         txt(54, 92, 'Marriage returns name Alice’s parents; their own parents and dates remain open.', size=16, fill="#52616a")]
+         txt(54, 92, 'Census and marriage records now identify Gladys’s parents; James’s earlier link remains open.', size=16, fill="#52616a")]
 
     def card(x, y, width, color, layer, name, detail):
         b.extend([f'<rect x="{x}" y="{y}" width="{width}" height="88" rx="13" fill="#fff" stroke="#d8dedc"/>',
@@ -152,19 +152,48 @@ def weatherford_smith_generations():
                   txt(x+23, y+75, detail, size=15, fill="#52616a")])
 
     card(54, 125, 464, '#127f82', 'GREAT-GRANDPARENTS', 'Doctor Duffy + Annie Neathery', '1930 household and original death records')
-    card(562, 125, 464, '#b46827', 'EARLIER SMITH / BLEVINS', 'Four grandparents unknown', 'James’s and Gladys’s parents need records')
+    card(562, 125, 464, '#b46827', 'GLADYS’S PARENTS', 'W. Howard Blevins + Mary Hines', '1931 marriage · 1940 census household')
     card(54, 255, 464, '#127f82', 'GRANDPARENTS', 'Garnett Sr. + Florence', 'Garnett Sr. is D.D. and Annie’s son')
-    card(562, 255, 464, '#b46827', 'GRANDPARENTS', 'James A. Smith + Gladys Blevins', '1986 return names both; Jane and Buck linked')
-    card(218, 385, 644, '#5c6ba0', 'PARENTS', 'John Gordon Weatherford Sr. + Alice Smith', 'John: three named siblings · Alice: four reported siblings')
+    card(562, 255, 464, '#b46827', 'GRANDPARENTS', 'James A. Smith + Gladys Blevins', '2008 memorial names all five children')
+    card(218, 385, 644, '#5c6ba0', 'PARENTS', 'John Gordon Weatherford Sr. + Alice Smith', 'John: three named siblings · Alice: four memorial-named siblings')
     card(218, 515, 644, '#5c6ba0', 'CHILDREN', 'Ashley · John Jr. · Tancy Weatherford', 'Family-supplied sibling group; dates not established')
     b.append('<line x1="285" y1="213" x2="285" y2="255" stroke="#85979b" stroke-width="3"/>')
-    b.append('<line x1="794" y1="213" x2="794" y2="255" stroke="#85979b" stroke-width="3" stroke-dasharray="7 7"/>')
+    b.append('<line x1="905" y1="213" x2="905" y2="255" stroke="#85979b" stroke-width="3"/>')
     b.extend(['<path d="M286 343 L286 367 L540 367 L540 385 M794 343 L794 367 L540 367" fill="none" stroke="#85979b" stroke-width="3"/>',
               '<line x1="540" y1="473" x2="540" y2="515" stroke="#85979b" stroke-width="3"/>',
-              txt(54, 634, 'Solid: recorded or family links. Dashed: earlier Smith and Blevins parents unknown.', size=15, fill="#52616a")])
+              txt(54, 634, 'Gladys’s parent link is recorded; James’s parents and Florence’s parents remain unproved.', size=15, fill="#52616a")])
     save('weatherford-smith-generations.svg', ''.join(b), w, h,
          'Weatherford and Smith family generations',
-         'Four layers from D.D. and Annie Weatherford and unknown earlier Smith and Blevins relatives to Garnett and Florence, James and Gladys, John and Alice, then Ashley, John Jr. and Tancy. The dashed earlier Smith and Blevins connection has not been identified.')
+         'Four layers from D.D. and Annie Weatherford and the documented parents of Gladys Blevins to Garnett and Florence, James and Gladys, John and Alice, then Ashley, John Jr. and Tancy. James Smith’s parents remain unconfirmed.')
+
+
+def smith_blevins_lineage():
+    w, h = 1080, 660
+    b = [f'<rect width="{w}" height="{h}" fill="#f6f3eb"/>',
+         '<rect x="0" y="0" width="12" height="660" fill="#b46827"/>',
+         txt(54, 62, 'Alice’s Smith and Blevins evidence map', size=31, weight=700),
+         txt(54, 91, 'Solid: census, marriage or memorial link  ·  Dashed: candidate or member-tree lead', size=15, fill='#52616a')]
+
+    def card(x, y, width, color, heading, detail, note):
+        b.extend([f'<rect x="{x}" y="{y}" width="{width}" height="93" rx="13" fill="#fff" stroke="#d8dedc"/>',
+                  f'<rect x="{x}" y="{y}" width="8" height="93" rx="4" fill="{color}"/>',
+                  txt(x+22, y+27, heading, size=20, weight=700),
+                  txt(x+22, y+53, detail, size=16),
+                  txt(x+22, y+77, note, size=14, fill='#52616a')])
+
+    card(54, 122, 463, '#547487', 'Raymond J. + Allice Maulhall', 'Candidate parents of James', '1990 Social Security record; spouse unlinked')
+    card(562, 122, 463, '#b46827', 'W. Howard Blevins + Mary E. Hines', 'Gladys’s parents · married 1931', '1940 household has G. Louise Blevins')
+    card(54, 275, 463, '#547487', 'James Allen Smith', '1933–1990 on shared grave marker', '1986 return names him as Alice’s father')
+    card(562, 275, 463, '#b46827', 'Gladys Louise Blevins Smith', '1938–2008 · born Bristol, Virginia', '2008 memorial names husband and five children')
+    card(185, 451, 710, '#5c6ba0', 'Five children, including Alice', 'Jane · James “Buck” · Timothy · Alice · Carolyn', '2008 memorial; Jane, Buck and Alice: original marriage returns')
+    b.extend(['<line x1="285" y1="215" x2="285" y2="275" stroke="#547487" stroke-width="3" stroke-dasharray="7 7"/>',
+              '<line x1="794" y1="215" x2="794" y2="275" stroke="#b46827" stroke-width="3"/>',
+              '<path d="M285 368 L285 412 L540 412 L540 451 M794 368 L794 412 L540 412" fill="none" stroke="#85979b" stroke-width="3"/>',
+              txt(54, 593, 'Further Blevins tree lead: William Elkanah + Mary Earnest; Tancy Barker was a later wife.', size=17, fill='#344954'),
+              txt(54, 624, 'Justin recognizes Tancy’s name; her exact kinship and namesake link need records.', size=15, fill='#52616a')])
+    save('smith-blevins-lineage.svg', ''.join(b), w, h,
+         'Evidence map of Alice Smith Weatherford’s ancestry',
+         'Alice’s parents James Allen Smith and Gladys Louise Blevins had five named children. Gladys’s parents William Howard Blevins and Mary Elizabeth Hines are linked by a 1931 marriage and 1940 census. A same-name Social Security record proposes James’s parents Raymond J. Smith and Allice Maulhall, but the identity needs a spouse or child bridge. Tancy Barker is an additional online-tree lead.')
 
 
 def weatherford_deep_lineage():
@@ -234,5 +263,6 @@ if __name__ == '__main__':
     kramer_work()
     bosch_connection()
     weatherford_smith_generations()
+    smith_blevins_lineage()
     weatherford_deep_lineage()
     miller_raber_family()
