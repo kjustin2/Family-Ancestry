@@ -189,11 +189,11 @@ def smith_blevins_lineage():
     b.extend(['<line x1="285" y1="215" x2="285" y2="275" stroke="#547487" stroke-width="3" stroke-dasharray="7 7"/>',
               '<line x1="794" y1="215" x2="794" y2="275" stroke="#b46827" stroke-width="3"/>',
               '<path d="M285 368 L285 412 L540 412 L540 451 M794 368 L794 412 L540 412" fill="none" stroke="#85979b" stroke-width="3"/>',
-              txt(54, 593, 'Further Blevins tree lead: William Elkanah + Mary Earnest; Tancy Barker was a later wife.', size=17, fill='#344954'),
-              txt(54, 624, 'Justin recognizes Tancy’s name; her exact kinship and namesake link need records.', size=15, fill='#52616a')])
+              txt(54, 593, 'Further Blevins: William E.’s certificate names Shubiel + Ada; his 1918 marriage names Tancy.', size=16, fill='#344954'),
+              txt(54, 624, 'William Howard → William E. remains a 1920-household lead; see deeper evidence ladder.', size=15, fill='#52616a')])
     save('smith-blevins-lineage.svg', ''.join(b), w, h,
          'Evidence map of Alice Smith Weatherford’s ancestry',
-         'Alice’s parents James Allen Smith and Gladys Louise Blevins had five named children. Gladys’s parents William Howard Blevins and Mary Elizabeth Hines are linked by a 1931 marriage and 1940 census. A same-name Social Security record proposes James’s parents Raymond J. Smith and Allice Maulhall, but the identity needs a spouse or child bridge. Tancy Barker is an additional online-tree lead.')
+         'Alice’s parents James Allen Smith and Gladys Louise Blevins had five named children. Gladys’s parents William Howard Blevins and Mary Elizabeth Hines are linked by a 1931 marriage and 1940 census. A same-name Social Security record proposes James’s parents Raymond J. Smith and Allice Maulhall, but the identity needs a spouse or child bridge. William Elkanah’s 1929 certificate names Shubiel and Ada; his 1918 marriage names Tancy Barker; his proposed son William Howard still needs a direct record.')
 
 
 def weatherford_deep_lineage():
@@ -257,6 +257,42 @@ def miller_raber_family():
          'Two Berwick branches join at Paul Miller and Sonya Raber, whose daughter is Melissa. The Miller branch uses Paulene Beach’s family memoir and Justin’s account. The Raber, Kreisher and Fairchild branch currently rests on Justin’s account; the Fairchild ancestor is unnamed.')
 
 
+def blevins_deep_lineage():
+    w, h = 1120, 930
+    b = [f'<rect width="{w}" height="{h}" fill="#f6f3eb"/>',
+         f'<rect width="12" height="{h}" fill="#b46827"/>',
+         txt(52, 55, 'How far does Ashley’s Blevins line go?', size=31, weight=700),
+         txt(52, 85, 'The color and connectors show what has actually been checked.', size=17, fill='#52616a')]
+    rows = [
+        ('James Blevins (c. 1708)', 'Earliest person in linked tree; no overseas birthplace', 'TREE', '#9b7955'),
+        ('James Blevins (c. 1740)', 'Parentage disputed by Blevins researcher', 'TREE', '#9b7955'),
+        ('Joseph Sr. (c. 1770) → Daniel (c. 1802)', 'Two proposed parent-child links; originals needed', 'TREE', '#9b7955'),
+        ('Shubiel Blevins (1844–1913?)', '1860 household lead; Civil War roster and grave', 'MIXED', '#547487'),
+        ('William Elkanah (1876–1929)', 'Death certificate names Shubiel + Ada Thompson', 'RECORD', '#127f82'),
+        ('William Howard (c. 1908–1991?)', '1920 Howard + William E. household; relationship open', 'LEAD', '#547487'),
+        ('Gladys Louise Blevins (1938–2008)', '1940 census: William Howard + Mary Hines', 'RECORD', '#127f82'),
+        ('Alice Smith → Ashley Weatherford', '1986 marriage return + family account', 'MIXED', '#547487'),
+    ]
+    top, step, box_h = 116, 98, 74
+    for i, (name, note, status, color) in enumerate(rows):
+        y = top + i * step
+        if i:
+            line_color = '#127f82' if i in (4, 6, 7) else '#9b7955'
+            dash = '' if i in (4, 6, 7) else ' stroke-dasharray="7 7"'
+            b.append(f'<line x1="101" y1="{y-step+box_h}" x2="101" y2="{y}" stroke="{line_color}" stroke-width="3"{dash}/>')
+        b.extend([f'<rect x="52" y="{y}" width="1016" height="{box_h}" rx="12" fill="#fff" stroke="#d8dedc"/>',
+                  f'<rect x="52" y="{y}" width="8" height="{box_h}" rx="4" fill="{color}"/>',
+                  txt(78, y+29, name, size=21, weight=700),
+                  txt(78, y+55, note, size=16, fill='#52616a'),
+                  f'<rect x="901" y="{y+17}" width="140" height="34" rx="17" fill="{color}"/>',
+                  txt(971, y+40, status, size=13, fill='#fff', weight=700, extra='text-anchor="middle"')])
+    b.extend(['<rect x="52" y="911" width="1016" height="1" fill="#d8dedc"/>',
+              txt(52, 891, 'Open: William Howard’s birth/1910 record; Shubiel’s roster page; Joseph and both James links.', size=15, fill='#52616a')])
+    save('blevins-deep-lineage.svg', ''.join(b), w, h,
+         'Ashley Weatherford’s Blevins evidence ladder',
+         'Eight layers from James Blevins circa 1708 to Ashley. Dashed connectors indicate proposed or ambiguous links. William Elkanah’s 1929 death record directly names Shubiel and Ada. The 1920 census suggests, but does not prove, William Howard as William Elkanah’s son. The oldest colonial links are tree hypotheses.')
+
+
 if __name__ == '__main__':
     lineage()
     property_assessments()
@@ -266,3 +302,4 @@ if __name__ == '__main__':
     smith_blevins_lineage()
     weatherford_deep_lineage()
     miller_raber_family()
+    blevins_deep_lineage()
