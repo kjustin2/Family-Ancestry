@@ -110,7 +110,38 @@ def kramer_work():
          'A dated sequence of occupations from city directories, censuses, obituary and family account. The only income figures are a 1939 wage and 1940 home estimate for the older Ferdinand.')
 
 
+def weatherford_smith_generations():
+    w, h = 1080, 660
+    b = [f'<rect width="{w}" height="{h}" fill="#f6f3eb"/>',
+         '<rect x="0" y="0" width="12" height="660" fill="#127f82"/>',
+         txt(54, 62, 'Four layers of the Weatherford–Smith family', size=31, weight=700),
+         txt(54, 92, 'Sibling counts reflect names found; unknown dates and earlier parents remain open.', size=16, fill="#52616a")]
+
+    def card(x, y, width, color, layer, name, detail):
+        b.extend([f'<rect x="{x}" y="{y}" width="{width}" height="88" rx="13" fill="#fff" stroke="#d8dedc"/>',
+                  f'<rect x="{x}" y="{y}" width="8" height="88" rx="4" fill="{color}"/>',
+                  txt(x+23, y+25, layer, size=14, fill=color, weight=700),
+                  txt(x+23, y+51, name, size=21, weight=700),
+                  txt(x+23, y+75, detail, size=15, fill="#52616a")])
+
+    card(54, 125, 464, '#127f82', 'GREAT-GRANDPARENTS', 'D.D. + Annie Neatherly', 'Helen’s notice names her and 12 siblings')
+    card(562, 125, 464, '#b46827', 'EARLIER SMITH LINES', 'Smith-side forebears unknown', 'Gladys’s and Alice’s father’s parents unknown')
+    card(54, 255, 464, '#127f82', 'GRANDPARENTS', 'Garnett Sr. + Florence', 'Garnett is their son; Florence’s parents unknown')
+    card(562, 255, 464, '#b46827', 'GRANDPARENTS', 'Gladys Smith · Alice’s father unnamed', 'Alice + four siblings reported; parent links open')
+    card(218, 385, 644, '#5c6ba0', 'PARENTS', 'John Gordon Weatherford Sr. + Alice Smith', 'John: three named siblings · Alice: four reported siblings')
+    card(218, 515, 644, '#5c6ba0', 'CHILDREN', 'Ashley · John Jr. · Tancy Weatherford', 'Family-supplied sibling group; dates not established')
+    b.append('<line x1="285" y1="213" x2="285" y2="255" stroke="#85979b" stroke-width="3"/>')
+    b.append('<line x1="794" y1="213" x2="794" y2="255" stroke="#85979b" stroke-width="3" stroke-dasharray="7 7"/>')
+    b.extend(['<path d="M286 343 L286 367 L540 367 L540 385 M794 343 L794 367 L540 367" fill="none" stroke="#85979b" stroke-width="3"/>',
+              '<line x1="540" y1="473" x2="540" y2="515" stroke="#85979b" stroke-width="3"/>',
+              txt(54, 634, 'Solid: working family links. Dashed: Smith forebears unidentified. See page for source confidence.', size=15, fill="#52616a")])
+    save('weatherford-smith-generations.svg', ''.join(b), w, h,
+         'Weatherford and Smith family generations',
+         'Four layers from D.D. and Annie Weatherford and unknown earlier Smith relatives to Garnett and Florence, Gladys and Alice’s unnamed father, John and Alice, then Ashley, John Jr. and Tancy. The dashed earlier Smith connection has not been identified.')
+
+
 if __name__ == '__main__':
     lineage()
     property_assessments()
     kramer_work()
+    weatherford_smith_generations()

@@ -5,6 +5,7 @@
 - [Kramer lineage](kramer-lineage.svg) gives each of the three Ferdinand generations a stable label and marks unproved parent links with dashed lines.
 - [Kramer work](kramer-work.svg) places documented occupations in order without presenting one household's wages as a long-term wealth trend.
 - [Colette assessments](colette-assessments.svg) charts selected **nominal county property estimates** over time; it does not estimate anyone's net worth.
+- [Weatherford–Smith generations](weatherford-smith-generations.svg) shows where the two known lines meet and the size of each named sibling group; the [generation guide](../branches/weatherford-smith-generations.md) lists every name and date status.
 
 Run `python maps/generate_story_charts.py` to regenerate these standalone SVGs. The labels and underlying records are explained in the adjacent family pages.
 

@@ -1,5 +1,7 @@
 # Smith line: the Miller Drive home
 
+For **each known generation, birth/death status, and all supplied Smith siblings**, see the [Weatherford–Smith generation guide](weatherford-smith-generations.md).
+
 **Working line:** Alice Marie Smith Weatherford's mother was known to the family as **“Gladus” Smith**. Fairfax County's property record at her supplied home, **6330 Miller Drive, Alexandria postal address / Franconia, Fairfax County**, spells the owner **Gladys L. Smith**. The mother-daughter relationship is family-supplied; the exact spelling of her full name needs an original personal record. Alice's father is unnamed here; the family recalls that he died in the **1990s**.
 
 Alice's family-supplied siblings are **Buck, Tim, Carolyn and Jane Smith**. “Buck” may be a nickname. We have not yet established birth order or later surnames. The family says Alice attended **Hayfield High School**; a yearbook or diploma would date and verify attendance.

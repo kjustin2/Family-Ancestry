@@ -1,6 +1,6 @@
 # Weatherford and Smith: Franconia, Fairfax County, Virginia
 
-For earlier generations and work histories, see the separate [Weatherford line](weatherford.md) and [Smith line](smith.md). This page compares their shared neighborhood and property records.
+Start with the [generation-by-generation family guide](weatherford-smith-generations.md) for birth/death status and sibling groups. For work histories, see the separate [Weatherford line](weatherford.md) and [Smith line](smith.md). This page compares their shared neighborhood and property records.
 
 ## The family so far
 

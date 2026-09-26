@@ -1,5 +1,7 @@
 # Weatherford line: Danville to Franconia
 
+For **birth/death status and the complete named sibling groups by generation**, see the [Weatherford–Smith generation guide](weatherford-smith-generations.md) and its family diagram.
+
 **Working line:** **D.D. Weatherford** and **Annie Neatherly Weatherford** → **Garnett Burnell Weatherford Sr.** and **Florence Ruth Morrison Weatherford** → **John Gordon Weatherford** → **Ashley Marie Weatherford**. John's and Ashley's relationships come from the family and are corroborated in part by Garnett Sr.'s obituary. Garnett's parent link comes from the obituary of his sister Helen; see the evidence below. D.D.'s expanded given names are not established.
 
 ## Garnett and Florence
