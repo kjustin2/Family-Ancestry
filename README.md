@@ -10,7 +10,8 @@ An evidence-led map of Justin and Ashley's family history. **Research snapshot: 
 - [Bosch, Greener, Froelich, and Andrews leads](branches/other-paternal-lines.md).
 - [Weatherford and Smith neighborhood](branches/weatherford-smith.md), [Weatherford line](branches/weatherford.md), and [Smith line](branches/smith.md): Ashley's Fairfax family, Danville roots, sibling leads, transit work, and three documented parcels.
 - [Weatherford–Smith generations](branches/weatherford-smith-generations.md): birth/death status and the full named sibling groups, with a [family-layer diagram](maps/weatherford-smith-generations.svg).
-- [Justin's maternal Miller side](branches/maternal-kramer-side.md): Melissa Miller Kramer and the next records needed.
+- [Justin's maternal Berwick side](branches/maternal-kramer-side.md): the [Miller–Gower–Reese household](branches/miller-gower-reese.md), [Raber–Kreisher–Fairchild line](branches/raber-kreisher-fairchild.md), and [two-branch diagram](maps/miller-raber-family.svg).
+- [Ashley's immigration question](branches/ashley-immigration.md): what the present records establish and the exact links still needed to date an arrival.
 - [Places, education, and events](context/places-and-schools.md).
 - [The families in their times](context/family-in-its-times.md): local events and carefully bounded migration explanations.
 - [Regional family map](maps/ancestral-places.svg), [Colette Drive neighborhood map](maps/colette-neighborhood.svg), and [picture guide](media/README.md), now with a WWII Navy scene and actual-relative photo leads.
@@ -26,6 +27,8 @@ The supplied chart proposes a Kramer line through **Fred / Ferdinand Francis (19
 The chart's long German branch belongs to **Magdalena Disque**, who married into the Kramer family. A specialist Palatinate mill history independently documents Sebastian Disqué, Anna Barbara Schaaf, and their mill operations. The later chain from the 1700s to Magdalena remains a research target; published accounts and the chart disagree on some dates and spouses.
 
 The Weatherford–Smith branch now has three mapped family homes in one Fairfax County neighborhood. The family identifies **Garnett and Florence Weatherford** as John's parents, **Gladys (“Gladus” in the family account) Smith** as Alice's mother, and siblings on both sides. County parcel histories independently connect those names with **6312 and 6330 Miller Drive** and John and Alice with **6307 Colette Drive**. A 1954 marriage index and 2007 obituaries trace Garnett's line back toward **Danville** and document his Navy service and long bus-driving career. The neighborhood is in **Franconia, Fairfax County**, despite its Alexandria postal city. Alice's father remains unnamed.
+
+On Justin's maternal side, his account names **Paul Miller and Sonya Raber** as Melissa's parents. Paul's sister Paulene's [published Berwick memoir](https://bhaven.org/paulene/category/marqueen-kitta) matches Justin's Miller sibling names and describes the older household's work, schooling and hardship. Sonya's **Kreisher → Fairchild** line remains a family-supplied lead. For Ashley, **no identified family immigration date** is established: the Weatherford line is documented in Virginia by Garnett's birth around 1926–27, while the earlier emigrant and the Smith/Morrison origins remain open. [Maternal guide](branches/maternal-kramer-side.md) · [Ashley's arrival question](branches/ashley-immigration.md).
 
 ## Evidence rules
 

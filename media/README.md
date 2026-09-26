@@ -18,6 +18,8 @@ If family albums supply a named original photograph, add its date, photographer 
 
 ## Wilkes-Barre, Pennsylvania
 
+For **Berwick**, where Paul Miller's family lived, the [Berwick Historical Society's wartime history](https://berwickhistoricalsociety.org/Local%2BHistory-13.htm) includes a photograph of the **American Car & Foundry Stuart tank assembly line**. Its [local history collection](https://berwickhistoricalsociety.org/Local%2BHistory-13.htm) is a place to explore the town shown in Paulene Miller Beach's [memoir](https://bhaven.org/paulene/category/marqueen-kitta). The photo is linked rather than copied because reuse rights are not stated; **no Miller is identified as an ACF worker or as a person in it**. The memoir page's small generic image is not an identified portrait of Paulene or her relatives. A named family album photo, school yearbook or obituary portrait remains the best lead for actual ancestors.
+
 ![Public Square looking toward East Market Street, circa 1930–1945](wilkes-barre-public-square.jpg)
 
 Public Square looking toward East Market Street, circa 1930–1945. [Boston Public Library Tichnor Brothers postcard via Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Public_Square_looking_towards_East_Market_Street,_Wilkes-Barre,_Pa_(78881).jpg); public domain in the United States. It depicts the city around the time of some later Kramer generations, not their house. For flood-era comparison, see [Wilkes University's historic before/after photographs](https://www.wilkes.edu/academics/library/agnes-flood-walking-tour/main-street.aspx).

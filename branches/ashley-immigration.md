@@ -1,0 +1,13 @@
+# When did Ashley's family arrive in America?
+
+**We do not yet have a documented immigration date for any of Ashley's identified branches.** The traced Weatherford line reaches her great-grandparents **D.D. Weatherford and Annie Neatherly**, whose daughter Helen's [2007 obituary](https://www.legacy.com/us/obituaries/godanriver/name/helen-barksdale-obituary?id=33333924) names them and her brother Garnett. Garnett's [obituary](https://www.washingtonpost.com/archive/local/2007/07/03/obituaries/43ba782a-181c-4c59-a78e-7d361d86bf4a/) says he was born in **Danville, Virginia** around **1926–27**. Thus this branch was in the United States by Garnett's birth; the original immigrant, country and arrival year are **still unknown**.
+
+| Ashley's branch | Furthest person securely named here | Arrival status |
+| --- | --- | --- |
+| Paternal Weatherford / Neatherly | D.D. and Annie, named by daughter Helen's obituary | Their own birthplaces and parents are not established from original records. A [derivative Southside compilation](https://cottagehill.com/southside/f544.htm) proposes 1894 Virginia births; it cannot date immigration. |
+| Paternal Morrison | Florence Ruth Morrison, named in the [1954 Fairfax marriage index](https://www.fairfaxcounty.gov/circuit/sites/circuit/files/assets/documents/pdf/hrc/marriage-book-index-1853-1957-brides.pdf) | Her parents and birthplaces are unknown here. |
+| Maternal Smith | Alice Smith's mother Gladys L. Smith, named in a [Fairfax parcel record](https://icare.fairfaxcounty.gov/ffxcare/search/commonsearch.aspx?mode=address), plus an unnamed father in family memory | Their parents, birthplaces and any immigrant ancestor are unknown. |
+
+An online [FamilySearch profile of a seventeenth-century William Weatherford](https://ancestors.familysearch.org/en/MX36-GRZ/william-weatherford-ii-1645-1732) places a man of that surname in colonial Virginia. **No parent-child chain connects him to Ashley**, and a same-surname person in colonial Virginia would not establish when *her* line immigrated. The [Library of Virginia](https://www.lva.virginia.gov/public/guides/rn16_biographical.htm) explains that original Virginia land patents, grants, and other colonial records can be searched once a named ancestor is established.
+
+**How to get a defensible date:** Identify D.D.'s and Annie's parents in birth, marriage, death or census records; repeat backward until a record gives a birthplace outside the U.S. Then corroborate that person in a passenger, naturalization, church, or early land record. Apply the same method separately to **Morrison**, **Smith**, and Gladys's unknown maiden line. A surname's apparent national origin or a distant public tree is not a personal arrival record.

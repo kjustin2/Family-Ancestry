@@ -140,8 +140,41 @@ def weatherford_smith_generations():
          'Four layers from D.D. and Annie Weatherford and unknown earlier Smith relatives to Garnett and Florence, Gladys and Alice’s unnamed father, John and Alice, then Ashley, John Jr. and Tancy. The dashed earlier Smith connection has not been identified.')
 
 
+def miller_raber_family():
+    w, h = 1180, 645
+    b = [f'<rect width="{w}" height="{h}" fill="#f6f3eb"/>',
+         '<rect x="0" y="0" width="12" height="645" fill="#127f82"/>',
+         txt(48, 56, 'Melissa’s two Berwick branches', size=31, weight=700),
+         txt(48, 85, 'Left: Paulene Miller Beach’s memoir + Justin   ·   Right: Justin’s family account', size=16, fill='#52616a')]
+
+    def card(x, y, width, color, heading, detail, note):
+        b.extend([f'<rect x="{x}" y="{y}" width="{width}" height="82" rx="12" fill="#fff" stroke="#d8dedc"/>',
+                  f'<rect x="{x}" y="{y}" width="8" height="82" rx="4" fill="{color}"/>',
+                  txt(x+22, y+26, heading, size=20, weight=700),
+                  txt(x+22, y+50, detail, size=16),
+                  txt(x+22, y+71, note, size=13, fill='#52616a')])
+
+    card(48, 112, 515, '#127f82', 'Amos Miller + Mary Gower', 'Lester’s parents · memoir dates 1867–1943 / 1884–1954', 'Family memoir; vital records pending')
+    card(618, 112, 515, '#b46827', 'Fairchild great-grandmother', 'Shirley’s mother · given name unknown', 'Justin’s account; record pending')
+    card(48, 216, 515, '#127f82', 'Lester Miller + Mabel/Pearl Reese', 'Mabel raised by William + Clementine Wilson', 'Memoir; six named children')
+    card(618, 216, 515, '#b46827', 'Shirley Kreisher Raber', 'Sonya’s mother · husband’s name unknown', 'Justin’s account; record pending')
+    card(48, 320, 515, '#127f82', 'Paul Miller', 'Siblings: Marqueen, Paulene, Shirley, Gladys, Carl', 'Justin + Paulene’s memoir; Gladys lifespan disputed')
+    card(618, 320, 515, '#b46827', 'Sonya Raber', 'Alice, Bill, Wendy, Tim, Tom on Sonya’s side', 'Sibling versus married-in roles unresolved')
+    for x in (304, 874):
+        for y in (194, 298):
+            b.append(f'<line x1="{x}" y1="{y}" x2="{x}" y2="{y+22}" stroke="#85979b" stroke-width="3"/>')
+    b.extend(['<path d="M304 402 L304 429 L590 429 M874 402 L874 429 L590 429 L590 449" fill="none" stroke="#85979b" stroke-width="3"/>'])
+    card(310, 449, 560, '#5c6ba0', 'Melissa Miller Kramer', 'Daughter of Paul + Sonya · mother of Justin', 'Parent links supplied by Justin')
+    b.extend([txt(48, 577, 'Earlier Miller, Reese and Corderman relatives appear in the branch page.', size=17, fill='#344954'),
+              txt(48, 607, 'Fairchild dairy in Paulene’s memoir is not linked to Sonya’s Fairchild ancestor.', size=15, fill='#52616a')])
+    save('miller-raber-family.svg', ''.join(b), w, h,
+         'Melissa Miller Kramer’s Miller and Raber family lines',
+         'Two Berwick branches join at Paul Miller and Sonya Raber, whose daughter is Melissa. The Miller branch uses Paulene Beach’s family memoir and Justin’s account. The Raber, Kreisher and Fairchild branch currently rests on Justin’s account; the Fairchild ancestor is unnamed.')
+
+
 if __name__ == '__main__':
     lineage()
     property_assessments()
     kramer_work()
     weatherford_smith_generations()
+    miller_raber_family()

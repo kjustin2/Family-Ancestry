@@ -1,5 +1,7 @@
 # Smith line: the Miller Drive home
 
+For Ashley's question about arrival in America, see the [immigration evidence guide](ashley-immigration.md). This branch cannot yet be traced to an immigrant because Alice's father and Gladys's parents remain unidentified.
+
 For **each known generation, birth/death status, and all supplied Smith siblings**, see the [Weatherford–Smith generation guide](weatherford-smith-generations.md).
 
 **Working line:** Alice Marie Smith Weatherford's mother was known to the family as **“Gladus” Smith**. Fairfax County's property record at her supplied home, **6330 Miller Drive, Alexandria postal address / Franconia, Fairfax County**, spells the owner **Gladys L. Smith**. The mother-daughter relationship is family-supplied; the exact spelling of her full name needs an original personal record. Alice's father is unnamed here; the family recalls that he died in the **1990s**.
