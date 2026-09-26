@@ -12,6 +12,8 @@ The [family chart](../research/chart-transcription.md) names Magdalena Disque (b
 
 **A matching migration corridor, not yet a sister link.** The [Institute for Palatinate History migration card](https://migration.pfalzgeschichte.de/person/98258) records Johannes Ludwig Disque, born 1844 in Hofstätten, son of Johann Ludwig Disque and Magdalena Fröhlich, died 1918 in Wilkes-Barre. Those parent names match Magdalena's proposed parents, but **the card's sibling list omits Magdalena**. The institute says the underlying card source (`QAF-Disque, 2008`) should be inspected and warns that older entries may not meet current standards.
 
+**A cemetery lead in Wilkes-Barre.** A [PeopleLegacy compilation](https://peoplelegacy.com/magdalena_lena_disque_kramer-2d5Y0N) lists Magdalena “Lena” Disque Kramer (26 February 1844–7 June 1905) at Hanover Cemetery, with Martin Mathias Kramer as spouse and Magdalena Frohlich as mother. It also lists a son Ferdinand L. Kramer (1882–1951). This is a promising set of matches to the chart, **not independent proof**: the page supplies no gravestone or underlying register, duplicates a daughter, and disclaims verification. Cemetery registers, newspaper notices, and church records are the next checks.
+
 ## Conflicts and limits
 
 - The chart gives Johann Ludwig Disque (1745) a November birth; the specialist entry has an April baptism that appears to precede that birth. The chart's spouse names also differ from the specialist's **Maria Barbara Vongerichten**. These may be different people, transcription errors, or conflated families. [Specialist entry](https://www.eberhard-ref.net/pf%C3%A4lzisches-m%C3%BChlenlexikon/pf%C3%A4lzische-m%C3%BCllerfamilien/litera-d/).

@@ -18,7 +18,7 @@ An evidence-led map of Justin and Ashley's family history. **Research snapshot: 
 
 ## What we can say now
 
-The supplied chart proposes a Kramer line through three successive Ferdinands to Matthew Kramer (born 1840) and then Bernhard Kramer/Kraemer. A 2023 obituary independently identifies Ferdinand Francis Kramer's parents; an older obituary connects Ferdinand and Rose Bosch Kramer to daughter Hilda. Wilkes-Barre directories document men named Matthew/Matthias and Ferdinand Kramer in a plausible shared neighborhood, but they **do not themselves prove** every parent-child link in the chart.
+The supplied chart proposes a Kramer line through three successive Ferdinands to Matthew Kramer (born 1840) and then Bernhard Kramer/Kraemer. State indexes now independently match the chart's **24 August 1913 Ferdinand birth** (mother “Bosch R”) and **15 July 1918 Matthias death** in Wilkes-Barre. A 2023 obituary identifies Ferdinand Francis Kramer's parents; an older obituary connects Ferdinand and Rose Bosch Kramer to daughter Hilda. These matches strengthen the line, but **the father-to-son links between generations still need direct records**.
 
 The chart's long German branch belongs to **Magdalena Disque**, who married into the Kramer family. A specialist Palatinate mill history independently documents Sebastian Disqué, Anna Barbara Schaaf, and their mill operations. The later chain from the 1700s to Magdalena remains a research target; published accounts and the chart disagree on some dates and spouses.
 
