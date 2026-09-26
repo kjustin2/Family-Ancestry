@@ -6,6 +6,7 @@
 - [Kramer work](kramer-work.svg) places documented occupations in order without presenting one household's wages as a long-term wealth trend.
 - [Colette assessments](colette-assessments.svg) charts selected **nominal county property estimates** over time; it does not estimate anyone's net worth.
 - [Weatherford–Smith generations](weatherford-smith-generations.svg) shows where the two known lines meet and the size of each named sibling group; the [generation guide](../branches/weatherford-smith-generations.md) lists every name and date status.
+- [Deeper Weatherford line](weatherford-deep-lineage.svg) ([PNG preview](weatherford-deep-lineage-preview.png)) connects Ashley to George and Ella Weatherford and John Neathery and Annie Phelps, using original certificates and censuses; the [Weatherford page](../branches/weatherford.md) explains the evidence and older name conflict.
 - [Miller–Raber family](miller-raber-family.svg) ([PNG preview](miller-raber-family-preview.png)) shows Melissa's two Berwick branches, which links come from family accounts, and where the Fairchild name remains unresolved.
 
 Run `python maps/generate_story_charts.py` to regenerate these standalone SVGs. The labels and underlying records are explained in the adjacent family pages.

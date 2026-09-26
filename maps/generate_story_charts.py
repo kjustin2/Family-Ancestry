@@ -124,7 +124,7 @@ def weatherford_smith_generations():
                   txt(x+23, y+51, name, size=21, weight=700),
                   txt(x+23, y+75, detail, size=15, fill="#52616a")])
 
-    card(54, 125, 464, '#127f82', 'GREAT-GRANDPARENTS', 'D.D. + Annie Neatherly', 'Helen’s notice names her and 12 siblings')
+    card(54, 125, 464, '#127f82', 'GREAT-GRANDPARENTS', 'Doctor Duffy + Annie Neathery', '1930 household and original death records')
     card(562, 125, 464, '#b46827', 'EARLIER SMITH / BLEVINS', 'Four grandparents unknown', 'James’s and Gladys’s parents need records')
     card(54, 255, 464, '#127f82', 'GRANDPARENTS', 'Garnett Sr. + Florence', 'Garnett Sr. is D.D. and Annie’s son')
     card(562, 255, 464, '#b46827', 'GRANDPARENTS', 'James A. Smith + Gladys Blevins', '1986 return names both; Jane and Buck linked')
@@ -138,6 +138,35 @@ def weatherford_smith_generations():
     save('weatherford-smith-generations.svg', ''.join(b), w, h,
          'Weatherford and Smith family generations',
          'Four layers from D.D. and Annie Weatherford and unknown earlier Smith and Blevins relatives to Garnett and Florence, James and Gladys, John and Alice, then Ashley, John Jr. and Tancy. The dashed earlier Smith and Blevins connection has not been identified.')
+
+
+def weatherford_deep_lineage():
+    w, h = 1080, 790
+    b = [f'<rect width="{w}" height="{h}" fill="#f6f3eb"/>',
+         '<rect x="0" y="0" width="12" height="790" fill="#127f82"/>',
+         txt(54, 62, 'Ashley’s Weatherford line, five generations', size=31, weight=700),
+         txt(54, 91, 'Death certificates and censuses connect the older relatives; living links use family accounts.', size=15, fill="#52616a")]
+
+    def card(x, y, width, color, layer, name, detail):
+        b.extend([f'<rect x="{x}" y="{y}" width="{width}" height="88" rx="13" fill="#fff" stroke="#d8dedc"/>',
+                  f'<rect x="{x}" y="{y}" width="8" height="88" rx="4" fill="{color}"/>',
+                  txt(x+22, y+24, layer, size=13, fill=color, weight=700),
+                  txt(x+22, y+51, name, size=20, weight=700),
+                  txt(x+22, y+73, detail, size=14, fill="#52616a")])
+
+    card(54, 122, 464, '#127f82', 'DUFFY’S PARENTS', 'George C. + Ella Lumpkin', 'Duffy’s 1966 certificate names both')
+    card(562, 122, 464, '#b46827', 'ANNIE’S PARENTS', 'John R. Neathery + Annie Phelps', 'Annie’s 1969 certificate names both')
+    card(192, 257, 696, '#127f82', 'GREAT-GRANDPARENTS', 'Doctor Duffy + Annie Lillian', 'Duffy: Caswell County, NC → Dan River, VA')
+    card(192, 392, 696, '#127f82', 'GRANDPARENTS', 'Garnett Sr. + Florence Morrison', 'Garnett: 1930 household; 1946 Navy-discharge card')
+    card(192, 527, 696, '#5c6ba0', 'PARENTS', 'John Gordon + Alice Smith', '1986 marriage return; Fairfax County homes')
+    card(192, 662, 696, '#5c6ba0', 'ASHLEY’S GENERATION', 'Ashley · John Jr. · Tancy', 'Sibling group supplied by Justin')
+    b.extend(['<path d="M286 210 L286 233 L540 233 L540 257 M794 210 L794 233 L540 233" fill="none" stroke="#85979b" stroke-width="3"/>'])
+    for y1, y2 in ((345, 392), (480, 527), (615, 662)):
+        b.append(f'<line x1="540" y1="{y1}" x2="540" y2="{y2}" stroke="#85979b" stroke-width="3"/>')
+    b.append(txt(54, 773, 'Earlier: George and Ella’s 1884 register names parents; the 1880 census has a name conflict.', size=14, fill='#52616a'))
+    save('weatherford-deep-lineage.svg', ''.join(b), w, h,
+         'Five generations of Ashley Weatherford’s paternal family',
+         'George C. Weatherford and Ella Lumpkin, and John R. Neathery and Annie Phelps, precede Doctor Duffy Weatherford and Annie Lillian Neathery, Garnett and Florence Weatherford, John and Alice Weatherford, and Ashley with siblings John Jr. and Tancy. Original certificates and censuses support the older generations; the most recent links are family supplied.')
 
 
 def miller_raber_family():
@@ -177,4 +206,5 @@ if __name__ == '__main__':
     property_assessments()
     kramer_work()
     weatherford_smith_generations()
+    weatherford_deep_lineage()
     miller_raber_family()
