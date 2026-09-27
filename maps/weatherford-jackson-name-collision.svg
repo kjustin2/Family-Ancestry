@@ -1,0 +1,24 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 960 440" role="img" aria-labelledby="title desc">
+  <title id="title">Jackson Weatherford name collision</title>
+  <desc id="desc">Member trees propose an older Jackson Weatherford born in 1783 as Halifax Samuel's father. Original 1844 Indiana marriage and 1850 census records identify a Jackson with Harriet McCampbell who was 36 in 1850, implying birth around 1814. The records do not connect either Jackson to Samuel, and the Indiana Jackson's age conflicts with the compiled pedigree's 1783 birth.</desc>
+  <rect width="960" height="440" fill="#f5f3ec"/>
+  <text x="40" y="50" fill="#21343b" font-family="Georgia,serif" font-size="27" font-weight="bold">A Jackson Weatherford name collision</text>
+  <text x="40" y="79" fill="#53656c" font-family="Arial,sans-serif" font-size="16">The Virginia parent question and an Indiana record trail need separate proofs.</text>
+  <rect x="40" y="111" width="419" height="160" rx="12" fill="#e8ebdf" stroke="#9ba897"/>
+  <text x="61" y="143" fill="#284b45" font-family="Arial,sans-serif" font-size="15" font-weight="bold">COMPILED TREE CLAIM</text>
+  <text x="61" y="175" fill="#21343b" font-family="Georgia,serif" font-size="21">Jackson + Martha McCampbell</text>
+  <text x="61" y="204" fill="#33494e" font-family="Arial,sans-serif" font-size="16">1806 marriage reported · Jackson b. 1783</text>
+  <text x="61" y="231" fill="#53656c" font-family="Arial,sans-serif" font-size="15">Original marriage and parentage not checked</text>
+  <rect x="501" y="111" width="419" height="160" rx="12" fill="#e2eeeb" stroke="#83aaa0"/>
+  <text x="522" y="143" fill="#176c60" font-family="Arial,sans-serif" font-size="15" font-weight="bold">ORIGINAL RECORDS · INDIANA</text>
+  <text x="522" y="175" fill="#21343b" font-family="Georgia,serif" font-size="21">Jackson + Harriet McCampbell</text>
+  <text x="522" y="204" fill="#33494e" font-family="Arial,sans-serif" font-size="16">Married 1844 · Jackson 36 in 1850</text>
+  <text x="522" y="231" fill="#53656c" font-family="Arial,sans-serif" font-size="15">Kentucky-born · Parke County household</text>
+  <text x="467" y="198" fill="#9c564c" font-family="Arial,sans-serif" font-size="24" font-weight="bold">≠</text>
+  <text x="272" y="294" fill="#9c564c" font-family="Arial,sans-serif" font-size="15">1783 and c. 1814 birth readings conflict</text>
+  <line x1="249" y1="271" x2="249" y2="325" stroke="#a88d67" stroke-width="3" stroke-dasharray="7 6"/>
+  <rect x="40" y="326" width="880" height="80" rx="12" fill="#fffdf7" stroke="#c8c0ac"/>
+  <text x="61" y="357" fill="#21343b" font-family="Georgia,serif" font-size="20">Samuel + Jane, Halifax County, Virginia</text>
+  <text x="61" y="383" fill="#53656c" font-family="Arial,sans-serif" font-size="16">Samuel c. 1810, Virginia-born · father not named in the original 1850 census</text>
+  <text x="272" y="315" fill="#85683f" font-family="Arial,sans-serif" font-size="14" font-weight="bold">PARENT LINK UNPROVED</text>
+</svg>
