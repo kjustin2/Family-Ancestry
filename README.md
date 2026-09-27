@@ -6,6 +6,7 @@ An evidence-led map of Justin and Ashley's family history. **Research snapshot: 
 
 - [Timeline and family circumstances](timeline.md)
 - [Kramer line](branches/kramer.md): Wilkes-Barre people and the unresolved surname origin.
+- [Sutera Italian passport lead](branches/cordaro-passport-lead.md): family-held photos, a cautious transcription and the open Cordaro/Cadaros-to-Kramer connection.
 - [Disqué and Schaaf lines](branches/disque-schaaf.md): Palatinate mill families and a possible migration path.
 - [Bosch, Greener, Froelich, and Andrews leads](branches/other-paternal-lines.md).
 - [Weatherford and Smith neighborhood](branches/weatherford-smith.md), [Weatherford line](branches/weatherford.md), and [Smith line](branches/smith.md): Ashley's Fairfax family, Danville roots, sibling leads, transit work, and three documented parcels.

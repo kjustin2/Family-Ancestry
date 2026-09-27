@@ -1,0 +1,21 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="920" height="220" viewBox="0 0 920 220" role="img" aria-labelledby="title desc">
+  <title id="title">Sutera passport evidence and the missing family link</title>
+  <desc id="desc">The photographed Italian passport places a provisional Cordaro Onofrio in Sutera, Sicily. His journey to America and relationship to the Kramer family remain unproved.</desc>
+  <rect width="920" height="220" rx="20" fill="#f7f3ec"/>
+  <text x="30" y="37" fill="#24333a" font-family="Arial,sans-serif" font-size="21" font-weight="700">What the passport establishes</text>
+  <rect x="30" y="65" width="260" height="99" rx="12" fill="#214d58"/>
+  <text x="47" y="94" fill="#fff" font-family="Arial,sans-serif" font-size="17" font-weight="700">Sutera, Sicily</text>
+  <text x="47" y="119" fill="#e3f2ef" font-family="Arial,sans-serif" font-size="15">Birth appears 13 Jan 1878</text>
+  <text x="47" y="143" fill="#e3f2ef" font-family="Arial,sans-serif" font-size="15">Farm worker on passport</text>
+  <path d="M290 114 H329" stroke="#87989a" stroke-width="3" stroke-dasharray="6 5"/>
+  <rect x="329" y="65" width="260" height="99" rx="12" fill="#fff" stroke="#b0a38e" stroke-width="2"/>
+  <text x="346" y="94" fill="#24333a" font-family="Arial,sans-serif" font-size="17" font-weight="700">Journey unknown</text>
+  <text x="346" y="119" fill="#495b60" font-family="Arial,sans-serif" font-size="15">No visa, ship or arrival</text>
+  <text x="346" y="143" fill="#495b60" font-family="Arial,sans-serif" font-size="15">shown in these photos</text>
+  <path d="M589 114 H628" stroke="#87989a" stroke-width="3" stroke-dasharray="6 5"/>
+  <rect x="628" y="65" width="262" height="99" rx="12" fill="#fff" stroke="#b0a38e" stroke-width="2"/>
+  <text x="645" y="94" fill="#24333a" font-family="Arial,sans-serif" font-size="17" font-weight="700">Kramer link open</text>
+  <text x="645" y="119" fill="#495b60" font-family="Arial,sans-serif" font-size="15">Grandmother's name and</text>
+  <text x="645" y="143" fill="#495b60" font-family="Arial,sans-serif" font-size="15">intervening records needed</text>
+  <text x="30" y="194" fill="#495b60" font-family="Arial,sans-serif" font-size="13">Solid = photographed passport; dashed = research path, not a documented migration or pedigree.</text>
+</svg>
