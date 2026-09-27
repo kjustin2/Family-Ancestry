@@ -6,6 +6,8 @@
 
 **Why a spray map cannot settle this yet:** The [National Archives herbicide file](https://www.archives.gov/research/military/vietnam-war/electronic-data-files) records U.S. spraying missions in **1965–71**. It records missions, **not the names or movements of every soldier**. We have no documented Carl Miller assignment to compare with it. Even if an eventual unit location overlaps a recorded mission, the overlap would need a date and place match and would not measure Carl's individual dose. Conversely, a missing spray mark would not rule out the [VA's broader location-based presumption](https://www.va.gov/disability/eligibility/hazardous-materials-exposure/agent-orange/). The burial listing's “Vietnam” label must first be checked against actual service papers; it may indicate an era of service rather than in-country duty.
 
+**What a real location comparison would use:** NARA also describes a [Southeast Asia Friendly Forces file](https://www.archives.gov/research/military/vietnam-war/electronic-data-files) with U.S. maneuver-battalion locations for **1966–72**, and a **48-battalion tracking study** in III Corps for **1966–69** created in part for an Agent Orange exposure study. Neither is a roster of all personnel. Once Carl's **unit and duty dates** are documented, these datasets may narrow the unit's movements; only then would comparison to spray missions be meaningful. No public source found so far gives his unit, station or dates.
+
 ```mermaid
 flowchart LR
   A[Paulene's Vietnam account] --> B[Candidate Berwick Army SP4 burial entry]

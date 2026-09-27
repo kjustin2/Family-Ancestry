@@ -1,0 +1,40 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1100" height="455" viewBox="0 0 1100 455" role="img" aria-labelledby="title desc">
+  <title id="title">Mary Hines's Bristol identity: four records and one unresolved name</title>
+  <desc id="desc">Four dated cards show Elizabeth in John and Nora Hines's 1920 census, John and Nora with Howard at 912 Cumberland in 1929, Mary E. with John and Maud at the same address in the 1930 census, and Elizabeth the candy packer with John and Nora at that address in the 1930–31 directory. The 1931 marriage names Mary E. Hines. Maud versus Nora remains unresolved.</desc>
+  <rect width="1100" height="455" fill="#f6f3eb"/>
+  <rect width="10" height="455" fill="#b46827"/>
+  <text x="42" y="53" font-family="Segoe UI,Arial,sans-serif" font-size="29" font-weight="700" fill="#17324c">Mary Hines: the Bristol record bridge</text>
+  <text x="42" y="79" font-family="Segoe UI,Arial,sans-serif" font-size="15" fill="#52616a">The address and candy-packer job connect Mary E. with Elizabeth; the wife's given name still conflicts.</text>
+  <g font-family="Segoe UI,Arial,sans-serif">
+    <rect x="42" y="119" width="233" height="145" rx="12" fill="white" stroke="#d8dedc"/>
+    <rect x="42" y="119" width="233" height="7" rx="3" fill="#b46827"/>
+    <text x="60" y="153" font-size="15" font-weight="700" fill="#b46827">1920 CENSUS</text>
+    <text x="60" y="184" font-size="21" font-weight="700" fill="#17324c">Elizabeth, 7</text>
+    <text x="60" y="212" font-size="15" fill="#52616a">John + Nora</text>
+    <text x="60" y="239" font-size="14" fill="#52616a">John: railroad machinist</text>
+    <rect x="301" y="119" width="233" height="145" rx="12" fill="white" stroke="#d8dedc"/>
+    <rect x="301" y="119" width="233" height="7" rx="3" fill="#b46827"/>
+    <text x="319" y="153" font-size="15" font-weight="700" fill="#b46827">1929 DIRECTORY</text>
+    <text x="319" y="184" font-size="19" font-weight="700" fill="#17324c">John J. + Nora</text>
+    <text x="319" y="212" font-size="15" fill="#52616a">912 Cumberland</text>
+    <text x="319" y="239" font-size="14" fill="#52616a">Howard W. lives there too</text>
+    <rect x="560" y="119" width="233" height="145" rx="12" fill="white" stroke="#d8dedc"/>
+    <rect x="560" y="119" width="233" height="7" rx="3" fill="#127f82"/>
+    <text x="578" y="153" font-size="15" font-weight="700" fill="#127f82">1930 CENSUS</text>
+    <text x="578" y="184" font-size="21" font-weight="700" fill="#17324c">Mary E., 17</text>
+    <text x="578" y="212" font-size="15" fill="#52616a">912 Cumberland</text>
+    <text x="578" y="239" font-size="14" fill="#52616a">Candy packer; wife “Maud”</text>
+    <rect x="819" y="119" width="239" height="145" rx="12" fill="white" stroke="#d8dedc"/>
+    <rect x="819" y="119" width="239" height="7" rx="3" fill="#127f82"/>
+    <text x="837" y="153" font-size="15" font-weight="700" fill="#127f82">1930–31 DIRECTORY</text>
+    <text x="837" y="184" font-size="21" font-weight="700" fill="#17324c">Elizabeth</text>
+    <text x="837" y="212" font-size="15" fill="#52616a">912 Cumberland</text>
+    <text x="837" y="239" font-size="14" fill="#52616a">Candy packer; John + Nora J.</text>
+    <path d="M275 191 H301 M534 191 H560 M793 191 H819" fill="none" stroke="#879ba0" stroke-width="3"/>
+    <rect x="42" y="298" width="1016" height="104" rx="12" fill="#e9f1ef" stroke="#c9dfd9"/>
+    <text x="64" y="329" font-size="16" font-weight="700" fill="#127f82">1931 marriage → 1940 Gladys household</text>
+    <text x="64" y="355" font-size="15" fill="#17324c">Mary E. Hines marries William H. Blevins; their 1940 household includes G. Louise.</text>
+    <text x="64" y="381" font-size="14" fill="#52616a">Strong proposed John–Mary parent link. Nora / Maud and John’s reported birthplace still need a vital record.</text>
+    <text x="42" y="435" font-size="13" fill="#52616a">Sources: original 1920/1930 census sheets, Bristol Public Library 1929/1930–31 directories, original 1931 marriage license.</text>
+  </g>
+</svg>
