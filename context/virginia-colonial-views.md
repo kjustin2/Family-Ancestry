@@ -26,6 +26,12 @@ Joshua Fry and Peter Jefferson's [1755 map at the Library of Congress](https://w
 
 **What was changing:** The [National Park Service's Piedmont land history](https://home.nps.gov/articles/000/virginia-agriculture-portici-cultural-landscape-manassas.htm) describes growing European settlement after the 1722 Treaty of Albany and increasing reliance on enslaved labor in colonial Virginia. That is regional context only: James's deeds do not reveal who worked his land, what he grew, or his relationship with Indigenous neighbors.
 
+| Around the 1740s | What a resident might have encountered | What Ashley's records actually show |
+| --- | --- | --- |
+| **Land and work** | [National Park Service history](https://home.nps.gov/articles/plantationsystem.htm) describes tobacco as a central cash crop and enslaved labor as integral to the colony's plantation economy. Food crops, livestock and timber also mattered in the Piedmont. | James Blevin's patents/deeds record acreage and sales. They name **no crop, laborer or household**; ownership does not establish wealth retained or enslaved people held. |
+| **Travel and trade** | [NPS's tobacco account](https://www.nps.gov/jame/learn/historyculture/tobacco-colonial-cultivation-methods.htm) explains why large tracts and hogshead transport mattered. The [1749 Alexandria town plan](https://www.loc.gov/item/98687108/) shows a later Potomac trading settlement rather than inland Goochland. | The 1745 deed calls James *of Brunswick*, but gives no route or motive for a move. Alexandria's plan does not show a family address. |
+| **Learning** | [Colonial Williamsburg's education study](https://research.colonialwilliamsburg.org/DigitalLibrary/view/index.cfm?doc=ResearchReports%5CRR0295.xml) describes schooling through tutors, local teachers and apprenticeships, varying by resources and place. | No identified school or literacy record survives in this trail. James signed the 1743 deed **by a mark**; that alone does not reconstruct his childhood education. |
+
 ## One building photographed much later
 
 ![Small outbuilding at Tuckahoe in Goochland County, photographed April 1936](../media/tuckahoe-goochland-1936.jpg)
