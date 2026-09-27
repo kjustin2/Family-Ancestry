@@ -6,7 +6,7 @@ An evidence-led map of Justin and Ashley's family history. **Research snapshot: 
 
 - [Explore the interactive family timeline](explore/timeline.html): filter family lines and centuries, then open events for people, places, evidence and unresolved questions. Open the HTML file in a browser. The [full research timeline](timeline.md) has more detail.
 - [Kramer line](branches/kramer.md): Wilkes-Barre people and the unresolved surname origin.
-- [Cordaro family and Sutera passport](branches/cordaro-passport-lead.md): photographed passport, a cautious portrait date estimate, the [Sutera map](maps/cordaro-sutera-places.svg), Patricia Cordaro Kramer's documented marriage connection, and the unresolved immigration bridge.
+- [Cordaro and Caucci family](branches/cordaro-passport-lead.md): original 1938 and 1962 marriage applications link Patricia to parents Joseph Cordaro and Dina Caucci and identify the preceding generation; a [lineage diagram](maps/cordaro-passport-evidence.svg), [Sutera map](maps/cordaro-sutera-places.svg), family passport and portrait show what is known and what remains open about immigration.
 - [Disqué and Schaaf lines](branches/disque-schaaf.md): Palatinate mill families and a possible migration path.
 - [Bosch, Greener, Froelich, and Andrews leads](branches/other-paternal-lines.md).
 - [Weatherford and Smith neighborhood](branches/weatherford-smith.md), [Weatherford line](branches/weatherford.md), and [Smith line](branches/smith.md): Ashley's Fairfax family, Danville roots, sibling leads, transit work, and three documented parcels.
