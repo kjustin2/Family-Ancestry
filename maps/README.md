@@ -4,6 +4,7 @@
 
 - [Kramer lineage](kramer-lineage.svg) gives each of the three Ferdinand generations a stable label; the 1900 and 1930 census links are solid, while the 1913-to-Fred identity match is dashed.
 - [Baden Kramer candidate](kramer-baden-candidate.svg) sets the 1840 Unadingen birth record beside three Wilkes-Barre censuses; a dotted link and birthplace labels show exactly what is still unproved. [Evidence page](../branches/kramer-baden-candidate.md).
+- [Matthew and Lena's children](kramer-children-1900.svg) combines the nine distinct child names across two censuses and flags the tentative Marcus reading and two unnamed deaths. [Sibling guide](../branches/kramer-eleven-children.md).
 - [Kramer work](kramer-work.svg) places documented occupations, Emil's named employer and Army enlistment in order without presenting one household's wages as a long-term wealth trend.
 - [Bosch connection](bosch-1920-connection.svg) explains why both 1920 census sheets must be read together to identify Rose's parents.
 - [Colette assessments](colette-assessments.svg) charts selected **nominal county property estimates** over time; it does not estimate anyone's net worth.

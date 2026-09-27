@@ -1,0 +1,29 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1240" height="560" viewBox="0 0 1240 560" role="img" aria-labelledby="title desc">
+  <title id="title">The nine possible living children of Matthew and Lena Kramer in 1900</title>
+  <desc id="desc">A nine-card grid combines five children on the 1880 census with six at home in 1900; Julia and Mary occur on both. The six-year-old son in 1880 is tentatively Marcus. Two additional births reported by Lena were deceased by 1900 and remain unnamed.</desc>
+  <rect width="1240" height="560" fill="#f4f1e9"/>
+  <g font-family="Segoe UI,Arial,sans-serif">
+    <text x="30" y="44" font-size="29" fill="#193a4e" font-weight="700">Eleven births. Nine living in 1900.</text>
+    <text x="30" y="72" font-size="16" fill="#4c6069">Original census sheets name a plausible nine-child group across 1880 and 1900.</text>
+    <rect x="30" y="98" width="1180" height="61" rx="11" fill="#183c50"/>
+    <text x="50" y="135" font-size="20" fill="#fff" font-weight="700">Martin / Matthew Kramer + Lena</text>
+    <text x="820" y="135" font-size="16" fill="#d9ece9">Names and birthplaces still vary by record</text>
+    <g stroke="#d4dedc" stroke-width="1.5" fill="#fff">
+      <rect x="30" y="180" width="375" height="92" rx="11"/><rect x="432" y="180" width="375" height="92" rx="11"/><rect x="834" y="180" width="375" height="92" rx="11"/>
+      <rect x="30" y="288" width="375" height="92" rx="11"/><rect x="432" y="288" width="375" height="92" rx="11"/><rect x="834" y="288" width="375" height="92" rx="11"/>
+      <rect x="30" y="396" width="375" height="92" rx="11"/><rect x="432" y="396" width="375" height="92" rx="11"/><rect x="834" y="396" width="375" height="92" rx="11"/>
+    </g>
+    <g fill="#163b4f" font-size="21" font-weight="700">
+      <text x="49" y="213">Lena / “Lenta”</text><text x="451" y="213">Katie / “Kate”</text><text x="853" y="213">Boy, 6 → Marcus?</text>
+      <text x="49" y="321">Julia E.</text><text x="451" y="321">Mary K.</text><text x="853" y="321">Matthew</text>
+      <text x="49" y="429">Ferdinand</text><text x="451" y="429">Louis</text><text x="853" y="429">William F.</text>
+    </g>
+    <g fill="#526570" font-size="15">
+      <text x="49" y="244">1880 census · 1889 directory lead</text><text x="451" y="244">1880 census · 1889 silk-mill job</text><text x="853" y="244">1880 name unclear · 1898 directory</text>
+      <text x="49" y="352">1880 + 1900 · book work</text><text x="451" y="352">1880 + 1900 · dressmaker</text><text x="853" y="352">1900 · born after June 1880 census</text>
+      <text x="49" y="460">1900 · Justin's direct-line ancestor</text><text x="451" y="460">1900 · wagon driver</text><text x="853" y="460">1900 · later bottling works</text>
+    </g>
+    <rect x="30" y="510" width="1180" height="31" rx="8" fill="#eadcc8"/>
+    <text x="47" y="531" font-size="14" fill="#6f4c33">Two other births had died by 1900; their names are unknown. The 1870 older daughters' ages/names conflict with 1880.</text>
+  </g>
+</svg>
