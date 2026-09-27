@@ -1,0 +1,43 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1380" height="565" viewBox="0 0 1380 565" role="img" aria-labelledby="title desc">
+  <title id="title">Three branches behind Edward and Jennie Sponenberg</title>
+  <desc id="desc">A 1915 county biography names Silas Mensinger and Sarah Warntz as Jennie's parents, John Shellhammer and Mary Culp as Hannah's parents, and Edward Hartman and Emma Bomboy as Emma Hartman's parents. A later tree instead calls the last mother Sarah Bomboy, an unresolved conflict. The 1879 Sponenberg Bible independently supports Hannah as mother of John Leonard.</desc>
+  <rect width="1380" height="565" rx="22" fill="#f7f3ec"/>
+  <g font-family="Arial, sans-serif" fill="#243b43">
+    <text x="38" y="51" font-size="29" font-weight="700">Three older branches behind Edward and Jennie</text>
+    <text x="38" y="80" font-size="16" fill="#5b6d70">Parents named in a 1915 Berwick profile · older links need original family records</text>
+    <rect x="35" y="112" width="415" height="338" rx="16" fill="#e8f1e9" stroke="#5c8f78" stroke-width="2"/>
+    <text x="57" y="145" font-size="18" font-weight="700" fill="#346c57">MENSINGER / WARNTZ</text>
+    <text x="57" y="195" font-size="24" font-weight="700">Silas + Sarah Warntz</text>
+    <text x="57" y="222" font-size="16">Silas: carpenter · died 1890</text>
+    <path d="M242 239 V272" stroke="#5c8f78" stroke-width="3"/>
+    <rect x="57" y="273" width="370" height="74" rx="11" fill="#fffdf8" stroke="#9ab9a5"/>
+    <text x="75" y="303" font-size="21" font-weight="700">Jennie Edora Mensinger</text>
+    <text x="75" y="329" font-size="15">born 1872 · wife of Edward J.</text>
+    <text x="57" y="385" font-size="15">Five other children named in profile</text>
+    <text x="57" y="412" font-size="14" fill="#5b6d70">Parent link: 1915 retrospective account</text>
+    <rect x="482" y="112" width="415" height="338" rx="16" fill="#e5edf6" stroke="#6d88aa" stroke-width="2"/>
+    <text x="504" y="145" font-size="18" font-weight="700" fill="#42668e">SHELLHAMMER / CULP</text>
+    <text x="504" y="195" font-size="24" font-weight="700">John + Mary Culp</text>
+    <path d="M689 210 V242" stroke="#6d88aa" stroke-width="3"/>
+    <rect x="504" y="243" width="370" height="72" rx="11" fill="#fffdf8" stroke="#a7b9cc"/>
+    <text x="522" y="273" font-size="21" font-weight="700">Hannah Shellhammer</text>
+    <text x="522" y="298" font-size="15">married Daniel Sponenberg, 1829</text>
+    <path d="M689 315 V335" stroke="#6d88aa" stroke-width="3"/>
+    <text x="522" y="364" font-size="18" font-weight="700">John Leonard → Edward J.</text>
+    <text x="504" y="412" font-size="14" fill="#5b6d70">Bible supports Hannah → John Leonard</text>
+    <rect x="929" y="112" width="416" height="338" rx="16" fill="#faeee0" stroke="#b98255" stroke-width="2"/>
+    <text x="951" y="145" font-size="18" font-weight="700" fill="#99613a">HARTMAN / BOMBOY</text>
+    <text x="951" y="195" font-size="24" font-weight="700">Edward + Emma Bomboy</text>
+    <path d="M1136 210 V242" stroke="#b98255" stroke-width="3"/>
+    <rect x="951" y="243" width="370" height="72" rx="11" fill="#fffdf8" stroke="#d2b69d"/>
+    <text x="969" y="273" font-size="21" font-weight="700">Emma Hartman</text>
+    <text x="969" y="298" font-size="15">wife of John Leonard</text>
+    <text x="951" y="363" font-size="15" font-weight="700" fill="#9d543b">Mother's first name disputed</text>
+    <text x="951" y="390" font-size="14">Later tree says Sarah Bomboy</text>
+    <text x="951" y="415" font-size="14" fill="#5b6d70">Find a baptism or marriage original</text>
+    <rect x="35" y="476" width="1310" height="59" rx="10" fill="#fffdf9" stroke="#ded3c2"/>
+    <text x="54" y="501" font-size="15" font-weight="700">Reading key</text>
+    <text x="156" y="501" font-size="15">All three earliest parent links come from one 1915 profile; the Bible supplies a second source for Hannah → John Leonard.</text>
+    <text x="54" y="524" font-size="14" fill="#5b6d70">Source and conflict links are on the accompanying Raber–Kreischer–Sponenberg branch page.</text>
+  </g>
+</svg>
