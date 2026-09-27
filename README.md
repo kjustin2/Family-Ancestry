@@ -6,11 +6,12 @@ An evidence-led map of Justin and Ashley's family history. **Research snapshot: 
 
 - [Explore the interactive family timeline](explore/timeline.html): filter family lines and centuries, then open events for people, places, evidence and unresolved questions. Open the HTML file in a browser. The [full research timeline](timeline.md) has more detail.
 - [Kramer line](branches/kramer.md): Wilkes-Barre people and the unresolved surname origin.
-- [Sutera Italian passport lead](branches/cordaro-passport-lead.md): family-held photos, a cautious transcription and the open Cordaro/Cadaros-to-Kramer connection.
+- [Cordaro family and Sutera passport](branches/cordaro-passport-lead.md): photographed passport, Patricia Cordaro Kramer's documented marriage connection, her family-reported sisters, and the unresolved immigration bridge.
 - [Disqué and Schaaf lines](branches/disque-schaaf.md): Palatinate mill families and a possible migration path.
 - [Bosch, Greener, Froelich, and Andrews leads](branches/other-paternal-lines.md).
 - [Weatherford and Smith neighborhood](branches/weatherford-smith.md), [Weatherford line](branches/weatherford.md), and [Smith line](branches/smith.md): Ashley's Fairfax family, Danville roots, sibling leads, transit work, and three documented parcels.
 - [Weatherford–Smith generations](branches/weatherford-smith-generations.md): birth/death status and the full named sibling groups, with a [family-layer diagram](maps/weatherford-smith-generations.svg).
+- [Weatherfords before George](branches/weatherford-early-virginia.md): 1850–84 Halifax and Pittsylvania record trail, [evidence diagram](maps/weatherford-early-virginia.svg), and the earliest supported U.S. residence for Ashley's Weatherford branch.
 - [Monty's corgi family](branches/monty.md): his AKC certificate, birth and sire timeline, known parents and proposed older paternal line, with an [evidence-marked pedigree](maps/monty-pedigree.svg).
 - [Deep Blevins research](branches/blevins-deep-lineage.md): the colonial member-tree trail, Shubiel's Civil War lead, original records, and [evidence ladder](maps/blevins-deep-lineage.svg).
 - [James Blevins and early Virginia settlement](branches/blevins-colonial-james.md): hunters on Smith River, the Peach Bottom land case, and a [timeline that separates the different James men](maps/blevins-early-settlement.svg).

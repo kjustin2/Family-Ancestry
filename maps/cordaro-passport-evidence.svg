@@ -1,21 +1,32 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="920" height="220" viewBox="0 0 920 220" role="img" aria-labelledby="title desc">
-  <title id="title">Sutera passport evidence and the missing family link</title>
-  <desc id="desc">The photographed Italian passport places a provisional Cordaro Onofrio in Sutera, Sicily. His journey to America and relationship to the Kramer family remain unproved.</desc>
-  <rect width="920" height="220" rx="20" fill="#f7f3ec"/>
-  <text x="30" y="37" fill="#24333a" font-family="Arial,sans-serif" font-size="21" font-weight="700">What the passport establishes</text>
-  <rect x="30" y="65" width="260" height="99" rx="12" fill="#214d58"/>
-  <text x="47" y="94" fill="#fff" font-family="Arial,sans-serif" font-size="17" font-weight="700">Sutera, Sicily</text>
-  <text x="47" y="119" fill="#e3f2ef" font-family="Arial,sans-serif" font-size="15">Birth appears 13 Jan 1878</text>
-  <text x="47" y="143" fill="#e3f2ef" font-family="Arial,sans-serif" font-size="15">Farm worker on passport</text>
-  <path d="M290 114 H329" stroke="#87989a" stroke-width="3" stroke-dasharray="6 5"/>
-  <rect x="329" y="65" width="260" height="99" rx="12" fill="#fff" stroke="#b0a38e" stroke-width="2"/>
-  <text x="346" y="94" fill="#24333a" font-family="Arial,sans-serif" font-size="17" font-weight="700">Journey unknown</text>
-  <text x="346" y="119" fill="#495b60" font-family="Arial,sans-serif" font-size="15">No visa, ship or arrival</text>
-  <text x="346" y="143" fill="#495b60" font-family="Arial,sans-serif" font-size="15">shown in these photos</text>
-  <path d="M589 114 H628" stroke="#87989a" stroke-width="3" stroke-dasharray="6 5"/>
-  <rect x="628" y="65" width="262" height="99" rx="12" fill="#fff" stroke="#b0a38e" stroke-width="2"/>
-  <text x="645" y="94" fill="#24333a" font-family="Arial,sans-serif" font-size="17" font-weight="700">Kramer link open</text>
-  <text x="645" y="119" fill="#495b60" font-family="Arial,sans-serif" font-size="15">Grandmother's name and</text>
-  <text x="645" y="143" fill="#495b60" font-family="Arial,sans-serif" font-size="15">intervening records needed</text>
-  <text x="30" y="194" fill="#495b60" font-family="Arial,sans-serif" font-size="13">Solid = photographed passport; dashed = research path, not a documented migration or pedigree.</text>
+<svg xmlns="http://www.w3.org/2000/svg" width="1000" height="280" viewBox="0 0 1000 280" role="img" aria-labelledby="title desc">
+  <title id="title">Cordaro evidence path from Sutera to Justin</title>
+  <desc id="desc">Passport-holder Onofrio in Sutera is not yet connected to Patricia Cordaro Kramer. Patricia and sisters Joan, Mary, and Toni are family identified. Ferdinand Fred Kramer's obituary names Patricia as wife and Paul as son.</desc>
+  <rect width="1000" height="280" rx="18" fill="#f7f3ec"/>
+  <text x="28" y="42" font-family="Arial,sans-serif" font-size="24" font-weight="700" fill="#24333a">Cordaro: the American link and the missing bridge</text>
+  <text x="28" y="68" font-family="Arial,sans-serif" font-size="15" fill="#495b60">Dashed = a family possibility or missing record. Solid = named family or obituary relationship.</text>
+  <g font-family="Arial,sans-serif">
+    <rect x="28" y="99" width="218" height="112" rx="12" fill="#214d58"/>
+    <text x="44" y="124" font-size="14" font-weight="700" fill="#d5eae6">SUTERA PASSPORT</text>
+    <text x="44" y="150" font-size="19" font-weight="700" fill="#fff">Onofrio? Cordaro</text>
+    <text x="44" y="175" font-size="14" fill="#e3f2ef">Farmer · birth ~1878?</text>
+    <text x="44" y="196" font-size="14" fill="#e3f2ef">Voyage unproved</text>
+    <rect x="280" y="99" width="200" height="112" rx="12" fill="#fff" stroke="#b0a38e" stroke-width="2"/>
+    <text x="296" y="124" font-size="14" font-weight="700" fill="#a05416">MISSING RECORDS</text>
+    <text x="296" y="150" font-size="19" font-weight="700" fill="#24333a">Patricia's parents</text>
+    <text x="296" y="175" font-size="14" fill="#495b60">Birth/household proof</text>
+    <text x="296" y="196" font-size="14" fill="#495b60">plus immigration record</text>
+    <rect x="514" y="99" width="240" height="112" rx="12" fill="#e7eeff" stroke="#5c6ba0"/>
+    <text x="530" y="124" font-size="14" font-weight="700" fill="#5c6ba0">U.S. FAMILY</text>
+    <text x="530" y="150" font-size="19" font-weight="700" fill="#24333a">Patricia Cordaro</text>
+    <text x="530" y="175" font-size="14" fill="#495b60">Sisters: Joan, Mary, Toni</text>
+    <text x="530" y="196" font-size="14" fill="#495b60">Siblings: family report</text>
+    <rect x="788" y="99" width="184" height="112" rx="12" fill="#dcefeb" stroke="#127f82"/>
+    <text x="804" y="124" font-size="14" font-weight="700" fill="#127f82">2023 OBITUARY</text>
+    <text x="804" y="150" font-size="19" font-weight="700" fill="#24333a">Fred + Patricia</text>
+    <text x="804" y="175" font-size="14" fill="#495b60">Son Paul Kramer</text>
+    <text x="804" y="196" font-size="14" fill="#495b60">Justin's father</text>
+  </g>
+  <path d="M246 155 H280 M480 155 H514" fill="none" stroke="#968c80" stroke-width="3" stroke-dasharray="7 5"/>
+  <path d="M754 155 H788" fill="none" stroke="#127f82" stroke-width="3"/>
+  <text x="28" y="249" font-family="Arial,sans-serif" font-size="14" fill="#495b60">Next: a record naming Patricia and at least one sister with their parents; then test the passport against that household.</text>
 </svg>
