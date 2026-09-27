@@ -1,5 +1,7 @@
 # Kramer: the Wilkes-Barre line
 
+The [Unadingen household diagram and source table](kramer-unadingen-household.md) show a Baden Kramer family with twelve indexed children. Their son Matthäus shares the Pennsylvania Matthew's reported August 1840 birth month, but an American parent or birthplace record is still needed to join the two men.
+
 ## Working lineage
 
 ![Kramer working lineage showing three distinct Ferdinand generations and uncertain links](../maps/kramer-lineage.svg)

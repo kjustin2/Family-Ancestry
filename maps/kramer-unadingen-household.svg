@@ -1,0 +1,52 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1180" height="600" viewBox="0 0 1180 600" role="img" aria-labelledby="title desc">
+  <title id="title">The documented Unadingen Kramer household, 1776 to 1878</title>
+  <desc id="desc">An original 1812 register identifies Bernhard's parents Blasius Kramer and Agathe Huber. Bernhard and Maria Huber have eleven separately indexed child baptisms and one additional parent-naming child marriage entry from 1840 to 1861. Four children have childhood burial indexes. A question box keeps this German family separate from the Pennsylvania Matthew Kramer.</desc>
+  <rect width="1180" height="600" fill="#f5f1e8"/>
+  <g font-family="Segoe UI,Arial,sans-serif">
+    <text x="28" y="43" fill="#183c50" font-size="27" font-weight="700">One Baden household · twelve named children</text>
+    <text x="28" y="70" fill="#50626b" font-size="15">Eleven baptisms + Marcus's marriage entry. Coral cards have childhood burial indexes.</text>
+    <rect x="28" y="92" width="345" height="68" rx="12" fill="#e6efed" stroke="#45857f" stroke-width="2"/>
+    <text x="45" y="119" fill="#204c54" font-size="17" font-weight="700">Blasius Kramer + Agathe Huber</text>
+    <text x="45" y="143" fill="#4d6069" font-size="14">1806 marriage index · 1812 original names them</text>
+    <line x1="373" y1="126" x2="408" y2="126" stroke="#45857f" stroke-width="2"/>
+    <rect x="408" y="92" width="345" height="68" rx="12" fill="#e6efed" stroke="#45857f" stroke-width="2"/>
+    <text x="425" y="119" fill="#204c54" font-size="17" font-weight="700">Bernhard Kramer + Maria Huber</text>
+    <text x="425" y="143" fill="#4d6069" font-size="14">1839 marriage · Bernhard buried 1874</text>
+    <line x1="580" y1="160" x2="580" y2="181" stroke="#45857f" stroke-width="2"/>
+    <text x="28" y="207" fill="#183c50" font-size="18" font-weight="700">Children recorded, 1840–1861</text>
+    <g fill="#fff" stroke="#a8c3bf" stroke-width="1.5">
+      <rect x="28" y="221" width="176" height="80" rx="9"/><rect x="218" y="221" width="176" height="80" rx="9"/>
+      <rect x="408" y="221" width="176" height="80" rx="9"/><rect x="598" y="221" width="176" height="80" rx="9"/>
+      <rect x="788" y="221" width="176" height="80" rx="9"/><rect x="978" y="221" width="176" height="80" rx="9"/>
+      <rect x="28" y="315" width="176" height="80" rx="9"/><rect x="218" y="315" width="176" height="80" rx="9"/>
+      <rect x="408" y="315" width="176" height="80" rx="9"/><rect x="598" y="315" width="176" height="80" rx="9"/>
+      <rect x="788" y="315" width="176" height="80" rx="9"/><rect x="978" y="315" width="176" height="80" rx="9"/>
+    </g>
+    <g fill="#fff2eb" stroke="#c87f60" stroke-width="2">
+      <rect x="218" y="221" width="176" height="80" rx="9"/>
+      <rect x="978" y="221" width="176" height="80" rx="9"/>
+      <rect x="598" y="315" width="176" height="80" rx="9"/>
+      <rect x="788" y="315" width="176" height="80" rx="9"/>
+    </g>
+    <g fill="#263c45" font-size="16" font-weight="700">
+      <text x="42" y="250">Matthäus</text><text x="232" y="250">Wilhelm</text><text x="422" y="250">Juliana</text>
+      <text x="612" y="250">Paulina</text><text x="802" y="250">Johann Georg</text><text x="992" y="250">Bartholomä</text>
+      <text x="42" y="344">Marcus</text><text x="232" y="344">Maria Anna</text><text x="422" y="344">Ferdinand</text>
+      <text x="612" y="344">Maria</text><text x="802" y="344">Katharina</text><text x="992" y="344">Robert</text>
+    </g>
+    <g fill="#52656c" font-size="14">
+      <text x="42" y="278">bapt. 1840</text><text x="232" y="278">1842 · buried 1843</text><text x="422" y="278">bapt. 1844</text>
+      <text x="612" y="278">bapt. 1846</text><text x="802" y="278">bapt. 1848</text><text x="992" y="278">1849 · buried 1849</text>
+      <text x="42" y="372">born 1851, indexed</text><text x="232" y="372">bapt. 1852</text><text x="422" y="372">bapt. 1853</text>
+      <text x="612" y="372">1855 · buried 1855</text><text x="802" y="372">1856 · buried 1857</text><text x="992" y="372">bapt. 1861</text>
+    </g>
+    <rect x="28" y="424" width="712" height="72" rx="12" fill="#e6efed"/>
+    <text x="46" y="453" fill="#204c54" font-size="16" font-weight="700">1878: children give 100 marks for a memorial Mass</text>
+    <text x="46" y="478" fill="#4d6069" font-size="14">The notice names no donor or individual share; it says nothing about estate wealth.</text>
+    <rect x="759" y="424" width="395" height="72" rx="12" fill="#fff4e6" stroke="#c58d51" stroke-dasharray="7 5"/>
+    <text x="776" y="453" fill="#915d28" font-size="16" font-weight="700">Pennsylvania Matthew: identity open</text>
+    <text x="776" y="478" fill="#6b675f" font-size="14">Same birth month and year; parents/place unproved.</text>
+    <text x="28" y="541" fill="#52656c" font-size="14">Original 1812 and 1839 registers + FamilySearch Freiburg indexes + 1878 church notice. See linked source table.</text>
+    <text x="28" y="565" fill="#52656c" font-size="14">Baptism dates are not automatically birth dates; no cause of childhood deaths is recorded here.</text>
+  </g>
+</svg>

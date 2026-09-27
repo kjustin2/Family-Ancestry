@@ -32,6 +32,12 @@ For **Berwick**, where Paul Miller's family lived, the [Berwick Historical Socie
 
 Public Square looking toward East Market Street, circa 1930–1945. [Boston Public Library Tichnor Brothers postcard via Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Public_Square_looking_towards_East_Market_Street,_Wilkes-Barre,_Pa_(78881).jpg); public domain in the United States. It depicts the city around the time of some later Kramer generations, not their house. For flood-era comparison, see [Wilkes University's historic before/after photographs](https://www.wilkes.edu/academics/library/agnes-flood-walking-tour/main-street.aspx).
 
+## Unadingen, Baden
+
+![St. Georg village church in a 2020 photograph](unadingen-st-georg-church-2020.jpg)
+
+[Rauenstein's original 2020 photograph](https://commons.wikimedia.org/wiki/File:Unadingen,_Kirche_St._Georg.jpg), [CC BY-SA 3.0](https://creativecommons.org/licenses/by-sa/3.0/), unmodified. The [village's church history](https://unadingen.de/kirche/) dates the tower roughly to the sixteenth century and the present nave to the 1930s. It shows a surviving piece of the village environment where the [Bernhard–Maria Huber Kramer household](../branches/kramer-unadingen-household.md) was recorded; it is **not a period portrait, identified family building, or evidence that the Pennsylvania Matthew came from here**. See also the [original 1812 register page](../sources/records/bernhard-kramer-baptism-1812.jpg).
+
 ## Knittelsheim, Palatinate
 
 ![Former Knittelsheim mill photographed in 2026](knittelsheim-mill.jpg)
