@@ -4,7 +4,7 @@
 
 The newly checked [Samuel W. Weatherford profile KH39-V7H](https://www.familysearch.org/en/tree/person/details/KH39-V7H) is a strong match for that household and links an [1829 Samuel–Jane Ricketts marriage index](https://www.familysearch.org/ark:/61903/1:1:68TK-RBB5?lang=en). **It lists no parents for Samuel**; it adds context within the U.S., not an immigration date. [Short milestones for both of Ashley's parental sides](ashley-us-timeline.md).
 
-The [1880 census index](https://www.myheritage.com/research/record-10129-86952756/samuel-wetherford-in-1880-united-states-federal-census) says **Samuel's parents were born in Virginia**. This is a valuable generational clue, but it does not name them or date the family's first arrival. MyHeritage member trees naming **Jackson Weatherford and Martha McCampbell** need a direct parent-child record before inclusion in the established line.
+The [original 1880 census](../sources/records/samuel-jane-weatherford-census-1880.jpg) says **Samuel's parents were born in Virginia**. This is a valuable generational clue, but it does not name them or date the family's first arrival. MyHeritage member trees naming **Jackson Weatherford and Martha McCampbell** need a direct parent-child record before inclusion in the established line.
 
 | Ashley's branch | Furthest person securely named here | Arrival status |
 | --- | --- | --- |
