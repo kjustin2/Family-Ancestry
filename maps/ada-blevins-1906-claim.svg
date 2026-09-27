@@ -1,0 +1,29 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 285" role="img" aria-labelledby="title desc">
+  <title id="title">The maternal ancestry Ada Blevins described in 1906</title>
+  <desc id="desc">Four generations from Ned Sizemore to Lydia Sizemore and James Blevins, their daughter Polly Blevins Thompson, and her daughter Ada Thompson Blevins. Dashed connectors mark Ada's self-reported relationships, which are not independently proved. An 1880 census separately supports the Thompson connection.</desc>
+  <rect width="1200" height="285" rx="22" fill="#f4f0e8"/>
+  <text x="35" y="42" fill="#193548" font-family="Segoe UI,Arial,sans-serif" font-size="24" font-weight="700">Ada's 1906 account of her mother's line</text>
+  <text x="35" y="69" fill="#52636c" font-family="Segoe UI,Arial,sans-serif" font-size="15">Names from her sworn application · relationships beyond Polly need separate records</text>
+  <g fill="none" stroke="#a56c46" stroke-width="3" stroke-dasharray="8 7">
+    <path d="M246 155H315"/><path d="M557 155H626"/><path d="M868 155H937"/>
+  </g>
+  <g fill="#a56c46"><path d="m315 155-11-7v14z"/><path d="m626 155-11-7v14z"/><path d="m937 155-11-7v14z"/></g>
+  <g font-family="Segoe UI,Arial,sans-serif">
+    <rect x="35" y="101" width="211" height="109" rx="12" fill="#fffaf3" stroke="#c7b39b"/>
+    <text x="51" y="137" fill="#193548" font-size="21" font-weight="700">Ned Sizemore</text>
+    <text x="51" y="169" fill="#566771" font-size="15">claimed earlier ancestor</text>
+    <rect x="315" y="101" width="242" height="109" rx="12" fill="#fffaf3" stroke="#c7b39b"/>
+    <text x="331" y="135" fill="#193548" font-size="18" font-weight="700">Lydia Sizemore</text>
+    <text x="331" y="160" fill="#193548" font-size="18">+ James Blevins</text>
+    <text x="331" y="189" fill="#566771" font-size="14">Ada's claimed grandparents</text>
+    <rect x="626" y="101" width="242" height="109" rx="12" fill="#fffaf3" stroke="#c7b39b"/>
+    <text x="642" y="135" fill="#193548" font-size="18" font-weight="700">Polly Blevins</text>
+    <text x="642" y="160" fill="#193548" font-size="18">+ John Thompson</text>
+    <text x="642" y="189" fill="#566771" font-size="14">mother named by Ada</text>
+    <rect x="937" y="101" width="228" height="109" rx="12" fill="#e0efec" stroke="#70a29b"/>
+    <text x="953" y="135" fill="#193548" font-size="18" font-weight="700">Ada Thompson</text>
+    <text x="953" y="160" fill="#193548" font-size="18">Blevins</text>
+    <text x="953" y="189" fill="#466963" font-size="14">1906 applicant</text>
+    <text x="35" y="249" fill="#52636c" font-size="15">Dashed = Ada's report. The 1880 census separately names Mary Thompson as Shubiel's mother-in-law and Wiley Thompson as brother-in-law.</text>
+  </g>
+</svg>
