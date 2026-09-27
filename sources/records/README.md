@@ -2,7 +2,11 @@
 
 These are saved copies for reading alongside the [interactive timeline](../../explore/timeline.html). The original source link and the limit of each identification stay with the image. A record image depicts a document, **not** the person named in it.
 
-### Rhode Island Blevins research lead
+### Northeast Blevin research leads
+
+<a href="james-blevin-oyster-bay-deed-1687-p437.jpg"><img src="james-blevin-oyster-bay-deed-1687-p437.jpg" alt="1916 printed Oyster Bay town-book transcription of James and An Blevin deed" width="310"></a>
+
+The [public 1916 Oyster Bay town-record scan](https://archive.org/details/oysterbaytownrec01coxj), vol. 1, supplies five saved **printed-page** images: [1678 land record pp. 114](james-bleving-oyster-bay-land-1678-p114.jpg) and [115](james-bleving-oyster-bay-land-1678-p115.jpg) (PDF 132–33); [1683 country-rate list p. 691](james-bleving-oyster-bay-estate-list-1683-p691.jpg) (PDF 709); [1686/7 sailor deed pp. 436](james-blevin-oyster-bay-deed-1687-p436.jpg) and [437](james-blevin-oyster-bay-deed-1687-p437.jpg) (PDF 454–55). The deed calls James a sailor, names wife An and excepts Applegate land from a £14 sale. These are **published transcriptions, not original manuscript images or portraits**; neither the move to Westerly nor Ashley's descent is proved. [Evidence guide](../../branches/blevins-rhode-island-lead.md).
 
 <a href="edward-bliven-profile-cutter-1915-p42.jpg"><img src="edward-bliven-profile-cutter-1915-p42.jpg" alt="1915 New England Families page with Edward Bliven of Westerly profile" width="310"></a>
 

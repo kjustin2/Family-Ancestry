@@ -1,0 +1,24 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 425" role="img" aria-labelledby="title desc">
+<title id="title">Early Blevin records in New York, Rhode Island and Virginia</title>
+<desc id="desc">Four dated record clusters: 1678 to 1687 Oyster Bay James and An, 1691 Westerly Edward and Isabel, reported 1714 Westerly James and Ann, and a reported 1771 Virginia claim to Rhode Island land. Dashed arrows mark unproved identity and kinship.</desc>
+<style>text{font-family:Arial,sans-serif;fill:#17323b}.title{font-size:27px;font-weight:700}.sub{font-size:15px}.date{font-size:20px;font-weight:700}.head{font-size:16px;font-weight:700}.body{font-size:13px}.fine{font-size:12px}.card{fill:#fff;stroke:#5c8084;stroke-width:2;rx:15}.lead{fill:#fdf2e5;stroke:#af7348}.line{stroke:#a96c47;stroke-width:3;stroke-dasharray:8 7;fill:none}.chip{fill:#e4efe9}.chiptext{font-size:12px;font-weight:700;fill:#286551}</style>
+<rect width="1200" height="425" fill="#f8faf7"/>
+<text id="title" x="25" y="47" class="title">The Blevin trail: records before relationships</text>
+<text x="25" y="76" class="sub">Scans and citations accompany the research page. Dashed arrows show questions, not proved descent.</text>
+<path d="M294 183H315 M589 183H610 M884 183H905" class="line"/>
+<rect class="card" x="20" y="112" width="274" height="179"/>
+<text x="38" y="145" class="date">1678–1687</text><text x="38" y="175" class="head">Oyster Bay, New York</text>
+<text x="38" y="201" class="body">James buys land; 1683 rate £20.</text><text x="38" y="223" class="body">A deed calls him a sailor and</text><text x="38" y="245" class="body">shows wife An's mark.</text><rect class="chip" x="38" y="261" width="171" height="21" rx="10"/><text x="48" y="276" class="chiptext">Printed town-book records</text>
+<rect class="card lead" x="315" y="112" width="274" height="179"/>
+<text x="333" y="145" class="date">1691</text><text x="333" y="175" class="head">Westerly, Rhode Island</text>
+<text x="333" y="201" class="body">Edward + Isabel Maccoon:</text><text x="333" y="223" class="body">marriage reported in a later</text><text x="333" y="245" class="body">genealogy; date conflicts online.</text><text x="333" y="276" class="fine">Original register still to inspect</text>
+<rect class="card lead" x="610" y="112" width="274" height="179"/>
+<text x="628" y="145" class="date">1714/15</text><text x="628" y="175" class="head">Westerly deed, reported</text>
+<text x="628" y="201" class="body">James Sr. + Ann; James Jr. +</text><text x="628" y="223" class="body">Margery. Same couple as the</text><text x="628" y="245" class="body">Oyster Bay James + An?</text><text x="628" y="276" class="fine">Original deed still to inspect</text>
+<rect class="card lead" x="905" y="112" width="274" height="179"/>
+<text x="923" y="145" class="date">1771</text><text x="923" y="175" class="head">Virginia → RI claim</text>
+<text x="923" y="201" class="body">Daniel Sr. + son Daniel Jr.</text><text x="923" y="223" class="body">reportedly sought Westerly land.</text><text x="923" y="245" class="body">Who were their forebears?</text><text x="923" y="276" class="fine">Original deed still to inspect</text>
+<rect x="20" y="319" width="1159" height="70" rx="12" fill="#e7eeed"/>
+<text x="39" y="346" class="head">The open bridge to Ashley</text><text x="39" y="370" class="body">William Howard → Gladys → Alice is the recent path. William Elkanah → William Howard and all earlier Northeast connections need proof.</text>
+<text x="25" y="411" class="fine">Sources and limits: branches/blevins-rhode-island-lead.md · Oyster Bay Town Records (1916), pp. 114–15, 436–37, 691 · Shirley, PDF pp. 174, 181–84</text>
+</svg>
