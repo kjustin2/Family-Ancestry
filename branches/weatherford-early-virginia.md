@@ -2,6 +2,10 @@
 
 ![Evidence path from Samuel and Jane's 1850 household to George's 1884 marriage](../maps/weatherford-early-virginia.svg)
 
+![Original 1855 Halifax County marriage-register spread, including the indexed Thomas Weatherford and Julia Oakes entry](../sources/records/halifax-weatherford-oakes-marriage-register-1855.jpg)
+
+The [full-size 1855 register](../sources/records/halifax-weatherford-oakes-marriage-register-1855.jpg) is saved with its [FamilySearch source](https://www.familysearch.org/ark:/61903/3:1:3QS7-L9XF-29M3-F?view=index&personArk=%2Fark%3A%2F61903%2F1%3A1%3A68TT-61CV&action=view&lang=en&groupId=M98Y-PF6). It contains many couples on one spread; the index identifies the Weatherford–Oakes entry. Handwriting and the later **Asa T.** naming difference still require close comparison.
+
 **Earliest well-supported household:** In [1850](https://www.familysearch.org/ark:/61903/1:1:M8D3-227?lang=en), **Samuel and Jane Wetherford** lived in Banister district, Halifax County, Virginia. The census calls both **Virginia-born** and lists a 17-year-old **Thomas** in their household. Their birth years are only estimates from census ages: roughly **1810** and **1812**. Neither parent is named in that record. The FamilySearch tree's more exact life dates and Jane's **Ricketts** maiden name remain leads until matched to original records.
 
 | When | What the record actually connects | Confidence |

@@ -1,0 +1,21 @@
+# Original images and identified family portrait
+
+These are saved copies for reading alongside the [interactive timeline](../../explore/timeline.html). The original source link and the limit of each identification stay with the image. A record image depicts a document, **not** the person named in it.
+
+| Year | Image | What to look for |
+| --- | --- | --- |
+| **1855** | [Halifax Weatherford–Oakes marriage-register spread](halifax-weatherford-oakes-marriage-register-1855.jpg) · [FamilySearch original](https://www.familysearch.org/ark:/61903/3:1:3QS7-L9XF-29M3-F?view=index&personArk=%2Fark%3A%2F61903%2F1%3A1%3A68TT-61CV&action=view&lang=en&groupId=M98Y-PF6) | The indexed Thos E Weatherford / Julia Oakes entry sits among many couples. The handwriting and Thos E / later Asa T identity still need comparison. Full spread retained so the columns remain interpretable. |
+| **1938** | [Joseph Cordaro–Dena Caucci application](cordaro-caucci-marriage-1938.jpg) · [FamilySearch index](https://www.familysearch.org/ark:/61903/1:1:VF7D-NP2?lang=en) | The relevant couple is on the **right-hand page**; the adjacent page belongs to another couple. Both sets of parents are named. |
+| **1940** | [Emil Carl Kramer's signed draft card, front and back](emil-carl-kramer-draft-registration-1940.jpg) · [FamilySearch original](https://www.familysearch.org/ark:/61903/3:1:3Q9M-CSW4-4QGH-W?view=index&personArk=%2Fark%3A%2F61903%2F1%3A1%3AQ2SF-63JK&action=view&lang=en) | His signature, father as contact, and **American Chain & Cable** employer. Draft registration alone does not establish service. |
+| **1941** | [Emil Kramer–Victoria Giampietro marriage application](emil-kramer-victoria-giampietro-marriage-1941.jpg) · [FamilySearch original](https://www.familysearch.org/ark:/61903/3:1:33S7-9PR4-97SS?view=index&personArk=%2Fark%3A%2F61903%2F1%3A1%3AKHFH-X3X&action=view&lang=en) | Their application is on the **right-hand page**: Emil's rope-*strander* job and parents Ferdinand and Rose Bosch. The left page is another couple. |
+| **1951** | [Ferdinand Kramer (born c. 1882) death certificate](ferdinand-kramer-1882-death-certificate-1951.jpg) · [FamilySearch memory](https://www.familysearch.org/memories/memory/122055960) | File **54227**; reports father **Matthew Kramer**, mother **Matilda Dasque**, death **5 June 1951**, and retired wire-rope foreman. The memory is **mistakenly attached to the profile of Ferdinand Louis (1913–1976)**; its own date, age, occupation and parents identify the older man. Compare “Matilda Dasque” with chart “Magdalena Disque” before merging names. |
+| **1976** | [Ferdinand Louis Kramer obituary clipping](ferdinand-louis-kramer-obituary-1976.jpg) · [FamilySearch memory](https://www.familysearch.org/memories/memory/122055961) | Reports G.A.R. High School and National Radio Institute studies; over **44 years at American Chain & Cable**, later **Bridon Industries**, retirement in 1975. A newspaper family notice, not an employer personnel record. |
+| **2004** | [Emil Carl Kramer obituary clipping](emil-carl-kramer-obituary-2004.jpg) · [FamilySearch memory](https://www.familysearch.org/memories/memory/122056249) | Reports Army service in the Middle Eastern Theater, a **Purple Heart** and “**three Bronze Stars**,” and **36 years as an ACCO machinist**. The phrase does not by itself establish whether the stars were Bronze Star Medals or bronze campaign/service stars. Seek his discharge and award record. |
+
+## A person, not just paperwork
+
+![Undated portrait tagged as Hilda Kramer Wolosz](../family/hilda-kramer-wolosz-portrait-undated.jpg)
+
+This [FamilySearch memory](https://www.familysearch.org/memories/memory/122056242) was uploaded by **Cindy Lee Eppich** on **25 February 2021** and tagged **Hilda M. Kramer Wolosz (1921–2020)**. The image supplies **no exposure date** or original photographer. Hilda's [published obituary](https://www.legacy.com/us/obituaries/citizensvoice/name/hilda-wolosz-obituary?id=7822560) independently connects her to parents Ferdinand and Rose Bosch Kramer. The portrait identification is contributor-supplied; a labeled family original would strengthen it.
+
+The 1976 and 2004 newspaper clippings were uploaded by the same contributor in 2021; neither clipping itself gives a newspaper masthead or issue page. Do not treat an upload date as the date of a photograph or news item.
