@@ -1,0 +1,44 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1180" height="615" viewBox="0 0 1180 615" role="img" aria-labelledby="title desc">
+  <title id="title">Family place sequences: Pennsylvania and Virginia</title>
+  <desc id="desc">Approximate town-center maps show the maternal Muncy Valley to Berwick to Muncy regional sequence, the paternal Wilkes-Barre to Muncy generational connection, Cordaro West Wyoming evidence, and the Weatherford Danville to Franconia sequence. Dashes indicate unknown move dates and routes. The Pennsylvania and Virginia panels use different scales. No living home is pinned.</desc>
+  <defs>
+    <marker id="gold-tip" markerUnits="userSpaceOnUse" markerWidth="10" markerHeight="10" refX="8" refY="5" orient="auto"><path d="M0 0L9 5 0 10Z" fill="#b36a20"/></marker>
+    <marker id="teal-tip" markerUnits="userSpaceOnUse" markerWidth="10" markerHeight="10" refX="8" refY="5" orient="auto"><path d="M0 0L9 5 0 10Z" fill="#177783"/></marker>
+    <marker id="violet-tip" markerUnits="userSpaceOnUse" markerWidth="10" markerHeight="10" refX="8" refY="5" orient="auto"><path d="M0 0L9 5 0 10Z" fill="#725a99"/></marker>
+  </defs>
+  <rect width="1180" height="615" rx="22" fill="#f7f6f2"/>
+  <text x="38" y="52" font-family="Arial,sans-serif" font-size="30" font-weight="700" fill="#173b4a">Places across generations</text>
+  <text x="38" y="80" font-family="Arial,sans-serif" font-size="16" fill="#596970">Town centers only · dashed paths mean missing move dates · panels have different scales</text>
+  <rect x="34" y="105" width="690" height="405" rx="16" fill="#e9f0ef"/>
+  <rect x="742" y="105" width="404" height="405" rx="16" fill="#efeaf1"/>
+  <g stroke="#cad8d6" stroke-width="1"><path d="M80 185H680M80 285H680M80 385H680M180 150V470M330 150V470M480 150V470M630 150V470"/></g>
+  <g stroke="#d8d0dd" stroke-width="1"><path d="M775 210H1110M775 315H1110M775 420H1110M860 160V470M980 160V470"/></g>
+  <g font-family="Arial,sans-serif">
+    <text x="58" y="140" font-size="20" font-weight="700" fill="#173b4a">Pennsylvania · northeast and north-central</text>
+    <text x="766" y="140" font-size="20" font-weight="700" fill="#493d5d">Virginia · southern to northern</text>
+    <text x="54" y="485" font-size="13" fill="#64767b">West ← approximate geography → East</text>
+    <text x="766" y="485" font-size="13" fill="#71677b">Locations are approximate, not a road route</text>
+  </g>
+  <!-- Dated place sequences; none purports to trace a surveyed travel route. -->
+  <path d="M280 218 Q390 275 459 390" fill="none" stroke="#b36a20" stroke-width="4" stroke-dasharray="10 7" marker-end="url(#gold-tip)"/>
+  <path d="M443 424 Q270 475 133 292" fill="none" stroke="#b36a20" stroke-width="4" stroke-dasharray="10 7" marker-end="url(#gold-tip)"/>
+  <path d="M590 275 Q370 40 142 273" fill="none" stroke="#177783" stroke-width="4" stroke-dasharray="10 7" marker-end="url(#teal-tip)"/>
+  <path d="M816 418 Q918 305 1021 213" fill="none" stroke="#725a99" stroke-width="4" stroke-dasharray="10 7" marker-end="url(#violet-tip)"/>
+  <rect x="54" y="169" width="213" height="52" rx="6" fill="#e9f0ef"/>
+  <rect x="54" y="237" width="190" height="30" rx="6" fill="#e9f0ef"/>
+  <rect x="54" y="301" width="214" height="25" rx="6" fill="#e9f0ef"/>
+  <g font-family="Arial,sans-serif">
+    <circle cx="280" cy="208" r="11" fill="#b36a20"/><text x="62" y="190" font-size="18" font-weight="700" fill="#56432f">Muncy Valley</text><text x="62" y="212" font-size="14" fill="#665849">Mabel's reported 1919 birth</text>
+    <circle cx="466" cy="404" r="11" fill="#b36a20"/><text x="476" y="399" font-size="18" font-weight="700" fill="#56432f">Berwick</text><text x="476" y="421" font-size="14" fill="#665849">Lester + Velma, 1937–1940</text>
+    <circle cx="128" cy="280" r="12" fill="#b36a20" stroke="#177783" stroke-width="4"/><text x="57" y="258" font-size="18" font-weight="700" fill="#173b4a">Muncy Township</text><text x="57" y="319" font-size="14" fill="#57666b">Paul Kramer + Melissa now</text>
+    <circle cx="598" cy="268" r="10" fill="#177783"/><text x="488" y="311" font-size="18" font-weight="700" fill="#185c66">Wilkes-Barre</text><text x="471" y="333" font-size="14" fill="#42626a">Kramer records, 1900–1950</text>
+    <circle cx="620" cy="232" r="8" fill="#2f5964"/><text x="497" y="163" font-size="16" font-weight="700" fill="#365a64">West Wyoming</text><text x="495" y="183" font-size="13" fill="#547078">Cordaro household, 1920</text>
+    <circle cx="808" cy="427" r="11" fill="#725a99"/><text x="827" y="430" font-size="18" font-weight="700" fill="#493d5d">Danville</text><text x="827" y="452" font-size="14" fill="#685d77">Garnett's origin</text>
+    <circle cx="1030" cy="205" r="11" fill="#725a99"/><text x="904" y="172" font-size="18" font-weight="700" fill="#493d5d">Franconia</text><text x="899" y="190" font-size="14" fill="#685d77">Fairfax home by 1980</text>
+    <text x="38" y="551" font-size="15" fill="#b36a20" font-weight="700">● Maternal Miller / Reese</text>
+    <text x="304" y="551" font-size="15" fill="#177783" font-weight="700">● Paternal Kramer</text>
+    <text x="541" y="551" font-size="15" fill="#725a99" font-weight="700">● Weatherford</text>
+    <text x="724" y="551" font-size="15" fill="#365a64" font-weight="700">● Cordaro record stop</text>
+    <text x="38" y="588" font-size="14" fill="#5f6b70">Evidence, coordinate caveats and missing moves: context/family-place-sequences.md · Living home shown at Muncy-area scale.</text>
+  </g>
+</svg>

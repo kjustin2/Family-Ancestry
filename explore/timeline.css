@@ -7,7 +7,7 @@ a:hover{color:#a26025}
 .skip{position:absolute;left:-9999px;top:8px;background:#fff;padding:8px;z-index:30}
 .skip:focus{left:8px}
 .masthead{background:radial-gradient(circle at 84% 6%,#32737b 0,#163b43 42%,#102c34 100%);color:#fff}
-.masthead nav{max-width:1240px;margin:auto;padding:18px 28px;display:flex;align-items:center;justify-content:space-between;gap:20px;border-bottom:1px solid #ffffff2b}
+.masthead nav{max-width:1240px;margin:auto;padding:18px 28px;display:flex;align-items:center;justify-content:space-between;flex-wrap:wrap;gap:20px;border-bottom:1px solid #ffffff2b}
 .brand{font-weight:750;font-size:1.05rem;letter-spacing:.01em;color:#fff;text-decoration:none}
 .brand-mark{color:#eeb96c;font-size:1.7rem;vertical-align:middle;margin-right:7px}
 .nav-link{color:#dce9e9;font-size:.9rem}

@@ -21,6 +21,7 @@ An evidence-led map of Justin and Ashley's family history. **Research snapshot: 
 - [James Blevins, Revolutionary pensioner](branches/blevins-revolutionary-james.md): his own 1832 migration and service account, with an [evidence-marked route](maps/blevins-revolutionary-james.svg); his connection to Ashley remains unproved.
 - [Justin's maternal Berwick side](branches/maternal-kramer-side.md): the [Miller–Gower–Reese household](branches/miller-gower-reese.md), [Raber–Kreisher–Fairchild line](branches/raber-kreisher-fairchild.md), and [two-branch diagram](maps/miller-raber-family.svg).
 - [Berwick Miller family timeline](branches/miller-berwick-timeline.md): records and Paulene's stories from the early household through Marqueen's school years and later family visits.
+- [Family places across generations](context/family-place-sequences.md): mapped Muncy Valley → Berwick → Muncy regional return, plus Kramer, Cordaro and Weatherford place sequences with evidence gaps shown.
 - [Ashley's immigration question](branches/ashley-immigration.md): what the present records establish and the exact links still needed to date an arrival.
 - [Places, education, and events](context/places-and-schools.md).
 - [Agnes in the family's places](context/agnes-1972.md): a visual comparison of the 1972 flood in Wilkes-Barre, Berwick and northern Virginia, with family impact kept separate from local history.
