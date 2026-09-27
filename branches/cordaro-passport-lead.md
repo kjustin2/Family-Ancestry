@@ -16,6 +16,8 @@ One local turning point is unusually close to their migration dates. In [researc
 
 The documents show a staggered move: Antonio's later naturalization papers place him in America first, then Pietra traveled with Calogera and Maria to join him. Pietra listed her mother **Carmela Di Prima** back in Sutera, a specific link between the two shores. In Pennsylvania Antonio is recorded as a **miner**, and Joseph's 1940 card names **Lehigh Valley Coal Co.** as his employer without specifying his job. This is a shift in the family's recorded work from **Sicilian agriculture toward Pennsylvania mining and coal employment**, not a measured change in family wealth. [Sicily map](../maps/cordaro-sutera-places.svg) · [interactive timeline](../explore/timeline.html).
 
+**Possible family resting place:** Contributor memorials place [Antonio](https://www.findagrave.com/memorial/153512121/antonio-cordaro) (1878–1940) and [Pietra](https://www.findagrave.com/memorial/153512074/pietra_a-cordaro) (1879–1930) at **Saint Cecilia's Cemetery, Exeter, Pennsylvania**. The names, spouse link, years, and Luzerne County location fit the original records here. A [Mary Cordaro Pardi memorial](https://www.findagrave.com/memorial/153511892/mary-pardi) there, 1904–1939, may be their Italy-born daughter Maria, but no original parent-naming record has yet closed that link. **Treat the graves as leads** until Pennsylvania death certificates or cemetery registers confirm them; the memorials do not verify headstones. [Burial map and visit guide](../context/family-burial-places.md).
+
 ![Evidence-labeled Cordaro crossings from Sicily to Pennsylvania](../maps/cordaro-crossing-evidence.svg)
 
 [Larger route preview](../maps/cordaro-crossing-evidence-preview.png).
