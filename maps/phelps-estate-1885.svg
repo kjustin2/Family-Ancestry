@@ -1,0 +1,37 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1000 430" role="img" aria-labelledby="title desc">
+  <title id="title">Robert Phelps estate: three different financial views, 1885 to 1887</title>
+  <desc id="desc">Ann Phelps received a widow's personal-property allotment valued at 843 dollars and 23 cents. Her 1885 land-sale petition estimated debts at about 1,500 dollars. Her 1887 administrator cash account listed 1,619 dollars and 53 cents in receipts and 1,672 dollars and 87 cents in payments, a 53 dollar and 34 cent deficit. These are different accounting scopes and cannot be combined as family net worth.</desc>
+  <style>
+    text { font-family: Arial, Helvetica, sans-serif; fill: #173046 }
+    .title { font-size: 28px; font-weight: 700 }
+    .sub { font-size: 16px; fill: #526675 }
+    .tag { font-size: 15px; font-weight: 700; fill: #476071 }
+    .number { font-size: 31px; font-weight: 700 }
+    .detail { font-size: 15px; fill: #526675 }
+    .note { font-size: 15px; font-weight: 700; fill: #805c1c }
+  </style>
+  <rect width="1000" height="430" fill="#f5f8f8"/>
+  <text class="title" x="40" y="48">The Phelps estate after Robert's death</text>
+  <text class="sub" x="40" y="76">Caswell County, North Carolina • three records, three different scopes</text>
+  <rect x="40" y="105" width="286" height="205" rx="16" fill="#eef8f5" stroke="#57a58b" stroke-width="2"/>
+  <text class="tag" x="61" y="135">1885 • WIDOW'S ALLOTMENT</text>
+  <text class="number" x="61" y="180">$843.23</text>
+  <text class="detail" x="61" y="213">Crops, livestock, tools and goods</text>
+  <text class="detail" x="61" y="238">set aside for Ann E. Phelps</text>
+  <text class="detail" x="61" y="280">Not the estate's total value</text>
+  <rect x="355" y="105" width="286" height="205" rx="16" fill="#fff7e7" stroke="#daa63e" stroke-width="2"/>
+  <text class="tag" x="376" y="135">1885 • DEBT ESTIMATE</text>
+  <text class="number" x="376" y="180">about $1,500</text>
+  <text class="detail" x="376" y="213">Ann petitioned to sell estate land</text>
+  <text class="detail" x="376" y="238">to meet debts and costs</text>
+  <text class="detail" x="376" y="280">An estimate, not a final balance</text>
+  <rect x="670" y="105" width="290" height="205" rx="16" fill="#edf3fb" stroke="#789ac5" stroke-width="2"/>
+  <text class="tag" x="691" y="135">1887 • ADMINISTRATOR CASH</text>
+  <text class="number" x="691" y="180">$53.34 deficit</text>
+  <text class="detail" x="691" y="213">$1,619.53 received</text>
+  <text class="detail" x="691" y="238">$1,672.87 paid</text>
+  <text class="detail" x="691" y="280">Not the heirs' final inheritance</text>
+  <rect x="40" y="338" width="920" height="62" rx="12" fill="#fff9ea" stroke="#e3c78d"/>
+  <text class="note" x="60" y="364">Do not add or compare these as a net-worth series.</text>
+  <text class="detail" x="60" y="386">The allotment, debt estimate and administrator's cash account measure different things.</text>
+</svg>
