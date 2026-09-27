@@ -1,0 +1,22 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1100" height="455" viewBox="0 0 1100 455" role="img" aria-labelledby="title desc">
+  <title id="title">Ashley’s U.S. family timeline, with evidence limits</title>
+  <desc id="desc">Two sequence lanes. The Weatherford lane shows Samuel and Jane marrying in 1829, the 1850 Halifax household, George and Ella marrying in 1884, and Garnett recorded as a former Navy serviceman by 1946. The Smith-Blevins lane shows William and Mary marrying in 1931, Gladys in the 1940 household, and Alice and John's 1986 marriage. Earlier origins are not established.</desc>
+  <rect width="1100" height="455" rx="18" fill="#f7f6f2"/>
+  <text x="40" y="51" font-family="Arial,sans-serif" font-size="27" font-weight="700" fill="#193448">Ashley’s family: documented U.S. checkpoints</text>
+  <text x="40" y="80" font-family="Arial,sans-serif" font-size="16" fill="#56636d">Two family paths · dates show sequence, not proportional time</text>
+  <rect x="38" y="106" width="1024" height="137" rx="14" fill="#e4eff5"/>
+  <rect x="38" y="256" width="1024" height="138" rx="14" fill="#f8ecde"/>
+  <text x="60" y="141" font-family="Arial,sans-serif" font-size="19" font-weight="700" fill="#163a54">WEATHERFORD</text>
+  <text x="60" y="289" font-family="Arial,sans-serif" font-size="19" font-weight="700" fill="#744524">SMITH · BLEVINS</text>
+  <line x1="239" y1="177" x2="980" y2="177" stroke="#4f8bac" stroke-width="4"/>
+  <line x1="239" y1="326" x2="980" y2="326" stroke="#bd8c5b" stroke-width="4"/>
+  <g font-family="Arial,sans-serif" text-anchor="middle">
+    <g fill="#1c536f"><circle cx="260" cy="177" r="10"/><circle cx="510" cy="177" r="10"/><circle cx="760" cy="177" r="10"/><circle cx="975" cy="177" r="10"/></g>
+    <g fill="#794c28"><circle cx="380" cy="326" r="10"/><circle cx="690" cy="326" r="10"/><circle cx="975" cy="326" r="10"/></g>
+    <g fill="#17394f" font-size="17" font-weight="700"><text x="260" y="161">1829</text><text x="510" y="161">1850</text><text x="760" y="161">1884</text><text x="975" y="161">1946</text></g>
+    <g fill="#744525" font-size="17" font-weight="700"><text x="380" y="311">1931</text><text x="690" y="311">1940</text><text x="975" y="311">1986</text></g>
+    <g fill="#344d5b" font-size="15"><text x="260" y="213">Samuel + Jane</text><text x="510" y="213">Halifax household</text><text x="760" y="213">George + Ella</text><text x="975" y="213">Former Navy</text></g>
+    <g fill="#654c3a" font-size="15"><text x="380" y="363">William + Mary</text><text x="690" y="363">Gladys, age 1</text><text x="975" y="363">Alice + John</text></g>
+  </g>
+  <text x="40" y="430" font-family="Arial,sans-serif" font-size="14" fill="#56636d">Sources and unresolved lineage links: branches/ashley-us-timeline.md · Overseas arrival dates remain unknown.</text>
+</svg>
