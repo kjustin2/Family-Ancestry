@@ -1,5 +1,7 @@
 # A Kramer household in Unadingen, Baden
 
+[Locate Unadingen on the Germany map](../maps/germany-family-places.svg) and compare its place with the separate Palatinate mill sites in the [geography atlas](../context/geography-atlas.md).
+
 ![Bernhard and Maria's indexed children, with the earlier parent pair and Pennsylvania identity gap](../maps/kramer-unadingen-household.svg)
 
 **Established in Baden, conditional for Justin:** An [original 1812 Unadingen register page](../sources/records/bernhard-kramer-baptism-1812.jpg) records **Bernardus (Bernhard) Kramer**, baptized **15 August**, with parents **Blasius Kramer and Agathe Huber**. The FamilySearch [index](https://www.familysearch.org/ark:/61903/1:1:QBGX-G5PZ?lang=en) misreads both Kramer surnames as *Garner*; the names, date and parent pair can be checked against the page itself. Blasius and Agathe also appear together in an [indexed 21 July 1806 marriage](https://www.familysearch.org/ark:/61903/1:1:QBYQ-VVZM?lang=en). Bernhard married **Maria/Marie Huber** in an [1839 Unadingen original](../sources/records/bernhard-kramer-maria-huber-marriage-1839.jpg). Their son **Matthäus** is in an [1840 original](../sources/records/unadingen-matthaeus-kramer-register-1840-candidate.jpg). These are **not yet proved** to be Justin's Pennsylvania ancestors; see the [identity test](kramer-baden-candidate.md).

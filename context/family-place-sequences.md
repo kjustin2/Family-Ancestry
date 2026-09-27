@@ -1,5 +1,7 @@
 # How the family places connect across generations
 
+For the continental view and a close map of **Unadingen versus the Palatinate**, open the [family geography atlas](geography-atlas.md).
+
 ![Approximate Pennsylvania and Virginia town-center maps linking family places across generations](../maps/family-place-sequences.svg)
 
 *Map of **places named in records or family accounts**, with town-center positions rather than house pins. Dashed connectors show a **generational sequence with an undated move**, not a documented road, journey, or shared household. Each panel has its own scale. Sources and limits are below.*

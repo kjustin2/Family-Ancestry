@@ -1,0 +1,140 @@
+{
+  "unadingen": {
+    "name": "Unadingen, Löffingen, Germany",
+    "lat": 47.8807628,
+    "lon": 8.4070082,
+    "source": "https://www.openstreetmap.org/relation/324701"
+  },
+  "knittelsheim": {
+    "name": "Knittelsheim, Germany",
+    "lat": 49.1924269,
+    "lon": 8.2508767,
+    "source": "https://www.openstreetmap.org/relation/1250395"
+  },
+  "siebeldingen": {
+    "name": "Siebeldingen, Germany",
+    "lat": 49.2098613,
+    "lon": 8.0506907,
+    "source": "https://www.openstreetmap.org/relation/1252554"
+  },
+  "rinnthal": {
+    "name": "Rinnthal, Germany",
+    "lat": 49.2180664,
+    "lon": 7.9263693,
+    "source": "https://www.openstreetmap.org/relation/1252771"
+  },
+  "trippstadt": {
+    "name": "Trippstadt, Germany",
+    "lat": 49.3565392,
+    "lon": 7.7713465,
+    "source": "https://www.openstreetmap.org/relation/191523"
+  },
+  "sutera": {
+    "name": "Sutera, Sicily, Italy",
+    "lat": 37.5252277,
+    "lon": 13.7313165,
+    "source": "https://www.openstreetmap.org/relation/39258"
+  },
+  "milena": {
+    "name": "Milena, Sicily, Italy",
+    "lat": 37.4715206,
+    "lon": 13.7364367,
+    "source": "https://www.openstreetmap.org/relation/39243"
+  },
+  "palermo": {
+    "name": "Palermo, Sicily, Italy",
+    "lat": 38.1112268,
+    "lon": 13.3524434,
+    "source": "https://www.openstreetmap.org/relation/39513"
+  },
+  "wilkes_barre": {
+    "name": "Wilkes-Barre, Pennsylvania, USA",
+    "lat": 41.2464824,
+    "lon": -75.8817316,
+    "source": "https://www.openstreetmap.org/relation/187994"
+  },
+  "west_wyoming": {
+    "name": "West Wyoming, Pennsylvania, USA",
+    "lat": 41.3198024,
+    "lon": -75.8460288,
+    "source": "https://www.openstreetmap.org/relation/187993"
+  },
+  "berwick": {
+    "name": "Berwick, Pennsylvania, USA",
+    "lat": 41.0602024,
+    "lon": -76.2461259,
+    "source": "https://www.openstreetmap.org/relation/187899"
+  },
+  "muncy": {
+    "name": "Muncy, Pennsylvania, USA",
+    "lat": 41.20484,
+    "lon": -76.7870991,
+    "source": "https://www.openstreetmap.org/relation/188749"
+  },
+  "muncy_valley": {
+    "name": "Muncy Valley, Pennsylvania, USA",
+    "lat": 41.3425799,
+    "lon": -76.5852285,
+    "source": "https://www.openstreetmap.org/node/158223786"
+  },
+  "danville": {
+    "name": "Danville, Virginia, USA",
+    "lat": 36.5879877,
+    "lon": -79.3916713,
+    "source": "https://www.openstreetmap.org/relation/3864686"
+  },
+  "halifax": {
+    "name": "Halifax, Virginia, USA",
+    "lat": 36.747244,
+    "lon": -78.9425634,
+    "source": "https://www.openstreetmap.org/relation/2532627"
+  },
+  "franconia": {
+    "name": "Franconia, Fairfax County, Virginia, USA",
+    "lat": 38.768874,
+    "lon": -77.1540467,
+    "source": "https://www.openstreetmap.org/relation/206828"
+  },
+  "washington": {
+    "name": "Washington, District of Columbia, USA",
+    "lat": 38.8950982,
+    "lon": -77.0363849,
+    "source": "https://www.openstreetmap.org/relation/5396194"
+  },
+  "bristol": {
+    "name": "Bristol, Virginia, USA",
+    "lat": 36.5959685,
+    "lon": -82.1885009,
+    "source": "https://www.openstreetmap.org/relation/3864677"
+  },
+  "johnson_city": {
+    "name": "Johnson City, Tennessee, USA",
+    "lat": 36.3167671,
+    "lon": -82.352903,
+    "source": "https://www.openstreetmap.org/relation/197297"
+  },
+  "milton": {
+    "name": "Milton, North Carolina, USA",
+    "lat": 36.5388422,
+    "lon": -79.2065976,
+    "source": "https://www.openstreetmap.org/relation/180109"
+  },
+  "gibson_county": {
+    "name": "Gibson County, Indiana, USA",
+    "lat": 38.3079744,
+    "lon": -87.5775949,
+    "source": "https://www.openstreetmap.org/relation/1804394"
+  },
+  "new_york": {
+    "name": "New York City, New York, USA",
+    "lat": 40.7127281,
+    "lon": -74.0060152,
+    "source": "https://www.openstreetmap.org/relation/175905"
+  },
+  "pittsburgh": {
+    "name": "Pittsburgh, Pennsylvania, USA",
+    "lat": 40.4406968,
+    "lon": -80.0025666,
+    "source": "https://www.openstreetmap.org/relation/188553"
+  }
+}

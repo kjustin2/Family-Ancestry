@@ -5,6 +5,7 @@ An evidence-led map of Justin and Ashley's family history. **Research snapshot: 
 ## Start here
 
 - [Explore the interactive family timeline](explore/timeline.html): filter family lines and centuries, then open events for people, places, evidence and unresolved questions. Open the HTML file in a browser. The [full research timeline](timeline.md) has more detail.
+- [Explore the family geography atlas](context/geography-atlas.md): three maps show **Europe**, **Baden versus the Palatinate**, and the **eastern U.S. family regions**, with each marker tied to records and uncertain origins left unpinned.
 - [Original record-image gallery and Hilda's portrait](sources/records/README.md): signed draft cards for Emil Kramer and George Ira Weatherford, marriage records, George's 1951 divorce abstract, a death certificate and obituary clippings, each with a source and identification note.
 - [Kramer line](branches/kramer.md): Wilkes-Barre people, German-born Matthew, and the still-unknown German hometown.
 - [Baden Matthäus Kramer candidate](branches/kramer-baden-candidate.md): compare the German records with Pennsylvania's Matthew before joining the people.
@@ -39,11 +40,11 @@ An evidence-led map of Justin and Ashley's family history. **Research snapshot: 
 - [Faces and places gallery](context/faces-and-places.md): saved, captioned portraits and period or place photographs across the Kramer, Cordaro, Miller/Sponenberg, Disqué, Weatherford and Smith research branches.
 - [Assets and work by generation](research/assets-by-generation.md): a visual record-coverage map and sourced ledger for each line, including what could explain the 1864 Disqué migration. The [1940 housing snapshot](context/housing-and-work-1940.md) puts two family home estimates beside state medians and shows rent differences across their regions.
 - [Civil War across the family lines](context/civil-war-family-lines.md): the 1890 veterans schedule strongly links Gad Marshall Miller to the Union 171st Pennsylvania; Shubiel Blevins's Confederate lead and any direct encounter remain unproved.
-- [Regional family map](maps/ancestral-places.svg), [Colette Drive neighborhood map](maps/colette-neighborhood.svg), and [picture guide](media/README.md), with **1911 Danville textile workers**, a **1939 Halifax tobacco-town street**, a WWII Navy scene, eighteenth-century Virginia views and actual-relative photo leads.
+- [Regional family maps](context/geography-atlas.md), [Colette Drive neighborhood map](maps/colette-neighborhood.svg), and [picture guide](media/README.md), with **1911 Danville textile workers**, a **1939 Halifax tobacco-town street**, a WWII Navy scene, eighteenth-century Virginia views and actual-relative photo leads.
 - [Kramer family-line diagram](maps/kramer-lineage.svg), [Kramer work timeline](maps/kramer-work.svg), and [Colette property assessment chart](maps/colette-assessments.svg).
 - [Source ledger](research/sources.md), [Monty source ledger](research/monty-sources.md), [chart transcription](research/chart-transcription.md), and [open questions](research/open-questions.md).
 
-![Generated map of recorded and proposed family places](maps/ancestral-places-preview.png)
+![European family places from Ireland through Germany to Sicily, with distinct evidence labels](maps/europe-family-places-preview.png)
 
 ## What we can say now
 
