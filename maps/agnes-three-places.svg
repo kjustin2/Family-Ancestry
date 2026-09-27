@@ -1,0 +1,25 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1120" height="360" viewBox="0 0 1120 360" role="img" aria-labelledby="title desc">
+  <title id="title">Agnes in three family settings, June 1972</title>
+  <desc id="desc">Three cards compare documented local effects: Wilkes-Barre's flooded Main Street, Berwick-area railroad and plant damage, and the Fairfax-Alexandria regional water outage. No family property's flood status is established.</desc>
+  <rect width="1120" height="360" rx="20" fill="#f6f7f5"/>
+  <text x="40" y="52" font-family="Arial,sans-serif" font-size="29" font-weight="700" fill="#183b50">One storm, three family settings</text>
+  <text x="40" y="79" font-family="Arial,sans-serif" font-size="16" fill="#596a72">June 1972 · documented local effects · family property impact unknown</text>
+  <g font-family="Arial,sans-serif">
+    <rect x="40" y="105" width="328" height="190" rx="14" fill="#d9e8ed"/>
+    <rect x="396" y="105" width="328" height="190" rx="14" fill="#e8ece0"/>
+    <rect x="752" y="105" width="328" height="190" rx="14" fill="#f0e6d9"/>
+    <text x="62" y="140" font-size="20" font-weight="700" fill="#174e66">Wilkes-Barre</text>
+    <text x="418" y="140" font-size="20" font-weight="700" fill="#425d31">Berwick area</text>
+    <text x="774" y="140" font-size="20" font-weight="700" fill="#7b522a">Fairfax / Alexandria</text>
+    <text x="62" y="184" font-size="18" fill="#183b50">Main Street flooded</text>
+    <text x="62" y="213" font-size="16" fill="#365561">for days; rebuilding followed</text>
+    <text x="418" y="184" font-size="18" fill="#354c2c">Rail line ended</text>
+    <text x="418" y="213" font-size="16" fill="#536448">and Wise plant was damaged</text>
+    <text x="774" y="184" font-size="18" fill="#70451e">Water service cut</text>
+    <text x="774" y="213" font-size="16" fill="#795d43">for over 500,000 people</text>
+    <text x="62" y="265" font-size="14" fill="#50626a">Kramer city context</text>
+    <text x="418" y="265" font-size="14" fill="#596951">Miller / Raber area context</text>
+    <text x="774" y="265" font-size="14" fill="#806b54">Weatherford / Smith region</text>
+    <text x="40" y="333" font-size="14" fill="#5d6970">Sources and limits: context/agnes-1972.md · Locations show community effects, not verified family losses.</text>
+  </g>
+</svg>

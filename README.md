@@ -23,6 +23,7 @@ An evidence-led map of Justin and Ashley's family history. **Research snapshot: 
 - [Berwick Miller family timeline](branches/miller-berwick-timeline.md): records and Paulene's stories from the early household through Marqueen's school years and later family visits.
 - [Ashley's immigration question](branches/ashley-immigration.md): what the present records establish and the exact links still needed to date an arrival.
 - [Places, education, and events](context/places-and-schools.md).
+- [Agnes in the family's places](context/agnes-1972.md): a visual comparison of the 1972 flood in Wilkes-Barre, Berwick and northern Virginia, with family impact kept separate from local history.
 - [Growing up around Franconia](context/franconia-growing-up.md): schools, suburban growth, racing and crime in the years Ashley's parents remember, with a [population chart](maps/fairfax-growth-1950-1985.svg).
 - [The families in their times](context/family-in-its-times.md): local events and carefully bounded migration explanations.
 - [Assets and work by generation](research/assets-by-generation.md): a visual record-coverage map and sourced ledger for each line, including what could explain the 1864 Disqué migration.
