@@ -1,0 +1,39 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="465" viewBox="0 0 1200 465" role="img" aria-labelledby="title desc">
+  <title id="title">Martin and Lena Kramer household, 1870 to 1900</title>
+  <desc id="desc">Three census cards show Martin and Lena in 1870, Martin working in a rope factory in 1880, and Matthew and Lena with son Ferdinand in 1900. A lower band flags conflicting German birthplace details and the reported but unverified 1865 arrival.</desc>
+  <rect width="1200" height="465" fill="#f5f2e9"/>
+  <rect width="8" height="465" fill="#98704d"/>
+  <g font-family="Segoe UI,Arial,sans-serif">
+    <text x="30" y="44" font-size="29" font-weight="700" fill="#193a4e">A German-born Kramer household in Wilkes-Barre</text>
+    <text x="30" y="72" font-size="16" fill="#50616b">Three original census sheets trace work, children and property reports.</text>
+    <line x1="190" y1="127" x2="1010" y2="127" stroke="#71979a" stroke-width="4"/>
+    <g fill="#71979a"><circle cx="190" cy="127" r="9"/><circle cx="600" cy="127" r="9"/><circle cx="1010" cy="127" r="9"/></g>
+    <g fill="#fff" stroke="#d5dfdd" stroke-width="1.5">
+      <rect x="30" y="156" width="340" height="178" rx="13"/>
+      <rect x="430" y="156" width="340" height="178" rx="13"/>
+      <rect x="830" y="156" width="340" height="178" rx="13"/>
+    </g>
+    <g fill="#173c50" font-size="22" font-weight="700">
+      <text x="49" y="188">1870 · Martin + Lena</text>
+      <text x="449" y="188">1880 · rope factory</text>
+      <text x="849" y="188">1900 · Matthew + Lena</text>
+    </g>
+    <g fill="#304e5d" font-size="16">
+      <text x="49" y="220">Stone mason; two young daughters</text>
+      <text x="49" y="248">Real estate: $3,000 reported</text>
+      <text x="49" y="274">Personal estate: $700 reported</text>
+      <text x="49" y="307">Birthplace written: Bavaria</text>
+      <text x="449" y="220">Martin works in rope production</text>
+      <text x="449" y="248">Lena and Katie attend school</text>
+      <text x="449" y="274">Julia and Mary now in household</text>
+      <text x="449" y="307">Birthplace written: Württemberg</text>
+      <text x="849" y="220">Ferdinand, 17, named as son</text>
+      <text x="849" y="248">Owned home, no value given</text>
+      <text x="849" y="274">Both parents report 1865 arrival</text>
+      <text x="849" y="307">Birthplace written: Germany</text>
+    </g>
+    <rect x="30" y="361" width="1140" height="75" rx="12" fill="#fff1e8" stroke="#d6ad94"/>
+    <text x="48" y="387" font-size="17" font-weight="700" fill="#714a3a">Two open questions</text>
+    <text x="48" y="413" font-size="15" fill="#714a3a">Bavaria versus Württemberg; 1900 says married ~35 years, chart says 1866. No original arrival or marriage record yet.</text>
+  </g>
+</svg>
