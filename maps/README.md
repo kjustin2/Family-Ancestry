@@ -3,6 +3,7 @@
 ## Story diagrams
 
 - [Family education trail](family-education-trail.svg) ([PNG preview](family-education-trail-preview.png)) groups the named schools and learning milestones in three branches. Shared G.A.R. and Virginia Tech connections stand out, while card captions distinguish yearbook, obituary, memoir and family-account evidence. [Person-by-person source guide](../context/education-across-generations.md).
+- [Kramer technical-study thread](kramer-technical-education-thread.svg) shows Ferdinand Louis's obituary-reported NRI study, the intervening Fred generation, and Justin's family-reported RIT, Penn State, Georgia Tech and Pitt degrees. Its [education story](../context/education-across-generations.md#from-radio-study-to-engineering-and-computing) explains the approximate dates and why shared interests do not establish direct influence.
 
 - [Kramer lineage](kramer-lineage.svg) gives each of the three Ferdinand generations a stable label; the 1900 and 1930 census links are solid, while the 1913-to-Fred identity match is dashed.
 - [Baden Kramer candidate](kramer-baden-candidate.svg) sets the **1840 Unadingen birth** and **1878 memorial notice** beside three Wilkes-Barre censuses; a dotted link and birthplace labels show exactly what is still unproved. [Evidence page](../branches/kramer-baden-candidate.md).

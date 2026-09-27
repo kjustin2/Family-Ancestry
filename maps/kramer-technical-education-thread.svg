@@ -1,0 +1,51 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="620" viewBox="0 0 1200 620" role="img" aria-labelledby="title desc">
+  <title id="title">A Kramer thread from radio study to engineering and computer science</title>
+  <desc id="desc">Four family study paths: Ferdinand Louis at the National Radio Institute; his grandson Paul, who attended RIT around 1986 and completed electrical engineering at an unspecified date; Paul's son Alex, with electrical engineering degrees from Penn State starting 2014 and Georgia Tech around 2020; and Alex's brother Justin, with a computer science bachelor's and master's at Pitt from 2017 to 2021. Fred is the intervening generation. Later university degrees come from Justin's family account; the graphic does not claim direct influence.</desc>
+  <rect width="1200" height="620" rx="24" fill="#f6f3eb"/>
+  <rect x="0" y="0" width="14" height="620" fill="#267685"/>
+  <text x="46" y="56" font-family="Arial,sans-serif" font-size="31" font-weight="700" fill="#173940">From radio lessons to computing</text>
+  <text x="46" y="85" font-family="Arial,sans-serif" font-size="16" fill="#52676d">A recurring technical interest in the Kramer family · study paths, not a proven chain of influence</text>
+
+  <rect x="46" y="118" width="1108" height="60" rx="12" fill="#e5edeb"/>
+  <text x="66" y="144" font-family="Arial,sans-serif" font-size="15" font-weight="700" fill="#245e69">FAMILY BRIDGE</text>
+  <text x="66" y="166" font-family="Arial,sans-serif" font-size="16" fill="#173940">Ferdinand Louis (1913) → son Fred / Ferdinand Francis (1939) → grandson Paul → sons Alex and Justin</text>
+
+  <g font-family="Arial,sans-serif">
+    <rect x="46" y="217" width="260" height="225" rx="18" fill="#fffefa" stroke="#267685" stroke-width="3"/>
+    <rect x="332" y="217" width="260" height="225" rx="18" fill="#fffefa" stroke="#267685" stroke-width="3"/>
+    <rect x="618" y="217" width="260" height="225" rx="18" fill="#fffefa" stroke="#b68647" stroke-width="3"/>
+    <rect x="904" y="217" width="250" height="225" rx="18" fill="#fffefa" stroke="#b68647" stroke-width="3"/>
+
+    <text x="66" y="254" font-size="21" font-weight="700" fill="#173940">Ferdinand Louis</text>
+    <text x="66" y="281" font-size="16" fill="#52676d">Kramer · born 1913</text>
+    <text x="66" y="322" font-size="19" font-weight="700" fill="#173940">Radio study</text>
+    <text x="66" y="350" font-size="16" fill="#52676d">National Radio Institute</text>
+    <text x="66" y="412" font-size="13" font-weight="700" fill="#267685">1976 OBITUARY REPORT</text>
+
+    <text x="352" y="254" font-size="21" font-weight="700" fill="#173940">Paul Joseph</text>
+    <text x="352" y="281" font-size="16" fill="#52676d">Kramer · Fred's son</text>
+    <text x="352" y="322" font-size="19" font-weight="700" fill="#173940">Electrical engineering</text>
+    <text x="352" y="350" font-size="16" fill="#52676d">RIT · there c. 1986</text>
+    <text x="352" y="374" font-size="16" fill="#52676d">Degree completed · year open</text>
+    <text x="352" y="412" font-size="13" font-weight="700" fill="#267685">FAMILY ACCOUNT</text>
+
+    <text x="638" y="254" font-size="21" font-weight="700" fill="#173940">Alex Kramer</text>
+    <text x="638" y="281" font-size="16" fill="#52676d">Paul's son · Justin's brother</text>
+    <text x="638" y="322" font-size="19" font-weight="700" fill="#173940">Electrical engineering</text>
+    <text x="638" y="350" font-size="16" fill="#52676d">Penn State · 2014–c. 2018</text>
+    <text x="638" y="374" font-size="16" fill="#52676d">Georgia Tech MS · c. 2020+</text>
+    <text x="638" y="412" font-size="13" font-weight="700" fill="#a06d2f">FAMILY ACCOUNT</text>
+
+    <text x="924" y="254" font-size="21" font-weight="700" fill="#173940">Justin Kramer</text>
+    <text x="924" y="281" font-size="16" fill="#52676d">Paul's son · Alex's brother</text>
+    <text x="924" y="322" font-size="19" font-weight="700" fill="#173940">Computer science</text>
+    <text x="924" y="350" font-size="16" fill="#52676d">Pitt bachelor's + master's</text>
+    <text x="924" y="374" font-size="16" fill="#52676d">2017–2021</text>
+    <text x="924" y="412" font-size="13" font-weight="700" fill="#a06d2f">FAMILY ACCOUNT</text>
+  </g>
+
+  <rect x="46" y="474" width="1108" height="90" rx="14" fill="#e9eeec"/>
+  <text x="64" y="501" font-family="Arial,sans-serif" font-size="16" font-weight="700" fill="#245e69">What the line means</text>
+  <text x="64" y="527" font-family="Arial,sans-serif" font-size="15" fill="#173940">Cards follow the study theme. Degrees are family-reported; some dates are approximate. Direct influence is not established.</text>
+  <text x="46" y="597" font-family="Arial,sans-serif" font-size="14" fill="#52676d">Sources and caveats: Ferdinand Louis's obituary; Justin's family account, 27 September 2026 · see the education guide.</text>
+</svg>

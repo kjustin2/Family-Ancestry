@@ -34,7 +34,7 @@ An evidence-led map of Justin and Ashley's family history. **Research snapshot: 
 - [Ashley's immigration question](branches/ashley-immigration.md): what the present records establish and the exact links still needed to date an arrival.
 - [Immigration stories and evidence windows](context/immigration-stories.md): a concise comparison of the Kramer, Mulhall, Corbett, Disqué and Cordaro crossings, their period context, and the unanswered personal reasons.
 - [Places, education, and events](context/places-and-schools.md).
-- [Education across generations](context/education-across-generations.md): a visual school trail from Wilkes-Barre and Berwick to Fairfax and Virginia Tech, with each person's evidence and unanswered years.
+- [Education across generations](context/education-across-generations.md): a visual school trail including the Kramer radio-to-engineering/computing story, plus Berwick, Fairfax and Virginia Tech, with evidence and unanswered years.
 - [Agnes in the family's places](context/agnes-1972.md): a visual comparison of the 1972 flood in Wilkes-Barre, Berwick and northern Virginia, with family impact kept separate from local history.
 - [Growing up around Franconia](context/franconia-growing-up.md): schools, suburban growth, racing and crime in the years Ashley's parents remember, with a [population chart](maps/fairfax-growth-1950-1985.svg).
 - [The families in their times](context/family-in-its-times.md): local events and carefully bounded migration explanations.
