@@ -4,7 +4,7 @@ The place and period illustrations below are **not portraits**, property deeds, 
 
 ## Family-supplied originals
 
-- [Cordaro family portrait](../sources/family/cordaro-family-portrait-unidentified.jpg): Justin identifies the group as Cordaros and estimates the 1930s. The six people, place and exact date are unknown. See the [passport and photo note](../branches/cordaro-passport-lead.md) before identifying anyone in the image.
+- [Cordaro family portrait](../sources/family/cordaro-family-portrait-unidentified.jpg): Justin identifies the group as Cordaros and estimates the 1930s. A visual review leans toward the **1920s**, with a broad **c. 1915–1935** range and low confidence. The six people, place and exact date are unknown. See the [passport and photo note](../branches/cordaro-passport-lead.md) before identifying anyone in the image.
 - [Sutera passport page](../sources/family/italian-passport-details.jpg) and [cover](../sources/family/italian-passport-cover.jpg): photographs of a family-held Italian passport with a provisional Cordaro Onofrio reading. Its bearer has not yet been tied by records to a named Kramer grandmother.
 
 ## A Navy scene from Garnett Sr.'s era

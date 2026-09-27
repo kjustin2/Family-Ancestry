@@ -16,6 +16,12 @@ Justin names **Joan Cordaro, Mary Cordaro, and Toni Cordaro** as Patricia's sist
 | *Di condizione* | **Contadino**: farm worker or farmer. It does not distinguish tenant, laborer, or landowner and says nothing about household wealth. |
 | Passport heading | Issued in the name of **King Vittorio Emanuele III**. The photographed page has no legible issue date, visa, route, ship, or U.S. arrival stamp. The number appears **3015**, but needs checking against the original. |
 
+## Where is Sutera?
+
+![Italy and Sicily map marking Sutera, with orientation cities but no proposed travel route](../maps/cordaro-sutera-places.svg)
+
+The passport places its holder's **birth and residence in Sutera**, an inland town in Sicily's **Caltanissetta** area. The map marks that document location; nearby **Caltanissetta city** and **Palermo** are orientation markers, **not family residences or confirmed departure ports**. [Sutera municipal history](https://www.comune.sutera.cl.it/vivere-il-comune/territorio/la-storia/) describes a hill town around **Monte San Paolino** with narrow old lanes; [Italy's tourism office](https://www.italia.it/it/sicilia/sutera) describes the historic Rabato district. Those accounts help picture the place, but cannot tell us which street the passport holder knew or where the portrait was taken. [Larger map preview](../maps/cordaro-sutera-places-preview.png).
+
 The [inside page](../sources/family/italian-passport-details.jpg) and [cover](../sources/family/italian-passport-cover.jpg) are Justin's photographs of a family-held document, added without editing. The cover reads *Regno d'Italia, Passaporto per l'Estero* (“Kingdom of Italy, passport for travel abroad”). A passport prepared for foreign travel **does not establish that a voyage occurred**. No ship, arrival year, or reason for leaving is established here.
 
 <a href="../sources/family/italian-passport-details.jpg"><img src="../sources/family/italian-passport-details.jpg" alt="Photographed Italian passport page with handwritten identity, parents, Sutera birthplace and farm-worker occupation" width="400"></a>
@@ -31,7 +37,7 @@ The [Library of Congress history of Italian immigration](https://www.loc.gov/cla
 
 ## Unidentified family portrait
 
-Justin also supplied a photograph described by his family as **Cordaros** and guesses it may be from the **1930s**. It shows six people: two adult women at left, a young person standing behind a child in the center, and two men at right. The photograph itself has no visible names, place or date. The seated man **cannot yet be identified as the passport holder**, and clothing alone is too imprecise to confirm the decade. A photograph of the back, any studio stamp, or a relative's labeled copy would help.
+Justin also supplied a photograph described by his family as **Cordaros** and guesses it may be from the **1930s**. It shows six people: two adult women at left, a young person standing behind a child in the center, and two men at right. **Working visual estimate: the 1920s, with a broad possible range of about 1915–1935 (low confidence).** The formal studio grouping, dark suits and dresses, young person's prominent pale collar or bow, and child's short trousers with long socks fit an early-twentieth-century portrait; none is a unique dating marker. The sepia appearance, scratches, and torn print show aging or storage damage, **not a measurable photo age**. A modern photo of the print has no original exposure date in its metadata. As the [Library of Congress explains](https://guides.loc.gov/local-history-and-family-photos/photographic-evidence), visual clues need comparison with dated records. The original print has no visible studio imprint, names, place or date on the front. The seated man **cannot yet be identified as the passport holder**, and the image cannot be placed in **Sutera or the U.S.** by appearance. A photograph of the back, any studio stamp, or a relative's labeled copy would narrow both questions.
 
 <a href="../sources/family/cordaro-family-portrait-unidentified.jpg"><img src="../sources/family/cordaro-family-portrait-unidentified.jpg" alt="Worn family portrait supplied as Cordaro family: six unidentified people, including a child at center" width="650"></a>
 
