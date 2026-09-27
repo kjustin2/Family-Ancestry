@@ -1,30 +1,35 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="1020" height="360" viewBox="0 0 1020 360" role="img" aria-labelledby="t d">
-  <title id="t">Weatherford evidence trail before George</title>
-  <desc id="d">1850 Samuel and Jane household connects to Thomas, provisionally to the 1855 Thomas E and Julia Oakes marriage, then 1857 Asa T and Julia A child record, 1870 George with Asa and Julia, and George's 1884 marriage. Dashed links denote unresolved name variants.</desc>
-  <rect width="1020" height="360" rx="18" fill="#f6f3eb"/>
-  <text x="30" y="43" font-family="Arial,sans-serif" font-size="25" font-weight="700" fill="#18394a">Before George: five records, one name conflict</text>
-  <text x="30" y="69" font-family="Arial,sans-serif" font-size="15" fill="#52616a">Each card cites a record; dashed lines mark identity links that still need review.</text>
+<svg xmlns="http://www.w3.org/2000/svg" width="1020" height="430" viewBox="0 0 1020 430" role="img" aria-labelledby="t d">
+  <title id="t">Weatherford record trail before George</title>
+  <desc id="d">Six record checkpoints from 1850 to 1884. The 1860 Acy T and July A household with William E bridges the 1857 birth to 1870 Asa, Julia and George. Name variants in 1855 and 1884 remain unresolved.</desc>
+  <rect width="1020" height="430" rx="18" fill="#f6f3eb"/>
+  <text x="30" y="43" font-family="Arial,sans-serif" font-size="25" font-weight="700" fill="#18394a">Before George: six records, unresolved names</text>
+  <text x="30" y="69" font-family="Arial,sans-serif" font-size="15" fill="#52616a">The 1860 household strengthens the middle of the trail. Orange cards still need name reconciliation.</text>
   <g font-family="Arial,sans-serif">
-    <rect x="30" y="104" width="292" height="86" rx="12" fill="#dcefeb" stroke="#127f82"/>
+    <rect x="30" y="104" width="292" height="92" rx="12" fill="#dcefeb" stroke="#127f82"/>
     <text x="47" y="130" font-size="14" font-weight="700" fill="#127f82">1850 · HALIFAX, VIRGINIA</text>
     <text x="47" y="155" font-size="18" font-weight="700" fill="#18394a">Samuel + Jane · Thomas, 17</text>
-    <text x="47" y="178" font-size="13" fill="#52616a">All three recorded as Virginia-born</text>
-    <rect x="364" y="104" width="292" height="86" rx="12" fill="#fff5e5" stroke="#b46827"/>
+    <text x="47" y="179" font-size="13" fill="#52616a">One household; kinship not labeled</text>
+    <rect x="364" y="104" width="292" height="92" rx="12" fill="#fff5e5" stroke="#b46827"/>
     <text x="381" y="130" font-size="14" font-weight="700" fill="#a05416">1855 · HALIFAX MARRIAGE</text>
     <text x="381" y="155" font-size="18" font-weight="700" fill="#18394a">“Thos E” + Julia Oakes</text>
-    <text x="381" y="178" font-size="13" fill="#52616a">Groom names Samuel + Jane</text>
-    <rect x="698" y="104" width="292" height="86" rx="12" fill="#dcefeb" stroke="#127f82"/>
+    <text x="381" y="179" font-size="13" fill="#52616a">Groom names Samuel + Jane</text>
+    <rect x="698" y="104" width="292" height="92" rx="12" fill="#dcefeb" stroke="#127f82"/>
     <text x="715" y="130" font-size="14" font-weight="700" fill="#127f82">1857 · WILLIAM’S BIRTH</text>
     <text x="715" y="155" font-size="18" font-weight="700" fill="#18394a">Asa T. + Julia A.</text>
-    <text x="715" y="178" font-size="13" fill="#52616a">Parent pair named directly</text>
-    <rect x="197" y="238" width="292" height="86" rx="12" fill="#dcefeb" stroke="#127f82"/>
-    <text x="214" y="264" font-size="14" font-weight="700" fill="#127f82">1870 · HYCO HOUSEHOLD</text>
-    <text x="214" y="289" font-size="18" font-weight="700" fill="#18394a">Asa + Julia · George, 9</text>
-    <text x="214" y="312" font-size="13" fill="#52616a">William and Thomas also listed</text>
-    <rect x="531" y="238" width="292" height="86" rx="12" fill="#dcefeb" stroke="#127f82"/>
-    <text x="548" y="264" font-size="14" font-weight="700" fill="#127f82">1884 · GEORGE’S MARRIAGE</text>
-    <text x="548" y="289" font-size="18" font-weight="700" fill="#18394a">Parents “Thomas A.” + Ann</text>
-    <text x="548" y="312" font-size="13" fill="#52616a">Likely name variants; not settled</text>
+    <text x="715" y="179" font-size="13" fill="#52616a">Both named as parents in index</text>
+    <rect x="30" y="252" width="292" height="98" rx="12" fill="#dcefeb" stroke="#127f82"/>
+    <text x="47" y="278" font-size="14" font-weight="700" fill="#127f82">1860 · HALIFAX CENSUS</text>
+    <text x="47" y="303" font-size="18" font-weight="700" fill="#18394a">“Acy T” + “July A”</text>
+    <text x="47" y="327" font-size="13" fill="#52616a">Wm E, 4 · overseer · $300 personal</text>
+    <rect x="364" y="252" width="292" height="98" rx="12" fill="#dcefeb" stroke="#127f82"/>
+    <text x="381" y="278" font-size="14" font-weight="700" fill="#127f82">1870 · HYCO CENSUS</text>
+    <text x="381" y="303" font-size="18" font-weight="700" fill="#18394a">Asa + Julia · George, 9</text>
+    <text x="381" y="327" font-size="13" fill="#52616a">William also in household</text>
+    <rect x="698" y="252" width="292" height="98" rx="12" fill="#fff5e5" stroke="#b46827"/>
+    <text x="715" y="278" font-size="14" font-weight="700" fill="#a05416">1884 · GEORGE’S MARRIAGE</text>
+    <text x="715" y="303" font-size="18" font-weight="700" fill="#18394a">Parents “Thomas A.” + Ann</text>
+    <text x="715" y="327" font-size="13" fill="#52616a">Variant from Asa T. + Julia A.</text>
+    <text x="30" y="397" font-size="13" fill="#52616a">Dashed connectors show proposed identity across records, not proof of every parent-child link.</text>
   </g>
-  <path d="M322 147 H364 M656 147 H698 M844 190 V210 H343 V238 M489 281 H531" fill="none" stroke="#9a8064" stroke-width="3" stroke-dasharray="7 5"/>
+  <path d="M322 150 H364 M656 150 H698 M844 196 V224 H176 V252 M322 301 H364 M656 301 H698" fill="none" stroke="#9a8064" stroke-width="3" stroke-dasharray="7 5"/>
 </svg>
