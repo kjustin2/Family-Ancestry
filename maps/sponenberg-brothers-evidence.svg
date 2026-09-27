@@ -1,0 +1,25 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1000 455" role="img" aria-labelledby="title desc">
+  <title id="title">Hannah Sponenberg's Bible connects two brothers; the cavalry roll follows Legrand</title>
+  <desc id="desc">Daniel and Hannah Sponenberg are parents of Legrand, born 1839, and John Leonard, born 1846, as listed in an 1879 family Bible. An original 1862 Pennsylvania cavalry roll strongly matches Legrand. John Leonard leads through Edward and Aletha toward Sonya Raber's family according to later records.</desc>
+  <rect width="1000" height="455" rx="22" fill="#f7f3ea"/>
+  <text x="44" y="49" fill="#1e3b4d" font-family="Segoe UI,Arial,sans-serif" font-size="27" font-weight="700">Two brothers, two kinds of evidence</text>
+  <text x="44" y="78" fill="#456072" font-family="Segoe UI,Arial,sans-serif" font-size="16">Family Bible lists the children · Pennsylvania roll records the soldier</text>
+  <rect x="300" y="103" width="400" height="86" rx="15" fill="#e9f0eb" stroke="#3f7560" stroke-width="2"/>
+  <text x="500" y="136" text-anchor="middle" fill="#193c31" font-family="Segoe UI,Arial,sans-serif" font-size="20" font-weight="700">Daniel + Hannah Shellhammer</text>
+  <text x="500" y="163" text-anchor="middle" fill="#3a5f50" font-family="Segoe UI,Arial,sans-serif" font-size="16">married 1829 · family Bible</text>
+  <path d="M500 189V220M250 220H750M250 220V244M750 220V244" fill="none" stroke="#3f7560" stroke-width="3"/>
+  <rect x="69" y="245" width="362" height="91" rx="15" fill="#e7edf5" stroke="#4f74a0" stroke-width="2"/>
+  <text x="250" y="278" text-anchor="middle" fill="#253d5c" font-family="Segoe UI,Arial,sans-serif" font-size="21" font-weight="700">Legrand / LeGrant</text>
+  <text x="250" y="306" text-anchor="middle" fill="#405b78" font-family="Segoe UI,Arial,sans-serif" font-size="16">born 1839 · brother in Bible</text>
+  <rect x="569" y="245" width="362" height="91" rx="15" fill="#f3eacb" stroke="#a48639" stroke-width="2"/>
+  <text x="750" y="278" text-anchor="middle" fill="#594717" font-family="Segoe UI,Arial,sans-serif" font-size="21" font-weight="700">John Leonard</text>
+  <text x="750" y="306" text-anchor="middle" fill="#725d2a" font-family="Segoe UI,Arial,sans-serif" font-size="16">born 1846 · direct line to Sonya</text>
+  <path d="M250 336V358M750 336V358" stroke-width="2.5" stroke="#71808b"/>
+  <rect x="69" y="360" width="362" height="58" rx="12" fill="#fff" stroke="#abc0da" stroke-width="1.5"/>
+  <text x="250" y="386" text-anchor="middle" fill="#253d5c" font-family="Segoe UI,Arial,sans-serif" font-size="16" font-weight="700">1862: Union 16th PA Cavalry</text>
+  <text x="250" y="405" text-anchor="middle" fill="#54718c" font-family="Segoe UI,Arial,sans-serif" font-size="13">original roll, name + age match</text>
+  <rect x="569" y="360" width="362" height="58" rx="12" fill="#fff" stroke="#d1ba75" stroke-width="1.5"/>
+  <text x="750" y="386" text-anchor="middle" fill="#594717" font-family="Segoe UI,Arial,sans-serif" font-size="16" font-weight="700">Edward → Aletha → Shirley</text>
+  <text x="750" y="405" text-anchor="middle" fill="#826b32" font-family="Segoe UI,Arial,sans-serif" font-size="13">1915 biography + 2018 obituary</text>
+  <text x="500" y="442" text-anchor="middle" fill="#687278" font-family="Segoe UI,Arial,sans-serif" font-size="12">1879 Bible records earlier births retrospectively · roll does not name parents · portrait identity is attributed</text>
+</svg>

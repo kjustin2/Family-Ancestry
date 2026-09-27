@@ -6,6 +6,7 @@ The place and period illustrations below are **not portraits**, property deeds, 
 
 - [Cordaro family portrait](../sources/family/cordaro-family-portrait-unidentified.jpg): Justin identifies the group as Cordaros and estimates the 1930s. A visual review leans toward the **1920s**, with a broad **c. 1915–1935** range and low confidence. The six people, place and exact date are unknown. See the [passport and photo note](../branches/cordaro-passport-lead.md) before identifying anyone in the image.
 - [Sutera passport page](../sources/family/italian-passport-details.jpg) and [cover](../sources/family/italian-passport-cover.jpg): photographs of a family-held Italian passport with a provisional Cordaro Onofrio reading. Its bearer has not yet been tied by records to a named Kramer grandmother.
+- [Mounted soldier portrait attributed to Legrant Sponenberg](../sources/family/legrant-sponenberg-mounted-portrait-attributed.jpg): a Berwick studio portrait [shared by a family contributor](https://jowest.net/Genealogy/John/Christian/LegrantSponenbergCivilWar.htm). The rider is identified by that contributor, not by a visible name on the image. A [family Bible](../sources/records/hannah-sponenberg-family-bible-births.jpg) and [original cavalry roll](../sources/records/legrant-sponenberg-16th-cavalry-register-1862.jpg) separately support Legrant's kinship and service; they do not authenticate the likeness.
 
 ## A Navy scene from Garnett Sr.'s era
 

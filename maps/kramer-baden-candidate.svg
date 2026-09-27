@@ -1,9 +1,9 @@
 <svg xmlns="http://www.w3.org/2000/svg" width="1120" height="390" viewBox="0 0 1120 390" role="img" aria-labelledby="title desc">
   <title id="title">Unadingen Matthäus Kramer: candidate, not confirmed as Matthew of Wilkes-Barre</title>
-  <desc id="desc">A Baden birth-register card is separated by a dotted question line from three Pennsylvania census cards. The census cards disagree on German birthplace, and the chart mother Horner differs from the German-register mother Huber.</desc>
+  <desc id="desc">An 1840 Baden birth record names Bernhard Kramer and Maria Huber; an 1878 church notice names the same couple and their children. A dotted question line separates these German records from Pennsylvania censuses with conflicting birthplace reports and a chart that names mother Horner.</desc>
   <rect width="1120" height="390" fill="#f5f2e9"/>
   <g font-family="Segoe UI,Arial,sans-serif">
-    <text x="26" y="44" fill="#183c50" font-size="27" font-weight="700">One German birth record. An identity still to prove.</text>
+    <text x="26" y="44" fill="#183c50" font-size="27" font-weight="700">Two German records. An identity still to prove.</text>
     <text x="26" y="72" fill="#53636b" font-size="16">The ages fit; the names and birthplace reports differ. No record connects the men.</text>
     <rect x="26" y="105" width="310" height="177" rx="13" fill="#fff" stroke="#a8c6c0" stroke-width="2"/>
     <text x="46" y="136" fill="#176d69" font-size="20" font-weight="700">1840 · UNADINGEN, BADEN</text>
@@ -11,6 +11,7 @@
     <text x="46" y="192" fill="#263c45" font-size="16">Bernhard Kramer + Maria Huber</text>
     <text x="46" y="220" fill="#53636b" font-size="14">Original birth-register entry 29</text>
     <text x="46" y="245" fill="#53636b" font-size="14">Pennsylvania identity: unknown</text>
+    <text x="46" y="267" fill="#53636b" font-size="13">1878: children fund memorial Mass</text>
     <line x1="350" y1="191" x2="426" y2="191" stroke="#b66d35" stroke-width="3" stroke-dasharray="7 7"/>
     <circle cx="388" cy="160" r="17" fill="#fff4e7" stroke="#b66d35"/>
     <text x="382" y="166" fill="#9d542a" font-size="19" font-weight="700">?</text>
