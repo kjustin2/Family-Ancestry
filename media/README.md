@@ -49,6 +49,12 @@ For the Weatherfords' **earlier Danville chapter**, Lewis Wickes Hine photograph
 
 [Marion Post Wolcott's November 1939 photograph](https://www.loc.gov/item/2017802158/) shows a tobacco-laden truck on the main street of **South Boston, Halifax County**. Library of Congress FSA/OWI negative **LC-USF34-052900-D**; the catalog lists **no known restrictions on publication**. The JPG is the archive's large service image, unaltered. This is the county where the earlier Samuel–Jane and probable Asa–Julia Weatherford households were recorded **decades earlier**; it is **not their town, property or lifetime**, and no photographed person is identified as family. It shows how tobacco still shaped a nearby market during Garnett Sr.'s youth in the wider Danville region.
 
+### Danville textile workers, 1911
+
+![Workers, including some children, outside Riverside Cotton Mills at noon in Danville in June 1911](danville-riverside-mill-workers-1911.jpg)
+
+[Lewis Hine's June 1911 photograph](https://www.loc.gov/item/2018674865/) shows workers outside **Riverside Cotton Mills in Danville**. His original caption says the superintendent denied having workers younger than fourteen, while Hine wrote that he saw some. Library of Congress National Child Labor Committee image **LC-DIG-nclc-02166**; the catalog says **no known restrictions on publication**. This 1911 city scene predates the 1930 Weatherford household by nineteen years. **No pictured worker is identified as family, and Duffy's recorded 1930 job was building carpentry, not mill work.** The photograph shows an aspect of the regional labor setting, not the family's school attendance or employment.
+
 ## Alexandria region, Virginia
 
 For the eighteenth-century setting, the [Virginia period-view gallery](../context/virginia-colonial-views.md) displays these archive images:

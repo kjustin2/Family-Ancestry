@@ -40,18 +40,43 @@ The certificates resolve the derivative biographies' **1894–1969 for both** er
 
 Helen's obituary identifies **12 siblings**, including Garnett. Birth order is mostly unknown. Her “survived by” and “predeceased by” wording gives the status **as of 12 March 2007**, not necessarily a present-day status. [Helen's obituary](https://www.legacy.com/us/obituaries/godanriver/name/helen-barksdale-obituary?id=33333924).
 
+### The household when Garnett was three
+
+![Duffy and Annie Weatherford with ten children on the 1930 census sheet](../sources/records/duffy-annie-weatherford-census-1930.jpg)
+
+The [original 1930 census sheet](https://www.familysearch.org/ark:/61903/3:1:33S7-9RZF-DP2?view=index&personArk=%2Fark%3A%2F61903%2F1%3A1%3ACFG1-7N2&action=view&lang=en), **Dan River District, Pittsylvania County, sheet 14B, lines 51–62**, lists **Duffy and Annie** with ten children. All ten are recorded as Virginia-born; Duffy is North Carolina-born, and the sheet calls him a **building carpenter**. The household reports an **owned home valued at $1,000**. That is one reported property value in 1930, not net worth or proof of later inheritance.
+
+| Children named on the 1930 sheet, in order | Age recorded | Approximate birth window from census age |
+| --- | ---: | --- |
+| Thelma | 15 | c. 1914–15 |
+| Lillian | 14 | c. 1915–16 |
+| Mary E. | 12 | c. 1917–18 |
+| John C. | 11 | c. 1918–19 |
+| George | 11 | c. 1918–19; **George Ira's** signed card gives 15 September 1918 |
+| **E— L.** (handwriting uncertain; resembles *Ernest*) | 9 | c. 1920–21 |
+| James E. | 6 | c. 1923–24 |
+| Junius | 5 | c. 1924–25 |
+| Garnett | 3 | c. 1926–27; his signed card gives 8 March 1927 |
+| William R. | about 1½ | c. 1928–29 |
+
+Thelma, Lillian, Mary, George, James, Garnett and William plausibly match names in the later obituaries; the sheet supplies **ages at one census**, not exact birthdays. **John C.** may be the later “Johnny,” and the unclear **E— L.** may be the later “Emmett” or another child, but those identities need another record. **Junius** may be the same boy called “Junior” in 1940; his connection to the obituary's D.D. Jr. remains open. **Helen**, born in 1931, and other younger children could not appear on this 1930 sheet, so it does not contradict the later 13-child family account.
+
+![Duffy and Annie Weatherford with seven children on the 1940 census sheet](../sources/records/duffy-annie-weatherford-census-1940.jpg)
+
+The [original 1940 census](https://www.familysearch.org/ark:/61903/3:1:3QS7-89MR-3S4F?view=index&personArk=%2Fark%3A%2F61903%2F1%3A1%3AVRBR-3FX&action=view&cc=2000219&lang=en), **Dan River District, sheet 8A, lines 31–39**, names the parents and seven children: **James, 16; a son written *Junior* or *Junius*, 15; Garnett, 13; William, 11; Helen, 8; Lindsay, 5; and Betty, 2**. The 1930 **Junius, 5**, and 1940 **Junior/Junius, 15**, are a strong age-and-household match, although his formal name and relationship to the obituary's “D.D. Jr.” remain unproved. This page independently places **Helen, Lindsay and Betty** in the family after the 1930 snapshot. It reports the family in the **same house in 1935**, an owned home valued at **$1,000** in 1940. Duffy's reported work changed from **building carpenter in 1930** to **“cleaner,” city, in 1940**, with **45 weeks** worked and **$1,078 wages in 1939**. These are two census reports, not a continuous employment or property history; neither proves why his work changed or whether the 1930 and 1940 reported valuations refer to the same property.
+
 | Helen and the people her obituary calls siblings | Birth | Death or last dated evidence |
 | --- | --- | --- |
-| **Thelma W. Snead** | Unverified compilation: **1914** | Survived Helen in March 2007; compilation proposes **2007**. |
-| **Lillian W. Snead** | Unverified compilation: **1915** | Died before March 2007; compilation proposes **1999**. |
-| **Mary W. Walker** | Unknown | Died before March 2007. |
-| **Betty W. Atkinson** | Unknown | Survived Garnett in June 2007. |
+| **Thelma W. Snead** | **15** in the 1930 census, c. **1914–15**; compilation proposes 1914 | Survived Helen in March 2007; compilation proposes **2007**. |
+| **Lillian W. Snead** | **14** in the 1930 census, c. **1915–16**; compilation proposes 1915 | Died before March 2007; compilation proposes **1999**. |
+| **Mary W. Walker** | Likely **Mary E., 12** in the 1930 household, c. **1917–18** | Died before March 2007. |
+| **Betty W. Atkinson** | **2** in the 1940 household, c. **1937–38** | Survived Garnett in June 2007. |
 | **Helen Weatherford Barksdale** | **27 September 1931**, Danville | **12 March 2007**. |
-| **D.D. Weatherford Jr.** | Unknown | Survived Garnett in June 2007. |
-| **Lindsey Weatherford** | Unknown | Died before March 2007. |
-| **James Weatherford** | Unknown | Died before March 2007. |
+| **D.D. Weatherford Jr.** | Unknown; the **Junius/Junior** in 1930/1940 is a lead, not a proved identity | Survived Garnett in June 2007. |
+| **Lindsey Weatherford** | Likely **Lindsay, 5** in the 1940 household, c. **1934–35** | Died before March 2007. |
+| **James Weatherford** | Likely **James E., 6** in the 1930 household, c. **1923–24** | Died before March 2007. |
 | **Emmett Weatherford** | Unknown | Died before March 2007. |
-| **William Weatherford** | Unknown | Died before March 2007. |
+| **William Weatherford** | Likely **William R., about 1½** in the 1930 household, c. **1928–29** | Died before March 2007. |
 | **Johnny Weatherford** | Unknown | Died before March 2007. |
 | **George Ira Weatherford** | **15 September 1918**, Danville/Pittsylvania area, per [signed draft card](../sources/records/george-ira-weatherford-draft-card-1940.jpg) and [Social Security index](https://www.familysearch.org/ark:/61903/1:1:6K3F-XVMQ?lang=en) | **19 April 1999**, per Social Security index. The index names parents **Duffie Weatherford and Annie L. Neathery**. |
 | **Garnett Burnell Weatherford Sr.** | **8 March 1927**, on his 1946 registration | **27 June 2007**. |

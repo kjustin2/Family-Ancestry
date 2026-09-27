@@ -6,7 +6,7 @@
 | --- | --- | --- |
 | **1737–45** | James Blevin held and sold land in **Goochland** and later called himself *of Brunswick*. [Deeds and grants](../branches/blevins-colonial-james.md). | A real person and transaction, but **the descent to Ashley is not proved**. |
 | **1850–84** | Samuel and Jane Weatherford's **Halifax** household, then George C. Weatherford's marriage, trace a likely line through Asa/Thomas. [Record trail](../branches/weatherford-early-virginia.md). | **Strong line with a remaining name-identity conflict** in the middle. |
-| **1930–86** | Garnett appears with his parents in **Danville**; Alice and John's marriage return places their families in **Fairfax County**. [Generation guide](../branches/weatherford-smith-generations.md). | **Record-backed modern branch**, distinct from the colonial Blevin hypothesis. |
+| **1930–86** | Garnett appears with his parents in **Dan River District, Pittsylvania County**; Alice and John's marriage return places their families in **Fairfax County**. [Saved 1930 page](../sources/records/duffy-annie-weatherford-census-1930.jpg) · [generation guide](../branches/weatherford-smith-generations.md). | **Record-backed modern branch**, distinct from the colonial Blevin hypothesis. |
 
 | 1737–45 record area | 1749 town plan | 1755 regional map |
 | --- | --- | --- |
