@@ -1,0 +1,35 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 940 510" role="img" aria-labelledby="title desc">
+  <title id="title">Four family cemetery locations around Berwick, Pennsylvania</title>
+  <desc id="desc">A coordinate-based locator showing Elan Memorial Park west of Berwick, Briar Creek Union Cemetery between it and town, Roselawn Cemetery in Berwick, and Pine Grove Cemetery to the northeast. Points mark cemeteries, never individual graves. Solid dots have a family funeral program or obituary identifying at least one interment; outlined dots are memorial leads.</desc>
+  <rect width="940" height="510" fill="#f7f5ee"/>
+  <text x="35" y="46" fill="#18344b" font-family="Arial,sans-serif" font-size="28" font-weight="700">Four places around Berwick</text>
+  <text x="35" y="71" fill="#566d79" font-family="Arial,sans-serif" font-size="14">Cemetery locations from 41.02–41.06°N • an approximate local locator, not a grave map</text>
+  <rect x="35" y="92" width="605" height="365" rx="19" fill="#e8f0ed" stroke="#cedbd7"/>
+  <path d="M100 118V430M220 118V430M340 118V430M460 118V430M580 118V430M68 145H611M68 225H611M68 305H611M68 385H611" stroke="#cbd9d4" stroke-width="1" stroke-dasharray="4 8"/>
+  <text x="65" y="129" fill="#8ca6a0" font-family="Arial,sans-serif" font-size="12" letter-spacing="2">WEST</text>
+  <text x="551" y="129" fill="#8ca6a0" font-family="Arial,sans-serif" font-size="12" letter-spacing="2">EAST</text>
+  <text x="80" y="416" fill="#9aad9f" font-family="Arial,sans-serif" font-size="22" font-weight="700">LIME RIDGE</text>
+  <text x="398" y="358" fill="#9aad9f" font-family="Arial,sans-serif" font-size="22" font-weight="700">BERWICK</text>
+  <g font-family="Arial,sans-serif" font-size="15" font-weight="700" text-anchor="middle">
+    <a href="https://www.findagrave.com/cemetery/44751/elan-memorial-park" aria-label="Elan Memorial Park, Shirley Raber burial"><circle cx="184" cy="312" r="17" fill="#b85c42"/><text x="184" y="317" fill="white">2</text></a>
+    <a href="https://www.findagrave.com/cemetery/1987921/briar-creek-union-cemetery" aria-label="Briar Creek Union Cemetery, Sponenberg memorial leads"><circle cx="337" cy="196" r="17" fill="white" stroke="#1d6985" stroke-width="3"/><text x="337" y="201" fill="#1d6985">4</text></a>
+    <a href="https://www.findagrave.com/cemetery/1971654/pine-grove-cemetery" aria-label="Pine Grove Cemetery, Sponenberg memorial leads"><circle cx="538" cy="159" r="17" fill="white" stroke="#1d6985" stroke-width="3"/><text x="538" y="164" fill="#1d6985">3</text></a>
+    <a href="https://mapcarta.com/22763720" aria-label="Roselawn Cemetery, Miller burials"><circle cx="463" cy="210" r="17" fill="#b85c42"/><text x="463" y="215" fill="white">1</text></a>
+  </g>
+  <text x="35" y="485" fill="#596e73" font-family="Arial,sans-serif" font-size="13">Dots show cemetery grounds by reported coordinates; ask for the lot and grave before visiting.</text>
+  <g font-family="Arial,sans-serif" fill="#223d50">
+    <text x="671" y="118" font-size="19" font-weight="700">Visit sequence</text>
+    <text x="671" y="151" font-size="16" font-weight="700">1  Roselawn</text>
+    <text x="671" y="172" font-size="13">Pearl &amp; Carl Miller; Wilbur lead</text>
+    <text x="671" y="207" font-size="16" font-weight="700">2  Elan Memorial Park</text>
+    <text x="671" y="228" font-size="13">Shirley Raber; Kreischer leads</text>
+    <text x="671" y="263" font-size="16" font-weight="700">3  Pine Grove</text>
+    <text x="671" y="284" font-size="13">Edward &amp; Jennie Sponenberg leads</text>
+    <text x="671" y="319" font-size="16" font-weight="700">4  Briar Creek Union</text>
+    <text x="671" y="340" font-size="13">Daniel, Hannah &amp; John leads</text>
+  </g>
+  <circle cx="682" cy="388" r="8" fill="#b85c42"/><text x="699" y="393" fill="#566d79" font-family="Arial,sans-serif" font-size="12">Original program or obituary</text>
+  <circle cx="682" cy="416" r="8" fill="white" stroke="#1d6985" stroke-width="2"/><text x="699" y="421" fill="#566d79" font-family="Arial,sans-serif" font-size="12">Contributor memorial lead</text>
+  <text x="671" y="459" fill="#566d79" font-family="Arial,sans-serif" font-size="12">See linked burial guide for records,</text>
+  <text x="671" y="476" fill="#566d79" font-family="Arial,sans-serif" font-size="12">marker status, and location sources.</text>
+</svg>
