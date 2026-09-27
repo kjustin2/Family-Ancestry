@@ -4,6 +4,8 @@
 
 The map shows **places**, not a proven route for every person. The table pairs a family record with events close to its time and place. A regional pressure is a possible explanation to investigate, **not a recorded personal motive**.
 
+For quick, person-centered stories across the branches, see [lives and work across generations](lives-across-generations.md).
+
 | When and where | Family evidence | What was happening nearby | What it can tell us |
 | --- | --- | --- | --- |
 | **1684–1839, Palatinate** | A [miller-family history](https://www.eberhard-ref.net/pf%C3%A4lzisches-m%C3%BChlenlexikon/pf%C3%A4lzische-m%C3%BCllerfamilien/litera-d/) quotes Johann Bernhard Disqué's 1684 offer to rebuild a derelict mill; later Disqué and Schaaf relatives operated leased water mills. | Millers negotiated water dues, rent, and rights with local authorities. The family history describes working mills and asset transfers among sons and brothers. | The 1684 agreement explains **how this mill was restarted**; it does not say why the family first came to the Palatinate. The specialist calls them Huguenots, but their French departure, route, and reason have not been traced in original records. |

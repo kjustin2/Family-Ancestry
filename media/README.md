@@ -2,6 +2,8 @@
 
 The place and period illustrations below are **not portraits**, property deeds, or evidence that an ancestor visited the exact camera location. Local copies are included for a durable view; each original and credit is linked.
 
+The [compact faces and places gallery](../context/faces-and-places.md) brings selected images from several branches together with short identification notes.
+
 ## Family-supplied originals
 
 - [Cordaro family portrait](../sources/family/cordaro-family-portrait-unidentified.jpg): Justin identifies the group as Cordaros and estimates the 1930s. A visual review leans toward the **1920s**, with a broad **c. 1915–1935** range and low confidence. The six people, place and exact date are unknown. See the [passport and photo note](../branches/cordaro-passport-lead.md) before identifying anyone in the image.
@@ -57,6 +59,10 @@ For the Weatherfords' **earlier Danville chapter**, Lewis Wickes Hine photograph
 [Lewis Hine's June 1911 photograph](https://www.loc.gov/item/2018674865/) shows workers outside **Riverside Cotton Mills in Danville**. His original caption says the superintendent denied having workers younger than fourteen, while Hine wrote that he saw some. Library of Congress National Child Labor Committee image **LC-DIG-nclc-02166**; the catalog says **no known restrictions on publication**. This 1911 city scene predates the 1930 Weatherford household by nineteen years. **No pictured worker is identified as family, and Duffy's recorded 1930 job was building carpentry, not mill work.** The photograph shows an aspect of the regional labor setting, not the family's school attendance or employment.
 
 ## Alexandria region, Virginia
+
+![Washington Navy Yard and the Anacostia River in a photograph dated by the archive to 1980–2006](washington-navy-yard-aerial-1980-2006.jpg)
+
+[Carol M. Highsmith's aerial photograph](https://www.loc.gov/item/2011634490/) shows the **Washington Navy Yard** sometime **between 1980 and 2006** (Library of Congress, **LC-DIG-highsm-16297**, large JPG). The LOC item reports **no known restrictions on publication**; the saved image is its unaltered large service JPG. Justin says **John Weatherford Sr. and Alice Smith Weatherford** both worked at the Yard for many years, with John handling IT equipment and Alice in administration. Their employment records and exact buildings have not been located, and neither person is identified in this scene. The broad catalog date cannot place the image in a particular year of their employment.
 
 For the eighteenth-century setting, the [Virginia period-view gallery](../context/virginia-colonial-views.md) displays these archive images:
 
