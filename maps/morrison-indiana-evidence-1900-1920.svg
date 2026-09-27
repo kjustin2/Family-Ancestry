@@ -1,0 +1,30 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1080 290" role="img" aria-labelledby="title desc">
+<title id="title">Three records testing Roscoe Morrison's earlier Indiana family</title>
+<desc id="desc">A 1900 census names Thomas and Isophena Morrison with daughter Delia. A 1910 census names Tom and Isophenia with daughter Celia and grandson Roscoe. Roscoe's 1920 marriage names Celia as his mother. The Delia-Celia identity and grandparent connection remain probable.</desc>
+<rect width="1080" height="290" fill="#f7f4ed"/>
+<rect x="0" y="0" width="10" height="290" fill="#137a7b"/>
+<g font-family="Arial, sans-serif" fill="#18313c">
+  <text x="34" y="43" font-size="26" font-weight="700">Roscoe's Indiana family: a probable bridge</text>
+  <text x="34" y="71" font-size="15" fill="#53646b">Read each record left to right; the name reading still needs a birth record.</text>
+  <rect x="34" y="98" width="312" height="132" rx="12" fill="#fff" stroke="#137a7b" stroke-width="2"/>
+  <text x="51" y="127" font-size="17" font-weight="700">1900 · Gibson County</text>
+  <text x="51" y="155" font-size="16">Thomas + Isophena Morrison</text>
+  <text x="51" y="181" font-size="15">Daughter Delia, 14; Florence, 12</text>
+  <text x="51" y="207" font-size="14" fill="#53646b">Owned, mortgaged farm</text>
+  <path d="M349 164 H375" stroke="#9b703f" stroke-width="3" stroke-dasharray="6 5"/>
+  <path d="M369 158 L377 164 L369 170" fill="none" stroke="#9b703f" stroke-width="3"/>
+  <rect x="380" y="98" width="312" height="132" rx="12" fill="#fff" stroke="#9b703f" stroke-width="2"/>
+  <text x="397" y="127" font-size="17" font-weight="700">1910 · same township</text>
+  <text x="397" y="155" font-size="16">Tom + Isophenia Morrison</text>
+  <text x="397" y="181" font-size="15">Celia (indexed), 24; Florence, 22</text>
+  <text x="397" y="207" font-size="14" fill="#53646b">Roscoe, 7, called grandson</text>
+  <path d="M695 164 H721" stroke="#137a7b" stroke-width="3"/>
+  <path d="M715 158 L723 164 L715 170" fill="none" stroke="#137a7b" stroke-width="3"/>
+  <rect x="726" y="98" width="320" height="132" rx="12" fill="#fff" stroke="#137a7b" stroke-width="2"/>
+  <text x="743" y="127" font-size="17" font-weight="700">1920 · Roscoe's marriage</text>
+  <text x="743" y="155" font-size="16">Mother: Celia Morrison</text>
+  <text x="743" y="181" font-size="15">Father: Porter J. Morrison</text>
+  <text x="743" y="207" font-size="14" fill="#53646b">Earlier household still unknown</text>
+  <text x="35" y="265" font-size="14" fill="#6d5639">Dashed link = Delia/Celia match is probable. Roscoe's birth record is needed to confirm the grandparents.</text>
+</g>
+</svg>

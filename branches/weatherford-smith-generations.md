@@ -20,6 +20,10 @@ Duffy's original [1966 death certificate](https://www.familysearch.org/ark:/6190
 
 Mary's likely older brother **Howard Winston Hines** is a collateral relative in this layer, not another direct ancestor. His [1940 house-painter census](../sources/records/howard-hines-lillie-household-census-1940.jpg), [signed 1942 draft card](../sources/records/howard-winston-hines-draft-card-1942.jpg), [Army enlistment index](https://www.familysearch.org/ark:/61903/1:1:KMJG-D9J?lang=en) and [1950 household](../sources/records/howard-hines-household-census-1950.jpg) follow him from the Bristol family to military entry and back; no record inspected gives his unit or deployment. [Short account](smith.md#gladyss-siblings-and-the-tancy-clue).
 
+## Probable earlier Morrison layer on Ashley's paternal side
+
+The [1900 Gibson County, Indiana census](../sources/records/morrison-gibson-census-1900-candidate.jpg) names **Thomas and Isophena Morrison** with daughter **Delia**, 14, and Florence, 12. The [1910 household](../sources/records/roscoe-morrison-candidate-census-1910.jpg) names Tom and Isophenia with daughters indexed **Celia**, 24, and Florence, 22, plus **Roscoe, seven, labeled grandson**. Roscoe Gordon Morrison's [1920 marriage return](../sources/records/roscoe-helen-marriage-1920.jpg) calls his mother **Celia Morrison**. The two censuses strongly identify the same older household and suggest **Thomas and Isophena were Roscoe's maternal grandparents**, one generation beyond his mother. Roscoe's birth entry and father Porter J. Morrison's earlier record have not been found; the Delia/Celia reading remains uncertain. [Morrison guide](morrison-hollinger.md#eleanors-earlier-household-a-strong-still-testable-bridge).
+
 ## Layer 1 — Ashley's great-grandparents
 
 | Person | Birth | Death | Children or siblings found |
