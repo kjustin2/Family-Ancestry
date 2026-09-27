@@ -1,17 +1,19 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="680" viewBox="0 0 1200 680" role="img" aria-labelledby="title desc">
-  <title id="title">Named schools and learning milestones in three family lines</title>
-  <desc id="desc">Three family lanes show G.A.R., Coughlin, Berwick, Edison, Hayfield and Virginia Tech connections, with badges distinguishing yearbook OCR, obituary or memoir accounts, family reports and an alumni-index lead.</desc>
-  <rect width="1200" height="680" rx="26" fill="#f7f3eb"/>
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="850" viewBox="0 0 1200 850" role="img" aria-labelledby="title desc">
+  <title id="title">Schools and learning milestones in four family lines</title>
+  <desc id="desc">Four family lanes show named schools, Virginia Tech years from family memory, and original 1940 census education levels for Joseph and Dina Cordaro. Labels distinguish record types and uncertainty.</desc>
+  <rect width="1200" height="850" rx="26" fill="#f7f3eb"/>
   <text x="38" y="45" fill="#19373d" font-family="Arial,sans-serif" font-size="28" font-weight="700">Where did they learn?</text>
   <text x="38" y="73" fill="#526a6e" font-family="Arial,sans-serif" font-size="15">Shared schools, named campuses and later study · source type shown on each card</text>
 
   <rect x="30" y="100" width="1140" height="162" rx="18" fill="#e9f0ed"/>
   <rect x="30" y="271" width="1140" height="162" rx="18" fill="#f2eadf"/>
   <rect x="30" y="442" width="1140" height="162" rx="18" fill="#eaeaf2"/>
+  <rect x="30" y="613" width="1140" height="162" rx="18" fill="#f3e9e2"/>
   <g font-family="Arial,sans-serif" font-size="15" font-weight="700" letter-spacing="1" fill="#526a6e">
     <text x="48" y="125">KRAMER · WILKES-BARRE</text>
     <text x="48" y="296">MILLER / RABER · BERWICK</text>
     <text x="48" y="467">WEATHERFORD / SMITH · FAIRFAX TO BLACKSBURG</text>
+    <text x="48" y="638">CORDARO · WEST WYOMING, 1940</text>
   </g>
 
   <g stroke-width="2">
@@ -26,6 +28,8 @@
     <rect x="48" y="481" width="350" height="105" rx="15" fill="#fffefa" stroke="#b98a51" stroke-dasharray="7 5"/>
     <rect x="425" y="481" width="350" height="105" rx="15" fill="#fffefa" stroke="#b98a51" stroke-dasharray="7 5"/>
     <rect x="802" y="481" width="350" height="105" rx="15" fill="#fffefa" stroke="#197786" stroke-dasharray="7 5"/>
+    <rect x="48" y="652" width="527" height="105" rx="15" fill="#fffefa" stroke="#197786"/>
+    <rect x="602" y="652" width="550" height="105" rx="15" fill="#fffefa" stroke="#197786"/>
   </g>
 
   <g font-family="Arial,sans-serif" fill="#19373d">
@@ -64,7 +68,16 @@
 
     <text x="818" y="509" font-size="20" font-weight="700">Virginia Tech</text>
     <text x="818" y="533" font-size="15">Ashley + uncle Timothy A. Smith</text>
+    <text x="818" y="554" font-size="14">Ashley 2015–19 · Timothy c. 1980–89</text>
     <text x="818" y="575" font-size="12" fill="#197786">SHARED CAMPUS · FAMILY ACCOUNT</text>
+
+    <text x="64" y="680" font-size="20" font-weight="700">Joseph Anthony Cordaro</text>
+    <text x="64" y="704" font-size="15">H2 = two high-school years completed</text>
+    <text x="64" y="746" font-size="12" fill="#197786">ORIGINAL CENSUS · SCHOOL UNNAMED</text>
+
+    <text x="618" y="680" font-size="20" font-weight="700">Dina Caucci Cordaro</text>
+    <text x="618" y="704" font-size="15">8 = eighth grade completed</text>
+    <text x="618" y="746" font-size="12" fill="#197786">ORIGINAL CENSUS · SCHOOL UNNAMED</text>
   </g>
-  <text x="42" y="645" fill="#526a6e" font-family="Arial,sans-serif" font-size="14">A school mention does not establish a degree. Dates and identity checks are in the education guide.</text>
+  <text x="42" y="816" fill="#526a6e" font-family="Arial,sans-serif" font-size="14">School mentions and census grade codes do not establish degrees. Dates and identity checks are in the education guide.</text>
 </svg>
