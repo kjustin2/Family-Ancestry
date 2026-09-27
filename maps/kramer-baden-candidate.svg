@@ -1,0 +1,35 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1120" height="390" viewBox="0 0 1120 390" role="img" aria-labelledby="title desc">
+  <title id="title">Unadingen Matthäus Kramer: candidate, not confirmed as Matthew of Wilkes-Barre</title>
+  <desc id="desc">A Baden birth-register card is separated by a dotted question line from three Pennsylvania census cards. The census cards disagree on German birthplace, and the chart mother Horner differs from the German-register mother Huber.</desc>
+  <rect width="1120" height="390" fill="#f5f2e9"/>
+  <g font-family="Segoe UI,Arial,sans-serif">
+    <text x="26" y="44" fill="#183c50" font-size="27" font-weight="700">One German birth record. An identity still to prove.</text>
+    <text x="26" y="72" fill="#53636b" font-size="16">The ages fit; the names and birthplace reports differ. No record connects the men.</text>
+    <rect x="26" y="105" width="310" height="177" rx="13" fill="#fff" stroke="#a8c6c0" stroke-width="2"/>
+    <text x="46" y="136" fill="#176d69" font-size="20" font-weight="700">1840 · UNADINGEN, BADEN</text>
+    <text x="46" y="167" fill="#263c45" font-size="18">Matthäus Kramer</text>
+    <text x="46" y="192" fill="#263c45" font-size="16">Bernhard Kramer + Maria Huber</text>
+    <text x="46" y="220" fill="#53636b" font-size="14">Original birth-register entry 29</text>
+    <text x="46" y="245" fill="#53636b" font-size="14">Pennsylvania identity: unknown</text>
+    <line x1="350" y1="191" x2="426" y2="191" stroke="#b66d35" stroke-width="3" stroke-dasharray="7 7"/>
+    <circle cx="388" cy="160" r="17" fill="#fff4e7" stroke="#b66d35"/>
+    <text x="382" y="166" fill="#9d542a" font-size="19" font-weight="700">?</text>
+    <rect x="426" y="105" width="207" height="177" rx="13" fill="#fff" stroke="#d3d9d7"/>
+    <text x="446" y="136" fill="#183c50" font-size="20" font-weight="700">1870</text>
+    <text x="446" y="166" fill="#263c45" font-size="17">Martin + Lena</text>
+    <text x="446" y="193" fill="#53636b" font-size="15">Wilkes-Barre</text>
+    <text x="446" y="222" fill="#a34c38" font-size="15" font-weight="700">Born: Bavaria</text>
+    <rect x="646" y="105" width="207" height="177" rx="13" fill="#fff" stroke="#d3d9d7"/>
+    <text x="666" y="136" fill="#183c50" font-size="20" font-weight="700">1880</text>
+    <text x="666" y="166" fill="#263c45" font-size="17">Martin + Lena</text>
+    <text x="666" y="193" fill="#53636b" font-size="15">Rope factory</text>
+    <text x="666" y="222" fill="#a34c38" font-size="15" font-weight="700">Born: Württemberg</text>
+    <rect x="866" y="105" width="228" height="177" rx="13" fill="#fff" stroke="#d3d9d7"/>
+    <text x="886" y="136" fill="#183c50" font-size="20" font-weight="700">1900</text>
+    <text x="886" y="166" fill="#263c45" font-size="17">Matthew + Lena</text>
+    <text x="886" y="193" fill="#53636b" font-size="15">Son Ferdinand at home</text>
+    <text x="886" y="222" fill="#a34c38" font-size="15" font-weight="700">Born: Germany</text>
+    <text x="26" y="323" fill="#183c50" font-size="17" font-weight="700">Chart says mother “Mary Horner” · German register says “Maria Huber.”</text>
+    <text x="26" y="351" fill="#53636b" font-size="15">Next: 1918 Pennsylvania death certificate + original marriage/arrival record.</text>
+  </g>
+</svg>

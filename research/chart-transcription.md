@@ -12,10 +12,13 @@ Source: [Kramer family tree.doc](../sources/family/Kramer%20family%20tree.doc), 
 | Matthew Kramer | Born 29 Aug 1840; married 26 Aug 1866 in Wilkes-Barre; died 15 July 1918. |
 | Magdalena Disque | Born Feb 1844 in Germany. |
 | Bernhard Kramer or Kraemer; Mary Horner | Named as Matthew's parents; no dates in screenshot. |
+
 | Amiel Bosch; Hildegard G. Greener | Amiel born 1856 in Baden, Germany; Hildegard born 1851 in Baden/Germany/Bavaria as displayed. Proposed parents of Rose. |
 | Thomas Greener; Elizabeth [surname absent] | Born 1831 and 1823 respectively, chart says Bavaria; proposed parents of Hildegard. |
 | Johann Ludwig Disque; Magdalena Froelich | Johann born 7 Jul 1796 in Knittelsheim/Pfalz, died 2 Jan 1853 in Wilgartswiesen; Magdalena born 14 Nov 1808 in Trippstadt/Pfalz. Proposed parents of Magdalena Disque. |
 | Philippe Froelich; Eleonora Kreb | Born about 1777 and 1781; proposed parents of Magdalena Froelich. |
+
+**New source conflict:** An [1840 Unadingen original](../sources/records/unadingen-matthaeus-kramer-register-1840-candidate.jpg) records a Matthäus Kramer with **Bernhard Kramer and Maria Huber**, whereas the chart gives **Mary Horner**. The chart's precise 29 August date may have been copied from this record. The Pennsylvania identity link has not been made, so retain both maternal surnames as competing leads. [Comparison](../branches/kramer-baden-candidate.md).
 
 **Cross-check:** The [Institute for Palatinate History's Magdalena Fröhlich card](https://migration.pfalzgeschichte.de/person/98001) instead names **Casimir Fröhlich and Katharina Rauschel** as her parents. Its [Johann Ludwig Disque card](https://migration.pfalzgeschichte.de/person/98000) also differs from the chart by a month on his 1796 birth and by 20 days on his 1853 death. The card set omits the chart's Magdalena Disque from its children. These are unresolved conflicts, not transcription corrections to the supplied chart.
 
