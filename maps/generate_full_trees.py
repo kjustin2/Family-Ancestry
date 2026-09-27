@@ -78,7 +78,7 @@ TREES = [
             person("Justin Kramer", "Melissa + Paul Kramer's son · family account", "account"),
         ],
         "merge": ("account", "account"),
-        "caveat": "Velma's proposed birth identity as Mabel Reese is not shown as proved. Fairchild remains unplaced. The 1915 biography needs older original records.",
+        "caveat": "Velma's proposed Mabel Reese identity is not proved. Ruth Kreischer Fairchild is a collateral lead; the remembered direct Fairchild ancestor remains unplaced.",
     },
     {
         "slug": "full-tree-weatherford-morrison",

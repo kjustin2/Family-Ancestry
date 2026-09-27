@@ -251,10 +251,10 @@ def miller_raber_family():
     b.extend(['<path d="M304 402 L304 429 L590 429 M874 402 L874 429 L590 429 L590 449" fill="none" stroke="#85979b" stroke-width="3"/>'])
     card(310, 449, 560, '#5c6ba0', 'Melissa Miller Kramer', 'Daughter of Paul + Sonya · mother of Justin', 'Parent links supplied by Justin')
     b.extend([txt(48, 577, 'Earlier Miller, Reese and Corderman relatives appear in the branch page.', size=17, fill='#344954'),
-              txt(48, 607, 'Fairchild remains an unplaced memory; records name Shirley’s mother Aletha Sponenberg.', size=15, fill='#52616a')])
+              txt(48, 607, 'Ruth Kreischer Fairchild: strong burial lead; Shirley’s mother was Aletha Sponenberg.', size=15, fill='#52616a')])
     save('miller-raber-family.svg', ''.join(b), w, h,
          'Melissa Miller Kramer’s Miller and Raber family lines',
-         'Two Berwick branches join at Paul Miller and Sonya Raber, whose daughter is Melissa. The Miller branch uses Paulene Beach’s family memoir, censuses and Justin’s account. A 1915 biography, 1940 census and 2018 obituary support the Sponenberg, Kreischer and Raber line. Fairchild remains an unplaced memory.')
+         'Two Berwick branches join at Paul Miller and Sonya Raber, whose daughter is Melissa. The Miller branch uses Paulene Beach’s family memoir, censuses and Justin’s account. A 1915 biography, 1940 census and 2018 obituary support the Sponenberg, Kreischer and Raber line. A burial listing strongly matches Ruth Kreischer to Fairchild by marriage; the remembered direct ancestor remains unplaced.')
 
 
 def blevins_deep_lineage():

@@ -1,6 +1,6 @@
 <svg xmlns="http://www.w3.org/2000/svg" width="1200" height="675" viewBox="0 0 1200 675" role="img" aria-labelledby="title desc">
   <title id="title">Sonya Raber's recorded maternal line and two family branches</title>
-  <desc id="desc">The 1915 county biography names Edward and Jennie Sponenberg and their daughter Aletha. Shirley Raber's 2018 obituary names Aletha and William Kreischer as her parents and Sonya Balliet as her daughter. Justin supplies Melissa's and Raegan's later relationships. Fairchild is an unplaced family-memory lead, not Shirley's mother in the records.</desc>
+  <desc id="desc">The 1915 county biography names Edward and Jennie Sponenberg and their daughter Aletha. Shirley Raber's 2018 obituary names Aletha and William Kreischer as her parents and Sonya Balliet as her daughter. Justin supplies Melissa's and Raegan's later relationships. A second 1915 biography names Ruth Kreischer, strongly matched to a Fairchild burial listing; the earlier direct-ancestor Fairchild memory is still open.</desc>
   <rect width="1200" height="675" rx="20" fill="#f7f3ec"/>
   <g font-family="Arial,sans-serif" fill="#263840">
     <text x="36" y="47" font-size="27" font-weight="700">Sonya's maternal line comes into focus</text>
@@ -30,6 +30,6 @@
     <text x="588" y="537" font-size="19" font-weight="700">Raegan Balliet Knight</text>
     <text x="588" y="562" font-size="14">Raegan + Robert Knight → Robert Knight Jr.</text>
     <rect x="36" y="614" width="1128" height="39" rx="8" fill="#fffaf4" stroke="#d8b48b" stroke-dasharray="5 4"/>
-    <text x="52" y="639" font-size="14">Fairchild: remembered family name, but Shirley's recorded mother was Aletha Sponenberg. Its place in the tree is open.</text>
+    <text x="52" y="639" font-size="14">Fairchild: Ruth Kreischer's later surname is a strong lead; Shirley's mother was Aletha Sponenberg.</text>
   </g>
 </svg>

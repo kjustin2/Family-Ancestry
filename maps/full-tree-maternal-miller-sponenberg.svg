@@ -1,6 +1,6 @@
 <svg xmlns="http://www.w3.org/2000/svg" width="1200" height="1199" viewBox="0 0 1200 1199" role="img" aria-labelledby="title desc">
 <title id="title">Justin&#x27;s maternal lines: Miller + Sponenberg</title>
-<desc id="desc">The two Berwick paths meet at Melissa; the oldest Sponenberg parents come from a 1915 biography. Velma&#x27;s proposed birth identity as Mabel Reese is not shown as proved. Fairchild remains unplaced. The 1915 biography needs older original records.</desc>
+<desc id="desc">The two Berwick paths meet at Melissa; the oldest Sponenberg parents come from a 1915 biography. Velma&#x27;s proposed Mabel Reese identity is not proved. Ruth Kreischer Fairchild is a collateral lead; the remembered direct Fairchild ancestor remains unplaced.</desc>
 <style>.heading{font:700 30px Segoe UI,Arial,sans-serif;fill:#183343}.subtitle{font:16px Segoe UI,Arial,sans-serif;fill:#526875}.lane{font:700 15px Segoe UI,Arial,sans-serif;letter-spacing:1px;fill:#183343}.person{font:700 18px Segoe UI,Arial,sans-serif;fill:#183343}.detail{font:14px Segoe UI,Arial,sans-serif;fill:#556a73}.tag{font:700 11px Segoe UI,Arial,sans-serif}.foot{font:13px Segoe UI,Arial,sans-serif;fill:#526875}</style>
 <rect width="1200" height="1199" fill="#f4f7f6"/>
 <rect width="1200" height="8" fill="#147d78"/>
@@ -39,6 +39,6 @@
 <path d="M600 972 L600 996" fill="none" stroke="#6557a0" stroke-width="3"/>
 <a href="../README.md"><rect x="340" y="996" width="520" height="72" rx="12" fill="#ffffff" stroke="#d7e1e1"/><rect x="340" y="996" width="6" height="72" rx="3" fill="#6557a0"/><text x="358" y="1024" class="person">Justin Kramer</text><text x="358" y="1047" class="detail">Melissa + Paul Kramer&#x27;s son · family account</text></a><text x="848" y="1059" class="tag" text-anchor="end" fill="#6557a0">family</text>
 <text x="42" y="1097" class="foot">Solid teal = record-backed · purple = family account · dashed ochre = proposed link.</text>
-<text x="42" y="1120" class="foot">Velma&#x27;s proposed birth identity as Mabel Reese is not shown as proved. Fairchild remains unplaced. The 1915 biography needs older</text>
-<text x="42" y="1140" class="foot">original records.</text>
+<text x="42" y="1120" class="foot">Velma&#x27;s proposed Mabel Reese identity is not proved. Ruth Kreischer Fairchild is a collateral lead; the remembered direct Fairchild</text>
+<text x="42" y="1140" class="foot">ancestor remains unplaced.</text>
 </svg>
