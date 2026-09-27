@@ -24,7 +24,7 @@ An evidence-led map of Justin and Ashley's family history. **Research snapshot: 
 - [Justin's maternal Berwick side](branches/maternal-kramer-side.md): the [Miller–Gower–Reese household](branches/miller-gower-reese.md), [Raber–Kreisher–Fairchild line](branches/raber-kreisher-fairchild.md), and [two-branch diagram](maps/miller-raber-family.svg).
 - [Berwick Miller family timeline](branches/miller-berwick-timeline.md): records and family stories from the early household through the factory closure, Lester and Carl's music, a Vietnam-veteran burial lead, and later family visits.
 - [Carl Miller and Agent Orange: evidence check](research/carl-miller-agent-orange.md): his reported exposure, VA's location rules, and the military and medical records still needed.
-- [Annie Neathery's Danville family](branches/neathery-phelps.md): her brother Oscar, their father's textile work, and why Mary Moring was probably their stepmother.
+- [Annie Neathery's Phelps and Danville family](branches/neathery-phelps.md): an 1889 North Carolina marriage names both parent pairs; an 1880 candidate household records schooling and farm work; the 1900 census explains why Mary Moring was probably her stepmother.
 - [Family places across generations](context/family-place-sequences.md): mapped Muncy Valley → Berwick → Muncy regional return, plus Kramer, Cordaro and Weatherford place sequences with evidence gaps shown.
 - [Ashley's immigration question](branches/ashley-immigration.md): what the present records establish and the exact links still needed to date an arrival.
 - [Places, education, and events](context/places-and-schools.md).

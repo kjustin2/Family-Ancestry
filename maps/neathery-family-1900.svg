@@ -1,6 +1,6 @@
 <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1000 530" role="img" aria-labelledby="title desc">
   <title id="title">Annie Neathery's mother and her father's later household</title>
-  <desc id="desc">Annie Phelps is named as Annie Lillian Neathery's mother on a 1969 death certificate. John R C Neathery is the father. The 1900 census puts children Oscar and Annie in John's home with wife Mary H Moring, whom he married in December 1894. Mary's census count of one child born and zero living means the two children living with them were probably her stepchildren.</desc>
+  <desc id="desc">Annie Phelps is named as Annie Lillian Neathery's mother on a 1969 death certificate. An 1889 Caswell County register shows J R C Neathery marrying A L Phelps. The 1900 census puts children Oscar and Annie in John's home with wife Mary H Moring, whom he married in December 1894. Mary's census count of one child born and zero living means the two children living with them were probably her stepchildren.</desc>
   <style>
     text { font-family: Arial, Helvetica, sans-serif; fill:#173046 }
     .title { font-size:28px; font-weight:700 }
@@ -15,13 +15,13 @@
     .uncertain { fill:none; stroke:#d79b29; stroke-width:3; stroke-dasharray:7 7 }
   </style>
   <rect width="1000" height="530" fill="#f5f8f8"/>
-  <text class="title" x="50" y="55">Annie's two-mother record question</text>
-  <text class="sub" x="50" y="83">The 1900 household and 1894 marriage clarify a misleading online census label</text>
+  <text class="title" x="50" y="55">Annie's Phelps and Moring records</text>
+  <text class="sub" x="50" y="83">The 1889 marriage and 1900 household clarify a misleading online census label</text>
 
   <rect class="lead" x="48" y="118" rx="15" width="275" height="112"/>
   <text class="name" x="70" y="151">Annie Phelps</text>
-  <text class="detail" x="70" y="178">Named as mother in daughter's</text>
-  <text class="detail" x="70" y="200">1969 death certificate</text>
+  <text class="detail" x="70" y="178">A. L. Phelps married John, 1889</text>
+  <text class="detail" x="70" y="200">Named as mother, 1969 certificate</text>
 
   <rect class="card" x="363" y="118" rx="15" width="278" height="112"/>
   <text class="name" x="385" y="151">John R. C. Neathery</text>
@@ -33,9 +33,9 @@
   <text class="detail" x="702" y="178">Married John, Dec. 1894</text>
   <text class="detail" x="702" y="200">1900: 1 child, 0 living</text>
 
-  <path class="uncertain" d="M323 174 H363"/>
+  <path class="line" d="M323 174 H363"/>
   <path class="line" d="M641 174 H680"/>
-  <text class="small" x="343" y="111" text-anchor="middle">earlier relationship inferred</text>
+  <text class="small" x="343" y="111" text-anchor="middle">married 1889</text>
   <text class="small" x="660" y="111" text-anchor="middle">married</text>
 
   <path class="line" d="M502 230 V283 H313 V314"/>
@@ -50,6 +50,6 @@
   <text class="detail" x="553" y="376">Born Mar. 1894; age 6 in 1900</text>
   <text class="detail" x="553" y="399">Later married Duffy Weatherford</text>
 
-  <text class="small" x="50" y="473">Amber: mother named decades later; no contemporary Phelps record matched.</text>
+  <text class="small" x="50" y="473">Amber: 1889 bride A. L. Phelps; daughter's 1969 certificate expands her name to Annie Phelps.</text>
   <text class="small" x="50" y="497">Green: John's later wife and probable stepmother; the 1900 index's “mother” label is not biological proof.</text>
 </svg>
