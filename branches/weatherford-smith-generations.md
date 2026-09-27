@@ -60,6 +60,8 @@ Gladys's [1940 household](https://www.familysearch.org/ark:/61903/1:1:K4HN-TVW?l
 
 The [2003 Garnett Jr. notice](https://www.legacy.com/us/obituaries/washingtonpost/name/garnett-weatherford-obituary?id=5491686) also names his four children **Cynthia, Christine, Carolyn, and Lisa Weatherford** (some later surnames appear in the notice). They are **John's nieces and Ashley's cousins**, not additional siblings of John or Ashley. Their birth dates and current names have not been checked.
 
+**John's naming story:** The family says Garnett and Florence considered **Duffie**, after Garnett's father **Doctor Duffy Weatherford**, before naming John for President John F. Kennedy. Justin recalls that Florence learned she was pregnant while Kennedy was in the same building. The building and date are unidentified, and the encounter has not been independently documented. See the [full account and source distinction](weatherford.md#why-john-was-named-john).
+
 ## Layer 4 — Ashley's generation
 
 John and Alice's children identified by the family are **Ashley Marie Weatherford**, **John Weatherford Jr.**, and **Tancy Weatherford**. Justin says Tancy was named for an older **Blevins-side relative by marriage** known as a great-aunt. **Tancy Blanche Barker Blevins** in a [MyHeritage tree](https://www.myheritage.com/research/record-1-OYYV7J5XTEFREVRUIRE7UD4GYZEXYGI-2-1984/myheritage-family-trees) **sounds like her** to Justin, but the proposed tree would place her as Gladys's **step-grandmother** if its father–son link is correct. The precise kinship and namesake identification need an original record or family document. Birth and death dates and birth order have not been supplied. Ashley is Justin Kramer's wife. [Family account] · [Smith branch](smith.md).
