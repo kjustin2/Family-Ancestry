@@ -8,6 +8,7 @@
 - [Kramer work](kramer-work.svg) places documented occupations, Emil's named employer and Army enlistment in order without presenting one household's wages as a long-term wealth trend.
 - [Bosch connection](bosch-1920-connection.svg) explains why both 1920 census sheets must be read together to identify Rose's parents.
 - [Colette assessments](colette-assessments.svg) charts selected **nominal county property estimates** over time; it does not estimate anyone's net worth.
+- [Samuel Weatherford's census resources](samuel-weatherford-census-resources.svg) shows the reported 1850 and 1870 estate entries with the **1860 missing-data gap**; [original images and interpretation](../branches/weatherford-early-virginia.md#what-the-household-sheets-reveal).
 - [Weatherford–Smith generations](weatherford-smith-generations.svg) shows where the two known lines meet and the size of each named sibling group; the [generation guide](../branches/weatherford-smith-generations.md) lists every name and date status.
 - [Smith–Blevins evidence map](smith-blevins-lineage.svg) separates Gladys's documented parent link from James's candidate parents and the older Tancy tree lead; the [Smith page](../branches/smith.md) explains each source.
 - [Deeper Blevins evidence ladder](blevins-deep-lineage.svg) ([PNG preview](blevins-deep-lineage-preview.png)) follows the linked member tree into the 1700s while marking the record-backed, ambiguous and tree-only links; the [Blevins guide](../branches/blevins-deep-lineage.md) explains the Civil War and immigration evidence.

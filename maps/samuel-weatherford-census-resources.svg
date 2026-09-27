@@ -1,0 +1,25 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 920 430" role="img" aria-labelledby="title desc">
+  <title id="title">Samuel Weatherford: census estate entries, 1850 to 1870</title>
+  <desc id="desc">The 1850 schedule reports 375 dollars in real estate. The 1860 fields are blank, so no value or trend is known for that year. The 1870 schedule reports 786 dollars in real estate and 300 dollars in personal estate. These nominal entries are not net worth.</desc>
+  <rect width="920" height="430" fill="#f5f3ec"/>
+  <text x="42" y="54" fill="#1d3037" font-family="Georgia,serif" font-size="27" font-weight="bold">Samuel Weatherford’s census resources</text>
+  <text x="42" y="82" fill="#52636a" font-family="Arial,sans-serif" font-size="16">Halifax County, Virginia · reported nominal dollars</text>
+  <line x1="43" y1="108" x2="875" y2="108" stroke="#c9c5b8"/>
+  <text x="43" y="145" fill="#1d3037" font-family="Arial,sans-serif" font-size="20" font-weight="bold">1850</text>
+  <rect x="143" y="124" width="225" height="29" rx="5" fill="#317d73"/>
+  <text x="381" y="145" fill="#1d3037" font-family="Arial,sans-serif" font-size="18">$375 real estate</text>
+  <text x="143" y="177" fill="#52636a" font-family="Arial,sans-serif" font-size="15">Planter · no personal-estate question</text>
+  <line x1="43" y1="194" x2="875" y2="194" stroke="#d9d4c7"/>
+  <text x="43" y="230" fill="#1d3037" font-family="Arial,sans-serif" font-size="20" font-weight="bold">1860</text>
+  <rect x="143" y="208" width="458" height="32" rx="5" fill="#e4e0d5"/>
+  <text x="158" y="231" fill="#4f5a5b" font-family="Arial,sans-serif" font-size="17" font-weight="bold">No estate value entered</text>
+  <text x="143" y="263" fill="#52636a" font-family="Arial,sans-serif" font-size="15">A blank field cannot show a gain or loss.</text>
+  <line x1="43" y1="281" x2="875" y2="281" stroke="#d9d4c7"/>
+  <text x="43" y="319" fill="#1d3037" font-family="Arial,sans-serif" font-size="20" font-weight="bold">1870</text>
+  <rect x="143" y="297" width="472" height="29" rx="5" fill="#317d73"/>
+  <text x="628" y="319" fill="#1d3037" font-family="Arial,sans-serif" font-size="18">$786 real estate</text>
+  <rect x="143" y="338" width="180" height="25" rx="5" fill="#b77f51"/>
+  <text x="336" y="358" fill="#1d3037" font-family="Arial,sans-serif" font-size="17">$300 personal estate · farmer</text>
+  <line x1="43" y1="382" x2="875" y2="382" stroke="#c9c5b8"/>
+  <text x="43" y="406" fill="#52636a" font-family="Arial,sans-serif" font-size="14">Bar lengths compare amounts within each estate category; values are not adjusted for inflation or debts.</text>
+</svg>
