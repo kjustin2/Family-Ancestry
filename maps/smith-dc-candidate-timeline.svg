@@ -1,0 +1,42 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1100" height="395" viewBox="0 0 1100 395" role="img" aria-labelledby="title desc">
+  <title id="title">The candidate Smith family in Washington, DC, 1917 to 1966</title>
+  <desc id="desc">Four record boxes show Raymond Smith and Alice Mulhall's 1917 marriage index, their 1940 and 1950 censuses with son James, and Raymond's 1966 obituary index. A dashed arrow toward the 1986 Fairfax father record marks that the identity and spouse bridge remains unproved.</desc>
+  <rect width="1100" height="395" fill="#f5f2e9"/>
+  <rect width="8" height="395" fill="#98704d"/>
+  <g font-family="Segoe UI,Arial,sans-serif">
+    <text x="30" y="42" font-size="28" font-weight="700" fill="#193a4e">A Smith family in Washington, DC</text>
+    <text x="30" y="69" font-size="16" fill="#50616b">Original census sheets trace one household; the final link to Ashley's grandfather remains open.</text>
+    <line x1="142" y1="138" x2="954" y2="138" stroke="#7a9a9d" stroke-width="4"/>
+    <g fill="#ffffff" stroke="#d5dfdd" stroke-width="1.5">
+      <rect x="30" y="165" width="248" height="122" rx="12"/>
+      <rect x="294" y="165" width="248" height="122" rx="12"/>
+      <rect x="558" y="165" width="248" height="122" rx="12"/>
+      <rect x="822" y="165" width="248" height="122" rx="12"/>
+    </g>
+    <g fill="#537b82">
+      <circle cx="154" cy="138" r="9"/><circle cx="418" cy="138" r="9"/>
+      <circle cx="682" cy="138" r="9"/><circle cx="946" cy="138" r="9"/>
+    </g>
+    <g stroke="#7a9a9d" stroke-width="2">
+      <line x1="154" y1="147" x2="154" y2="165"/>
+      <line x1="418" y1="147" x2="418" y2="165"/>
+      <line x1="682" y1="147" x2="682" y2="165"/>
+      <line x1="946" y1="147" x2="946" y2="165"/>
+    </g>
+    <g fill="#173c50" font-weight="700" font-size="20">
+      <text x="48" y="197">1917 · marriage</text><text x="312" y="197">1940 · census</text>
+      <text x="576" y="197">1950 · census</text><text x="840" y="197">1966 · obituary</text>
+    </g>
+    <g fill="#304e5d" font-size="15">
+      <text x="48" y="225">Raymond J. Smith +</text><text x="48" y="247">Alice M. Mulhall</text><text x="48" y="269">Indexed DC entry</text>
+      <text x="312" y="225">James A., 6, at home</text><text x="312" y="247">with Raymond, Alice</text><text x="312" y="269">and five older children</text>
+      <text x="576" y="225">James A., 16, at home;</text><text x="576" y="247">Raymond reports</text><text x="576" y="269">optician work</text>
+      <text x="840" y="225">Index names wife Alice</text><text x="840" y="247">and son James A.;</text><text x="840" y="269">original not read</text>
+    </g>
+    <line x1="682" y1="300" x2="682" y2="321" stroke="#a06c53" stroke-width="2" stroke-dasharray="6 5"/>
+    <rect x="306" y="322" width="752" height="50" rx="10" fill="#fff1e8" stroke="#d6ad94"/>
+    <text x="322" y="344" font-size="16" font-weight="700" fill="#714a3a">Open bridge to Fairfax:</text>
+    <text x="322" y="363" font-size="14" fill="#714a3a">1986 return names Alice Weatherford's father James Allen Smith; no record here names Gladys as this DC son's wife.</text>
+    <text x="30" y="116" font-size="14" fill="#5b6870">Source chain: marriage index · original census · original census · obituary index</text>
+  </g>
+</svg>
