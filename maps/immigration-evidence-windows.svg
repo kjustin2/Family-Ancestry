@@ -1,0 +1,54 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="680" viewBox="0 0 1200 680" role="img" aria-labelledby="title desc">
+  <title id="title">Immigration evidence windows, 1840 to 1910</title>
+  <desc id="desc">Five family rows compare the Mulhall birthplace bracket, tentative Corbett deadline, Kramer reported arrival, Disque migration card, and Pietra Cordaro's passenger manifest. These are evidence dates, not ship routes or proven motives.</desc>
+  <rect width="1200" height="680" rx="26" fill="#f6f3ea"/>
+  <text x="36" y="45" font-family="Arial,sans-serif" font-size="27" font-weight="700" fill="#17343a">When do the records place each crossing?</text>
+  <text x="36" y="73" font-family="Arial,sans-serif" font-size="15" fill="#47636a">Birthplace windows, later recollections and one manifest · no ship course or personal motive implied</text>
+  <rect x="225" y="101" width="850" height="530" rx="18" fill="#fffdf9" stroke="#d8dfdc"/>
+  <g stroke="#dbe1dd" stroke-width="1">
+    <path d="M250 125V616 M360 125V616 M470 125V616 M580 125V616 M690 125V616 M800 125V616 M910 125V616 M1020 125V616"/>
+  </g>
+  <g font-family="Arial,sans-serif" font-size="14" fill="#587078" text-anchor="middle">
+    <text x="250" y="120">1840</text><text x="360" y="120">1850</text><text x="470" y="120">1860</text><text x="580" y="120">1870</text><text x="690" y="120">1880</text><text x="800" y="120">1890</text><text x="910" y="120">1900</text><text x="1020" y="120">1910</text>
+  </g>
+  <g font-family="Arial,sans-serif" fill="#17343a">
+    <text x="36" y="184" font-size="20" font-weight="700">Mulhall</text><text x="36" y="207" font-size="14">Ireland → Washington</text>
+    <text x="36" y="283" font-size="20" font-weight="700">Corbett</text><text x="36" y="306" font-size="14">Ireland → Washington</text>
+    <text x="36" y="382" font-size="20" font-weight="700">Kramer</text><text x="36" y="405" font-size="14">German lands → PA</text>
+    <text x="36" y="481" font-size="20" font-weight="700">Disqué</text><text x="36" y="504" font-size="14">Palatinate → New York</text>
+    <text x="36" y="580" font-size="20" font-weight="700">Cordaro</text><text x="36" y="603" font-size="14">Sicily → New York</text>
+  </g>
+  <g stroke="#e8ede9"><path d="M225 234H1075 M225 333H1075 M225 432H1075 M225 531H1075"/></g>
+  <g font-family="Arial,sans-serif">
+    <rect x="283" y="166" width="77" height="21" rx="10" fill="#2d7486" opacity=".22"/>
+    <path d="M283 176H360" stroke="#2d7486" stroke-width="5" stroke-linecap="round"/>
+    <circle cx="283" cy="176" r="7" fill="#2d7486"/><circle cx="360" cy="176" r="7" fill="#2d7486"/>
+    <text x="278" y="158" font-size="14" fill="#205b6a">James born in Ireland, ~1843</text>
+    <text x="370" y="202" font-size="14" fill="#205b6a">Michael born in Virginia by 1850</text>
+
+    <text x="274" y="280" font-size="13" fill="#78542b">arrival unknown; before</text>
+    <path d="M430 275H459" stroke="#b48348" stroke-width="3" stroke-dasharray="7 7"/>
+    <circle cx="459" cy="275" r="8" fill="#b48348"/>
+    <text x="474" y="269" font-size="15" fill="#78542b">Margaret DC-born by ~1859</text>
+    <text x="474" y="292" font-size="13" fill="#78542b">Irish-born parents reported; William is a candidate</text>
+
+    <circle cx="525" cy="374" r="8" fill="#b48348"/>
+    <path d="M525 374H580" stroke="#b48348" stroke-width="3" stroke-dasharray="7 7"/>
+    <circle cx="580" cy="374" r="8" fill="#2d7486"/>
+    <text x="610" y="368" font-size="15" fill="#205b6a">1865 arrival reported in 1900</text>
+    <text x="610" y="391" font-size="13" fill="#205b6a">Wilkes-Barre household recorded in 1870</text>
+
+    <circle cx="514" cy="473" r="8" fill="#b48348"/>
+    <text x="531" y="468" font-size="15" fill="#78542b">1864 migration card</text>
+    <text x="531" y="490" font-size="13" fill="#78542b">This widow's link to Lena Kramer is unresolved</text>
+
+    <circle cx="1009" cy="572" r="9" fill="#2d7486"/>
+    <text x="675" y="563" font-size="15" fill="#205b6a">1909 Pietra manifest</text>
+    <text x="675" y="586" font-size="13" fill="#205b6a">Palermo → New York; Pittsburgh destination</text>
+  </g>
+  <g font-family="Arial,sans-serif" font-size="13" fill="#47636a">
+    <circle cx="36" cy="646" r="6" fill="#2d7486"/><text x="50" y="651">recorded birthplace, household or manifest</text>
+    <circle cx="376" cy="646" r="6" fill="#b48348"/><text x="390" y="651">reported date or candidate link</text>
+    <text x="1145" y="651" text-anchor="end">Sources: family censuses, migration card, passenger manifest</text>
+  </g>
+</svg>

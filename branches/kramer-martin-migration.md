@@ -18,4 +18,6 @@
 
 **What was happening around them:** a [German History in Documents and Images overview](https://germanhistorydocs.org/en/from-vormaerz-to-prussian-dominance-1815-1866/introduction) describes a German emigration wave beginning in **1864**. Matthew and Lena's reported 1865 arrival fits that period, but no record says *why they left*, which port they used, or whether they traveled together. Martin's recorded shift from masonry in 1870 to rope work in 1880 is a personal work sequence, **not proof of financial rise or loss**. The $3,000 property report and the owned home in 1900 do not establish the same parcel or show what passed to Ferdinand.
 
+[See the cross-family immigration evidence timeline](../context/immigration-stories.md) and the [Europe map](../maps/europe-family-places.svg). The map keeps **Unadingen as a candidate** and does not draw an invented German-town-to-Wilkes-Barre ship route.
+
 **Next records:** an 1864–66 passenger list or naturalization file naming Martin/Matthew and Lena; their original marriage entry; Matthias Kramer's **1918 death certificate 81722**; the 1918 Martin Kramer will; and deeds for the 1870 and 1900 properties. Each could test the name, birthplace, immigration, and inheritance questions.

@@ -32,6 +32,7 @@ An evidence-led map of Justin and Ashley's family history. **Research snapshot: 
 - [Annie Neathery's Phelps and Danville family](branches/neathery-phelps.md): an 1889 North Carolina marriage names both parent pairs; an 1880 candidate household records schooling and farm work; the 1900 census explains why Mary Moring was probably her stepmother.
 - [Family places across generations](context/family-place-sequences.md): mapped Muncy Valley → Berwick → Muncy regional return, plus Kramer, Cordaro and Weatherford place sequences with evidence gaps shown.
 - [Ashley's immigration question](branches/ashley-immigration.md): what the present records establish and the exact links still needed to date an arrival.
+- [Immigration stories and evidence windows](context/immigration-stories.md): a concise comparison of the Kramer, Mulhall, Corbett, Disqué and Cordaro crossings, their period context, and the unanswered personal reasons.
 - [Places, education, and events](context/places-and-schools.md).
 - [Agnes in the family's places](context/agnes-1972.md): a visual comparison of the 1972 flood in Wilkes-Barre, Berwick and northern Virginia, with family impact kept separate from local history.
 - [Growing up around Franconia](context/franconia-growing-up.md): schools, suburban growth, racing and crime in the years Ashley's parents remember, with a [population chart](maps/fairfax-growth-1950-1985.svg).
@@ -45,6 +46,10 @@ An evidence-led map of Justin and Ashley's family history. **Research snapshot: 
 - [Source ledger](research/sources.md), [Monty source ledger](research/monty-sources.md), [chart transcription](research/chart-transcription.md), and [open questions](research/open-questions.md).
 
 ![European family places from Ireland through Germany to Sicily, with distinct evidence labels](maps/europe-family-places-preview.png)
+
+![Five family immigration windows, distinguishing censuses, a migration card and a passenger manifest](maps/immigration-evidence-windows-preview.png)
+
+The [immigration guide](context/immigration-stories.md) explains each date and why the Irish county, Matthew Kramer's German town and personal motives remain open.
 
 ## What we can say now
 
