@@ -1,5 +1,7 @@
 # Family and economic timeline
 
+For a clickable overview of births, migrations, work, homes and historical turning points, open the [interactive family timeline](explore/timeline.html) in a browser.
+
 This compares **documented work and assets**, not measured net worth. The German mill branch is one ancestral line among many; its property cannot be treated as wealth inherited by every later descendant.
 
 For major events happening around each family, see [the families in their times](context/family-in-its-times.md).

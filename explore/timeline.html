@@ -1,0 +1,57 @@
+<!doctype html>
+<html lang="en">
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <meta name="theme-color" content="#163b43">
+  <title>Family history · Explore the timeline</title>
+  <link rel="stylesheet" href="timeline.css">
+  <script src="timeline.js" defer></script>
+</head>
+<body>
+  <a class="skip" href="#events">Skip to events</a>
+  <header class="masthead">
+    <nav aria-label="Main navigation">
+      <a class="brand" href="../README.md"><span class="brand-mark" aria-hidden="true">✳</span> Family History Atlas</a>
+      <a class="nav-link" href="../timeline.md">Read the full research timeline ↗</a>
+    </nav>
+    <div class="hero">
+      <p class="eyebrow">Justin • Ashley • Monty</p>
+      <h1>A family history you can explore</h1>
+      <p>Follow people, places and turning points from a Palatinate mill to the present. Select an event to see what the records say, what remains open, and where to read more.</p>
+      <div class="hero-meta"><span id="total-count">… events</span><span>1684–2025</span><span>Sources linked at every stop</span></div>
+    </div>
+  </header>
+
+  <main>
+    <section class="explainer" aria-label="How to read this timeline">
+      <span class="key"><i class="dot recorded"></i><b>Recorded</b> — a cited record says this</span>
+      <span class="key"><i class="dot family"></i><b>Family account</b> — recalled or supplied</span>
+      <span class="key"><i class="dot proposed"></i><b>Proposed</b> — connection needs proof</span>
+      <span class="key"><i class="dot context"></i><b>Context</b> — the surrounding place or era</span>
+    </section>
+
+    <section class="controls" aria-label="Timeline controls">
+      <div class="control-top"><div><p class="eyebrow dark">Find your way</p><h2>Explore the years</h2></div><button id="reset" class="reset" type="button">Clear filters</button></div>
+      <div class="control-grid">
+        <label>Search people or places<input id="search" type="search" placeholder="Try James, Berwick, Sutera…" autocomplete="off"></label>
+        <label>Family line<select id="branch"><option value="all">All lines</option></select></label>
+        <label>Event type<select id="type"><option value="all">All event types</option></select></label>
+      </div>
+      <div class="eras" id="eras" role="group" aria-label="Choose a century"></div>
+      <p class="filter-note" id="filter-note" aria-live="polite"></p>
+    </section>
+
+    <div class="workspace">
+      <section class="timeline-column" id="events" aria-labelledby="events-title">
+        <div class="column-head"><h2 id="events-title">Events</h2><span id="showing-count"></span></div>
+        <div class="event-list" id="event-list"></div>
+        <p class="empty" id="empty" hidden>No events match these filters. Try another line, century or search term.</p>
+      </section>
+      <aside class="detail" id="detail" aria-label="Selected event details" aria-live="polite"></aside>
+    </div>
+  </main>
+
+  <footer><p>This is a working history. A date or place on one branch never proves a relationship to a different branch.</p><a href="../research/sources.md">Source ledger ↗</a> <a href="../research/open-questions.md">Open questions ↗</a></footer>
+</body>
+</html>

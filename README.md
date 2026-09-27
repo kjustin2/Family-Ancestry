@@ -4,7 +4,7 @@ An evidence-led map of Justin and Ashley's family history. **Research snapshot: 
 
 ## Start here
 
-- [Timeline and family circumstances](timeline.md)
+- [Explore the interactive family timeline](explore/timeline.html): filter family lines and centuries, then open events for people, places, evidence and unresolved questions. Open the HTML file in a browser. The [full research timeline](timeline.md) has more detail.
 - [Kramer line](branches/kramer.md): Wilkes-Barre people and the unresolved surname origin.
 - [Sutera Italian passport lead](branches/cordaro-passport-lead.md): family-held photos, a cautious transcription and the open Cordaro/Cadaros-to-Kramer connection.
 - [Disqué and Schaaf lines](branches/disque-schaaf.md): Palatinate mill families and a possible migration path.
