@@ -35,6 +35,14 @@ Public Square looking toward East Market Street, circa 1930–1945. [Boston Publ
 
 Former Knittelsheim mill, photographed **2 September 2026** by **Achim Lammerts**. [Original and credit](https://commons.wikimedia.org/wiki/File:2026-09-02_Knittelsheimer_M%C3%BChle_(Z5-10899E)_by_Achim_Lammerts.jpg) · [CC BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0/). This is a modern view of a former mill site, **not proof that the pictured structure is unchanged from Johann Ludwig Disqué's time**. The [Palatinate mill history](https://www.eberhard-ref.net/pf%C3%A4lzisches-m%C3%BChlenlexikon/pf%C3%A4lzische-m%C3%BChlen-u-m%C3%BChlorte/kleinottweiler-kusel/) describes the historical operation. The [Geiselberger mill locality](https://www.pfalz.de/de/kulinarik-in-waldfischbach-burgalben) has a modern image of the Schaaf-associated place.
 
+## Danville, Virginia
+
+For the Weatherfords' **earlier Danville chapter**, Lewis Wickes Hine photographed workers at **Danville Knitting Works in June 1911**:
+
+![Danville Knitting Works workers standing outside the office in June 1911](danville-knitting-works-1911.jpg)
+
+[Library of Congress original and caption](https://www.loc.gov/item/2018676502/) · National Child Labor Committee collection, LC-DIG-nclc-02173. The catalog says **no known restrictions on publication**; this local JPG is the LOC's large service image, unaltered. Hine reported seeing children working there. George Ira Weatherford's **1940 draft card says “Danville Knitting Mills,”** but the works/mills names have not been proved to refer to one company. This is a **1911 place and labor image**, decades before his recorded job; **no pictured person is identified as a relative**. The image belongs with the [family's Danville timeline](../branches/weatherford.md#garnetts-brother-george-a-second-transit-and-military-story).
+
 ## Alexandria region, Virginia
 
 For the eighteenth-century setting, the [Virginia period-view gallery](../context/virginia-colonial-views.md) displays three more local copies:

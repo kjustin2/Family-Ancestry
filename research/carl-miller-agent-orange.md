@@ -2,6 +2,16 @@
 
 **Current finding (27 September 2026): unverified for Carl personally.** [Paulene Miller Beach's memoir](https://bhaven.org/paulene/life-journey) says her brother Carl served in Vietnam, “contracted agent orange,” and died after a heart attack at work. A [veterans' burial index](https://www.interment.net/united-states/pennsylvania/veterans-burials/records.php?page=1482) lists **Carl E. Miller, 1948–2001, U.S. Army SP4, Vietnam**, buried at Roselawn in Berwick. This is a strong identity lead, but the index has **no parents, spouse, unit, station or deployment dates**. No service or medical record checked here establishes his individual exposure or diagnosis.
 
+**The location comparison cannot yet be made:** the family account says *Vietnam* and the likely burial match is tagged *Vietnam*, but neither names a province, base, unit, ship or dates in country. The [VA rule](https://www.publichealth.va.gov/exposures/agentorange/locations/vietnam.asp) covers qualifying service anywhere on Vietnam's land or inland waters during **9 January 1962–7 May 1975**, plus the defined offshore zone. Without Carl's assignment and dates, marking a spray location on a map would give false precision. A qualifying service finding would establish a **legal exposure presumption**, not prove that Carl personally handled the chemical or that it caused his death.
+
+```mermaid
+flowchart LR
+  A[Paulene's Vietnam account] --> B[Candidate Berwick Army SP4 burial entry]
+  B -. missing .-> C[Identified service file: dates + unit + place]
+  C --> D[Compare with VA qualifying locations]
+  D -. separate medical question .-> E[Diagnosis and cause-of-death records]
+```
+
 | Question | What can be said now | What would settle it |
 | --- | --- | --- |
 | Is the burial-index veteran Paulene's brother? | Name, Berwick, era and age fit; **not proved**. | Parent- or spouse-naming obituary, death certificate, cemetery file or original VA burial record. |
