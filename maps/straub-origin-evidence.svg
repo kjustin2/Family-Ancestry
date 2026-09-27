@@ -1,0 +1,36 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1160" height="590" viewBox="0 0 1160 590" role="img" aria-labelledby="title desc">
+<title id="title">Louisa Straub: France and Germany in conflicting birth reports</title>
+<desc id="desc">A map colors France and Germany only at country scale. Louisa Hollinger’s original 1941 death certificate reports France for her and father Nicholas Straub, while the 1900, 1910, 1920 and 1930 census records report Germany for Louisa. No birth town or route is identified; her arrival-year reports disagree.</desc>
+<style>text{font-family:Segoe UI,Arial,sans-serif;fill:#173b4a}.title{font-size:29px;font-weight:700}.subtitle{font-size:16px;fill:#526a75}.country{font-size:20px;font-weight:700}.cardtitle{font-size:19px;font-weight:700}.body{font-size:16px}.note{font-size:14px;fill:#526a75}.land{fill:#e5e9e4;stroke:#abb8af;stroke-width:1}.france{fill:#66a7af;stroke:#347985;stroke-width:2}.germany{fill:#d8a160;stroke:#a9753e;stroke-width:2}</style>
+<rect width="1160" height="590" rx="18" fill="#f5f7f5"/>
+<text x="42" y="50" class="title">Louisa Straub: two country labels</text>
+<text x="42" y="77" class="subtitle">Country-scale evidence only · Her birth town and travel route have not been found</text>
+<rect x="28" y="100" width="640" height="438" rx="16" fill="#eaf1f1"/>
+<path d="M 369.9,248.4 L 366.8,268.0 L 359.7,269.1 L 356.7,285.4 L 332.9,272.1 L 318.9,274.4 L 299.9,260.7 L 287.2,249.0 L 274.5,248.6 L 270.6,238.4 L 292.4,232.6 L 292.4,232.6 L 292.4,232.6 L 312.4,234.9 L 337.7,228.9 L 354.9,241.6 L 369.9,248.4 Z" class="land"/>
+<path d="M 390.3,170.6 L 395.4,180.4 L 388.6,207.0 L 381.7,217.9 L 365.3,217.9 L 369.9,248.4 L 354.9,241.6 L 337.7,228.9 L 312.4,234.9 L 292.4,232.6 L 292.4,232.6 L 306.5,224.6 L 330.3,181.9 L 367.7,169.8 L 390.3,170.6 Z" class="land"/>
+<path d="M 366.8,268.0 L 372.3,274.5 L 370.7,287.3 L 362.8,287.9 L 356.7,285.4 L 359.7,269.1 L 366.8,268.0 Z" class="land"/>
+<path d="M 463.7,343.6 L 464.7,348.7 L 460.5,355.8 L 472.9,361.1 L 486.8,361.9 L 484.6,373.8 L 472.6,378.7 L 452.4,375.1 L 446.5,386.8 L 433.5,387.7 L 428.8,383.1 L 413.5,392.9 L 400.4,394.3 L 388.6,388.1 L 379.3,375.4 L 366.3,379.9 L 366.7,366.8 L 386.6,350.5 L 385.7,343.1 L 398.2,345.8 L 405.6,340.8 L 428.8,341.0 L 434.4,334.7 L 463.7,343.6 Z" class="land"/>
+<path d="M 647.7,338.1 L 643.9,363.1 L 638.7,368.0 L 614.8,368.7 L 601.1,375.3 L 578.5,373.1 L 539.5,365.6 L 533.4,355.5 L 506.5,360.5 L 503.3,366.0 L 486.8,361.9 L 472.9,361.1 L 460.5,355.8 L 464.7,348.7 L 463.7,343.6 L 471.9,342.0 L 485.7,350.0 L 489.6,342.4 L 513.6,343.6 L 533.1,338.4 L 546.2,339.3 L 554.7,345.2 L 557.3,340.3 L 553.4,321.4 L 563.2,317.7 L 572.8,304.3 L 593.1,313.7 L 608.4,301.8 L 618.0,299.6 L 639.2,308.5 L 652.0,307.0 Z" class="land"/>
+<path d="M 486.8,361.9 L 503.3,366.0 L 506.5,360.5 L 533.4,355.5 L 539.5,365.6 L 578.5,373.1 L 575.6,387.4 L 582.1,399.7 L 560.4,395.5 L 538.2,405.8 L 539.7,420.2 L 536.4,428.5 L 545.3,443.3 L 570.9,457.9 L 584.6,481.9 L 507.2,493.7 L 488.7,477.0 L 480.2,448.2 L 466.6,444.9 L 444.4,435.3 L 431.9,439.2 L 416.1,452.7 L 404.8,454.8 L 407.9,442.2 L 393.1,438.5 L 386.1,416.1 L 395.5,407.2 L 387.5,396.3 L 388.6,388.1 L 400.4,394.3 L 413.5,392.9 L 428.8,383.1 L 433.5,387.7 L 446.5,386.8 L 452.4,375.1 L 472.6,378.7 L 484.6,373.8 L 486.8,361.9 Z" class="land"/>
+<path d="M 611.6,239.6 L 624.5,248.9 L 644.9,251.4 L 643.2,259.4 L 652.0,307.0 L 639.2,308.5 L 618.0,299.6 L 608.4,301.8 L 593.1,313.7 L 572.8,304.3 L 557.4,291.8 L 543.5,284.8 L 540.6,272.6 L 535.8,264.0 L 555.6,257.6 L 565.8,250.4 L 585.4,244.8 L 592.2,239.3 L 599.4,242.6 L 611.6,239.6 Z" class="land"/>
+<path d="M 643.2,259.4 L 644.9,251.4 L 624.5,248.9 L 611.6,239.6 L 600.4,221.0 L 602.5,211.0 L 595.8,195.5 L 585.9,185.1 L 593.5,177.4 L 587.1,162.6 L 605.7,154.1 L 648.3,140.7 Z" class="land"/>
+<path d="M 54.4,458.3 L 83.4,463.2 L 106.1,461.7 L 150.1,462.7 L 161.0,474.0 L 211.2,487.2 L 221.1,480.9 L 251.8,494.0 L 283.4,490.3 Z" class="land"/>
+<path d="M 117.6,172.8 L 117.7,172.8 L 121.7,156.0 L 103.4,138.1 L 103.0,137.7 L 69.9,132.6 L 63.4,124.7 L 171.6,137.4 L 190.3,142.1 L 207.0,175.2 L 214.8,186.6 L 247.9,192.2 L 244.5,210.7 L 230.7,219.2 L 241.5,234.3 L 217.0,249.5 L 180.5,249.2 L 134.1,257.2 L 121.4,251.5 L 103.3,265.1 L 78.1,261.8 L 59.0,272.9 L 84.5,236.6 L 108.9,230.3 L 108.7,230.3 L 66.1,225.4 L 58.3,213.9 L 86.8,204.9 L 71.9,189.2 L 77.1,170.2 L 117.6,172.8 Z" class="land"/>
+<path d="M 370.7,287.3 L 383.6,294.9 L 422.9,300.2 L 409.1,320.1 L 405.6,340.8 L 398.2,345.8 L 385.7,343.1 L 386.6,350.5 L 366.7,366.8 L 366.3,379.9 L 379.3,375.4 L 388.6,388.1 L 387.5,396.3 L 395.5,407.2 L 386.1,416.1 L 393.1,438.5 L 407.9,442.2 L 404.8,454.8 L 380.1,471.2 L 326.3,463.4 L 286.6,472.8 L 283.4,490.3 L 251.8,494.0 L 221.1,480.9 L 211.2,487.2 L 161.0,474.0 L 150.1,462.7 L 164.2,445.3 L 169.4,387.4 L 141.3,356.9 L 121.2,342.3 L 79.5,331.1 L 76.8,309.9 L 112.1,303.6 L 157.9,311.1 L 149.3,278.2 L 175.0,290.7 L 238.5,268.0 L 246.7,244.2 L 270.6,238.4 L 274.5,248.6 L 287.2,249.0 L 299.9,260.7 L 318.9,274.4 L 332.9,272.1 L 356.7,285.4 L 362.8,287.9 L 370.7,287.3 Z M 440.5,485.8 L 458.1,474.7 L 462.7,499.6 L 435.0,496.6 L 440.5,485.8 Z" class="france"/>
+<path d="M 587.1,162.6 L 593.5,177.4 L 585.9,185.1 L 595.8,195.5 L 602.5,211.0 L 600.4,221.0 L 611.6,239.6 L 599.4,242.6 L 592.2,239.3 L 585.4,244.8 L 565.8,250.4 L 555.6,257.6 L 535.8,264.0 L 540.6,272.6 L 543.5,284.8 L 557.4,291.8 L 572.8,304.3 L 563.2,317.7 L 553.4,321.4 L 557.3,340.3 L 554.7,345.2 L 546.2,339.3 L 533.1,338.4 L 513.6,343.6 L 489.6,342.4 L 485.7,350.0 L 471.9,342.0 L 463.7,343.6 L 434.4,334.7 L 428.8,341.0 L 405.6,340.8 L 409.1,320.1 L 422.9,300.2 L 383.6,294.9 L 370.7,287.3 L 372.3,274.5 L 366.8,268.0 L 369.9,248.4 L 365.3,217.9 L 381.7,217.9 L 388.6,207.0 L 395.4,180.4 L 390.3,170.6 L 395.6,164.4 L 418.4,162.9 L 423.5,169.3 L 442.0,155.0 L 435.8,144.1 L 434.5,127.6 L 455.1,131.4 L 472.6,127.0 L 473.1,138.2 L 500.6,145.0 L 500.3,155.3 L 528.1,149.9 L 543.4,141.9 L 574.2,153.4 L 587.1,162.6 Z" class="germany"/>
+<text x="173" y="360" class="country" fill="#104c55">FRANCE</text>
+<text x="405" y="285" class="country" fill="#764817">GERMANY</text>
+<rect x="696" y="106" width="432" height="136" rx="14" fill="#e1f0f0"/>
+<text x="718" y="141" class="cardtitle">1941 death certificate</text>
+<text x="718" y="173" class="body">Louisa and father Nicholas: France</text>
+<text x="718" y="204" class="note">Original form; birthplace from informant</text>
+<rect x="696" y="256" width="432" height="136" rx="14" fill="#f4e9d9"/>
+<text x="718" y="291" class="cardtitle">1900–1930 censuses</text>
+<text x="718" y="323" class="body">Louisa: Germany</text>
+<text x="718" y="354" class="note">Four household reports, not a birth record</text>
+<rect x="696" y="406" width="432" height="130" rx="14" fill="#fff" stroke="#ced9d8"/>
+<text x="718" y="440" class="cardtitle">What we can conclude</text>
+<text x="718" y="471" class="body">Foreign birth is well supported.</text>
+<text x="718" y="500" class="note">Specific town and arrival date remain open.</text>
+<text x="32" y="570" class="note">Map outlines: Natural Earth 1:110m, public domain. Country borders are modern context, not Louisa’s 1877 boundaries.</text>
+</svg>

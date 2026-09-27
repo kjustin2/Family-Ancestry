@@ -16,6 +16,8 @@ Run `python maps/generate_story_charts.py` to regenerate these standalone SVGs. 
 
 ## Geographic map
 
+[Louisa Straub's France/Germany birthplace reports](straub-origin-evidence.svg) ([PNG preview](straub-origin-evidence-preview.png)) color the **two country labels in her records** without inventing a birth town. Her [original 1941 Pennsylvania certificate](../sources/records/louisa-straub-hollinger-death-certificate-1941.jpg) reports France for her and father Nicholas; 1900–30 censuses say Germany. Modern country outlines are context, not a claim about the 1877 border. Regenerate with `python maps/generate_straub_origin_map.py` (Natural Earth 1:110m, public domain).
+
 [Family place sequences](family-place-sequences.svg) uses approximate town-center positions in Pennsylvania and Virginia to show the **Muncy Valley → Berwick → Muncy** maternal return, plus paternal and Weatherford settings. Dashed connections cross generations and have **unknown move dates**; no living home is pinned. [Sources and county-name caveat](../context/family-place-sequences.md).
 
 [Sutera in Italy and Sicily](cordaro-sutera-places.svg) ([PNG preview](cordaro-sutera-places-preview.png)) marks the town named on the family-held passport. Palermo and Caltanissetta city orient the reader; neither is a documented family stop. The portrait location and any Atlantic route remain unknown. Regenerate it with `python maps/generate_sutera_map.py` (Natural Earth 1:50m outline; approximate OpenStreetMap place centers), then see the [Cordaro evidence](../branches/cordaro-passport-lead.md).
