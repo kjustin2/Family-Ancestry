@@ -153,7 +153,7 @@ def weatherford_smith_generations():
 
     card(54, 125, 464, '#127f82', 'GREAT-GRANDPARENTS', 'Doctor Duffy + Annie Neathery', '1930 household and original death records')
     card(562, 125, 464, '#b46827', 'GLADYS’S PARENTS', 'W. Howard Blevins + Mary Hines', '1931 marriage · 1940 census household')
-    card(54, 255, 464, '#127f82', 'GRANDPARENTS', 'Garnett Sr. + Florence', 'Garnett Sr. is D.D. and Annie’s son')
+    card(54, 255, 464, '#127f82', 'GRANDPARENTS', 'Garnett Sr. + Florence', 'Florence: Roscoe + Eleanor’s daughter')
     card(562, 255, 464, '#b46827', 'GRANDPARENTS', 'James A. Smith + Gladys Blevins', '2008 memorial names all five children')
     card(218, 385, 644, '#5c6ba0', 'PARENTS', 'John Gordon Weatherford Sr. + Alice Smith', 'John: three named siblings · Alice: four memorial-named siblings')
     card(218, 515, 644, '#5c6ba0', 'CHILDREN', 'Ashley · John Jr. · Tancy Weatherford', 'Family-supplied sibling group; dates not established')
@@ -161,10 +161,10 @@ def weatherford_smith_generations():
     b.append('<line x1="905" y1="213" x2="905" y2="255" stroke="#85979b" stroke-width="3"/>')
     b.extend(['<path d="M286 343 L286 367 L540 367 L540 385 M794 343 L794 367 L540 367" fill="none" stroke="#85979b" stroke-width="3"/>',
               '<line x1="540" y1="473" x2="540" y2="515" stroke="#85979b" stroke-width="3"/>',
-              txt(54, 634, 'Gladys’s parent link is recorded; James’s parents and Florence’s parents remain unproved.', size=15, fill="#52616a")])
+              txt(54, 634, 'Florence’s parents are recorded; James Smith’s earlier parent link remains unproved.', size=15, fill="#52616a")])
     save('weatherford-smith-generations.svg', ''.join(b), w, h,
          'Weatherford and Smith family generations',
-         'Four layers from D.D. and Annie Weatherford and the documented parents of Gladys Blevins to Garnett and Florence, James and Gladys, John and Alice, then Ashley, John Jr. and Tancy. James Smith’s parents remain unconfirmed.')
+         'Four layers from D.D. and Annie Weatherford and the documented parents of Gladys Blevins to Garnett and Florence, James and Gladys, John and Alice, then Ashley, John Jr. and Tancy. Florence is also the daughter of Roscoe Morrison and Eleanor Hollinger. James Smith’s parents remain unconfirmed.')
 
 
 def smith_blevins_lineage():
