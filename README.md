@@ -13,6 +13,7 @@ An evidence-led map of Justin and Ashley's family history. **Research snapshot: 
 - [Monty's corgi family](branches/monty.md): his AKC certificate, birth and sire timeline, known parents and proposed older paternal line, with an [evidence-marked pedigree](maps/monty-pedigree.svg).
 - [Deep Blevins research](branches/blevins-deep-lineage.md): the colonial member-tree trail, Shubiel's Civil War lead, original records, and [evidence ladder](maps/blevins-deep-lineage.svg).
 - [James Blevins and early Virginia settlement](branches/blevins-colonial-james.md): hunters on Smith River, the Peach Bottom land case, and a [timeline that separates the different James men](maps/blevins-early-settlement.svg).
+- [James Blevins, Revolutionary pensioner](branches/blevins-revolutionary-james.md): his own 1832 migration and service account, with an [evidence-marked route](maps/blevins-revolutionary-james.svg); his connection to Ashley remains unproved.
 - [Justin's maternal Berwick side](branches/maternal-kramer-side.md): the [Miller–Gower–Reese household](branches/miller-gower-reese.md), [Raber–Kreisher–Fairchild line](branches/raber-kreisher-fairchild.md), and [two-branch diagram](maps/miller-raber-family.svg).
 - [Ashley's immigration question](branches/ashley-immigration.md): what the present records establish and the exact links still needed to date an arrival.
 - [Places, education, and events](context/places-and-schools.md).

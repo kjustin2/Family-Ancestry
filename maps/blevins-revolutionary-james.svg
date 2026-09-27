@@ -1,0 +1,39 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1120" height="390" viewBox="0 0 1120 390" role="img" aria-labelledby="title desc">
+  <title id="title">James Blevins the pensioner's reported migration route</title>
+  <desc id="desc">Six cards show his reported route: New England birth, southern Virginia infancy, New River childhood, South Carolina wartime service, Tennessee and Wythe County after the war, and Lawrence County Indiana by 1832. All steps derive from his pension file; none proves a link to Ashley.</desc>
+  <rect width="1120" height="390" fill="#f6f3eb"/>
+  <rect width="12" height="390" fill="#b46827"/>
+  <g font-family="Segoe UI,Arial,sans-serif">
+    <text x="42" y="45" font-size="27" font-weight="700" fill="#163348">One James Blevins, in his own 1832 account</text>
+    <text x="42" y="73" font-size="16" fill="#52616a">A migration route, not a proved branch of Ashley's tree</text>
+    <path d="M342 144h34 M714 144h34 M920 190v32 H193v15 M342 280h34 M714 280h34" fill="none" stroke="#b46827" stroke-width="3" stroke-linecap="round"/>
+    <g fill="#b46827">
+      <path d="M376 144l-10-6v12z M748 144l-10-6v12z M193 237l-6-10h12z M376 280l-10-6v12z M748 280l-10-6v12z"/>
+    </g>
+    <g fill="#fff" stroke="#d8dedc">
+      <rect x="42" y="101" width="300" height="88" rx="12"/>
+      <rect x="376" y="101" width="338" height="88" rx="12"/>
+      <rect x="748" y="101" width="330" height="88" rx="12"/>
+      <rect x="42" y="237" width="300" height="88" rx="12"/>
+      <rect x="376" y="237" width="338" height="88" rx="12"/>
+      <rect x="748" y="237" width="330" height="88" rx="12"/>
+    </g>
+    <g fill="#163348" font-size="18" font-weight="700">
+      <text x="62" y="133">New England</text>
+      <text x="396" y="133">Southern Virginia</text>
+      <text x="768" y="133">New River area</text>
+      <text x="62" y="269">Southern campaign</text>
+      <text x="396" y="269">Tennessee → Wythe, VA</text>
+      <text x="768" y="269">Lawrence County, Indiana</text>
+    </g>
+    <g fill="#52616a" font-size="15">
+      <text x="62" y="160">Birthplace unknown · c. 1761–62</text>
+      <text x="396" y="160">Family moved while he was an infant</text>
+      <text x="768" y="160">Family moved at about age ten</text>
+      <text x="62" y="296">Service he claimed · 1780–81</text>
+      <text x="396" y="296">After the war · dates approximate</text>
+      <text x="768" y="296">Living here at 1832 hearing</text>
+    </g>
+    <text x="42" y="362" font-size="15" fill="#52616a">Source: pension file S32121 transcription. Route reflects James's memory; father and Ashley link unknown.</text>
+  </g>
+</svg>

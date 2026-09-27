@@ -20,6 +20,10 @@
 
 The **1737 Goochland James**, the **1740s Smith River hunter**, the **1756 Lunenburg co-grantee**, the **1767 road marker**, the **1768 debtor**, and the **1772 Peach Bottom landholder** may not be one man. The member tree's **James c. 1708–1801 → James c. 1740–1779** conflicts with the Peach Bottom account's 1801 death if its younger James is the landholder. [Kenneth W. Shirley's study, p. 149](https://yanceyfamilygenealogy.org/KenShirleyGenealogyBooks/blevins.pdf#page=160) expressly calls that father-son assignment circumstantial. Another [local-history compilation](https://www.newrivernotes.com/tbuilder-layout-part/dunmore-herberts-company/) distinguishes at least two revolutionary-era James men and presents some parent assignments more confidently than the underlying documents justify. **The dates in the tree should be treated as search clues.**
 
+A [different James's 1832 Revolutionary pension application](blevins-revolutionary-james.md) says he was born about **1761–62** and taken from New England to Virginia as a child. His age rules out the adult 1737 grantee, and no record yet joins him to the Peach Bottom James or Ashley.
+
+**Peach Bottom case-file lead:** The [Library of Virginia chancery index](https://old.lva.virginia.gov/chancery/case_detail.asp?CFN=015-1812-023) lists **John Cox v. James Newell ETC**, 1812-023, original case **62**. Chalkley's 1805 *Blevins v. Newell* abstract cites new-series **62**. The number and Newell name are worth checking, but the index does **not** name Blevins. Until the scanned pages are read, this is not an original-file verification of the abstract.
+
 ### The Goochland landholder in his own records
 
 - **13 August 1743:** [Deed Book 4, pp. 218–219](https://www.familysearch.org/ark:/61903/3:1:3QSQ-G9P6-9S5Q?view=index&lang=en&groupId=M9N6-YVD) records James of Goochland conveying **295 acres on Little Muddy Creek**, south of the James River, to **Robert Douglas of James City County**. The deed refers to the tract's **15 August 1737 patent**. James signed by a mark. The deed was acknowledged in court on **20 September 1743**.
