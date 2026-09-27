@@ -1,0 +1,29 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1080" height="315" viewBox="0 0 1080 315" role="img" aria-labelledby="title desc">
+  <title id="title">Three original records link George Weatherford's marriage to a Danville death certificate and a daughter's death certificate</title>
+  <desc id="desc">1884 marriage: George and Ella, George a farmer. 1937 death: G W Weatherford, wife Ella, informant Mrs C E Cash, 824 Noble Street, night watchman. 1951 death: Novella Weatherford Cash, parents George C and Ella Lumpkin, husband Carrington E Cash, 824 Noble Avenue. The initials still differ.</desc>
+  <rect width="1080" height="315" rx="18" fill="#f7f5f0"/>
+  <text x="36" y="45" font-family="Arial,sans-serif" font-size="27" font-weight="700" fill="#183e56">George Weatherford: three-record identity check</text>
+  <text x="36" y="72" font-family="Arial,sans-serif" font-size="15" fill="#52646d">The shared Ella, Cash family, age and Noble address strengthen the match; the middle initial still differs.</text>
+  <g font-family="Arial,sans-serif">
+    <rect x="35" y="99" width="300" height="171" rx="13" fill="#e1ecf2" stroke="#87a8ba"/>
+    <text x="56" y="129" font-size="18" font-weight="700" fill="#275774">1884 · marriage register</text>
+    <text x="56" y="162" font-size="17" fill="#243d4a">George + Ella Lumpkins</text>
+    <text x="56" y="188" font-size="16" fill="#344f5a">George: farmer, age 23</text>
+    <text x="56" y="214" font-size="16" fill="#344f5a">Father: Thomas A.</text>
+    <text x="56" y="244" font-size="13" fill="#566a73">Pittsylvania County, Virginia</text>
+    <rect x="389" y="99" width="300" height="171" rx="13" fill="#f4e9d6" stroke="#c1a576"/>
+    <text x="410" y="129" font-size="18" font-weight="700" fill="#805927">1937 · death certificate</text>
+    <text x="410" y="162" font-size="17" fill="#3e392e">G. W. + wife Ella</text>
+    <text x="410" y="188" font-size="16" fill="#514638">Night watchman, age 76</text>
+    <text x="410" y="214" font-size="16" fill="#514638">Mrs. C. E. Cash informed</text>
+    <text x="410" y="244" font-size="13" fill="#695a44">824 Noble Street, Danville</text>
+    <rect x="743" y="99" width="300" height="171" rx="13" fill="#e5efe5" stroke="#8aa990"/>
+    <text x="764" y="129" font-size="18" font-weight="700" fill="#386b4c">1951 · daughter's certificate</text>
+    <text x="764" y="162" font-size="17" fill="#29483a">Novella Weatherford Cash</text>
+    <text x="764" y="188" font-size="16" fill="#3d594a">Parents: George C. + Ella</text>
+    <text x="764" y="214" font-size="16" fill="#3d594a">Husband: Carrington E. Cash</text>
+    <text x="764" y="244" font-size="13" fill="#526a59">824 Noble Avenue, Danville</text>
+  </g>
+  <path d="M344 183h35m-12-8 12 8-12 8M698 183h35m-12-8 12 8-12 8" fill="none" stroke="#66747b" stroke-width="3" stroke-linecap="round" stroke-linejoin="round"/>
+  <text x="36" y="297" font-family="Arial,sans-serif" font-size="13" fill="#5a666c">Original images and record links: branches/weatherford.md · Relation to Duffy is supported by his 1966 parent-naming certificate.</text>
+</svg>

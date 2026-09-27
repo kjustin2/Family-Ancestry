@@ -1,0 +1,25 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1070" height="280" viewBox="0 0 1070 280" role="img" aria-labelledby="title desc">
+  <title id="title">Carl Miller Agent Orange location check</title>
+  <desc id="desc">Carl's identity and matching Army SP4 veteran entry are well supported, but no duty station or unit has been found. National Archives has herbicide spraying missions from 1965 through 1971; VA presumes exposure for qualifying Vietnam service from 1962 through 1975. Without Carl's assignment dates and location, no individual overlap or presumption can be determined.</desc>
+  <rect width="1070" height="280" rx="18" fill="#f7f6f2"/>
+  <text x="32" y="42" font-family="Arial,sans-serif" font-size="27" font-weight="700" fill="#243d4d">Can Carl's service be placed on an Agent Orange map?</text>
+  <g font-family="Arial,sans-serif">
+    <rect x="31" y="73" width="313" height="153" rx="13" fill="#e0edf1" stroke="#8bb1be"/>
+    <text x="50" y="103" font-size="18" font-weight="700" fill="#265f70">Carl's record</text>
+    <text x="50" y="132" font-size="16" fill="#354d58">Carl Eugene Miller, 1948–2001</text>
+    <text x="50" y="158" font-size="16" fill="#354d58">Likely Army SP4 veteran entry</text>
+    <text x="50" y="190" font-size="16" font-weight="700" fill="#8a4f24">Unit and duty place: unknown</text>
+    <rect x="378" y="73" width="313" height="153" rx="13" fill="#efe8d8" stroke="#b8a37b"/>
+    <text x="397" y="103" font-size="18" font-weight="700" fill="#795a2b">Where herbicide was used</text>
+    <text x="397" y="132" font-size="16" fill="#514937">NARA spray missions: 1965–71</text>
+    <text x="397" y="158" font-size="16" fill="#514937">VA Vietnam service window:</text>
+    <text x="397" y="184" font-size="16" fill="#514937">9 Jan 1962 – 7 May 1975</text>
+    <rect x="725" y="73" width="313" height="153" rx="13" fill="#ede4e2" stroke="#b58c84"/>
+    <text x="744" y="103" font-size="18" font-weight="700" fill="#774a42">The missing comparison</text>
+    <text x="744" y="132" font-size="16" fill="#514441">No documented Carl location</text>
+    <text x="744" y="158" font-size="16" fill="#514441">or service dates to overlay</text>
+    <text x="744" y="190" font-size="16" font-weight="700" fill="#8b4237">Exposure remains unverified</text>
+  </g>
+  <path d="M353 149h15m-8-8 8 8-8 8M700 149h15m-8-8 8 8-8 8" fill="none" stroke="#7e8988" stroke-width="3" stroke-linecap="round" stroke-linejoin="round"/>
+  <text x="32" y="256" font-family="Arial,sans-serif" font-size="13" fill="#5c676b">A spray-map overlap is not required for every VA presumption and would not prove an individual's medical cause of death.</text>
+</svg>
