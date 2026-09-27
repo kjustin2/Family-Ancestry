@@ -45,11 +45,12 @@ For the Weatherfords' **earlier Danville chapter**, Lewis Wickes Hine photograph
 
 ## Alexandria region, Virginia
 
-For the eighteenth-century setting, the [Virginia period-view gallery](../context/virginia-colonial-views.md) displays three more local copies:
+For the eighteenth-century setting, the [Virginia period-view gallery](../context/virginia-colonial-views.md) displays these archive images:
 
 - **1755 Fry–Jefferson map**, [Library of Congress Geography and Map Division](https://www.loc.gov/item/74693089/), downloaded at 25% of the archive scan. The LOC item is free to reuse with no rights advisory. This is a regional map from **after** James Blevin's Goochland deeds, not a family parcel map.
 - **1749 plan of Alexandria/Belhaven**, [Library of Congress Geography and Map Division](https://www.loc.gov/item/98687108/), downloaded at 25% of the archive scan. The LOC item is free to reuse with no rights advisory. It shows planned lots in the riverside town, not the family's later Fairfax homes.
 - **Tuckahoe small outbuilding**, photographed **April 1936** by **Frances Benjamin Johnston**, Carnegie Survey of the Architecture of the South, [Library of Congress Prints and Photographs Division](https://www.loc.gov/item/2017890613/). LOC states **no known restrictions on publication**. The catalog calls this a small frame outbuilding with brick ends on the Tuckahoe property; its exact survival/alterations since the 1700s are unverified. It is an elite plantation scene, not a Blevin property.
+- **Williamsburg etching**, [Library of Congress Prints and Photographs Division](https://www.loc.gov/item/2012649731/), LC-DIG-pga-13707. LOC dates the original **between 1740 and 1770**, attributes it only tentatively to John Bartram, and lists **no known publication restrictions**. The local JPG is the archive's 1024-pixel service image, unaltered. It depicts the colonial capital, not a Goochland or Blevin site.
 
 These archive copies were downloaded without color changes or cropping. Their item pages supply the full-size originals and catalog descriptions.
 

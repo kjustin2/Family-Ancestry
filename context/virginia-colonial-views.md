@@ -2,9 +2,21 @@
 
 **How to read these images:** The [1737 Goochland grants and 1743–45 deeds](../branches/blevins-colonial-james.md) document a **James Blevin**, but his place in Ashley's direct line is unproved. Ashley's better-supported Weatherford trail begins with [nineteenth-century Halifax records](../branches/weatherford-early-virginia.md). These images show regional settings and survive from different dates; none depicts a known family home or person.
 
+| Date | Family evidence in its own place | How it relates to Ashley |
+| --- | --- | --- |
+| **1737–45** | James Blevin held and sold land in **Goochland** and later called himself *of Brunswick*. [Deeds and grants](../branches/blevins-colonial-james.md). | A real person and transaction, but **the descent to Ashley is not proved**. |
+| **1850–84** | Samuel and Jane Weatherford's **Halifax** household, then George C. Weatherford's marriage, trace a likely line through Asa/Thomas. [Record trail](../branches/weatherford-early-virginia.md). | **Strong line with a remaining name-identity conflict** in the middle. |
+| **1930–86** | Garnett appears with his parents in **Danville**; Alice and John's marriage return places their families in **Fairfax County**. [Generation guide](../branches/weatherford-smith-generations.md). | **Record-backed modern branch**, distinct from the colonial Blevin hypothesis. |
+
 | 1737–45 record area | 1749 town plan | 1755 regional map |
 | --- | --- | --- |
 | **Goochland:** James's grants and sales concern Little Muddy Creek. In 1745 he called himself *of Brunswick*. The later Smith River hunter may be another James. | **Alexandria:** the new Potomac town's plotted streets and lots predate the modern Fairfax neighborhood by centuries. No identified Weatherford or Smith is tied to this plan. | **Virginia and neighboring colonies:** the Fry–Jefferson map shows rivers, counties, roads, mountains and settlement as its makers understood them a decade after the deeds. It is not a survey of James's tract. |
+
+## What a contemporary Virginia image actually shows
+
+![Eighteenth-century etching of six Williamsburg public buildings, with plants, animals and Indigenous figures below](../media/williamsburg-1740-1770-etching.jpg)
+
+The [Library of Congress etching of Williamsburg](https://www.loc.gov/item/2012649731/) was made **sometime between 1740 and 1770**, according to its catalog, and shows numbered buildings, plants, animals and depictions of Indigenous people. Its artist is not certain; the catalog says it *may* have been by John Bartram. Williamsburg was Virginia's colonial capital, while the James Blevin deeds concern inland **Goochland** and **Brunswick**. The etching gives a period view of the colony's public architecture and one artist's representation; it does **not** show James's tract, home, neighbors, or Ashley's confirmed ancestors. The proposed colonial Blevins link remains unproved.
 
 ## A period map of the wider landscape
 
