@@ -244,7 +244,7 @@ def miller_raber_family():
     card(48, 216, 515, '#127f82', 'Lester Miller + Mabel/Pearl Reese', 'Mabel raised by William + Clementine Wilson', 'Memoir; six named children')
     card(618, 216, 515, '#b46827', 'Shirley Kreischer Raber', 'Daughter of Aletha + William · 1932–2018', '1940 census and 2018 obituary')
     card(48, 320, 515, '#127f82', 'Paul Miller', 'Siblings: Marqueen, Paulene, Shirley, Gladys, Carl', 'Justin + Paulene’s memoir; Gladys lifespan disputed')
-    card(618, 320, 515, '#b46827', 'Sonya Raber / Balliet', 'Siblings Bill, Tom, Wendy; Alice, Tim spouses', '2018 obituary; Sonya’s father unconfirmed')
+    card(618, 320, 515, '#b46827', 'Sonya Raber / Balliet', 'Siblings Bill, Tom, Wendy; Alice, Tim spouses', 'Father William John: family account; record open')
     for x in (304, 874):
         for y in (194, 298):
             b.append(f'<line x1="{x}" y1="{y}" x2="{x}" y2="{y+22}" stroke="#85979b" stroke-width="3"/>')

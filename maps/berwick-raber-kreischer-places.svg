@@ -1,0 +1,36 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1120" height="600" viewBox="0 0 1120 600" role="img" aria-labelledby="title desc">
+  <title id="title">Berwick family place clues: homes, textile work, and Pine Grove Cemetery</title>
+  <desc id="desc">A schematic street-clue diagram, not a scale map. Family memory places elder Kreischers at Vine and 13th and Sponenbergs on Second Street, without house numbers or dates. A 1941 Federal Register notice puts the Duplan mill at 11th and Mulberry. A 1997 on-site reading places Edward and Jennie Sponenberg at Pine Grove Cemetery at Market and Ninth.</desc>
+  <rect width="1120" height="600" rx="18" fill="#f5f1e9"/>
+  <rect x="0" y="0" width="11" height="600" fill="#23857d"/>
+  <g font-family="Arial, sans-serif" fill="#203842">
+    <text x="38" y="50" font-size="29" font-weight="700">Berwick: home, mill and burial clues</text>
+    <text x="38" y="78" font-size="15" fill="#5a6a6b">A street-name guide, not a scale map or verified house-location plot</text>
+    <rect x="39" y="117" width="510" height="170" rx="15" fill="#ffffff" stroke="#d6a67c" stroke-width="2" stroke-dasharray="7 5"/>
+    <circle cx="72" cy="151" r="13" fill="#bd7941"/>
+    <text x="97" y="157" font-size="20" font-weight="700">Vine + 13th Streets</text>
+    <text x="60" y="194" font-size="16">Elder Kreischer home · Justin's family memory</text>
+    <text x="60" y="225" font-size="14" fill="#596a70">Which William Kreischer? No house number or date yet.</text>
+    <text x="60" y="250" font-size="14" fill="#596a70">Seek directory and deed to pinpoint the household.</text>
+    <rect x="570" y="117" width="510" height="170" rx="15" fill="#ffffff" stroke="#23857d" stroke-width="2"/>
+    <circle cx="603" cy="151" r="13" fill="#23857d"/>
+    <text x="628" y="157" font-size="20" font-weight="700">11th + Mulberry Streets</text>
+    <text x="591" y="194" font-size="16">Duplan mill · Federal Register, 1941</text>
+    <text x="591" y="225" font-size="14" fill="#596a70">William Kreischer as a boss and Balliet sisters</text>
+    <text x="591" y="250" font-size="14" fill="#596a70">as workers: family accounts awaiting employment records.</text>
+    <rect x="39" y="308" width="510" height="170" rx="15" fill="#ffffff" stroke="#d6a67c" stroke-width="2" stroke-dasharray="7 5"/>
+    <circle cx="72" cy="342" r="13" fill="#bd7941"/>
+    <text x="97" y="348" font-size="20" font-weight="700">Second Street</text>
+    <text x="60" y="385" font-size="16">Sponenberg household · Justin's family memory</text>
+    <text x="60" y="416" font-size="14" fill="#596a70">Edward's 1901 directory instead gives West Front Street.</text>
+    <text x="60" y="441" font-size="14" fill="#596a70">A move, another household or different decade may explain it.</text>
+    <rect x="570" y="308" width="510" height="170" rx="15" fill="#ffffff" stroke="#23857d" stroke-width="2"/>
+    <circle cx="603" cy="342" r="13" fill="#23857d"/>
+    <text x="628" y="348" font-size="20" font-weight="700">Market + Ninth Streets</text>
+    <text x="591" y="385" font-size="16">Pine Grove Cemetery · 1997 on-site reading</text>
+    <text x="591" y="416" font-size="14" fill="#596a70">Edward J. and Jennie E. Sponenberg listed here.</text>
+    <text x="591" y="441" font-size="14" fill="#596a70">Exact plot and current marker condition not checked.</text>
+    <rect x="39" y="505" width="1041" height="56" rx="11" fill="#e9eee9"/>
+    <text x="59" y="538" font-size="15">Teal cards = independently located places; dashed ochre cards = family memories needing dated addresses</text>
+  </g>
+</svg>

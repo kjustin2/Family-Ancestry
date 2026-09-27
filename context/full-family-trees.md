@@ -16,6 +16,8 @@ The [Kramer records](../branches/kramer.md) trace Matthew and Lena to the Pennsy
 
 [Original Miller censuses](../branches/miller-gower-reese.md) connect Marshall to Amos; the later household and Paulene's account connect Lester and Paul. On Sonya's side, a [1915 Berwick biography, family Bible, 1940 census and 2018 obituary](../branches/raber-kreisher-fairchild.md) supply the longer path. The oldest Shellhammer link and John Leonard → Edward step rely on the biography's retrospective account. A [separate Kreischer sibling diagram](../maps/kreischer-fairchild-siblings.svg) shows **William Sr.'s four children**, including **Ruth Elizabeth**, whose Fairchild married surname has a strong [Berwick burial-list match](https://peoplelegacy.com/ruth_e_kreischer_fairchild-482j331). The biography's **William Henry born 1909** is a strong match for Shirley's father **William H. Jr.**, but still needs a parent-naming record before that older path joins this full tree. The proposed Reese/Wilson identity and the earlier memory of a Fairchild-born ancestor remain outside the linked tree pending records.
 
+Justin's newly named **William John → William G. Raber** paternal path for Sonya and the **Stanley/Crystal Balliet** candidate household for Floyd are shown in a [separate evidence diagram](../maps/raber-balliet-evidence-paths.svg). Dashed links preserve the unverified parent bridge and distinguish the Balliet obituary Floyd from Sonya's documented husband Floyd A.; [the branch note](../branches/balliet-raber-candidates.md) gives the exact records needed.
+
 ## Ashley's paternal branches
 
 ![Full Weatherford and Morrison paths toward John and Ashley, with dashed older identity links](../maps/full-tree-weatherford-morrison.svg)
