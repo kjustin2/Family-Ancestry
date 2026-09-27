@@ -15,8 +15,9 @@
 - [Deeper Blevins evidence ladder](blevins-deep-lineage.svg) ([PNG preview](blevins-deep-lineage-preview.png)) follows the linked member tree into the 1700s while marking the record-backed, ambiguous and tree-only links; the [Blevins guide](../branches/blevins-deep-lineage.md) explains the Civil War and immigration evidence.
 - [Deeper Weatherford line](weatherford-deep-lineage.svg) ([PNG preview](weatherford-deep-lineage-preview.png)) connects Ashley to George and Ella Weatherford and John Neathery and Annie Phelps, using original certificates and censuses; the [Weatherford page](../branches/weatherford.md) explains the evidence and older name conflict.
 - [Miller–Raber family](miller-raber-family.svg) ([PNG preview](miller-raber-family-preview.png)) shows Melissa's two Berwick branches, which links come from family accounts, and where the Fairchild name remains unresolved.
+- [Celia Morrison identity](celia-morrison-identity-1900-1977.svg) ([PNG preview](celia-morrison-identity-1900-1977-preview.png)) compares the 1900 Delia and 1910 Celia census entries with parent names in a 1923 marriage index and 1977 original death certificate. It marks the Delia/Celia reading and keeps the proposed mother-to-Roscoe link open. [Evidence page](../branches/morrison-hollinger.md#eleanors-earlier-household-a-strong-still-testable-bridge). This SVG is edited directly; the generator below does not cover it.
 
-Run `python maps/generate_story_charts.py` to regenerate these standalone SVGs. The labels and underlying records are explained in the adjacent family pages.
+Run `python maps/generate_story_charts.py` to regenerate the scripted story SVGs. The labels and underlying records are explained in the adjacent family pages.
 
 ## Geographic map
 
