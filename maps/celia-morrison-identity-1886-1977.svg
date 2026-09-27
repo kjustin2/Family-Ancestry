@@ -1,23 +1,23 @@
 <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1210 300" role="img" aria-labelledby="title desc">
 <title id="title">Records identifying Celia Morrison and her parents</title>
-<desc id="desc">A 1900 Gibson County census has Thomas and Isophena with daughter Delia, fourteen. The 1910 household has Tom and Isophenia with daughter Celia, twenty-four. A 1923 Celia marriage index and her 1977 death certificate both name Thomas Morrison and Isophena Bennett as her parents. The identity match is strong, but no record here calls Roscoe her son.</desc>
+<desc id="desc">An 1886 Gibson birth index has an unnamed girl born to Thos Morrison and a Bennett mother on 21 February. The 1900 and 1910 censuses name their similarly aged daughter Delia or Celia. A 1923 Celia marriage index and her 1977 death certificate repeat the parents; the latter repeats the exact birthday. The indexed infant is unnamed, and no record here calls Roscoe her son.</desc>
 <rect width="1210" height="300" fill="#f7f4ed"/>
 <rect width="9" height="300" fill="#137a7b"/>
 <g font-family="Arial, sans-serif" fill="#18313c">
   <text x="30" y="41" font-size="25" font-weight="700">Delia or Celia? The parent names connect the records</text>
-  <text x="30" y="68" font-size="15" fill="#53646b">A strong identification across four records, with Roscoe's parent link still open.</text>
+  <text x="30" y="68" font-size="15" fill="#53646b">The birthday and parent names strengthen the match; Roscoe's parent link stays open.</text>
   <rect x="30" y="91" width="270" height="126" rx="12" fill="#fff" stroke="#9b703f" stroke-width="2"/>
-  <text x="47" y="121" font-size="18" font-weight="700">1900 · census</text>
-  <text x="47" y="150" font-size="16">Thomas + Isophena</text>
-  <text x="47" y="177" font-size="16">Daughter <tspan font-weight="700">Delia</tspan>, 14</text>
-  <text x="47" y="202" font-size="13" fill="#53646b">Gibson County, Indiana</text>
+  <text x="47" y="121" font-size="18" font-weight="700">1886 · birth index</text>
+  <text x="47" y="150" font-size="16">Unnamed Morrison girl</text>
+  <text x="47" y="177" font-size="15">21 Feb · Thos. + Bennett</text>
+  <text x="47" y="202" font-size="13" fill="#53646b">Original image unavailable</text>
   <path d="M303 153h25" stroke="#9b703f" stroke-width="3" stroke-dasharray="6 5"/>
   <path d="m321 147 8 6-8 6" fill="none" stroke="#9b703f" stroke-width="3"/>
   <rect x="332" y="91" width="270" height="126" rx="12" fill="#fff" stroke="#9b703f" stroke-width="2"/>
-  <text x="349" y="121" font-size="18" font-weight="700">1910 · census</text>
-  <text x="349" y="150" font-size="16">Tom + Isophenia</text>
-  <text x="349" y="177" font-size="16">Daughter <tspan font-weight="700">Celia</tspan>, 24</text>
-  <text x="349" y="202" font-size="13" fill="#53646b">Roscoe, 7, called grandson</text>
+  <text x="349" y="121" font-size="18" font-weight="700">1900 / 1910 · censuses</text>
+  <text x="349" y="150" font-size="16">Thomas + Isophena</text>
+  <text x="349" y="177" font-size="15"><tspan font-weight="700">Delia</tspan>, 14 → <tspan font-weight="700">Celia</tspan>, 24</text>
+  <text x="349" y="202" font-size="13" fill="#53646b">1910: Roscoe, 7, grandson</text>
   <path d="M605 153h25" stroke="#137a7b" stroke-width="3"/>
   <path d="m623 147 8 6-8 6" fill="none" stroke="#137a7b" stroke-width="3"/>
   <rect x="634" y="91" width="270" height="126" rx="12" fill="#fff" stroke="#137a7b" stroke-width="2"/>
@@ -32,7 +32,7 @@
   <text x="953" y="150" font-size="16">Celia M. Capehart</text>
   <text x="953" y="177" font-size="15">Parents: W. Thomas</text>
   <text x="953" y="202" font-size="15">Morrison + Isophena Bennett</text>
-  <text x="30" y="259" font-size="15" fill="#6d5639">Dashed arrow = Delia/Celia spelling varies. Neither later record names Roscoe as Celia's son.</text>
-  <text x="30" y="281" font-size="13" fill="#53646b">Sources: original 1900 and 1910 censuses; indexed 1923 marriage; original 1977 Virginia death certificate.</text>
+  <text x="30" y="259" font-size="15" fill="#6d5639">Dashed arrow = unnamed baby to Delia/Celia is a strong match, not a named birth record. Roscoe's mother link remains open.</text>
+  <text x="30" y="281" font-size="13" fill="#53646b">Sources: indexed 1886 birth and 1923 marriage; original 1900/1910 censuses and 1977 death certificate.</text>
 </g>
 </svg>
