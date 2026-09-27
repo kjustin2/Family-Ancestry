@@ -1,6 +1,6 @@
 # Family history atlas
 
-An evidence-led map of Justin and Ashley's family history. **Research snapshot: 26 September 2026.** This is a working history, not a certified pedigree.
+An evidence-led map of Justin and Ashley's family history. **Research snapshot: 27 September 2026.** This is a working history, not a certified pedigree.
 
 ## Start here
 
@@ -20,7 +20,7 @@ An evidence-led map of Justin and Ashley's family history. **Research snapshot: 
 - [James Blevins and early Virginia settlement](branches/blevins-colonial-james.md): hunters on Smith River, the Peach Bottom land case, and a [timeline that separates the different James men](maps/blevins-early-settlement.svg).
 - [James Blevins, Revolutionary pensioner](branches/blevins-revolutionary-james.md): his own 1832 migration and service account, with an [evidence-marked route](maps/blevins-revolutionary-james.svg); his connection to Ashley remains unproved.
 - [Justin's maternal Berwick side](branches/maternal-kramer-side.md): the [Miller–Gower–Reese household](branches/miller-gower-reese.md), [Raber–Kreisher–Fairchild line](branches/raber-kreisher-fairchild.md), and [two-branch diagram](maps/miller-raber-family.svg).
-- [Berwick Miller family timeline](branches/miller-berwick-timeline.md): records and Paulene's stories from the early household through Marqueen's school years and later family visits.
+- [Berwick Miller family timeline](branches/miller-berwick-timeline.md): records and family stories from the early household through the factory closure, Lester and Carl's music, a Vietnam-veteran burial lead, and later family visits.
 - [Family places across generations](context/family-place-sequences.md): mapped Muncy Valley → Berwick → Muncy regional return, plus Kramer, Cordaro and Weatherford place sequences with evidence gaps shown.
 - [Ashley's immigration question](branches/ashley-immigration.md): what the present records establish and the exact links still needed to date an arrival.
 - [Places, education, and events](context/places-and-schools.md).
