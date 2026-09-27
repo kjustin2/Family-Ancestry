@@ -4,6 +4,7 @@ An evidence-led map of Justin and Ashley's family history. **Research snapshot: 
 
 ## Start here
 
+- [Explore the full family trees](context/full-family-trees.md): four readable, evidence-marked views follow the Kramer/Cordaro, Miller/Sponenberg, Weatherford/Morrison and Smith/Blevins lines through as many linked generations as the research permits. Dashed links show the specific gaps.
 - [Explore the interactive family timeline](explore/timeline.html): filter family lines and centuries, then open events for people, places, evidence and unresolved questions. Open the HTML file in a browser. The [full research timeline](timeline.md) has more detail.
 - [Explore the family geography atlas](context/geography-atlas.md): three maps show **Europe**, **Baden versus the Palatinate**, and the **eastern U.S. family regions**, with each marker tied to records and uncertain origins left unpinned.
 - [Original record-image gallery and Hilda's portrait](sources/records/README.md): signed draft cards for Emil Kramer and George Ira Weatherford, marriage records, George's 1951 divorce abstract, a death certificate and obituary clippings, each with a source and identification note.

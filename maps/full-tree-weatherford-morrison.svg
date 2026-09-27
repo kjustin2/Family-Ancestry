@@ -1,0 +1,40 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="1007" viewBox="0 0 1200 1007" role="img" aria-labelledby="title desc">
+<title id="title">Ashley&#x27;s paternal lines: Weatherford + Morrison</title>
+<desc id="desc">Two paths toward John Weatherford; uncertain nineteenth-century identity links stay dashed. The Asa/Thomas name conflict and Roscoe&#x27;s exact Celia birth link need original records. The older Samuel line is a strong candidate, not a closed pedigree.</desc>
+<style>.heading{font:700 30px Segoe UI,Arial,sans-serif;fill:#183343}.subtitle{font:16px Segoe UI,Arial,sans-serif;fill:#526875}.lane{font:700 15px Segoe UI,Arial,sans-serif;letter-spacing:1px;fill:#183343}.person{font:700 18px Segoe UI,Arial,sans-serif;fill:#183343}.detail{font:14px Segoe UI,Arial,sans-serif;fill:#556a73}.tag{font:700 11px Segoe UI,Arial,sans-serif}.foot{font:13px Segoe UI,Arial,sans-serif;fill:#526875}</style>
+<rect width="1200" height="1007" fill="#f4f7f6"/>
+<rect width="1200" height="8" fill="#147d78"/>
+<text x="42" y="52" class="heading">Ashley&#x27;s paternal lines: Weatherford + Morrison</text>
+<text x="42" y="81" class="subtitle">Two paths toward John Weatherford; uncertain nineteenth-century identity links stay dashed.</text>
+<path d="M42 102 H1158" stroke="#d7e1e1"/>
+<text x="42" y="137" class="lane">WEATHERFORD · Virginia → Fairfax</text>
+<text x="638" y="137" class="lane">MORRISON · Indiana → Fairfax</text>
+<text x="42" y="158" class="detail">Older ↑ · later ↓ · click a card for records</text>
+<a href="../branches/weatherford-early-virginia.md"><rect x="42" y="178" width="520" height="72" rx="12" fill="#ffffff" stroke="#d7e1e1"/><rect x="42" y="178" width="6" height="72" rx="3" fill="#147d78"/><text x="60" y="206" class="person">Samuel Weatherford + Jane Ricketts</text><text x="60" y="229" class="detail">1829 marriage index; 1850 household</text></a>
+<path d="M302.0 250 L302.0 274" fill="none" stroke="#b16a39" stroke-width="3" stroke-dasharray="7 6"/>
+<a href="../branches/weatherford-early-virginia.md"><rect x="42" y="274" width="520" height="72" rx="12" fill="#ffffff" stroke="#d7e1e1"/><rect x="42" y="274" width="6" height="72" rx="3" fill="#b16a39"/><text x="60" y="302" class="person">Asa / Thomas Weatherford + Julia / Ann</text><text x="60" y="325" class="detail">1850–84 records disagree on names</text></a><text x="550" y="337" class="tag" text-anchor="end" fill="#b16a39">proposed</text>
+<path d="M302.0 346 L302.0 370" fill="none" stroke="#b16a39" stroke-width="3" stroke-dasharray="7 6"/>
+<a href="../branches/weatherford-early-virginia.md"><rect x="42" y="370" width="520" height="72" rx="12" fill="#ffffff" stroke="#d7e1e1"/><rect x="42" y="370" width="6" height="72" rx="3" fill="#b16a39"/><text x="60" y="398" class="person">George C. Weatherford + Ella Lumpkin</text><text x="60" y="421" class="detail">1884 marriage; father named Thomas A.</text></a><text x="550" y="433" class="tag" text-anchor="end" fill="#b16a39">proposed</text>
+<path d="M302.0 442 L302.0 466" fill="none" stroke="#147d78" stroke-width="3"/>
+<a href="../branches/weatherford-early-virginia.md"><rect x="42" y="466" width="520" height="72" rx="12" fill="#ffffff" stroke="#d7e1e1"/><rect x="42" y="466" width="6" height="72" rx="3" fill="#147d78"/><text x="60" y="494" class="person">Doctor Duffy + Annie Neathery</text><text x="60" y="517" class="detail">1966/1969 certificates name parents</text></a><text x="550" y="529" class="tag" text-anchor="end" fill="#147d78">record</text>
+<path d="M302.0 538 L302.0 562" fill="none" stroke="#147d78" stroke-width="3"/>
+<a href="../branches/weatherford-early-virginia.md"><rect x="42" y="562" width="520" height="72" rx="12" fill="#ffffff" stroke="#d7e1e1"/><rect x="42" y="562" width="6" height="72" rx="3" fill="#147d78"/><text x="60" y="590" class="person">Garnett B. Weatherford Sr. (1927–2007)</text><text x="60" y="613" class="detail">1930/1940 censuses; 1954 marriage</text></a><text x="550" y="625" class="tag" text-anchor="end" fill="#147d78">record</text>
+<a href="../branches/morrison-hollinger.md"><rect x="638" y="274" width="520" height="72" rx="12" fill="#ffffff" stroke="#d7e1e1"/><rect x="638" y="274" width="6" height="72" rx="3" fill="#147d78"/><text x="656" y="302" class="person">Thomas Morrison + Isophena Bennett</text><text x="656" y="325" class="detail">1900/1910 Indiana households</text></a>
+<path d="M898.0 346 L898.0 370" fill="none" stroke="#147d78" stroke-width="3"/>
+<a href="../branches/morrison-hollinger.md"><rect x="638" y="370" width="520" height="72" rx="12" fill="#ffffff" stroke="#d7e1e1"/><rect x="638" y="370" width="6" height="72" rx="3" fill="#147d78"/><text x="656" y="398" class="person">Delia / Celia Morrison</text><text x="656" y="421" class="detail">1900/1910 child; 1923 parent-naming index</text></a><text x="1146" y="433" class="tag" text-anchor="end" fill="#147d78">record</text>
+<path d="M898.0 442 L898.0 466" fill="none" stroke="#b16a39" stroke-width="3" stroke-dasharray="7 6"/>
+<a href="../branches/morrison-hollinger.md"><rect x="638" y="466" width="520" height="72" rx="12" fill="#ffffff" stroke="#d7e1e1"/><rect x="638" y="466" width="6" height="72" rx="3" fill="#b16a39"/><text x="656" y="494" class="person">Roscoe Morrison + Eleanor Hollinger</text><text x="656" y="517" class="detail">1920 marriage names Celia; birth link open</text></a><text x="1146" y="529" class="tag" text-anchor="end" fill="#b16a39">proposed</text>
+<path d="M898.0 538 L898.0 562" fill="none" stroke="#147d78" stroke-width="3"/>
+<a href="../branches/morrison-hollinger.md"><rect x="638" y="562" width="520" height="72" rx="12" fill="#ffffff" stroke="#d7e1e1"/><rect x="638" y="562" width="6" height="72" rx="3" fill="#147d78"/><text x="656" y="590" class="person">Florence Ruth Morrison (1937–2019)</text><text x="656" y="613" class="detail">1940/1950 household; 1954 marriage</text></a><text x="1146" y="625" class="tag" text-anchor="end" fill="#147d78">record</text>
+<path d="M302.0 634 L302.0 689" fill="none" stroke="#147d78" stroke-width="3"/>
+<path d="M302.0 689 L600 689" fill="none" stroke="#147d78" stroke-width="3"/>
+<path d="M898.0 634 L898.0 689" fill="none" stroke="#147d78" stroke-width="3"/>
+<path d="M898.0 689 L600 689" fill="none" stroke="#147d78" stroke-width="3"/>
+<path d="M600 689 L600 708" fill="none" stroke="#147d78" stroke-width="3"/>
+<a href="../README.md"><rect x="340" y="708" width="520" height="72" rx="12" fill="#ffffff" stroke="#d7e1e1"/><rect x="340" y="708" width="6" height="72" rx="3" fill="#147d78"/><text x="358" y="736" class="person">John Weatherford Sr. + Alice Smith</text><text x="358" y="759" class="detail">Garnett + Florence&#x27;s son; 1986 marriage</text></a><text x="848" y="771" class="tag" text-anchor="end" fill="#147d78">record</text>
+<path d="M600 780 L600 804" fill="none" stroke="#6557a0" stroke-width="3"/>
+<a href="../README.md"><rect x="340" y="804" width="520" height="72" rx="12" fill="#ffffff" stroke="#d7e1e1"/><rect x="340" y="804" width="6" height="72" rx="3" fill="#6557a0"/><text x="358" y="832" class="person">Ashley Weatherford</text><text x="358" y="855" class="detail">John + Alice&#x27;s daughter · family account</text></a><text x="848" y="867" class="tag" text-anchor="end" fill="#6557a0">family</text>
+<text x="42" y="905" class="foot">Solid teal = record-backed · purple = family account · dashed ochre = proposed link.</text>
+<text x="42" y="928" class="foot">The Asa/Thomas name conflict and Roscoe&#x27;s exact Celia birth link need original records. The older Samuel line is a strong candidate,</text>
+<text x="42" y="948" class="foot">not a closed pedigree.</text>
+</svg>
