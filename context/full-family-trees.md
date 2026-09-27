@@ -14,7 +14,7 @@ The [Kramer records](../branches/kramer.md) trace Matthew and Lena to the Pennsy
 
 ![Full Miller and Sponenberg to Kreischer to Raber ancestral paths toward Melissa and Justin](../maps/full-tree-maternal-miller-sponenberg.svg)
 
-[Original Miller censuses](../branches/miller-gower-reese.md) connect Marshall to Amos; the later household and Paulene's account connect Lester and Paul. On Sonya's side, a [1915 Berwick biography, family Bible, 1940 census and 2018 obituary](../branches/raber-kreisher-fairchild.md) supply the longer path. The oldest Shellhammer link and John Leonard → Edward step rely on the biography's retrospective account. The proposed Reese/Wilson identity and remembered Fairchild relation remain outside the linked tree pending records.
+[Original Miller censuses](../branches/miller-gower-reese.md) connect Marshall to Amos; the later household and Paulene's account connect Lester and Paul. On Sonya's side, a [1915 Berwick biography, family Bible, 1940 census and 2018 obituary](../branches/raber-kreisher-fairchild.md) supply the longer path. The oldest Shellhammer link and John Leonard → Edward step rely on the biography's retrospective account. A [separate 1915 Kreischer biography diagram](../maps/kreischer-biography-line.svg) proposes an older path through Shirley's father, but his identity as its named 1909 child needs a parent-naming record before it joins this full tree. The proposed Reese/Wilson identity and remembered Fairchild relation remain outside the linked tree pending records.
 
 ## Ashley's paternal branches
 

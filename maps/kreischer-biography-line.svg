@@ -1,0 +1,40 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1320 480" role="img" aria-labelledby="title desc">
+  <title id="title">The Kreischer biography may extend Shirley's family by three generations</title>
+  <desc id="desc">A 1915 profile names John Kreischer, son Henry, grandson William H. and his son William Henry born in 1909. A dashed identity link connects that child to Shirley's father William H. Junior, whose parents still need an original record.</desc>
+  <rect width="1320" height="480" rx="24" fill="#f8f5ef"/>
+  <text x="38" y="48" fill="#193745" font-family="Arial,sans-serif" font-size="28" font-weight="700">A 1915 profile opens Shirley’s Kreischer side</text>
+  <text x="38" y="76" fill="#516b79" font-family="Arial,sans-serif" font-size="17">The older chain is in one biography; the last identity match still needs a parent-naming record.</text>
+  <rect x="30" y="101" width="1260" height="166" rx="17" fill="#e9f1ed" stroke="#4b8a75" stroke-width="2"/>
+  <text x="50" y="130" fill="#287058" font-family="Arial,sans-serif" font-size="17" font-weight="700">1915 COUNTY BIOGRAPHY · PRINTED PP. 1204–05</text>
+  <g fill="#fffefa" stroke="#b8d1c6" stroke-width="1.5">
+    <rect x="50" y="154" width="263" height="91" rx="12"/>
+    <rect x="367" y="154" width="263" height="91" rx="12"/>
+    <rect x="684" y="154" width="263" height="91" rx="12"/>
+    <rect x="1001" y="154" width="263" height="91" rx="12"/>
+  </g>
+  <g fill="#193745" font-family="Arial,sans-serif" font-size="19" font-weight="700">
+    <text x="67" y="184">John Kreischer · 1809</text>
+    <text x="384" y="184">Henry Kreischer · 1857</text>
+    <text x="701" y="184">William H. · 1878</text>
+    <text x="1018" y="184">William Henry · 1909</text>
+  </g>
+  <g fill="#516b79" font-family="Arial,sans-serif" font-size="15">
+    <text x="67" y="211">farm + limestone quarry</text>
+    <text x="384" y="211">farm + timber cutting</text>
+    <text x="701" y="211">railroad → car works</text>
+    <text x="1018" y="211">named as William’s son</text>
+  </g>
+  <g stroke="#4b8a75" stroke-width="3" fill="none" stroke-linecap="round">
+    <path d="M314 199 H365"/><path d="M631 199 H682"/><path d="M948 199 H999"/>
+  </g>
+  <g fill="#287058" font-family="Arial,sans-serif" font-size="26" font-weight="700">
+    <text x="326" y="207">→</text><text x="643" y="207">→</text><text x="960" y="207">→</text>
+  </g>
+  <path d="M1133 246 V312 H430" fill="none" stroke="#bd744e" stroke-width="3" stroke-dasharray="8 7"/>
+  <rect x="30" y="315" width="920" height="107" rx="17" fill="#e9eef6" stroke="#6d8ab4" stroke-width="2"/>
+  <text x="50" y="344" fill="#466899" font-family="Arial,sans-serif" font-size="17" font-weight="700">LATER RECORDS · IDENTITY MATCH STRONG, STILL UNPROVED</text>
+  <text x="50" y="377" fill="#193745" font-family="Arial,sans-serif" font-size="20" font-weight="700">William H. Jr. + Aletha Sponenberg → Shirley Kreischer Raber</text>
+  <text x="50" y="403" fill="#516b79" font-family="Arial,sans-serif" font-size="15">1940 household and 2023 family obituary; no original naming Jr.’s parents inspected.</text>
+  <text x="976" y="350" fill="#96573f" font-family="Arial,sans-serif" font-size="16" font-weight="700">dashed = identity to test</text>
+  <text x="39" y="458" fill="#516b79" font-family="Arial,sans-serif" font-size="15">Source: 1915 Columbia–Montour biography, pp. 1204–05; 1940 Berwick census; Corey Kreischer’s 2023 obituary.</text>
+</svg>
