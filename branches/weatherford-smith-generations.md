@@ -18,6 +18,8 @@ Duffy's original [1966 death certificate](https://www.familysearch.org/ark:/6190
 | **Mary Ann Mason Cowan** | [Birth index](https://www.familysearch.org/ark:/61903/1:1:X5DT-1PX?lang=en): **6 December 1871**; [death certificate](../sources/records/mary-ann-mason-cowan-death-1950.jpg): **14 December 1950**, but birth in 1872. | Nora's mother; father **Henry Mason** on both records and mother **Frances** on the birth index. The public tree's 1949 death date conflicts with the certificate. |
 | **Isaac G. and Elizabeth Cowan; Henry T. and Frances Mason** | Vital dates not yet established from originals. | [1880 Isaac household](https://www.familysearch.org/ark:/61903/1:1:MCR8-PQ9?lang=en) calls Jasper their son. [1880 Henry household](https://www.familysearch.org/ark:/61903/1:1:MC5F-5K2?lang=en) calls Mary his and Frances's daughter. See [visible siblings and limits](cowan-mason.md#siblings-named-on-contemporary-household-sheets). |
 
+Mary's likely older brother **Howard Winston Hines** is a collateral relative in this layer, not another direct ancestor. His [1940 house-painter census](../sources/records/howard-hines-lillie-household-census-1940.jpg), [signed 1942 draft card](../sources/records/howard-winston-hines-draft-card-1942.jpg), [Army enlistment index](https://www.familysearch.org/ark:/61903/1:1:KMJG-D9J?lang=en) and [1950 household](../sources/records/howard-hines-household-census-1950.jpg) follow him from the Bristol family to military entry and back; no record inspected gives his unit or deployment. [Short account](smith.md#gladyss-siblings-and-the-tancy-clue).
+
 ## Layer 1 — Ashley's great-grandparents
 
 | Person | Birth | Death | Children or siblings found |
