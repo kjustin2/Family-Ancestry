@@ -1,5 +1,7 @@
 # Miller, Gower, Reese and Corderman: the Berwick household
 
+[See the maternal family storyboard](../context/family-storyboards.md#justins-maternal-lines) for Miller and Raber work, asset clues and schooling by generation beside short source-linked scenes.
+
 ![Miller household and earlier parent lines, with memoir-based links marked](../maps/miller-raber-family.svg)
 
 ![Two-lane timeline separating dated records from family recollections](../maps/miller-berwick-timeline.svg)

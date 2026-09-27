@@ -1,0 +1,44 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1120 505" role="img" aria-labelledby="title desc">
+<title id="title">Four family paths through work, assets and education</title>
+<desc id="desc">Each of Justin and Ashley's four main family arms has a brief work story, dated asset clue and education trail. Values are from different sources and cannot be compared as net worth.</desc>
+<style>
+text{font-family:Arial,sans-serif;fill:#19363e}.title{font-size:27px;font-weight:700}.sub{font-size:14px}.column{font-size:18px;font-weight:700}.band{font-size:14px;font-weight:700;fill:#4b6268}.person{font-size:17px;font-weight:700}.key{font-size:11px;font-weight:700;letter-spacing:.04em}.value{font-size:14px}.badge{font-size:10px;font-weight:700;letter-spacing:.03em}.foot{font-size:12px;fill:#50666b}.card{fill:#fff;stroke:#c7d6d1;stroke-width:1.5;rx:12}.bar{fill:#e7efea}.recorded{fill:#327c67}.family{fill:#5675a2}.proposed{fill:#ac743b}
+</style>
+<rect width="1120" height="505" fill="#f8faf7"/>
+<text x="25" y="44" class="title" >Four family paths, three ways to look</text>
+<text x="25" y="69" class="sub" >Choose a row below, then open its two-branch storyboard and short source-linked scenes.</text>
+<rect class="bar" x="25" y="89" width="1070" height="37" rx="8"/>
+<text x="40" y="113" class="key" >FAMILY ARM</text>
+<text x="255" y="113" class="key" >WORK</text>
+<text x="530" y="113" class="key" >ASSET CLUES</text>
+<text x="817" y="113" class="key" >EDUCATION</text>
+<rect class="card" x="25" y="137" width="1070" height="71"/>
+<rect x="25" y="137" width="6" height="71" fill="#317a67" rx="3"/>
+<text x="40" y="167" class="column" >Justin · paternal</text>
+<text x="255" y="166" class="value" >Mason → rope / Sicily farm → coal</text>
+<text x="530" y="166" class="value" >1870 values; 1940 home + wage</text>
+<text x="817" y="166" class="value" >NRI → RIT → Penn State / GT + Pitt</text>
+<text x="255" y="187" class="foot" >Open the paired line below for generations and records</text>
+<rect class="card" x="25" y="220" width="1070" height="71"/>
+<rect x="25" y="220" width="6" height="71" fill="#ad7741" rx="3"/>
+<text x="40" y="250" class="column" >Justin · maternal</text>
+<text x="255" y="249" class="value" >Farm, canal, factory and care work</text>
+<text x="530" y="249" class="value" >1870 value; 1954 sale remembered</text>
+<text x="817" y="249" class="value" >Berwick yearbook; Shirley's GED</text>
+<text x="255" y="270" class="foot" >Open the paired line below for generations and records</text>
+<rect class="card" x="25" y="303" width="1070" height="71"/>
+<rect x="25" y="303" width="6" height="71" fill="#5379a2" rx="3"/>
+<text x="40" y="333" class="column" >Ashley · paternal</text>
+<text x="255" y="332" class="value" >Farm, carpentry, transit and bank</text>
+<text x="530" y="332" class="value" >1930/40 home; 1980/2019 parcel</text>
+<text x="817" y="332" class="value" >Edison; Ashley at Virginia Tech</text>
+<text x="255" y="353" class="foot" >Open the paired line below for generations and records</text>
+<rect class="card" x="25" y="386" width="1070" height="71"/>
+<rect x="25" y="386" width="6" height="71" fill="#826e9b" rx="3"/>
+<text x="40" y="416" class="column" >Ashley · maternal</text>
+<text x="255" y="415" class="value" >Optician, furniture, rail and Navy Yard</text>
+<text x="530" y="415" class="value" >1930 home / rent; 1940 rent</text>
+<text x="817" y="415" class="value" >Hayfield; Timothy at Virginia Tech</text>
+<text x="255" y="436" class="foot" >Open the paired line below for generations and records</text>
+<text x="25" y="490" class="foot" >Sources and caveats: context/family-storyboards.md. Blank amounts mean no figure found, not no property or income.</text>
+</svg>

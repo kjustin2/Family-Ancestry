@@ -1,5 +1,7 @@
 # Weatherford line: Danville to Franconia
 
+[See Ashley's paternal storyboard](../context/family-storyboards.md#ashleys-paternal-lines) for Weatherford and Morrison work, asset clues and schooling by generation beside short source-linked scenes.
+
 For Ashley's immigration question, see [what is known about arrival in America](ashley-immigration.md). The [Halifax County record trail before George](weatherford-early-virginia.md) now reaches a Virginia-born Samuel and Jane in 1850; no identified immigrant or arrival year is established.
 
 For **birth/death status and the complete named sibling groups by generation**, see the [Weatherford–Smith generation guide](weatherford-smith-generations.md) and its family diagram.

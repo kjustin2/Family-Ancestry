@@ -1,5 +1,7 @@
 # Smith and Blevins: Alice's family
 
+[See Ashley's maternal storyboard](../context/family-storyboards.md#ashleys-maternal-lines) for Smith and Blevins work, asset clues and schooling by generation beside short source-linked scenes.
+
 [Burial places and headstone leads](../context/family-burial-places.md) include Mary Hines Blevins in Suitland and James and Gladys Smith's photographed shared marker in Fairfax.
 
 ![Evidence map of Alice's Smith and Blevins ancestors](../maps/smith-blevins-lineage.svg)

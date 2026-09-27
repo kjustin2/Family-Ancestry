@@ -4,11 +4,12 @@ An evidence-led map of Justin and Ashley's family history. **Research snapshot: 
 
 ## Start here
 
-For a quick visual route: **[ten family-line timelines](explore/line-timelines.html)** → [full family trees](context/full-family-trees.md) → [family places](context/geography-atlas.md) → [detailed interactive timeline](explore/timeline.html). Each moment links to the sourced branch page; unproved links are marked. The one-page views also answer [Ashley's arrival question](maps/ashley-arrival-status.svg), show [the Disqué mill and migration gap](maps/disque-mills-and-migration.svg), and capture [Paulene's remembered scenes](maps/paulene-miller-moments.svg).
+For a quick visual route: **[four family storyboards](context/family-storyboards.md)** → [ten family-line timelines](explore/line-timelines.html) → [full family trees](context/full-family-trees.md) → [family places](context/geography-atlas.md) → [detailed interactive timeline](explore/timeline.html). The storyboards put **work, assets, education and short source-linked scenes together by generation**; unproved relationships are marked. The one-page views also answer [Ashley's arrival question](maps/ashley-arrival-status.svg), show [the Disqué mill and migration gap](maps/disque-mills-and-migration.svg), and capture [Paulene's remembered scenes](maps/paulene-miller-moments.svg).
 
 <details>
 <summary><strong>Browse every branch, map, source and research guide</strong> (all existing links preserved)</summary>
 
+- [Four paired family storyboards](context/family-storyboards.md): one overview and a work–asset–education sequence for Justin's paternal and maternal, and Ashley's paternal and maternal branches. Short stories and artifact links sit directly below each visual.
 - [Visual timelines for each family line](explore/line-timelines.html): ten compact, clickable lanes lead into the detailed stories and records.
 
 - [Explore the full family trees](context/full-family-trees.md): four readable, evidence-marked views follow the Kramer/Cordaro, Miller/Sponenberg, Weatherford/Morrison and Smith/Blevins lines through as many linked generations as the research permits. Dashed links show the specific gaps.
@@ -31,7 +32,7 @@ For a quick visual route: **[ten family-line timelines](explore/line-timelines.h
 - [Florence's Morrison–Hollinger household](branches/morrison-hollinger.md): a [three-record diagram](maps/morrison-indiana-evidence-1900-1920.svg) tests Roscoe's probable Indiana grandparents and shows their 1900 farm and schooling entries; other originals trace the family through Fairfax, with the 1954 marriage-age conflict kept visible.
 - [Monty's corgi family](branches/monty.md): his AKC certificate, birth and sire timeline, known parents and proposed older paternal line, with an [evidence-marked pedigree](maps/monty-pedigree.svg).
 - [Deep Blevins research](branches/blevins-deep-lineage.md): original 1850–1900 households, Ada's named Thompson relatives, Shubiel's veteran headstone application, and the remaining [ancestry gap](maps/blevins-deep-lineage.svg).
-- [Westerly / Rhode Island Blevins lead](branches/blevins-rhode-island-lead.md): 1691 family account, 1771 Virginia land-claim transcript and a separate DNA comparison, with a [visual of the missing Ashley links](maps/blevins-rhode-island-evidence.svg).
+- [Oyster Bay / Westerly Blevins leads](branches/blevins-rhode-island-lead.md): printed 1678–87 New York town-book records, a 1691 Westerly family account, a 1771 Virginia land-claim transcript and a separate DNA comparison, with a [dated evidence trail](maps/blevins-northeast-record-timeline.svg) and [missing Ashley links](maps/blevins-rhode-island-evidence.svg).
 - [James Blevins and early Virginia settlement](branches/blevins-colonial-james.md): hunters on Smith River, the Peach Bottom land case, and a [timeline that separates the different James men](maps/blevins-early-settlement.svg).
 - [Virginia in the 1740s: period views](context/virginia-colonial-views.md): a **1740–70 Williamsburg etching**, near-contemporary regional map, surviving Goochland outbuilding, and Alexandria's original town plan, each labeled by date and evidence limit.
 - [James Blevins, Revolutionary pensioner](branches/blevins-revolutionary-james.md): his own 1832 migration and service account, with an [evidence-marked route](maps/blevins-revolutionary-james.svg); his connection to Ashley remains unproved.

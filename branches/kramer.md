@@ -1,5 +1,7 @@
 # Kramer: the Wilkes-Barre line
 
+[See the paternal family storyboard](../context/family-storyboards.md#justins-paternal-lines) for Kramer and Cordaro work, asset clues and schooling by generation beside short source-linked scenes.
+
 The [Unadingen household diagram and source table](kramer-unadingen-household.md) show a Baden Kramer family with twelve indexed children. Their son Matthäus shares the Pennsylvania Matthew's reported August 1840 birth month, but an American parent or birthplace record is still needed to join the two men.
 
 ## Working lineage
