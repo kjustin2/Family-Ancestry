@@ -1,0 +1,27 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1100" height="460" viewBox="0 0 1100 460" role="img" aria-labelledby="title desc">
+  <title id="title">Ashley Weatherford and the Texas city namesake: no proved common ancestor</title>
+  <desc id="desc">Two vertical family paths. Ashley's path runs from Virginia Samuel and Jane through probable Asa Thomas, George, Duffy, Garnett, John, and Ashley. The Texas city namesake path runs from John M. and Frances to Senator Thomas Jefferson Weatherford. A dashed question mark between the early paths marks an unproved relationship.</desc>
+  <rect width="1100" height="460" rx="20" fill="#f7f5ef"/>
+  <text x="42" y="53" font-family="Arial,sans-serif" font-size="27" font-weight="700" fill="#17324c">Two Weatherford paths, one unanswered link</text>
+  <text x="42" y="82" font-family="Arial,sans-serif" font-size="16" fill="#526273">Parentage must bridge these early households before kinship can be claimed.</text>
+  <rect x="42" y="111" width="480" height="290" rx="15" fill="#e6f0f5" stroke="#a7c1d0"/>
+  <rect x="578" y="111" width="480" height="290" rx="15" fill="#f9eee2" stroke="#d9b998"/>
+  <text x="68" y="150" font-family="Arial,sans-serif" font-size="20" font-weight="700" fill="#17324c">ASHLEY · VIRGINIA</text>
+  <text x="604" y="150" font-family="Arial,sans-serif" font-size="20" font-weight="700" fill="#6f3f1f">TEXAS CITY'S NAMESAKE</text>
+  <text x="68" y="191" font-family="Arial,sans-serif" font-size="19" fill="#17324c">Samuel + Jane · Halifax, 1850</text>
+  <text x="68" y="223" font-family="Arial,sans-serif" font-size="17" fill="#334d60">↓ probable identity bridge</text>
+  <text x="68" y="258" font-family="Arial,sans-serif" font-size="18" fill="#17324c">Asa T./Thomas A. → George C.</text>
+  <text x="68" y="293" font-family="Arial,sans-serif" font-size="18" fill="#17324c">→ Doctor Duffy → Garnett Sr.</text>
+  <text x="68" y="328" font-family="Arial,sans-serif" font-size="18" fill="#17324c">→ John Sr. → Ashley</text>
+  <text x="68" y="374" font-family="Arial,sans-serif" font-size="15" fill="#526273">Samuel's parents: unknown</text>
+  <text x="604" y="191" font-family="Arial,sans-serif" font-size="19" fill="#6f3f1f">John M. + Frances Spraggins</text>
+  <text x="604" y="223" font-family="Arial,sans-serif" font-size="17" fill="#735943">↓ reported parentage</text>
+  <text x="604" y="258" font-family="Arial,sans-serif" font-size="18" fill="#6f3f1f">Senator Thomas Jefferson</text>
+  <text x="604" y="293" font-family="Arial,sans-serif" font-size="18" fill="#6f3f1f">Tennessee → Illinois → Texas</text>
+  <text x="604" y="328" font-family="Arial,sans-serif" font-size="18" fill="#6f3f1f">City named for him, 1850s</text>
+  <text x="604" y="374" font-family="Arial,sans-serif" font-size="15" fill="#735943">John M.'s parents: unverified here</text>
+  <line x1="523" y1="191" x2="577" y2="191" stroke="#9b7762" stroke-width="3" stroke-dasharray="7 6"/>
+  <circle cx="550" cy="191" r="19" fill="#f7f5ef" stroke="#9b7762" stroke-width="2"/>
+  <text x="543" y="199" font-family="Arial,sans-serif" font-size="23" font-weight="700" fill="#785443">?</text>
+  <text x="42" y="435" font-family="Arial,sans-serif" font-size="14" fill="#526273">Sources and unresolved name variants: branches/weatherford-texas-connection.md · Diagram shows evidence status, not genetic proof.</text>
+</svg>
