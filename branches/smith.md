@@ -1,5 +1,7 @@
 # Smith and Blevins: Alice's family
 
+[Burial places and headstone leads](../context/family-burial-places.md) include Mary Hines Blevins in Suitland and James and Gladys Smith's photographed shared marker in Fairfax.
+
 ![Evidence map of Alice's Smith and Blevins ancestors](../maps/smith-blevins-lineage.svg)
 
 ![Four original Bristol records linking Elizabeth or Mary E. Hines across 1920–31, with the Nora versus Maud name conflict](../maps/hines-bristol-evidence.svg)
