@@ -1,30 +1,33 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="1020" height="514" viewBox="0 0 1020 514" role="img" aria-labelledby="title desc">
-  <title id="title">Mulhall and Corbett evidence trail toward Ashley's Smith line</title>
-  <desc id="desc">Irish-born unnamed parents are recorded as birthplaces on the 1900 and 1910 Washington censuses. Their DC-born children John Mulhall and Margaret Corbett are named as Alice Mulhall Smith's parents in a birth-return index and Social Security index. Alice and Raymond Smith's son James is recorded in 1940; matching him to Gladys Blevins's James remains probable, represented by a dashed link.</desc>
-  <rect width="1020" height="514" fill="#f5f2e9"/><rect width="9" height="514" fill="#58788b"/>
+<svg xmlns="http://www.w3.org/2000/svg" width="1020" height="680" viewBox="0 0 1020 680" role="img" aria-labelledby="title desc">
+  <title id="title">Mulhall and Corbett families in Washington, DC, toward Ashley's Smith line</title>
+  <desc id="desc">The 1880 census names Irish-born John and Mary Mulhall as John Thomas Mulhall's parents. Nearby William Corbett is a probable father of Margaret Corbett, shown by a dashed line. John Thomas and Margaret are recorded parents of Alice, who married Raymond Smith and had son James. A dashed final link denotes the unproved match between that son and Ashley's grandfather.</desc>
+  <rect width="1020" height="680" fill="#f5f2e9"/><rect width="9" height="680" fill="#58788b"/>
   <g font-family="Segoe UI,Arial,sans-serif">
-    <text x="34" y="44" font-size="26" font-weight="700" fill="#17394c">Alice Mulhall's DC family</text>
-    <text x="34" y="70" font-size="15" fill="#4d6571">Irish-born parents are a census clue; Ashley's final Smith identity bridge remains open.</text>
+    <text x="34" y="43" font-size="26" font-weight="700" fill="#17394c">From Irish parents to a Washington family</text>
+    <text x="34" y="70" font-size="15" fill="#4d6571">1880 names John's parents; a neighboring Corbett household offers a promising lead.</text>
     <g fill="#fff" stroke="#cbd8d7" stroke-width="1.5">
-      <rect x="34" y="105" width="454" height="79" rx="11"/><rect x="532" y="105" width="454" height="79" rx="11"/>
-      <rect x="34" y="224" width="454" height="94" rx="11"/><rect x="532" y="224" width="454" height="94" rx="11"/>
-      <rect x="273" y="357" width="474" height="83" rx="11"/>
+      <rect x="34" y="105" width="454" height="90" rx="11"/><rect x="532" y="105" width="454" height="90" rx="11"/>
+      <rect x="34" y="238" width="454" height="91" rx="11"/><rect x="532" y="238" width="454" height="91" rx="11"/>
+      <rect x="34" y="372" width="454" height="91" rx="11"/><rect x="532" y="372" width="454" height="91" rx="11"/>
+      <rect x="273" y="510" width="474" height="82" rx="11"/>
     </g>
     <g fill="#17394c" font-size="19" font-weight="700">
-      <text x="51" y="135">John Thomas Mulhall</text><text x="549" y="135">Margaret “Maggie” Corbett</text>
-      <text x="51" y="254">Alice M. Mulhall Smith</text><text x="549" y="254">Raymond J. Smith</text>
-      <text x="290" y="389">James A. Smith · DC son</text>
+      <text x="51" y="136">John + Mary Mulhall</text><text x="549" y="136">William Corbett · candidate</text>
+      <text x="51" y="269">John Thomas Mulhall</text><text x="549" y="269">Margaret “Maggie” Corbett</text>
+      <text x="51" y="403">Alice M. Mulhall Smith</text><text x="549" y="403">Raymond J. Smith</text>
+      <text x="290" y="540">James A. Smith · DC son</text>
     </g>
     <g fill="#4d6571" font-size="15">
-      <text x="51" y="160">DC-born; parents recorded Ireland-born</text><text x="549" y="160">DC-born; parents recorded Ireland-born</text>
-      <text x="51" y="279">Born 27 Sep 1894; parents named twice</text><text x="51" y="301">1900 + 1910 original households</text>
-      <text x="549" y="279">1917 indexed marriage with Alice</text><text x="549" y="301">1930–50 original household sheets</text>
-      <text x="290" y="415">1940 + 1950 original household sheets</text>
+      <text x="51" y="162">Both born Ireland; gardener + homemaker in 1880</text><text x="549" y="162">Ireland-born laborer; Maggie worked in a store</text>
+      <text x="51" y="295">1880 brass molder; later water foreman</text><text x="549" y="295">DC-born; likely Maggie next door in 1880</text>
+      <text x="51" y="429">Born 1894; with parents and spouse in 1920</text><text x="549" y="429">Son-in-law in 1920; optician at optical shop</text>
+      <text x="290" y="567">With Raymond and Alice in 1940 + 1950</text>
     </g>
-    <path d="M261 184 V203 H261 V224 M759 184 V203 H261" fill="none" stroke="#58788b" stroke-width="3"/>
-    <path d="M261 318 V339 H510 V357 M759 318 V339 H510" fill="none" stroke="#58788b" stroke-width="3"/>
-    <line x1="510" y1="440" x2="510" y2="460" stroke="#b17551" stroke-width="3" stroke-dasharray="7 5"/>
-    <rect x="199" y="461" width="622" height="37" rx="9" fill="#fff1e8" stroke="#d9b59d"/>
-    <text x="213" y="485" font-size="15" fill="#704d3c">1957 James + Gladys notice fits Ashley's grandparents; parent link unproved.</text>
+    <path d="M261 195 V238 M261 329 V350 H261 V372 M759 329 V350 H261 M261 463 V486 H510 V510 M759 463 V486 H510" fill="none" stroke="#58788b" stroke-width="3"/>
+    <path d="M759 195 V238" fill="none" stroke="#b17551" stroke-width="3" stroke-dasharray="7 5"/>
+    <text x="792" y="219" font-size="13" fill="#704d3c">probable</text>
+    <line x1="510" y1="592" x2="510" y2="611" stroke="#b17551" stroke-width="3" stroke-dasharray="7 5"/>
+    <rect x="191" y="611" width="638" height="43" rx="9" fill="#fff1e8" stroke="#d9b59d"/>
+    <text x="206" y="638" font-size="15" fill="#704d3c">1957 James + Gladys notice fits Ashley's grandparents; parent link open.</text>
   </g>
 </svg>
