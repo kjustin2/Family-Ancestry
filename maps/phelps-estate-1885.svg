@@ -1,6 +1,6 @@
 <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1000 430" role="img" aria-labelledby="title desc">
-  <title id="title">Robert Phelps estate: three different financial views, 1885 to 1887</title>
-  <desc id="desc">Ann Phelps received a widow's personal-property allotment valued at 843 dollars and 23 cents. Her 1885 land-sale petition estimated debts at about 1,500 dollars. Her 1887 administrator cash account listed 1,619 dollars and 53 cents in receipts and 1,672 dollars and 87 cents in payments, a 53 dollar and 34 cent deficit. These are different accounting scopes and cannot be combined as family net worth.</desc>
+  <title id="title">Robert Phelps estate: widow's allotment, land bids and administrator's cash account, 1885 to 1887</title>
+  <desc id="desc">Ann Phelps received a widow's personal-property allotment valued at 843 dollars and 23 cents. Four winning land-sale bids in December 1885 totaled 1,562 dollars and 50 cents. Her 1887 administrator cash account listed 1,619 dollars and 53 cents in receipts and 1,672 dollars and 87 cents in payments, a 53 dollar and 34 cent deficit. These are different accounting stages and cannot be combined as family net worth.</desc>
   <style>
     text { font-family: Arial, Helvetica, sans-serif; fill: #173046 }
     .title { font-size: 28px; font-weight: 700 }
@@ -20,11 +20,11 @@
   <text class="detail" x="61" y="238">set aside for Ann E. Phelps</text>
   <text class="detail" x="61" y="280">Not the estate's total value</text>
   <rect x="355" y="105" width="286" height="205" rx="16" fill="#fff7e7" stroke="#daa63e" stroke-width="2"/>
-  <text class="tag" x="376" y="135">1885 • DEBT ESTIMATE</text>
-  <text class="number" x="376" y="180">about $1,500</text>
-  <text class="detail" x="376" y="213">Ann petitioned to sell estate land</text>
-  <text class="detail" x="376" y="238">to meet debts and costs</text>
-  <text class="detail" x="376" y="280">An estimate, not a final balance</text>
+  <text class="tag" x="376" y="135">1885 • LAND-SALE BIDS</text>
+  <text class="number" x="376" y="180">$1,562.50</text>
+  <text class="detail" x="376" y="213">Three half-lot interests + 85 acres</text>
+  <text class="detail" x="376" y="238">at a Milton public auction</text>
+  <text class="detail" x="376" y="280">Debts were estimated near $1,500</text>
   <rect x="670" y="105" width="290" height="205" rx="16" fill="#edf3fb" stroke="#789ac5" stroke-width="2"/>
   <text class="tag" x="691" y="135">1887 • ADMINISTRATOR CASH</text>
   <text class="number" x="691" y="180">$53.34 deficit</text>
@@ -33,5 +33,5 @@
   <text class="detail" x="691" y="280">Not the heirs' final inheritance</text>
   <rect x="40" y="338" width="920" height="62" rx="12" fill="#fff9ea" stroke="#e3c78d"/>
   <text class="note" x="60" y="364">Do not add or compare these as a net-worth series.</text>
-  <text class="detail" x="60" y="386">The allotment, debt estimate and administrator's cash account measure different things.</text>
+  <text class="detail" x="60" y="386">The allotment, auction bids and later cash account measure different things.</text>
 </svg>
