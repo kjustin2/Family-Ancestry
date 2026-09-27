@@ -1,5 +1,7 @@
 # Raber, Kreischer and Sponenberg: Sonya's Berwick line
 
+For Daniel's earlier work, the 1901 household clues and the separate possible immigrant branch, see the [Sponenberg deep dive](sponenberg-deep-dive.md).
+
 ![Sonya's recorded maternal ancestors and later family branches](../maps/sonya-raber-balliet-family.svg)
 
 **The record bridge:** [Shirley Yvonne Raber's 2018 obituary](https://familysearch.org/ark:/61903/1:1:61FN-QJ7Z?lang=en) names daughter **Sonya Balliet (Floyd)** and Shirley's parents **William Kreischer and Aletha Sponenberg**. The [1940 census index](https://familysearch.org/ark:/61903/1:1:KQ8L-MP7?lang=en) independently places eight-year-old Shirley with William H. and Alethea Kreischer in Berwick. A [1915 county biography](https://jetty.klnpa.org/_flysystem/fedora/2023-11/historicalbiogra02chic.pdf#page=187) names Aletha's parents and earlier Sponenbergs. The obituary is a family-supplied published account; the biography was contemporary for Edward, retrospective for Daniel.

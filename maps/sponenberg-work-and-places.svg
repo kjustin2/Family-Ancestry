@@ -1,0 +1,63 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1280" height="790" viewBox="0 0 1280 790" role="img" aria-labelledby="title desc">
+  <title id="title">Sponenberg work and places, 1800s to 1915</title>
+  <desc id="desc">Justin's documented Daniel to Edward line runs through Columbia County canal contracting, farming, Berwick foundry work and a store job. A separate George to Philip line reports a German immigrant grandfather in Dauphin County, contracting in Briarcreek, farming and varied children's trades. George and Daniel's relationship is unproved.</desc>
+  <rect width="1280" height="790" rx="20" fill="#f7f5ef"/>
+  <g font-family="Arial, sans-serif" fill="#20353c">
+    <text x="40" y="53" font-size="30" font-weight="700">From canal work and farms to Berwick industry</text>
+    <text x="40" y="82" font-size="17" fill="#53666b">Two Sponenberg trails. The older bridge between them has not been found.</text>
+    <rect x="34" y="114" width="574" height="579" rx="16" fill="#eaf3ee" stroke="#6a9b83" stroke-width="2"/>
+    <rect x="672" y="114" width="574" height="579" rx="16" fill="#edf1f7" stroke="#8399ba" stroke-width="2"/>
+    <text x="58" y="149" font-size="19" font-weight="700" fill="#326b50">JUSTIN'S DANIEL LINE</text>
+    <text x="696" y="149" font-size="19" font-weight="700" fill="#4a6390">GEORGE + PHILIP LINE · RELATIONSHIP OPEN</text>
+    <path d="M321 191 V616 M959 191 V616" stroke="#b5c7be" stroke-width="3"/>
+    <g fill="#fffdfa" stroke="#bed4c8">
+      <rect x="58" y="177" width="526" height="90" rx="12"/>
+      <rect x="58" y="285" width="526" height="90" rx="12"/>
+      <rect x="58" y="393" width="526" height="90" rx="12"/>
+      <rect x="58" y="501" width="526" height="90" rx="12"/>
+    </g>
+    <g fill="#fffdfa" stroke="#c2cde0">
+      <rect x="696" y="177" width="526" height="90" rx="12"/>
+      <rect x="696" y="285" width="526" height="90" rx="12"/>
+      <rect x="696" y="393" width="526" height="90" rx="12"/>
+      <rect x="696" y="501" width="526" height="90" rx="12"/>
+    </g>
+    <g font-size="17" font-weight="700">
+      <text x="78" y="209">1827–29 · Daniel + Hannah</text>
+      <text x="78" y="317">1846 · John Leonard</text>
+      <text x="78" y="425">1901 · Edward J. in Berwick</text>
+      <text x="78" y="533">1907–15 · Edward's later work</text>
+      <text x="716" y="209">Before George · unnamed immigrant</text>
+      <text x="716" y="317">George · Dauphin → Briarcreek</text>
+      <text x="716" y="425">1862–63 · Philip's wartime account</text>
+      <text x="716" y="533">1901–15 · Philip's farm and family</text>
+    </g>
+    <g font-size="15" fill="#4d6268">
+      <text x="78" y="235">Canal/bridge contractor claim; Bible marriage</text>
+      <text x="78" y="256">Original canal report names a Daniel, identity open</text>
+      <text x="78" y="343">Briarcreek farm and country school,</text>
+      <text x="78" y="364">according to son's 1915 biography</text>
+      <text x="78" y="451">Directory: B S Co clerk; Emma, John's widow</text>
+      <text x="78" y="472">Separate earlier foundry work in biography</text>
+      <text x="78" y="559">Built a home; store purchasing agent;</text>
+      <text x="78" y="580">Aletha named as daughter in 1915</text>
+      <text x="716" y="235">1915 Philip biography says Germany →</text>
+      <text x="716" y="256">Dauphin County farm; no name or date</text>
+      <text x="716" y="343">Contractor; Pennsylvania German spoken</text>
+      <text x="716" y="364">at home, per Philip's 1915 biography</text>
+      <text x="716" y="451">178th Pennsylvania Infantry and hearing</text>
+      <text x="716" y="472">loss reported; service file still needed</text>
+      <text x="716" y="559">Directory: 50 acres, owned or leased;</text>
+      <text x="716" y="580">son James E. farming on shares</text>
+    </g>
+    <path d="M584 636 H696" stroke="#b5745c" stroke-width="3" stroke-dasharray="8 7"/>
+    <text x="640" y="629" text-anchor="middle" font-size="14" font-weight="700" fill="#934e3d">?</text>
+    <text x="55" y="654" font-size="14" fill="#3f6c58">Daniel → John → Edward: Bible + biography.</text>
+    <text x="55" y="674" font-size="14" fill="#3f6c58">Aletha link: census + obituary.</text>
+    <text x="696" y="654" font-size="14" fill="#506994">Immigrant → George → Philip: one 1915 biography.</text>
+    <text x="696" y="674" font-size="14" fill="#506994">George ↔ Daniel: no connecting record.</text>
+    <rect x="34" y="713" width="1212" height="54" rx="11" fill="#fffdfa" stroke="#d9d6ca"/>
+    <text x="53" y="737" font-size="15" fill="#4d6268">Sources: 1827 canal report; 1879 family Bible; 1901 Columbia–Montour directory; 1915 biographies, pp. 646 and 807.</text>
+    <text x="53" y="758" font-size="14" fill="#8b5544">No immigrant is proved on Justin's direct line; acreage is not a wealth estimate.</text>
+  </g>
+</svg>
