@@ -45,14 +45,15 @@ The [MyHeritage William Elkanah Blevins page](https://www.myheritage.com/researc
 
 The same **unverified member tree** lists William Howard's proposed siblings **Nannie, Edgar, Pearlie, Walter, Maud, Hallie, and infant John** with Mary Earnest; **Herbert, Mabel, and Luther** are listed as children of William Elkanah and Tancy Barker, making them proposed half-siblings. A [cemetery transcription](https://www.newrivernotes.com/smyth-thomas-cemetery/) dates Mary M. E.'s death to **1914**, while the tree says **1916**; her identity and date need an original record. These names are search targets, not a confirmed complete sibling count. [William Howard tree](https://www.myheritage.com/research/record-1-OYYV7J5XTEFREVRUIRE7UD4GYZEXYGI-2-7615/myheritage-family-trees) · [Tancy tree](https://www.myheritage.com/research/record-1-OYYV7J5XTEFREVRUIRE7UD4GYZEXYGI-2-1984/myheritage-family-trees).
 
-**Two men named William Howard Blevins** appear in separate 1940 households:
+**Three similar William H. Blevins identities** need to stay separate:
 
 | Person | 1940 household | Parents and status |
 | --- | --- | --- |
 | **Gladys's father** | [Johnson City](https://www.familysearch.org/ark:/61903/1:1:K4HN-TV9?lang=en), with **Mary** and young **Gladys** | Parents **unproved**. A [1920 Howard](https://www.familysearch.org/ark:/61903/1:1:MN2T-TZX?lang=en) and [1930 Bristol boarder](https://www.familysearch.org/ark:/61903/1:1:CV9G-ZZM?lang=en) are still candidate earlier records; they report Virginia birth versus his 1940 West Virginia entry. |
 | **Excluded namesake** | [Winston-Salem](https://www.familysearch.org/ark:/61903/1:1:KW3H-9XX?lang=en), with **Grace Shuler** | The [1938 marriage](https://www.familysearch.org/ark:/61903/1:1:QVB1-SD52?lang=en) and [1948 death certificate](../sources/records/william-howard-blevins-namesake-death-1948.jpg) name **Joseph Blevins and Emma Trent**. His 6 October 1908 Meadowview birth fits their [1910 Glade Spring child](https://www.familysearch.org/ark:/61903/1:1:MPPL-SYY?lang=en). He is **not Ashley's ancestor**. |
+| **Another excluded namesake** | [Fort Oglethorpe, Georgia](https://www.familysearch.org/ark:/61903/1:1:K72Y-D2K?lang=en), with wife **Pauline** and Georgia-born children; [still with Pauline in 1950](https://www.familysearch.org/ark:/61903/1:1:6FQT-JP7B?lang=en) | A [Social Security death entry](https://www.familysearch.org/ark:/61903/1:1:JP1R-T2H?lang=en) and [Georgia grave index](https://www.familysearch.org/ark:/61903/1:1:4KJX-BTZM?lang=en) give **20 October 1910–4 October 1991** for William **Henry** Blevins. His overlapping 1940 household rules him out as Mary's husband. The FamilySearch [profile for Gladys's father](https://www.familysearch.org/en/tree/person/sources/G7H9-6GS) displays a different **9 March 1991** death date without an attached death source; that date still needs verification. |
 
-The overlapping households rule out attaching **Joseph and Emma** to Gladys's father. His own parent-naming record is still needed.
+The overlapping households rule out attaching **Joseph and Emma** or the Georgia man's **1991 death record** to Gladys's father. His own parent-naming and death records are still needed.
 
 ## Places, work, and the Miller Drive chapter
 
