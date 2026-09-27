@@ -39,7 +39,14 @@ The [MyHeritage William Elkanah Blevins page](https://www.myheritage.com/researc
 
 The same **unverified member tree** lists William Howard's proposed siblings **Nannie, Edgar, Pearlie, Walter, Maud, Hallie, and infant John** with Mary Earnest; **Herbert, Mabel, and Luther** are listed as children of William Elkanah and Tancy Barker, making them proposed half-siblings. A [cemetery transcription](https://www.newrivernotes.com/smyth-thomas-cemetery/) dates Mary M. E.'s death to **1914**, while the tree says **1916**; her identity and date need an original record. These names are search targets, not a confirmed complete sibling count. [William Howard tree](https://www.myheritage.com/research/record-1-OYYV7J5XTEFREVRUIRE7UD4GYZEXYGI-2-7615/myheritage-family-trees) · [Tancy tree](https://www.myheritage.com/research/record-1-OYYV7J5XTEFREVRUIRE7UD4GYZEXYGI-2-1984/myheritage-family-trees).
 
-**Same-name caution:** A separate [1910 Glade Spring, Virginia, census record](https://www.familysearch.org/ark:/61903/1:1:MPPL-SYY?lang=en) has a **one-year-old William H. Blevins**, but it places him with **Joseph and Emma Blevins** in John H. Trent's household. Other nearby 1910 boys with that name have different parents. No record yet ties this child to Gladys's father; his existence is a reason to require a birth or later parent-naming record before accepting the member tree's William Elkanah parentage. The [1920 Howard candidate](https://www.familysearch.org/ark:/61903/1:1:MN2T-TZX?lang=en) gives **Virginia** birth and **North Carolina** birth for both parents, while Gladys's [1940 father](https://www.familysearch.org/ark:/61903/1:1:K4HN-TV9?lang=en) is listed as born in **West Virginia**. Birthplaces were supplied to census takers, so the mismatch calls for checking rather than automatic rejection.
+**Two men named William Howard Blevins** appear in separate 1940 households:
+
+| Person | 1940 household | Parents and status |
+| --- | --- | --- |
+| **Gladys's father** | [Johnson City](https://www.familysearch.org/ark:/61903/1:1:K4HN-TV9?lang=en), with **Mary** and young **Gladys** | Parents **unproved**. A [1920 Howard](https://www.familysearch.org/ark:/61903/1:1:MN2T-TZX?lang=en) and [1930 Bristol boarder](https://www.familysearch.org/ark:/61903/1:1:CV9G-ZZM?lang=en) are still candidate earlier records; they report Virginia birth versus his 1940 West Virginia entry. |
+| **Excluded namesake** | [Winston-Salem](https://www.familysearch.org/ark:/61903/1:1:KW3H-9XX?lang=en), with **Grace Shuler** | The [1938 marriage](https://www.familysearch.org/ark:/61903/1:1:QVB1-SD52?lang=en) and [1948 death certificate](../sources/records/william-howard-blevins-namesake-death-1948.jpg) name **Joseph Blevins and Emma Trent**. His 6 October 1908 Meadowview birth fits their [1910 Glade Spring child](https://www.familysearch.org/ark:/61903/1:1:MPPL-SYY?lang=en). He is **not Ashley's ancestor**. |
+
+The overlapping households rule out attaching **Joseph and Emma** to Gladys's father. His own parent-naming record is still needed.
 
 ## Places, work, and the Miller Drive chapter
 
