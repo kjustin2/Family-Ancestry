@@ -1,4 +1,4 @@
-"""Map the Cordaro records' nearby Sicilian places without implying a voyage."""
+"""Map Sicilian Cordaro places, a documented departure port, and local context."""
 
 import html
 import json
@@ -51,12 +51,12 @@ def main():
 
     parts = [
         '<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="800" viewBox="0 0 1200 800" role="img" aria-labelledby="title desc">',
-        '<title id="title">Sutera and Milocca in Sicily</title>',
-        '<desc id="desc">Italy overview and Sicily close-up. Sutera is named in the family passport; the 1878 Antonio Cordaro birth act names nearby Milocca, now Milena. Palermo and Caltanissetta city are orientation markers only. No migration route is established.</desc>',
+        '<title id="title">Cordaro family places in Sicily and the local context for migration</title>',
+        '<desc id="desc">Italy overview and Sicily close-up. Sutera is named in the family passport and Pietra Magro\'s 1909 passenger list; Antonio Cordaro\'s 1878 birth and 1899 marriage are in nearby Milocca, now Milena. The 1909 list documents Palermo as the departure port. A 1905 landslide and sulfur-mine losses preceded the departures, but no personal migration motive is recorded.</desc>',
         '<style>text{font-family:Segoe UI,Arial,sans-serif;fill:#20354a}.title{font-size:30px;font-weight:700}.head{font-size:19px;font-weight:700}.label{font-size:17px;font-weight:650}.small{font-size:13px;fill:#536a78}.sea{fill:#eaf4f6}.land{fill:#d9e6dc;stroke:#89a69b;stroke-width:2;stroke-linejoin:round}.sicily{fill:#e9be77;stroke:#b97634;stroke-width:2;stroke-linejoin:round}.line{stroke:#ad512c;stroke-width:2;fill:none}</style>',
         '<rect width="1200" height="800" fill="#f3f7f5"/>',
         '<text x="50" y="55" class="title">Sutera and Milocca: two names in the Cordaro records</text>',
-        '<text x="50" y="82" class="small">Milocca was a Sutera hamlet in 1878; it became the town of Milena • no voyage is established</text>',
+        '<text x="50" y="82" class="small">Milocca was a Sutera hamlet in 1878; the 1899 wedding was there • Palermo was the documented 1909 departure port</text>',
         '<rect x="48" y="115" width="520" height="530" rx="18" fill="#fbfdfc" stroke="#d8e6e4" stroke-width="2"/>',
         '<rect x="600" y="115" width="552" height="530" rx="18" fill="#fbfdfc" stroke="#d8e6e4" stroke-width="2"/>',
         '<text x="70" y="145" class="head">Italy</text>',
@@ -71,7 +71,7 @@ def main():
     parts.append('<text x="315" y="591" class="label">Sicily</text>')
     parts.append(f'<path d="{html.escape(polygon_path(sicily, sicily_bounds, sicily_box))}" class="sicily"/>')
     parts.append(pin(*palermo, sicily_bounds, sicily_box, "#698a9b", 5))
-    parts.append('<text x="681" y="216" class="small">Palermo • orientation</text>')
+    parts.append('<text x="681" y="216" class="small">Palermo • 1909 ship departure</text>')
     parts.append(pin(*caltanissetta, sicily_bounds, sicily_box, "#698a9b", 6))
     parts.append(f'<path d="M {cx:.1f},{cy:.1f} L 925,443" stroke="#698a9b" stroke-width="1.5" fill="none"/>')
     parts.append('<text x="932" y="450" class="small">Caltanissetta city</text>')
@@ -79,17 +79,18 @@ def main():
     parts.append(pin(*sutera, sicily_bounds, sicily_box, "#a84324", 8))
     parts.append(f'<path d="M {sx:.1f},{sy:.1f} L 785,336" class="line"/>')
     parts.append('<text x="684" y="323" class="label">Sutera</text>')
-    parts.append('<text x="684" y="342" class="small">Passport: birthplace and residence</text>')
+    parts.append('<text x="684" y="342" class="small">Passport + Pietra\'s last Italian home</text>')
     parts.append(pin(*milocca, sicily_bounds, sicily_box, "#3b7190", 7))
     parts.append(f'<path d="M {mx:.1f},{my:.1f} L 930,512" stroke="#3b7190" stroke-width="2" fill="none"/>')
     parts.append('<text x="932" y="519" class="label">Milocca / Milena</text>')
-    parts.append('<text x="932" y="538" class="small">Antonio’s 1878 birth act</text>')
+    parts.append('<text x="932" y="538" class="small">1878 birth + 1899 marriage</text>')
     parts.extend([
-        '<rect x="48" y="667" width="1104" height="83" rx="14" fill="#e4ede8"/>',
-        '<circle cx="72" cy="692" r="7" fill="#a84324"/><text x="90" y="697" class="small">Family document: Sutera</text>',
-        '<circle cx="315" cy="692" r="7" fill="#3b7190"/><text x="332" y="697" class="small">Original birth act: Milocca</text>',
-        '<circle cx="585" cy="692" r="6" fill="#698a9b"/><text x="602" y="697" class="small">Orientation cities only</text>',
-        '<text x="72" y="729" class="small">The portrait was not located here; the passport alone does not document an Atlantic crossing.</text>',
+        '<rect x="48" y="660" width="1104" height="106" rx="14" fill="#e4ede8"/>',
+        '<circle cx="72" cy="685" r="7" fill="#a84324"/><text x="90" y="690" class="small">Passport + 1909 manifest: Sutera</text>',
+        '<circle cx="420" cy="685" r="7" fill="#3b7190"/><text x="437" y="690" class="small">Original acts: Milocca</text>',
+        '<circle cx="696" cy="685" r="6" fill="#698a9b"/><text x="713" y="690" class="small">Palermo: 1909 port · Caltanissetta: orientation</text>',
+        '<text x="72" y="721" class="small">1905 landslide and sulfur-mine losses near Sutera preceded the departures; no record states the Cordaros’ motive.</text>',
+        '<text x="72" y="746" class="small">Antonio reported a 1906 crossing; Pietra and two daughters appear on a 1909 passenger list.</text>',
         '<text x="50" y="783" class="small">Outline: Natural Earth 1:50m (public domain). Approximate centers: © OpenStreetMap contributors (ODbL). Not a historical map.</text>',
         '</svg>',
     ])

@@ -1,0 +1,35 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="560" viewBox="0 0 1200 560" role="img" aria-labelledby="title desc">
+  <title id="title">Sonya Raber's Miller and Balliet family branches</title>
+  <desc id="desc">Family-supplied relationships: Shirley Kreisher Raber is Sonya's mother, and Shirley's mother was born Fairchild. Sonya and Paul Miller are Melissa Miller Kramer's parents. Sonya and husband Floyd Balliet are Raegan Balliet's parents. Raegan married Robert Knight and has a son Robert Knight Junior. No recent relationships have yet been verified in an original record.</desc>
+  <rect width="1200" height="560" rx="20" fill="#f7f3ec"/>
+  <g font-family="Arial,sans-serif" fill="#263840">
+    <text x="36" y="45" font-size="27" font-weight="700">Sonya's family: two branches, shared roots</text>
+    <text x="36" y="70" font-size="15" fill="#53656a">Relationships and Mountain Top residence: Justin's family account · original records still needed</text>
+    <rect x="36" y="101" width="290" height="79" rx="13" fill="#fae8d4" stroke="#bd8b52" stroke-width="2"/>
+    <text x="54" y="130" font-size="17" font-weight="700">Fairchild-born mother</text>
+    <text x="54" y="155" font-size="14">Given name still unknown</text>
+    <rect x="381" y="101" width="330" height="79" rx="13" fill="#fae8d4" stroke="#bd8b52" stroke-width="2"/>
+    <text x="399" y="130" font-size="17" font-weight="700">Shirley Kreisher Raber</text>
+    <text x="399" y="155" font-size="14">Sonya's mother · father unconfirmed</text>
+    <path d="M326 141 H381 M546 180 V207" fill="none" stroke="#bd8b52" stroke-width="3"/>
+    <rect x="405" y="207" width="280" height="77" rx="13" fill="#dceee9" stroke="#39877a" stroke-width="2"/>
+    <text x="423" y="238" font-size="19" font-weight="700">Sonya Raber</text>
+    <text x="423" y="264" font-size="14">Later Miller / Balliet · Mountain Top</text>
+    <path d="M545 284 V308 H284 V329 M545 308 H894 V329" fill="none" stroke="#39877a" stroke-width="3"/>
+    <rect x="36" y="329" width="496" height="162" rx="15" fill="#e7eeff" stroke="#6b7db2" stroke-width="2"/>
+    <text x="56" y="359" font-size="17" font-weight="700" fill="#51679d">WITH PAUL MILLER</text>
+    <text x="56" y="389" font-size="19" font-weight="700">Melissa Miller Kramer</text>
+    <text x="56" y="414" font-size="15">Daughter of Sonya and Paul Miller</text>
+    <path d="M56 432 H505" stroke="#bdc8e2" stroke-width="1"/>
+    <text x="56" y="458" font-size="15">Melissa + Paul Kramer → Justin Kramer</text>
+    <text x="56" y="478" font-size="13" fill="#586778">Family account · marriage record still to locate</text>
+    <rect x="568" y="329" width="596" height="162" rx="15" fill="#e2f0e4" stroke="#649c71" stroke-width="2"/>
+    <text x="588" y="359" font-size="17" font-weight="700" fill="#447651">WITH FLOYD BALLIET · MARRIED ABOUT 30 YEARS</text>
+    <text x="588" y="389" font-size="19" font-weight="700">Raegan Balliet Knight</text>
+    <text x="588" y="414" font-size="15">Daughter of Sonya and Floyd Balliet</text>
+    <path d="M588 432 H1144" stroke="#bfd6c2" stroke-width="1"/>
+    <text x="588" y="458" font-size="15">Raegan + Robert Knight → Robert Knight Jr.</text>
+    <text x="588" y="478" font-size="13" fill="#586778">Names and relationships from Justin · dates unverified</text>
+    <text x="36" y="530" font-size="14" fill="#53656a">Berwick is the family's reported long-time area; no dated move from Berwick to Mountain Top has been established.</text>
+  </g>
+</svg>

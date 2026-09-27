@@ -1,10 +1,10 @@
 <svg xmlns="http://www.w3.org/2000/svg" width="1200" height="800" viewBox="0 0 1200 800" role="img" aria-labelledby="title desc">
-<title id="title">Sutera and Milocca in Sicily</title>
-<desc id="desc">Italy overview and Sicily close-up. Sutera is named in the family passport; the 1878 Antonio Cordaro birth act names nearby Milocca, now Milena. Palermo and Caltanissetta city are orientation markers only. No migration route is established.</desc>
+<title id="title">Cordaro family places in Sicily and the local context for migration</title>
+<desc id="desc">Italy overview and Sicily close-up. Sutera is named in the family passport and Pietra Magro's 1909 passenger list; Antonio Cordaro's 1878 birth and 1899 marriage are in nearby Milocca, now Milena. The 1909 list documents Palermo as the departure port. A 1905 landslide and sulfur-mine losses preceded the departures, but no personal migration motive is recorded.</desc>
 <style>text{font-family:Segoe UI,Arial,sans-serif;fill:#20354a}.title{font-size:30px;font-weight:700}.head{font-size:19px;font-weight:700}.label{font-size:17px;font-weight:650}.small{font-size:13px;fill:#536a78}.sea{fill:#eaf4f6}.land{fill:#d9e6dc;stroke:#89a69b;stroke-width:2;stroke-linejoin:round}.sicily{fill:#e9be77;stroke:#b97634;stroke-width:2;stroke-linejoin:round}.line{stroke:#ad512c;stroke-width:2;fill:none}</style>
 <rect width="1200" height="800" fill="#f3f7f5"/>
 <text x="50" y="55" class="title">Sutera and Milocca: two names in the Cordaro records</text>
-<text x="50" y="82" class="small">Milocca was a Sutera hamlet in 1878; it became the town of Milena • no voyage is established</text>
+<text x="50" y="82" class="small">Milocca was a Sutera hamlet in 1878; the 1899 wedding was there • Palermo was the documented 1909 departure port</text>
 <rect x="48" y="115" width="520" height="530" rx="18" fill="#fbfdfc" stroke="#d8e6e4" stroke-width="2"/>
 <rect x="600" y="115" width="552" height="530" rx="18" fill="#fbfdfc" stroke="#d8e6e4" stroke-width="2"/>
 <text x="70" y="145" class="head">Italy</text>
@@ -23,7 +23,7 @@
 <text x="315" y="591" class="label">Sicily</text>
 <path d="M 1083.7,224.1 L 1074.7,247.9 L 1070.3,257.1 L 1038.2,315.3 L 1034.5,328.8 L 1032.3,343.4 L 1029.0,356.2 L 1024.5,368.3 L 1020.3,383.7 L 1021.1,401.1 L 1022.6,409.6 L 1026.5,415.2 L 1032.8,420.5 L 1037.7,428.6 L 1030.2,435.9 L 1038.4,450.7 L 1045.4,459.5 L 1046.3,468.2 L 1046.2,477.0 L 1031.7,493.4 L 1026.0,502.5 L 1022.4,513.4 L 1020.9,524.8 L 1022.5,535.0 L 1022.0,545.2 L 1007.4,543.9 L 992.4,537.7 L 977.3,540.4 L 955.8,528.7 L 948.0,526.5 L 940.9,521.9 L 923.0,485.5 L 908.6,470.0 L 893.2,458.0 L 877.4,457.3 L 861.6,458.7 L 847.7,451.3 L 819.3,426.5 L 789.3,406.7 L 776.5,393.8 L 770.7,385.1 L 763.9,379.3 L 746.7,373.6 L 731.2,360.2 L 724.2,359.2 L 709.1,360.9 L 701.3,360.0 L 693.5,355.2 L 678.4,339.5 L 668.8,317.6 L 666.3,308.0 L 673.1,283.1 L 681.2,259.1 L 688.4,252.4 L 696.7,247.6 L 701.7,240.5 L 706.0,231.9 L 721.5,256.9 L 728.4,262.9 L 735.4,261.6 L 747.8,252.6 L 748.9,242.8 L 762.6,230.4 L 780.0,230.1 L 788.0,232.4 L 792.3,243.7 L 798.9,247.1 L 806.6,248.6 L 831.9,270.1 L 838.9,273.6 L 846.1,274.2 L 865.8,265.2 L 880.8,261.7 L 912.4,266.7 L 929.5,261.3 L 941.4,260.7 L 958.8,252.4 L 972.1,238.6 L 979.1,235.2 L 986.6,234.3 L 1004.7,235.1 L 1022.8,238.2 L 1030.5,235.0 L 1036.8,226.0 L 1044.2,222.0 L 1052.3,224.7 L 1073.3,209.3 L 1082.6,208.2 L 1091.4,214.2 L 1083.7,224.1 Z" class="sicily"/>
 <circle cx="788.1" cy="246.9" r="5" fill="#698a9b" stroke="#fff" stroke-width="3"/>
-<text x="681" y="216" class="small">Palermo • orientation</text>
+<text x="681" y="216" class="small">Palermo • 1909 ship departure</text>
 <circle cx="882.6" cy="377.0" r="6" fill="#698a9b" stroke="#fff" stroke-width="3"/>
 <path d="M 882.6,377.0 L 925,443" stroke="#698a9b" stroke-width="1.5" fill="none"/>
 <text x="932" y="450" class="small">Caltanissetta city</text>
@@ -31,15 +31,16 @@
 <circle cx="838.5" cy="369.7" r="8" fill="#a84324" stroke="#fff" stroke-width="3"/>
 <path d="M 838.5,369.7 L 785,336" class="line"/>
 <text x="684" y="323" class="label">Sutera</text>
-<text x="684" y="342" class="small">Passport: birthplace and residence</text>
+<text x="684" y="342" class="small">Passport + Pietra's last Italian home</text>
 <circle cx="839.2" cy="381.0" r="7" fill="#3b7190" stroke="#fff" stroke-width="3"/>
 <path d="M 839.2,381.0 L 930,512" stroke="#3b7190" stroke-width="2" fill="none"/>
 <text x="932" y="519" class="label">Milocca / Milena</text>
-<text x="932" y="538" class="small">Antonio’s 1878 birth act</text>
-<rect x="48" y="667" width="1104" height="83" rx="14" fill="#e4ede8"/>
-<circle cx="72" cy="692" r="7" fill="#a84324"/><text x="90" y="697" class="small">Family document: Sutera</text>
-<circle cx="315" cy="692" r="7" fill="#3b7190"/><text x="332" y="697" class="small">Original birth act: Milocca</text>
-<circle cx="585" cy="692" r="6" fill="#698a9b"/><text x="602" y="697" class="small">Orientation cities only</text>
-<text x="72" y="729" class="small">The portrait was not located here; the passport alone does not document an Atlantic crossing.</text>
+<text x="932" y="538" class="small">1878 birth + 1899 marriage</text>
+<rect x="48" y="660" width="1104" height="106" rx="14" fill="#e4ede8"/>
+<circle cx="72" cy="685" r="7" fill="#a84324"/><text x="90" y="690" class="small">Passport + 1909 manifest: Sutera</text>
+<circle cx="420" cy="685" r="7" fill="#3b7190"/><text x="437" y="690" class="small">Original acts: Milocca</text>
+<circle cx="696" cy="685" r="6" fill="#698a9b"/><text x="713" y="690" class="small">Palermo: 1909 port · Caltanissetta: orientation</text>
+<text x="72" y="721" class="small">1905 landslide and sulfur-mine losses near Sutera preceded the departures; no record states the Cordaros’ motive.</text>
+<text x="72" y="746" class="small">Antonio reported a 1906 crossing; Pietra and two daughters appear on a 1909 passenger list.</text>
 <text x="50" y="783" class="small">Outline: Natural Earth 1:50m (public domain). Approximate centers: © OpenStreetMap contributors (ODbL). Not a historical map.</text>
 </svg>
