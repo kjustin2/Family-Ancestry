@@ -12,6 +12,6 @@ Justin identifies his maternal grandmother as **Sonya Raber**, Melissa Miller Kr
 
 Justin places the wider maternal family around **Berwick, Pennsylvania**. He recalls **Aunt Alice, Uncle Bill, Aunt Wendy, Uncle Tim and Uncle Tom** as belonging to **Sonya's side**. The names include siblings and relatives by marriage, but which are Sonya's blood siblings has not yet been specified. Preserve the group without assigning a parent or a surname to each person.
 
-Paulene Miller Beach's [memoir](https://bhaven.org/paulene/category/marqueen-kitta) mentions a **Fairchild dairy** near the *Miller* home. A shared surname and town do not show that its owners were Shirley's Fairchild relatives. First identify Shirley's mother in a record before connecting the dairy.
+Paulene Miller Beach's [memoir](https://bhaven.org/paulene/life-journey) mentions a **Fairchild dairy** near the *Miller* home. A shared surname and town do not show that its owners were Shirley's Fairchild relatives. First identify Shirley's mother in a record before connecting the dairy.
 
 **Next records:** Shirley's marriage record (for her Kreisher parents and Raber spouse), her birth or obituary, Sonya's birth/marriage record, and a census or marriage certificate naming Shirley's Fairchild-born mother. Search Berwick/Columbia County and nearby counties once the given names and approximate years are known.
