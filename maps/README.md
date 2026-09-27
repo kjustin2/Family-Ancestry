@@ -8,6 +8,7 @@
 - [Kramer work](kramer-work.svg) places documented occupations, Emil's named employer and Army enlistment in order without presenting one household's wages as a long-term wealth trend.
 - [Bosch connection](bosch-1920-connection.svg) explains why both 1920 census sheets must be read together to identify Rose's parents.
 - [Colette assessments](colette-assessments.svg) charts selected **nominal county property estimates** over time; it does not estimate anyone's net worth.
+- [1940 housing context](housing-context-1940.svg) compares two original family home estimates with same-year state medians and maps the scale of gross rent in four relevant regions. [Definitions and sources](../context/housing-and-work-1940.md). Regenerate with `python maps/generate_housing_context_1940.py`.
 - [Samuel Weatherford's census resources](samuel-weatherford-census-resources.svg) shows the reported 1850 and 1870 estate entries with the **1860 missing-data gap**; [original images and interpretation](../branches/weatherford-early-virginia.md#what-the-household-sheets-reveal).
 - [Weatherford–Smith generations](weatherford-smith-generations.svg) shows where the two known lines meet and the size of each named sibling group; the [generation guide](../branches/weatherford-smith-generations.md) lists every name and date status.
 - [Jackson Weatherford name collision](weatherford-jackson-name-collision.svg) separates the proposed older Jackson from the original-record Indiana Jackson and keeps Samuel's parent link open; [evidence guide](../branches/weatherford-jackson-candidate.md).

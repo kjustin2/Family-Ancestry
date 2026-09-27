@@ -8,6 +8,14 @@ Justin names **Joan Cordaro, Mary Cordaro, and Toni Cordaro** as Patricia's sist
 
 ## Antonio's crossing and citizenship: an original record chain
 
+### What changed around their Sicilian home?
+
+The family lived around **Milocca and Sutera**, inland in Caltanissetta province. The [1899 marriage notices](../sources/records/cordaro-magro-banns-1899.jpg) call Antonio a farm worker and his father Giuseppe a day laborer; a [candidate 1878 birth act](https://antenati.cultura.gov.it/ark:/12657/an_ua18544377/) calls Giuseppe an agricultural worker and Maria Tona a seamstress. These are occupations, **not evidence that they owned or lacked land**. The mother's surname in the banns differs, so the 1878 household is still a candidate.
+
+One local turning point is unusually close to their migration dates. In [research on Sutera and Milocca held by Italy's archival administration](https://dgagaeta.cultura.gov.it/public/uploads/documents/Saggi/6593ab8704a1d.pdf), historians **Claudio Torrisi and Linda Reeder** describe a **1905 landslide at Monte San Paolino**, the loss of the local sulfur mines, and a subsequent rise in departures for North America. They say most residents worked in agriculture, while the mines also supported other local business. Antonio's **reported 1906** crossing and Pietra's **documented 1909** voyage fall in this period. **No Cordaro testimony or record says the landslide caused their decision**, and Antonio is recorded as a farm worker rather than a sulfur miner. The study describes **Birmingham** as a common destination for Suteresi; this family instead has a **Pittsburgh destination on the 1909 manifest** and a later **West Wyoming** household.
+
+The documents show a staggered move: Antonio's later naturalization papers place him in America first, then Pietra traveled with Calogera and Maria to join him. Pietra listed her mother **Carmela Di Prima** back in Sutera, a specific link between the two shores. In Pennsylvania Antonio is recorded as a **miner**, and Joseph's 1940 card names **Lehigh Valley Coal Co.** as his employer without specifying his job. This is a shift in the family's recorded work from **Sicilian agriculture toward Pennsylvania mining and coal employment**, not a measured change in family wealth. [Sicily map](../maps/cordaro-sutera-places.svg) · [interactive timeline](../explore/timeline.html).
+
 ![Evidence-labeled Cordaro crossings from Sicily to Pennsylvania](../maps/cordaro-crossing-evidence.svg)
 
 [Larger route preview](../maps/cordaro-crossing-evidence-preview.png).

@@ -6,11 +6,11 @@ from xml.sax.saxutils import escape
 
 ROWS = [
     ("Disqué / Schaaf", [("1684 mill rights", "work"), ("1839 mill sale", "work"), ("No record", "empty"), ("No record", "empty")]),
-    ("Kramer / Bosch", [("No record", "empty"), ("1871–1900 trades", "work"), ("1940 home + wages", "value"), ("1975 Bridon work", "work")]),
+    ("Kramer / Bosch", [("No record", "empty"), ("1870 $3k land + work", "work"), ("1940 home + wages", "value"), ("1975 Bridon work", "work")]),
     ("Miller / Gower", [("No record", "empty"), ("No record", "empty"), ("1954 $1,500 sale*", "memoir"), ("No record", "empty")]),
     ("Raber / Fairchild", [("No record", "empty"), ("No record", "empty"), ("No record", "empty"), ("No record", "empty")]),
     ("Weatherford", [("No record", "empty"), ("No record", "empty"), ("No record", "empty"), ("1980–2019 sales", "value")]),
-    ("Smith / Blevins", [("1737 land?", "lead"), ("1860 $150?", "lead"), ("No record", "empty"), ("2010 $360k sale", "value")]),
+    ("Smith / Blevins", [("1737 land?", "lead"), ("1860 $150?", "lead"), ("1930–40 rent + pay", "work"), ("2010 $360k sale", "value")]),
     ("Cordaro / Caucci", [("No record", "empty"), ("No record", "empty"), ("1938 laborer", "work"), ("1962 secretary", "work")]),
 ]
 
