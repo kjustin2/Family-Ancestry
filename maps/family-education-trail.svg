@@ -1,6 +1,6 @@
 <svg xmlns="http://www.w3.org/2000/svg" width="1200" height="680" viewBox="0 0 1200 680" role="img" aria-labelledby="title desc">
   <title id="title">Named schools and learning milestones in three family lines</title>
-  <desc id="desc">Three family lanes show G.A.R., Coughlin, Berwick, Edison, Hayfield and Virginia Tech connections, with badges distinguishing yearbook evidence, obituary or memoir accounts, family reports and an alumni-index lead.</desc>
+  <desc id="desc">Three family lanes show G.A.R., Coughlin, Berwick, Edison, Hayfield and Virginia Tech connections, with badges distinguishing yearbook OCR, obituary or memoir accounts, family reports and an alumni-index lead.</desc>
   <rect width="1200" height="680" rx="26" fill="#f7f3eb"/>
   <text x="38" y="45" fill="#19373d" font-family="Arial,sans-serif" font-size="28" font-weight="700">Where did they learn?</text>
   <text x="38" y="73" fill="#526a6e" font-family="Arial,sans-serif" font-size="15">Shared schools, named campuses and later study · source type shown on each card</text>
@@ -30,9 +30,9 @@
 
   <g font-family="Arial,sans-serif" fill="#19373d">
     <text x="64" y="167" font-size="20" font-weight="700">G.A.R. Memorial High</text>
-    <text x="64" y="191" font-size="15">Hilda Kramer · class of 1940</text>
-    <text x="64" y="212" font-size="15">Ferdinand Louis Kramer</text>
-    <text x="64" y="233" font-size="12" fill="#197786">SHARED SCHOOL · TWO OBITUARIES</text>
+    <text x="64" y="191" font-size="15">Hilda · Commercial, 1940</text>
+    <text x="64" y="212" font-size="15">Ferdinand Louis · obituary</text>
+    <text x="64" y="233" font-size="12" fill="#197786">YEARBOOK OCR + OBITUARIES</text>
 
     <text x="441" y="167" font-size="20" font-weight="700">National Radio Institute</text>
     <text x="441" y="191" font-size="15">Ferdinand Louis · later study</text>
