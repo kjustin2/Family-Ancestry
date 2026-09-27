@@ -1,0 +1,29 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="760" viewBox="0 0 1200 760" role="img" aria-labelledby="title desc">
+  <title id="title">Six scenes from Paulene Miller's memories of her family</title>
+  <desc id="desc">Six themed cards summarize Paulene's family account: the planned name Paul, childhood near Berwick, cousins and neighbor play, the 1954 house and dinette story, the family's music, and the island cruise Paul sent Paulene and their mother on around 1999. These are attributed memories; a few approximate dates are supported by separate records, but the scenes have not all been independently verified.</desc>
+  <rect width="1200" height="760" rx="24" fill="#f7f3ea"/>
+  <rect x="0" y="0" width="12" height="760" fill="#a7773c"/>
+  <g font-family="Arial,sans-serif">
+    <text x="44" y="53" font-size="31" font-weight="700" fill="#3e342b">Paulene's family, in six remembered scenes</text>
+    <text x="44" y="82" font-size="17" fill="#695d52">Her memoir and family tributes make the Berwick household more than names and dates.</text>
+    <g fill="#fffdfa" stroke="#ded6c8" stroke-width="2">
+      <rect x="42" y="111" width="350" height="246" rx="17"/><rect x="425" y="111" width="350" height="246" rx="17"/><rect x="808" y="111" width="350" height="246" rx="17"/>
+      <rect x="42" y="378" width="350" height="246" rx="17"/><rect x="425" y="378" width="350" height="246" rx="17"/><rect x="808" y="378" width="350" height="246" rx="17"/>
+    </g>
+    <g font-size="15" font-weight="700" fill="#976c37"><text x="62" y="144">1941 · A NAME WITH A STORY</text><text x="445" y="144">CHILDHOOD · THE HOUSE</text><text x="828" y="144">BERWICK · THE NEIGHBORS</text><text x="62" y="411">c. 1954–56 · A NEW START</text><text x="445" y="411">LATER YEARS · THE BAND</text><text x="828" y="411">c. 1999 · AN ISLAND TRIP</text></g>
+    <g font-size="23" font-weight="700" fill="#3e342b"><text x="62" y="181">The name Paul</text><text x="445" y="181">Coal heat and care</text><text x="828" y="181">Cousins and play</text><text x="62" y="448">The first dinette</text><text x="445" y="448">Music kept going</text><text x="828" y="448">A gift from Paul</text></g>
+    <g font-size="16" fill="#554b43">
+      <text x="62" y="216">Her parents expected a boy and</text><text x="62" y="240">chose Paul. They called her</text><text x="62" y="264">Paulene; her younger brother</text><text x="62" y="288">later received the name.</text>
+      <text x="445" y="216">She recalled an outhouse, porch</text><text x="445" y="240">pump, kerosene lamps, and her</text><text x="445" y="264">mother's washing and cleaning</text><text x="445" y="288">work for others.</text>
+      <text x="828" y="216">Sunday dinners gathered kin.</text><text x="828" y="240">Aunt Peg taught children to</text><text x="828" y="264">drive stick shift; friends told</text><text x="828" y="288">ghost stories in a wheat field.</text>
+      <text x="62" y="483">Paulene and Marqueen pooled</text><text x="62" y="507">babysitting money to buy their</text><text x="62" y="531">parents a dinette after a move.</text><text x="62" y="555">The house-sale story is untested.</text>
+      <text x="445" y="483">Lester played mandolin and</text><text x="445" y="507">harmonica; Carl drummed and</text><text x="445" y="531">Fred Beach played bass, as</text><text x="445" y="555">grandson Michael recalled.</text>
+      <text x="828" y="483">Brother Paul sent his mother</text><text x="828" y="507">and Paulene on a cruise before</text><text x="828" y="531">their mother's 80th birthday.</text><text x="828" y="555">Mabel called it her best trip.</text>
+    </g>
+    <g font-size="13" font-weight="700" fill="#8b713f"><text x="62" y="332">PAULENE'S MEMOIR</text><text x="445" y="332">PAULENE'S MEMOIR</text><text x="828" y="332">PAULENE'S MEMOIR</text><text x="62" y="599">PAULENE'S MEMOIR</text><text x="445" y="599">MICHAEL BEACH'S 2022 ACCOUNT</text><text x="828" y="599">PAULENE'S MEMOIR</text></g>
+    <rect x="42" y="644" width="1116" height="65" rx="12" fill="#efe7d7"/>
+    <text x="62" y="670" font-size="15" font-weight="700" fill="#584b37">These are attributed family memories, not a claim that every scene has an independent document.</text>
+    <text x="62" y="694" font-size="14" fill="#695d52">The full story, dated records and the 1919–2008 context sit beside this visual on the Miller–Gower–Reese page.</text>
+    <text x="43" y="742" font-size="13" fill="#695d52">Sources: Paulene's Life Journey, Michael Beach's music account, and the birth/death records linked in branches/miller-gower-reese.md</text>
+  </g>
+</svg>

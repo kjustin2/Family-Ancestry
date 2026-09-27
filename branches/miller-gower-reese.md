@@ -46,6 +46,10 @@ A [transcribed 1995 *Press Enterprise* notice for Lee](https://jowest.net/Geneal
 
 ## Small stories Paulene preserved
 
+![Six cards organize Paulene's memories of naming, home life, neighbors, a dinette, music and a family cruise](../maps/paulene-miller-moments.svg)
+
+These scenes come from [Paulene's memoir](https://bhaven.org/paulene/life-journey) and [Michael Beach's music recollection](https://bhaven.org/mm-gang/harmonica-selections). The dates and record checks are below; the individual scenes remain attributed memories unless a separate record is named.
+
 | When, in her telling | The moment | Why it matters |
 | --- | --- | --- |
 | **1941** | Lester and Mabel expected a boy and had chosen **Paul**. When their second daughter arrived, they adapted the name to **Paulene**; she joked that she was named after her *younger* brother Paul, who received the intended name later. She also said a doctor misspelled her name on the certificate. | Explains Paulene's spelling and the name shared with Justin's grandfather. The certificate and the doctor's part of the story have not been checked. |

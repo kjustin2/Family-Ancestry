@@ -2,6 +2,10 @@
 
 The [family chart](../research/chart-transcription.md) names Magdalena Disque (born Germany, February 1844) as Matthew Kramer's wife and gives a line back through several Johann Ludwigs to Sebastian Disqué and Anna Barbara Schaaf. **This connecting chain is still chart-sourced.** The specialist [Palatinate miller-family history](https://www.eberhard-ref.net/pf%C3%A4lzisches-m%C3%BChlenlexikon/pf%C3%A4lzische-m%C3%BCllerfamilien/litera-d/) corroborates much of the earlier miller cluster, but does not independently connect it to Magdalena in Pennsylvania.
 
+![Palatinate mill events in one lane and two separate Pennsylvania migration accounts in another, with the missing Lena parent record shown between them](../maps/disque-mills-and-migration.svg)
+
+The selected mill events come from the [specialist history](https://www.eberhard-ref.net/pf%C3%A4lzisches-m%C3%BChlenlexikon/pf%C3%A4lzische-m%C3%BCllerfamilien/litera-d/) and its cited records; the later lanes compare the [1864 migration card](https://migration.pfalzgeschichte.de/person/98001) with [Matthew and Lena's 1900 census](../sources/records/kramer-matthew-lena-census-1900.jpg). The dashed gap is the missing proof that Lena belonged to the widow's family, not a documented voyage or inheritance chain.
+
 ## Documented stories
 
 **A ruined mill rebuilt.** A history drawing on a 1684 Landau council record says Johann Bernhard Disqué offered to rebuild the derelict Kindinger mill at Siebeldingen in return for a temporary break on water dues. Sebastian, identified as his son, became a master miller at Rinnthal. This shows skill and access to operating rights, not aristocratic rank. [Miller-family history](https://www.eberhard-ref.net/pf%C3%A4lzisches-m%C3%BChlenlexikon/pf%C3%A4lzische-m%C3%BCllerfamilien/litera-d/).

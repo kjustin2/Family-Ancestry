@@ -1,0 +1,33 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="700" viewBox="0 0 1200 700" role="img" aria-labelledby="title desc">
+  <title id="title">How far Ashley's four family paths reach toward an arrival date</title>
+  <desc id="desc">Four separate evidence cards compare the Weatherford, Smith and Mulhall, Hollinger and Straub, and Blevins paths. Each card states the earliest relevant clue, the unresolved link, and whether an exact immigration date is known. None has a verified exact arrival date for Ashley's direct line.</desc>
+  <rect width="1200" height="700" rx="24" fill="#f5f3ed"/>
+  <rect x="0" y="0" width="12" height="700" fill="#2b7180"/>
+  <g font-family="Arial,sans-serif">
+    <text x="44" y="54" font-size="31" font-weight="700" fill="#193841">When did Ashley's family reach America?</text>
+    <text x="44" y="83" font-size="17" fill="#53666a">Four paths have clues. None yet has a verified, exact overseas arrival date on the direct line.</text>
+    <g fill="#fffdfa" stroke="#d3dcd8" stroke-width="2">
+      <rect x="42" y="120" width="542" height="234" rx="17"/>
+      <rect x="616" y="120" width="542" height="234" rx="17"/>
+      <rect x="42" y="374" width="542" height="234" rx="17"/>
+      <rect x="616" y="374" width="542" height="234" rx="17"/>
+    </g>
+    <g font-size="15" font-weight="700"><text x="64" y="153" fill="#2b7180">PATERNAL · WEATHERFORD</text><text x="638" y="153" fill="#2b7180">MATERNAL · SMITH / MULHALL</text><text x="64" y="407" fill="#2b7180">PATERNAL · HOLLINGER / STRAUB</text><text x="638" y="407" fill="#2b7180">MATERNAL · BLEVINS</text></g>
+    <g font-size="23" font-weight="700" fill="#193841"><text x="64" y="187">Virginia by 1850</text><text x="638" y="187">Crossing window: c. 1843–50</text><text x="64" y="441">Arrival year disputed</text><text x="638" y="441">Older U.S. roots possible</text></g>
+    <g font-size="16" fill="#405c61">
+      <text x="64" y="220">Samuel and Jane are Virginia-born in</text><text x="64" y="243">an original Halifax County census.</text>
+      <text x="638" y="220">James Mulhall was born in Ireland;</text><text x="638" y="243">infant Michael was born in Virginia.</text>
+      <text x="64" y="474">Louisa Straub's censuses suggest</text><text x="64" y="497">1887, 1889 or 1895; death record</text><text x="64" y="520">reports France, censuses Germany.</text>
+      <text x="638" y="474">Gladys → William Howard is supported.</text><text x="638" y="497">Links to the colonial James Blevins</text><text x="638" y="520">candidates remain unproved.</text>
+    </g>
+    <g font-size="14" fill="#875e2d">
+      <text x="64" y="289">OPEN: Samuel's parents and the Asa/Thomas</text><text x="64" y="309">identity bridge; no immigrant identified.</text>
+      <text x="638" y="289">OPEN: James Mulhall → Ashley parent bridge;</text><text x="638" y="309">no Irish town, ship or passenger list.</text>
+      <text x="64" y="554">OPEN: passenger, naturalization and original</text><text x="64" y="574">birth record; origin is contested.</text>
+      <text x="638" y="554">OPEN: William Howard's parent record;</text><text x="638" y="574">older same-name men are not a chain.</text>
+    </g>
+    <rect x="42" y="626" width="1116" height="43" rx="11" fill="#e5eeeb"/>
+    <text x="62" y="654" font-size="16" font-weight="700" fill="#295961">A U.S. household or an immigrant candidate answers “where by then,” not “when did Ashley's ancestor arrive?”</text>
+    <text x="43" y="691" font-size="13" fill="#53666a">Source-by-source evidence and branch confidence: branches/ashley-immigration.md</text>
+  </g>
+</svg>
