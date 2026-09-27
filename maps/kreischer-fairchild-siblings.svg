@@ -1,6 +1,6 @@
 <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1320 710" role="img" aria-labelledby="title desc">
-  <title id="title">Two Williams, four siblings and Ruth's Fairchild marriage lead</title>
-  <desc id="desc">A 1915 biography links John Kreischer to Henry to William H. Senior, then names Ruth Elizabeth, William Henry, Richard Stuart and Mary Dorcas as William and Bertha's children. A burial listing strongly matches Ruth to a later Fairchild surname. A dashed identity link shows that William Henry born 1909 may be Shirley's father William H. Junior.</desc>
+  <title id="title">Two Williams, four siblings and Ruth's Fairchild household</title>
+  <desc id="desc">A 1915 biography links John Kreischer to Henry to William H. Senior, then names Ruth Elizabeth, William Henry, Richard Stuart and Mary Dorcas as William and Bertha's children. A daughter-naming Social Security index connects Ruth E. Kreischer to John A. and Elizabeth Anne Fairchild. A dashed identity link shows that William Henry born 1909 may be Shirley's father William H. Junior.</desc>
   <rect width="1320" height="710" rx="24" fill="#f8f5ef"/>
   <g font-family="Arial,sans-serif">
     <text x="38" y="47" fill="#193745" font-size="28" font-weight="700">Two Williams — and where Fairchild fits</text>
@@ -49,14 +49,14 @@
     <rect x="38" y="464" width="596" height="125" rx="15" fill="#f6eddc" stroke="#ba864b" stroke-width="2"/>
     <rect x="672" y="464" width="608" height="125" rx="15" fill="#e9eef6" stroke="#6d8ab4" stroke-width="2"/>
     <text x="55" y="495" fill="#875c31" font-size="17" font-weight="700">Ruth E. Kreischer Fairchild (1907–2005)</text>
-    <text x="55" y="523" fill="#193745" font-size="15">Derivative burial listing: Pine Grove Cemetery Annex, Berwick.</text>
-    <text x="55" y="550" fill="#516b79" font-size="14">Marriage record and husband's name still needed.</text>
+    <text x="55" y="523" fill="#193745" font-size="15">John A. + daughter Elizabeth Anne · 1940/1950 censuses</text>
+    <text x="55" y="550" fill="#516b79" font-size="14">Daughter's Social Security index names mother Ruth E. Kreischer.</text>
     <text x="689" y="495" fill="#466899" font-size="17" font-weight="700">William H. Jr. + Aletha Sponenberg</text>
     <text x="689" y="523" fill="#193745" font-size="15">1940 household → daughter Shirley Kreischer Raber.</text>
     <text x="689" y="550" fill="#516b79" font-size="14">A parent-naming record must confirm the 1909 match.</text>
     <rect x="38" y="609" width="1242" height="55" rx="11" fill="#e7ece8"/>
     <text x="54" y="631" fill="#193745" font-size="15" font-weight="700">If William Henry = William Jr., Ruth was Shirley's paternal aunt; Fairchild entered through marriage.</text>
     <text x="54" y="650" fill="#516b79" font-size="13">The earlier family memory of a Fairchild-born great-grandmother is a separate unresolved question.</text>
-    <text x="38" y="691" fill="#516b79" font-size="13">Sources: 1915 Columbia–Montour biography pp. 1204–05; 1940 Berwick census; Corey Kreischer obituary (2023); PeopleLegacy Ruth burial listing.</text>
+    <text x="38" y="691" fill="#516b79" font-size="13">Sources: 1915 county biography pp. 1204–05; 1940 + 1950 censuses; Elizabeth's Social Security index; Corey Kreischer obituary (2023).</text>
   </g>
 </svg>
