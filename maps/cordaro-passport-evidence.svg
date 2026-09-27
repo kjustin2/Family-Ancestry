@@ -1,34 +1,43 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="350" viewBox="0 0 1200 350" role="img" aria-labelledby="title desc">
-  <title id="title">Patricia Cordaro's documented ancestors and the separate passport lead</title>
-  <desc id="desc">Italian-born Anthony Cordaro and Pietra Magro are named as Joseph's parents in a 1938 marriage application. Joseph Cordaro and Dena Caucci are named as Patricia's parents in a 1962 application. Fred Kramer is Patricia's husband. An Onofrio Cordaro passport from Sutera has no proven link to these people.</desc>
-  <rect width="1200" height="350" rx="20" fill="#f7f3ec"/>
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="450" viewBox="0 0 1200 450" role="img" aria-labelledby="title desc">
+  <title id="title">The Cordaro family line from two Sicilian parent pairs to Patricia Kramer</title>
+  <desc id="desc">The 1899 Milocca marriage act names Antonio Cordaro's parents Giuseppe Cordaro and Maria Tona and Pietra Magro's parents Onofrio Magro and Carmela Di Prima. Pennsylvania applications connect Antonio and Pietra to Joseph Cordaro, and Joseph and Dena Caucci to Patricia Cordaro Kramer. The family passport's apparent Onofrio Cordaro remains unidentified.</desc>
+  <rect width="1200" height="450" rx="20" fill="#f7f3ec"/>
   <g font-family="Arial,sans-serif" fill="#25363b">
-    <text x="30" y="44" font-size="25" font-weight="700">Patricia Cordaro: three generations now linked</text>
-    <text x="30" y="70" font-size="15" fill="#526267">Solid arrows = relationships named in original marriage applications. The passport remains a separate lead.</text>
-    <rect x="30" y="100" width="260" height="125" rx="13" fill="#dceee9" stroke="#31847a" stroke-width="2"/>
-    <text x="48" y="126" font-size="14" font-weight="700" fill="#22675f">ITALY → PENNSYLVANIA</text>
-    <text x="48" y="157" font-size="18" font-weight="700">Anthony Cordaro</text>
-    <text x="48" y="181" font-size="18" font-weight="700">+ Pietra Magro</text>
-    <text x="48" y="207" font-size="13" fill="#465f5b">Italy-born · West Wyoming by 1920</text>
-    <rect x="338" y="100" width="265" height="125" rx="13" fill="#e7eeff" stroke="#6b7db2" stroke-width="2"/>
-    <text x="356" y="126" font-size="14" font-weight="700" fill="#53669c">1938 MARRIAGE RECORD</text>
-    <text x="356" y="157" font-size="18" font-weight="700">Joseph Cordaro</text>
-    <text x="356" y="181" font-size="18" font-weight="700">+ Dena Caucci</text>
-    <text x="356" y="207" font-size="13" fill="#535e7a">Dena's parents: Joseph + Anna</text>
-    <rect x="651" y="100" width="230" height="125" rx="13" fill="#fae8ce" stroke="#b77a2d" stroke-width="2"/>
-    <text x="669" y="126" font-size="14" font-weight="700" fill="#a0601b">1962 MARRIAGE RECORD</text>
-    <text x="669" y="157" font-size="18" font-weight="700">Patricia Cordaro</text>
-    <text x="669" y="181" font-size="18" font-weight="700">+ Fred Kramer</text>
-    <text x="669" y="207" font-size="13" fill="#66553e">Patricia born Kingston, 1940</text>
-    <rect x="929" y="100" width="241" height="125" rx="13" fill="#fff" stroke="#ab9d89" stroke-width="2" stroke-dasharray="7 5"/>
-    <text x="947" y="126" font-size="14" font-weight="700" fill="#9b642d">UNPLACED PASSPORT</text>
-    <text x="947" y="157" font-size="18" font-weight="700">Onofrio? Cordaro</text>
-    <text x="947" y="181" font-size="14">Sutera · c. 1878?</text>
-    <text x="947" y="207" font-size="13" fill="#675e55">Kinship and voyage unknown</text>
-    <path d="M290 162 H338 M603 162 H651" fill="none" stroke="#31847a" stroke-width="4"/>
-    <path d="M320 155 L338 162 L320 169 M633 155 L651 162 L633 169" fill="none" stroke="#31847a" stroke-width="4"/>
-    <text x="30" y="268" font-size="16" font-weight="700">What changed</text>
-    <text x="30" y="294" font-size="15">County marriage applications identify Patricia’s parents and Joseph’s parents; the 1920 census shows the Italy-born couple in Pennsylvania.</text>
-    <text x="30" y="320" font-size="14" fill="#526267">Sources and spelling variants: see the Cordaro page. Census arrival years still need passenger records.</text>
+    <text x="30" y="42" font-size="25" font-weight="700">Cordaro line: Sicilian records to Pennsylvania</text>
+    <text x="30" y="67" font-size="15" fill="#526267">Parent pairs come from the 1899 marriage act · American links come from original county applications</text>
+    <rect x="30" y="87" width="260" height="91" rx="12" fill="#e2efdc" stroke="#678c55" stroke-width="2"/>
+    <text x="46" y="111" font-size="13" font-weight="700" fill="#4b743f">ANTONIO'S PARENTS · SICILY</text>
+    <text x="46" y="139" font-size="17" font-weight="700">Giuseppe Cordaro</text>
+    <text x="46" y="164" font-size="17" font-weight="700">+ Maria Tona</text>
+    <rect x="326" y="87" width="276" height="91" rx="12" fill="#e2efdc" stroke="#678c55" stroke-width="2"/>
+    <text x="342" y="111" font-size="13" font-weight="700" fill="#4b743f">PIETRA'S PARENTS · SICILY</text>
+    <text x="342" y="139" font-size="17" font-weight="700">Onofrio Magro</text>
+    <text x="342" y="164" font-size="17" font-weight="700">+ Carmela Di Prima</text>
+    <path d="M160 178 V190 H180 V206 M464 178 V190 H180" fill="none" stroke="#678c55" stroke-width="3"/>
+    <rect x="30" y="207" width="260" height="125" rx="13" fill="#dceee9" stroke="#31847a" stroke-width="2"/>
+    <text x="48" y="233" font-size="14" font-weight="700" fill="#22675f">1899 MARRIAGE · MILOCCA</text>
+    <text x="48" y="264" font-size="18" font-weight="700">Antonio Cordaro</text>
+    <text x="48" y="288" font-size="18" font-weight="700">+ Pietra Magro</text>
+    <text x="48" y="314" font-size="13" fill="#465f5b">Sicily → Pennsylvania</text>
+    <rect x="338" y="207" width="265" height="125" rx="13" fill="#e7eeff" stroke="#6b7db2" stroke-width="2"/>
+    <text x="356" y="233" font-size="14" font-weight="700" fill="#53669c">1938 MARRIAGE RECORD</text>
+    <text x="356" y="264" font-size="18" font-weight="700">Joseph Cordaro</text>
+    <text x="356" y="288" font-size="18" font-weight="700">+ Dena Caucci</text>
+    <text x="356" y="314" font-size="13" fill="#535e7a">Dena's parents: Joseph + Anna</text>
+    <rect x="651" y="207" width="230" height="125" rx="13" fill="#fae8ce" stroke="#b77a2d" stroke-width="2"/>
+    <text x="669" y="233" font-size="14" font-weight="700" fill="#a0601b">1962 MARRIAGE RECORD</text>
+    <text x="669" y="264" font-size="18" font-weight="700">Patricia Cordaro</text>
+    <text x="669" y="288" font-size="18" font-weight="700">+ Fred Kramer</text>
+    <text x="669" y="314" font-size="13" fill="#66553e">Born Kingston, 1940</text>
+    <rect x="929" y="207" width="241" height="125" rx="13" fill="#fff" stroke="#ab9d89" stroke-width="2" stroke-dasharray="7 5"/>
+    <text x="947" y="233" font-size="14" font-weight="700" fill="#9b642d">UNPLACED PASSPORT</text>
+    <text x="947" y="264" font-size="18" font-weight="700">Onofrio? Cordaro</text>
+    <text x="947" y="288" font-size="14">Sutera · c. 1878?</text>
+    <text x="947" y="314" font-size="13" fill="#675e55">Kinship and voyage unknown</text>
+    <path d="M290 269 H338 M603 269 H651" fill="none" stroke="#31847a" stroke-width="4"/>
+    <path d="M320 262 L338 269 L320 276 M633 262 L651 269 L633 276" fill="none" stroke="#31847a" stroke-width="4"/>
+    <text x="30" y="374" font-size="16" font-weight="700">What the records establish</text>
+    <text x="30" y="401" font-size="15">The 1899 marriage act confirms both Italian parent pairs; 1938 and 1962 applications carry the line to Patricia.</text>
+    <text x="30" y="426" font-size="14" fill="#526267">Birth date discrepancy and passport identity remain open. See the Cordaro research page for each source.</text>
   </g>
 </svg>
