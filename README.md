@@ -32,7 +32,7 @@ An evidence-led map of Justin and Ashley's family history. **Research snapshot: 
 - [The families in their times](context/family-in-its-times.md): local events and carefully bounded migration explanations.
 - [Assets and work by generation](research/assets-by-generation.md): a visual record-coverage map and sourced ledger for each line, including what could explain the 1864 Disqué migration.
 - [Civil War across the family lines](context/civil-war-family-lines.md): the 1890 veterans schedule strongly links Gad Marshall Miller to the Union 171st Pennsylvania; Shubiel Blevins's Confederate lead and any direct encounter remain unproved.
-- [Regional family map](maps/ancestral-places.svg), [Colette Drive neighborhood map](maps/colette-neighborhood.svg), and [picture guide](media/README.md), with **1911 Danville textile workers**, a WWII Navy scene, eighteenth-century Virginia views and actual-relative photo leads.
+- [Regional family map](maps/ancestral-places.svg), [Colette Drive neighborhood map](maps/colette-neighborhood.svg), and [picture guide](media/README.md), with **1911 Danville textile workers**, a **1939 Halifax tobacco-town street**, a WWII Navy scene, eighteenth-century Virginia views and actual-relative photo leads.
 - [Kramer family-line diagram](maps/kramer-lineage.svg), [Kramer work timeline](maps/kramer-work.svg), and [Colette property assessment chart](maps/colette-assessments.svg).
 - [Source ledger](research/sources.md), [Monty source ledger](research/monty-sources.md), [chart transcription](research/chart-transcription.md), and [open questions](research/open-questions.md).
 

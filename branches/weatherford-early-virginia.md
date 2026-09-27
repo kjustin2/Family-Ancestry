@@ -27,6 +27,10 @@ The newly checked **1860 household fills the gap** between the 1857 William birt
 
 ## What was Halifax like?
 
+![A tobacco truck on South Boston's main street in Halifax County, photographed in 1939](../media/south-boston-tobacco-1939.jpg)
+
+*A [1939 Library of Congress photograph](https://www.loc.gov/item/2017802158/) shows the county's later tobacco market. It was made roughly **80 years after** Samuel and Jane's 1850 census. It is a picture of the regional economy's later life, **not** a view of their home or work. [Image credit and provenance](../media/README.md#halifax-county-tobacco-town-1939).*
+
 The [Virginia Department of Historic Resources' county survey](https://www.dhr.virginia.gov/pdf_files/SpecialCollections/HA-064_HalifaxCountySurvey_2008_HSPC_report.pdf#page=47) describes an agricultural county centered on tobacco in the 1850s, with corn and wheat also grown and the Richmond and Danville Railroad under construction. This is **regional context**, not proof that Samuel grew tobacco, owned land, enslaved people, or worked on the railroad. Their particular property, school access, and Civil War experience require individual records; the 1880 census index calls Samuel a farmer.
 
 The [1860 original sheet](https://www.familysearch.org/ark:/61903/3:1:33SQ-GBS6-94FN?view=index&personArk=%2Fark%3A%2F61903%2F1%3A1%3AM41H-SQF&action=view&cc=1473181&lang=en) calls the likely Asa an **overseer** and lists **$300 personal estate**. It does not name an employer, farm, workers, or a wage. An overseer's work could be tied to agriculture in this setting, but this entry alone does **not** establish that he enslaved anyone or worked on a particular plantation. The amount is not a net-worth estimate or evidence of an inheritance.

@@ -43,6 +43,12 @@ For the Weatherfords' **earlier Danville chapter**, Lewis Wickes Hine photograph
 
 [Library of Congress original and caption](https://www.loc.gov/item/2018676502/) · National Child Labor Committee collection, LC-DIG-nclc-02173. The catalog says **no known restrictions on publication**; this local JPG is the LOC's large service image, unaltered. Hine reported seeing children working there. George Ira Weatherford's **1940 draft card says “Danville Knitting Mills,”** but the works/mills names have not been proved to refer to one company. This is a **1911 place and labor image**, decades before his recorded job; **no pictured person is identified as a relative**. The image belongs with the [family's Danville timeline](../branches/weatherford.md#garnetts-brother-george-a-second-transit-and-military-story).
 
+### Halifax County tobacco town, 1939
+
+![A truck loaded with tobacco travels down South Boston's commercial street in 1939](south-boston-tobacco-1939.jpg)
+
+[Marion Post Wolcott's November 1939 photograph](https://www.loc.gov/item/2017802158/) shows a tobacco-laden truck on the main street of **South Boston, Halifax County**. Library of Congress FSA/OWI negative **LC-USF34-052900-D**; the catalog lists **no known restrictions on publication**. The JPG is the archive's large service image, unaltered. This is the county where the earlier Samuel–Jane and probable Asa–Julia Weatherford households were recorded **decades earlier**; it is **not their town, property or lifetime**, and no photographed person is identified as family. It shows how tobacco still shaped a nearby market during Garnett Sr.'s youth in the wider Danville region.
+
 ## Alexandria region, Virginia
 
 For the eighteenth-century setting, the [Virginia period-view gallery](../context/virginia-colonial-views.md) displays these archive images:
