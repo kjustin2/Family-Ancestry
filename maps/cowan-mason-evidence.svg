@@ -1,0 +1,32 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1140" height="520" viewBox="0 0 1140 520" role="img" aria-labelledby="title desc">
+  <title id="title">Nora Cowan's family across three generations of Virginia records</title>
+  <desc id="desc">Two upper branches show Isaac and Elizabeth Cowan as Jasper's parents in 1880 and Henry and Frances Mason as Mary's parents in an 1871 birth index and 1880 census. Jasper and Mary join below, then Nora, whose 1892 birth register names them both. Dates reported on later death certificates conflict with the birth entries.</desc>
+  <rect width="1140" height="520" fill="#f7f3e8"/>
+  <rect width="9" height="520" fill="#9c6335"/>
+  <g font-family="Segoe UI,Arial,sans-serif">
+    <text x="35" y="48" font-size="29" font-weight="700" fill="#183a50">Nora Cowan: the Virginia record chain</text>
+    <text x="35" y="77" font-size="16" fill="#50616a">A birth entry, two censuses, and death certificates connect the people below.</text>
+    <rect x="35" y="112" width="430" height="91" rx="12" fill="#fff" stroke="#d2dadb"/>
+    <text x="55" y="142" font-size="18" font-weight="700" fill="#183a50">Isaac G. + Elizabeth Cowan</text>
+    <text x="55" y="169" font-size="15" fill="#50616a">1880: Jasper named as their son</text>
+    <text x="55" y="190" font-size="13" fill="#50616a">Elizabeth's maiden name still open</text>
+    <rect x="675" y="112" width="430" height="91" rx="12" fill="#fff" stroke="#d2dadb"/>
+    <text x="695" y="142" font-size="18" font-weight="700" fill="#183a50">Henry T. + Frances Mason</text>
+    <text x="695" y="169" font-size="15" fill="#50616a">1871 birth index + 1880 household: Mary</text>
+    <text x="695" y="190" font-size="13" fill="#50616a">Frances's maiden name still open</text>
+    <path d="M250 203 V225 H355 V244 M890 203 V225 H785 V244" fill="none" stroke="#879aa1" stroke-width="3"/>
+    <rect x="155" y="244" width="400" height="99" rx="12" fill="#eaf2f0" stroke="#b8d3d0"/>
+    <text x="175" y="277" font-size="19" font-weight="700" fill="#096e70">Jasper Newton Cowan</text>
+    <text x="175" y="304" font-size="15" fill="#183a50">1900 farmer; 1942 certificate: mechanic</text>
+    <text x="175" y="327" font-size="13" fill="#50616a">1867 / 1869 birth reports disagree</text>
+    <rect x="585" y="244" width="400" height="99" rx="12" fill="#eaf2f0" stroke="#b8d3d0"/>
+    <text x="605" y="277" font-size="19" font-weight="700" fill="#096e70">Mary Ann Mason Cowan</text>
+    <text x="605" y="304" font-size="15" fill="#183a50">Died 14 Dec 1950, not tree's 1949</text>
+    <text x="605" y="327" font-size="13" fill="#50616a">1871 / 1872 birth reports disagree</text>
+    <path d="M555 294 H585 M570 294 V365 H570 V375" fill="none" stroke="#9c6335" stroke-width="3"/>
+    <rect x="314" y="375" width="512" height="82" rx="12" fill="#fff" stroke="#d2dadb"/>
+    <text x="338" y="407" font-size="19" font-weight="700" fill="#183a50">Nora J. Cowan → Hines</text>
+    <text x="338" y="433" font-size="15" fill="#50616a">Original birth register: 15 Aug 1892 · parents Jasper + Mary</text>
+    <text x="35" y="493" font-size="13" fill="#50616a">Sources: 1880 and 1900 censuses; Nora's 1892 birth register; Jasper's 1942 and Mary's 1950 death certificates. Later dates differ.</text>
+  </g>
+</svg>
