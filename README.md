@@ -4,7 +4,12 @@ An evidence-led map of Justin and Ashley's family history. **Research snapshot: 
 
 ## Start here
 
-For a quick visual route through the largest stories: [full family trees](context/full-family-trees.md) → [family places](context/geography-atlas.md) → [interactive timeline](explore/timeline.html). The new one-page views answer [Ashley's arrival question](maps/ashley-arrival-status.svg), show [the Disqué mill and migration gap](maps/disque-mills-and-migration.svg), and capture [Paulene's remembered scenes](maps/paulene-miller-moments.svg). Each is explained in its sourced branch page.
+For a quick visual route: **[ten family-line timelines](explore/line-timelines.html)** → [full family trees](context/full-family-trees.md) → [family places](context/geography-atlas.md) → [detailed interactive timeline](explore/timeline.html). Each moment links to the sourced branch page; unproved links are marked. The one-page views also answer [Ashley's arrival question](maps/ashley-arrival-status.svg), show [the Disqué mill and migration gap](maps/disque-mills-and-migration.svg), and capture [Paulene's remembered scenes](maps/paulene-miller-moments.svg).
+
+<details>
+<summary><strong>Browse every branch, map, source and research guide</strong> (all existing links preserved)</summary>
+
+- [Visual timelines for each family line](explore/line-timelines.html): ten compact, clickable lanes lead into the detailed stories and records.
 
 - [Explore the full family trees](context/full-family-trees.md): four readable, evidence-marked views follow the Kramer/Cordaro, Miller/Sponenberg, Weatherford/Morrison and Smith/Blevins lines through as many linked generations as the research permits. Dashed links show the specific gaps.
 - [Explore the interactive family timeline](explore/timeline.html): filter family lines and centuries, then open events for people, places, evidence and unresolved questions. Open the HTML file in a browser. The [full research timeline](timeline.md) has more detail.
@@ -26,6 +31,7 @@ For a quick visual route through the largest stories: [full family trees](contex
 - [Florence's Morrison–Hollinger household](branches/morrison-hollinger.md): a [three-record diagram](maps/morrison-indiana-evidence-1900-1920.svg) tests Roscoe's probable Indiana grandparents and shows their 1900 farm and schooling entries; other originals trace the family through Fairfax, with the 1954 marriage-age conflict kept visible.
 - [Monty's corgi family](branches/monty.md): his AKC certificate, birth and sire timeline, known parents and proposed older paternal line, with an [evidence-marked pedigree](maps/monty-pedigree.svg).
 - [Deep Blevins research](branches/blevins-deep-lineage.md): original 1850–1900 households, Ada's named Thompson relatives, Shubiel's veteran headstone application, and the remaining [ancestry gap](maps/blevins-deep-lineage.svg).
+- [Westerly / Rhode Island Blevins lead](branches/blevins-rhode-island-lead.md): 1691 family account, 1771 Virginia land-claim transcript and a separate DNA comparison, with a [visual of the missing Ashley links](maps/blevins-rhode-island-evidence.svg).
 - [James Blevins and early Virginia settlement](branches/blevins-colonial-james.md): hunters on Smith River, the Peach Bottom land case, and a [timeline that separates the different James men](maps/blevins-early-settlement.svg).
 - [Virginia in the 1740s: period views](context/virginia-colonial-views.md): a **1740–70 Williamsburg etching**, near-contemporary regional map, surviving Goochland outbuilding, and Alexandria's original town plan, each labeled by date and evidence limit.
 - [James Blevins, Revolutionary pensioner](branches/blevins-revolutionary-james.md): his own 1832 migration and service account, with an [evidence-marked route](maps/blevins-revolutionary-james.svg); his connection to Ashley remains unproved.
@@ -49,6 +55,8 @@ For a quick visual route through the largest stories: [full family trees](contex
 - [Regional family maps](context/geography-atlas.md), [Colette Drive neighborhood map](maps/colette-neighborhood.svg), and [picture guide](media/README.md), with **1911 Danville textile workers**, a **1939 Halifax tobacco-town street**, a WWII Navy scene, eighteenth-century Virginia views and actual-relative photo leads.
 - [Kramer family-line diagram](maps/kramer-lineage.svg), [Kramer work timeline](maps/kramer-work.svg), and [Colette property assessment chart](maps/colette-assessments.svg).
 - [Source ledger](research/sources.md), [Monty source ledger](research/monty-sources.md), [chart transcription](research/chart-transcription.md), and [open questions](research/open-questions.md).
+
+</details>
 
 ![European family places from Ireland through Germany to Sicily, with distinct evidence labels](maps/europe-family-places-preview.png)
 

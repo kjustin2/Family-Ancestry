@@ -2,6 +2,12 @@
 
 These are saved copies for reading alongside the [interactive timeline](../../explore/timeline.html). The original source link and the limit of each identification stay with the image. A record image depicts a document, **not** the person named in it.
 
+### Rhode Island Blevins research lead
+
+<a href="edward-bliven-profile-cutter-1915-p42.jpg"><img src="edward-bliven-profile-cutter-1915-p42.jpg" alt="1915 New England Families page with Edward Bliven of Westerly profile" width="310"></a>
+
+[LOC public scan, PDF p. 56](https://tile.loc.gov/storage-services/master/gdc/gdcebookspublic/17/00/38/95/17003895/17003895.pdf#page=56) · William R. Cutter, *New England Families* (1915), printed p. 42. The saved full-page scan is a **published retrospective family profile** naming Edward Bliven, Isabel Maccoon and a 1691 Westerly marriage. It is **not** a portrait, marriage original, immigrant manifest, or proved ancestor of Ashley. [Evidence and missing bridges](../../branches/blevins-rhode-island-lead.md).
+
 | Year | Image | What to look for |
 | --- | --- | --- |
 | **1850–70, Daniel Blevins household** | [1850 Ashe census](daniel-elizabeth-blevins-census-1850.jpg) · [1860 Alleghany p. 85](daniel-elizabeth-blevins-census-1860-page85.jpg) and [continuation p. 86](daniel-elizabeth-blevins-census-1860-page86.jpg) · [1870 Alleghany census](daniel-elizabeth-blevins-census-1870.jpg) · [FamilySearch 1850 viewer](https://www.familysearch.org/ark:/61903/3:1:S3HY-6QB3-SBM?view=index&personArk=%2Fark%3A%2F61903%2F1%3A1%3AM4BQ-XPM&action=view&lang=en) | Shubel is **6 in 1850** and **12 on the 1860 continuation** of Daniel and Elizabeth's household; the ages conflict. Daniel is listed as a farmer, with **$600 real estate** in 1850, **$150 personal estate** and a blank real-estate cell in 1860, then **$200 real estate** in a matching 1870 household. These are different nominal census fields, not a wealth trajectory. [Analysis](../../branches/blevins-deep-lineage.md#daniels-farm-household-and-adas-kin). |
