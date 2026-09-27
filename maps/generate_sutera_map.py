@@ -1,4 +1,4 @@
-"""Map the passport's Sutera place without implying a migration route."""
+"""Map the Cordaro records' nearby Sicilian places without implying a voyage."""
 
 import html
 import json
@@ -42,19 +42,21 @@ def main():
     italy_bounds, italy_box = (6, 35.7, 19, 47.6), (90, 150, 440, 465)
     sicily_bounds, sicily_box = (12.2, 36.45, 15.85, 38.55), (635, 155, 485, 440)
     sutera = (13.7313165, 37.5252277)  # OpenStreetMap relation 39258, approximate center.
+    milocca = (13.73644, 37.47152)  # OpenStreetMap node 67254012: present Milena center.
     caltanissetta = (14.0632840, 37.4902628)  # OpenStreetMap relation 39221.
     palermo = (13.3524434, 38.1112268)  # OpenStreetMap relation 39513.
     sx, sy = project(*sutera, sicily_bounds, sicily_box)
+    mx, my = project(*milocca, sicily_bounds, sicily_box)
     cx, cy = project(*caltanissetta, sicily_bounds, sicily_box)
 
     parts = [
         '<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="800" viewBox="0 0 1200 800" role="img" aria-labelledby="title desc">',
-        '<title id="title">Where Sutera sits in Italy and Sicily</title>',
-        '<desc id="desc">Italy overview and Sicily close-up. Sutera, named on the family passport, is inland in Caltanissetta province. Palermo and Caltanissetta city are orientation markers only. The family portrait location and any route to America are unknown.</desc>',
+        '<title id="title">Sutera and Milocca in Sicily</title>',
+        '<desc id="desc">Italy overview and Sicily close-up. Sutera is named in the family passport; the 1878 Antonio Cordaro birth act names nearby Milocca, now Milena. Palermo and Caltanissetta city are orientation markers only. No migration route is established.</desc>',
         '<style>text{font-family:Segoe UI,Arial,sans-serif;fill:#20354a}.title{font-size:30px;font-weight:700}.head{font-size:19px;font-weight:700}.label{font-size:17px;font-weight:650}.small{font-size:13px;fill:#536a78}.sea{fill:#eaf4f6}.land{fill:#d9e6dc;stroke:#89a69b;stroke-width:2;stroke-linejoin:round}.sicily{fill:#e9be77;stroke:#b97634;stroke-width:2;stroke-linejoin:round}.line{stroke:#ad512c;stroke-width:2;fill:none}</style>',
         '<rect width="1200" height="800" fill="#f3f7f5"/>',
-        '<text x="50" y="55" class="title">Sutera: the place named in the Cordaro passport</text>',
-        '<text x="50" y="82" class="small">Two scales make the inland Sicilian setting visible • no voyage or portrait location is established</text>',
+        '<text x="50" y="55" class="title">Sutera and Milocca: two names in the Cordaro records</text>',
+        '<text x="50" y="82" class="small">Milocca was a Sutera hamlet in 1878; it became the town of Milena • no voyage is established</text>',
         '<rect x="48" y="115" width="520" height="530" rx="18" fill="#fbfdfc" stroke="#d8e6e4" stroke-width="2"/>',
         '<rect x="600" y="115" width="552" height="530" rx="18" fill="#fbfdfc" stroke="#d8e6e4" stroke-width="2"/>',
         '<text x="70" y="145" class="head">Italy</text>',
@@ -78,10 +80,15 @@ def main():
     parts.append(f'<path d="M {sx:.1f},{sy:.1f} L 785,336" class="line"/>')
     parts.append('<text x="684" y="323" class="label">Sutera</text>')
     parts.append('<text x="684" y="342" class="small">Passport: birthplace and residence</text>')
+    parts.append(pin(*milocca, sicily_bounds, sicily_box, "#3b7190", 7))
+    parts.append(f'<path d="M {mx:.1f},{my:.1f} L 930,512" stroke="#3b7190" stroke-width="2" fill="none"/>')
+    parts.append('<text x="932" y="519" class="label">Milocca / Milena</text>')
+    parts.append('<text x="932" y="538" class="small">Antonio’s 1878 birth act</text>')
     parts.extend([
         '<rect x="48" y="667" width="1104" height="83" rx="14" fill="#e4ede8"/>',
         '<circle cx="72" cy="692" r="7" fill="#a84324"/><text x="90" y="697" class="small">Family document: Sutera</text>',
-        '<circle cx="315" cy="692" r="6" fill="#698a9b"/><text x="332" y="697" class="small">Orientation cities only</text>',
+        '<circle cx="315" cy="692" r="7" fill="#3b7190"/><text x="332" y="697" class="small">Original birth act: Milocca</text>',
+        '<circle cx="585" cy="692" r="6" fill="#698a9b"/><text x="602" y="697" class="small">Orientation cities only</text>',
         '<text x="72" y="729" class="small">The portrait was not located here; the passport alone does not document an Atlantic crossing.</text>',
         '<text x="50" y="783" class="small">Outline: Natural Earth 1:50m (public domain). Approximate centers: © OpenStreetMap contributors (ODbL). Not a historical map.</text>',
         '</svg>',
