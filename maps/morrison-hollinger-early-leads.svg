@@ -1,0 +1,28 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1060 380" role="img" aria-labelledby="title desc">
+<title id="title">Two earlier trails for Florence Morrison's parents</title>
+<desc id="desc">Roscoe Gordon Morrison's 1920 marriage and 1942 draft registration are linked by his full name and parent pair. Three censuses follow a candidate Eleanor Hollinger household from 1910 through 1930. A dashed line marks the unproved identity link from that household to Eleanor Mae Hollinger Morrison.</desc>
+<rect width="1060" height="380" fill="#f7f4ed"/>
+<rect x="0" width="11" height="380" fill="#137a7b"/>
+<g font-family="Arial,sans-serif">
+ <text x="38" y="47" font-size="28" font-weight="700" fill="#18313c">Before Florence: two record trails</text>
+ <text x="38" y="77" font-size="16" fill="#53646b">Solid = the same named person across records · Dotted = identity still needs a bridge</text>
+ <text x="42" y="136" font-size="20" font-weight="700" fill="#18313c">Roscoe</text>
+ <line x1="180" y1="129" x2="838" y2="129" stroke="#137a7b" stroke-width="5"/>
+ <circle cx="260" cy="129" r="9" fill="#137a7b"/><circle cx="505" cy="129" r="9" fill="#137a7b"/><circle cx="756" cy="129" r="9" fill="#137a7b"/>
+ <text x="216" y="108" font-size="16" fill="#18313c">1920 · Detroit marriage</text>
+ <text x="461" y="164" font-size="16" fill="#18313c">1942 · draft card</text>
+ <text x="709" y="108" font-size="16" fill="#18313c">1947 · Virginia death</text>
+ <text x="42" y="237" font-size="20" font-weight="700" fill="#18313c">Eleanor?</text>
+ <line x1="180" y1="230" x2="725" y2="230" stroke="#aa7444" stroke-width="5"/>
+ <circle cx="260" cy="230" r="9" fill="#aa7444"/><circle cx="505" cy="230" r="9" fill="#aa7444"/><circle cx="725" cy="230" r="9" fill="#aa7444"/>
+ <text x="219" y="207" font-size="16" fill="#18313c">1910 · child</text>
+ <text x="467" y="266" font-size="16" fill="#18313c">1920 · daughter</text>
+ <text x="686" y="207" font-size="16" fill="#18313c">1930 · daughter</text>
+ <line x1="738" y1="230" x2="838" y2="230" stroke="#aa7444" stroke-width="4" stroke-dasharray="9 8"/>
+ <rect x="838" y="190" width="194" height="82" rx="9" fill="#fff" stroke="#aa7444" stroke-width="2"/>
+ <text x="851" y="220" font-size="16" font-weight="700" fill="#18313c">Eleanor Mae</text>
+ <text x="851" y="243" font-size="14" fill="#53646b">Florence's mother</text>
+ <rect x="37" y="306" width="986" height="47" rx="8" fill="#e7efed"/>
+ <text x="53" y="335" font-size="15" fill="#254b4b">The possible German-born Louise is in the lower trail; her link to Ashley remains unproved.</text>
+</g>
+</svg>
