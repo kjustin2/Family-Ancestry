@@ -37,6 +37,14 @@ Former Knittelsheim mill, photographed **2 September 2026** by **Achim Lammerts*
 
 ## Alexandria region, Virginia
 
+For the eighteenth-century setting, the [Virginia period-view gallery](../context/virginia-colonial-views.md) displays three more local copies:
+
+- **1755 Fry–Jefferson map**, [Library of Congress Geography and Map Division](https://www.loc.gov/item/74693089/), downloaded at 25% of the archive scan. The LOC item is free to reuse with no rights advisory. This is a regional map from **after** James Blevin's Goochland deeds, not a family parcel map.
+- **1749 plan of Alexandria/Belhaven**, [Library of Congress Geography and Map Division](https://www.loc.gov/item/98687108/), downloaded at 25% of the archive scan. The LOC item is free to reuse with no rights advisory. It shows planned lots in the riverside town, not the family's later Fairfax homes.
+- **Tuckahoe small outbuilding**, photographed **April 1936** by **Frances Benjamin Johnston**, Carnegie Survey of the Architecture of the South, [Library of Congress Prints and Photographs Division](https://www.loc.gov/item/2017890613/). LOC states **no known restrictions on publication**. The catalog calls this a small frame outbuilding with brick ends on the Tuckahoe property; its exact survival/alterations since the 1700s are unverified. It is an elite plantation scene, not a Blevin property.
+
+These archive copies were downloaded without color changes or cropping. Their item pages supply the full-size originals and catalog descriptions.
+
 ![Generated map of the known Colette Drive area in Franconia](../maps/colette-neighborhood-preview.png)
 
 The [neighborhood map](../maps/colette-neighborhood.svg) shows current Fairfax County roads and approximate markers for the **Colette Drive Weatherford home** and two **Miller Drive grandparents' homes**. It is generated from [Fairfax County GIS roads](https://services1.arcgis.com/ioennV6PpG5Xodq0/arcgis/rest/services/OpenData_A1/FeatureServer/0) and [Census Geocoder](https://geocoding.geo.census.gov/geocoder/) address points. [County historic aerials](https://www.fairfaxcounty.gov/maps/aerial-photography) can illustrate neighborhood change across decades.

@@ -41,7 +41,7 @@
 
 The memoir scenes are paraphrased from [Paulene's *Life Journey*](https://bhaven.org/paulene/life-journey); the 1983–84 row comes from her dated journal posts. The memoir's original writing date is unknown; her son posted it in **2024**. Years inferred from her account are labeled estimates.
 
-**Carl's death account:** Paulene says he collapsed at work from a heart attack and reports Agent Orange exposure. These details have not been checked against a death certificate or service/medical file. The candidate burial entry supports a Vietnam-era Army classification for a same-name Berwick man; it does not establish a deployment, exposure or cause of death. [Memoir](https://bhaven.org/paulene/life-journey) · [burial index](https://www.interment.net/united-states/pennsylvania/veterans-burials/records.php?page=1482).
+**Carl's death account:** Paulene says he collapsed at work from a heart attack and reports Agent Orange exposure. These details have not been checked against a death certificate or service/medical file. The candidate burial entry supports a Vietnam-era Army classification for a same-name Berwick man; it does not establish a deployment, exposure or cause of death. [Evidence check against VA's qualifying locations and heart-disease rules](../research/carl-miller-agent-orange.md) · [memoir](https://bhaven.org/paulene/life-journey) · [burial index](https://www.interment.net/united-states/pennsylvania/veterans-burials/records.php?page=1482).
 
 ## What life looked like
 

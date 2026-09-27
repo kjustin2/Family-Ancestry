@@ -2,6 +2,8 @@
 
 ![Evidence timeline separating the early James Blevins sightings](../maps/blevins-early-settlement.svg)
 
+[See period maps and a photographed Goochland building](../context/virginia-colonial-views.md) to picture the region while keeping the 1730s–50s records and later photographs distinct.
+
 **What did James do?** Original land records show a James acquiring two Goochland tracts in **1737** and selling them in the **1740s**. A later [county history](https://www.seekingmyroots.com/members/files/H011596.pdf) (p. 44) describes **James and Daniel Blevin as hunters** with homes on the **Smith River** and says an early surveyor mentioned their **wagon road**. Clement's [abbreviated history](https://www.victorianvilla.com/sims-mitchell/local/clement/mc/abb/04.htm) also says a James received permission for a **Leatherwood Creek mill** in **1749**. An [1805 lawsuit abstract](https://yanceyfamilygenealogy.org/KenShirleyGenealogyBooks/blevins.pdf#page=168) places a James on a **Peach Bottom** tract in **1772–1801**. **These could be different men; none is yet proved to be Ashley's ancestor.**
 
 | Date | Sighting and what it tells us | Identity limit |
