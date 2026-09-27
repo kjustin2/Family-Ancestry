@@ -2,6 +2,8 @@
 
 ## Story diagrams
 
+- [Family education trail](family-education-trail.svg) ([PNG preview](family-education-trail-preview.png)) groups the named schools and learning milestones in three branches. Shared G.A.R. and Virginia Tech connections stand out, while card captions distinguish yearbook, obituary, memoir and family-account evidence. [Person-by-person source guide](../context/education-across-generations.md).
+
 - [Kramer lineage](kramer-lineage.svg) gives each of the three Ferdinand generations a stable label; the 1900 and 1930 census links are solid, while the 1913-to-Fred identity match is dashed.
 - [Baden Kramer candidate](kramer-baden-candidate.svg) sets the **1840 Unadingen birth** and **1878 memorial notice** beside three Wilkes-Barre censuses; a dotted link and birthplace labels show exactly what is still unproved. [Evidence page](../branches/kramer-baden-candidate.md).
 - [Matthew and Lena's children](kramer-children-1900.svg) combines the nine distinct child names across two censuses and flags the tentative Marcus reading and two unnamed deaths. [Sibling guide](../branches/kramer-eleven-children.md).
