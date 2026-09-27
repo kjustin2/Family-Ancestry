@@ -88,6 +88,13 @@ These are saved copies for reading alongside the [interactive timeline](../../ex
 | **1885, Phelps land auction** | [Ann's report, page 1](robert-phelps-land-sale-report-1885-page1.jpg) · [original](https://www.familysearch.org/ark:/61903/3:1:33SQ-GRVS-QQJ?view=index&cc=1911121&lang=en); [page 2](robert-phelps-land-sale-report-1885-page2.jpg) · [original](https://www.familysearch.org/ark:/61903/3:1:33SQ-GRVS-QVQ?view=index&cc=1911121&lang=en) | Reports a **12 December** Milton public auction of interests in three lots and **85 acres** remaining after the widow's dower. Winning bids total **$1,562.50**. This supplies the actual sale event following the earlier petition; final deeds and each heir's share still need checking. |
 | **1885, Phelps minor heirs** | [Ann's guardian application](phelps-minor-heirs-guardian-petition-1885.jpg) · [original](https://www.familysearch.org/ark:/61903/3:1:33S7-9RVS-Q4S?view=index&cc=1911121&lang=en) | Names eight minor children in the estate case and asks for a guardian ad litem. One daughter's initials vary across these documents and the later marriage register. |
 
+## Alice Mulhall's earlier Washington household
+
+| Original | What it establishes |
+| --- | --- |
+| [1900 Mulhall census](mulhall-dc-household-census-1900.jpg) · [FamilySearch viewer](https://www.familysearch.org/ark:/61903/3:1:S3HY-DK5S-QG2?view=index&personArk=%2Fark%3A%2F61903%2F1%3A1%3AMMFH-41R&action=view&cc=1325221&lang=en) | Sheet 19B, lines 72–77: John and Margaret with Eliza, Mary, John T. and Alice. Both adults DC-born, all four parents Ireland-born. John a brass molder; home rented. Alice's handwritten age is **five**, while the index says six. |
+| [1910 Mulhall census](mulhall-dc-household-census-1910.jpg) · [FamilySearch viewer](https://www.familysearch.org/ark:/61903/3:1:33SQ-GRK3-KHB?view=index&personArk=%2Fark%3A%2F61903%2F1%3A1%3AMKL6-BW1&action=view&cc=1727033&lang=en) | Sheet 2B, lines 75–79: John, Margaret, Mary, John Jr. and Alice. John now a District water-department foreman. The Irish-born parent reports repeat; John's **38** in the online index conflicts with the older original. [Lineage and limits](../../branches/smith-mulhall-corbett.md). |
+
 ## A person, not just paperwork
 
 ![Undated portrait tagged as Hilda Kramer Wolosz](../family/hilda-kramer-wolosz-portrait-undated.jpg)
