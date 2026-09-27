@@ -10,6 +10,12 @@ The [compact faces and places gallery](../context/faces-and-places.md) brings se
 - [Sutera passport page](../sources/family/italian-passport-details.jpg) and [cover](../sources/family/italian-passport-cover.jpg): photographs of a family-held Italian passport with a provisional Cordaro Onofrio reading. Its bearer has not yet been tied by records to a named Kramer grandmother.
 - [Mounted soldier portrait attributed to Legrant Sponenberg](../sources/family/legrant-sponenberg-mounted-portrait-attributed.jpg): a Berwick studio portrait [shared by a family contributor](https://jowest.net/Genealogy/John/Christian/LegrantSponenbergCivilWar.htm). The rider is identified by that contributor, not by a visible name on the image. A [family Bible](../sources/records/hannah-sponenberg-family-bible-births.jpg) and [original cavalry roll](../sources/records/legrant-sponenberg-16th-cavalry-register-1862.jpg) separately support Legrant's kinship and service; they do not authenticate the likeness.
 
+## Technical training in Ferdinand Louis's era
+
+<a href="national-radio-institute-ad-1926.jpg"><img src="national-radio-institute-ad-1926.jpg" alt="1926 Amazing Stories advertisement for National Radio Institute radio home study" width="320"></a>
+
+The [Wikimedia Commons file page](https://commons.wikimedia.org/wiki/File:Amazing_Stories_v01_n01_front_cover_National_Radio_Institute.jpg) identifies this as the **inside front cover of *Amazing Stories*, April 1926, volume 1, number 1**. Commons contributor **AdamBMorgan** extracted and cropped it from the digitized issue; the advertisement's original creator is unknown. Commons marks the U.S. publication **public domain in the United States**. The local JPG is the Commons 1,200 × 1,650 file, unaltered here. Its coupon offers NRI training **at home**, so the institute's Washington, D.C. address in [Ferdinand Louis Kramer's obituary](../sources/records/ferdinand-louis-kramer-obituary-1976.jpg) does not establish that he attended in person. His course and dates are unknown. Its weekly-pay figures are sales claims, **not his wages**.
+
 ## A Navy scene from Garnett Sr.'s era
 
 ![1945 USS Wileman sailors celebrating Japan's acceptance of surrender terms; no sailor is identified as Garnett Weatherford](wwii-pacific-navy-vj-day.jpg)
