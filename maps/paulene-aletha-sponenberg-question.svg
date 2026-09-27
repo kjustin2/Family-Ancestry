@@ -1,0 +1,38 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1240" height="570" viewBox="0 0 1240 570" role="img" aria-labelledby="title desc">
+  <title id="title">Do Paulene's Sponenberg playmates join Aletha's line?</title>
+  <desc id="desc">Aletha's 1915 biography traces her to Daniel Sponenberg. Dale's obituary names his brother Richard and father Lee; Lee's transcribed obituary names his father Harry. A cemetery contributor proposes Harry's father Philip, and a researcher tree proposes Philip's father George. The same researcher explicitly marks George's possible brotherhood with Daniel as unproved.</desc>
+  <rect width="1240" height="570" rx="22" fill="#f7f3ec"/>
+  <g font-family="Arial,sans-serif" fill="#243b43">
+    <text x="38" y="50" font-size="29" font-weight="700">Paulene's playmates and Aletha: same wider family?</text>
+    <text x="38" y="78" font-size="16" fill="#5b6d70">The names match a Berwick household; the older genealogical join remains open.</text>
+    <rect x="35" y="105" width="555" height="399" rx="16" fill="#e6f0ee" stroke="#51917c" stroke-width="2"/>
+    <rect x="650" y="105" width="555" height="399" rx="16" fill="#e9edf7" stroke="#6e82b0" stroke-width="2"/>
+    <text x="61" y="139" font-size="17" font-weight="700" fill="#356e5c">ALETHA'S LINE · 1915 PROFILE + LATER RECORDS</text>
+    <text x="676" y="139" font-size="17" font-weight="700" fill="#4b6295">PAULENE'S LIKELY NEIGHBORS · OBITUARIES</text>
+    <rect x="62" y="161" width="500" height="55" rx="9" fill="#fffefa" stroke="#a8c7bb"/>
+    <text x="81" y="195" font-size="21" font-weight="700">Daniel Sponenberg · born 1803</text>
+    <path d="M312 216 V234" stroke="#51917c" stroke-width="3"/>
+    <rect x="62" y="235" width="500" height="55" rx="9" fill="#fffefa" stroke="#a8c7bb"/>
+    <text x="81" y="269" font-size="21" font-weight="700">John Leonard Sponenberg</text>
+    <path d="M312 290 V308" stroke="#51917c" stroke-width="3"/>
+    <rect x="62" y="309" width="500" height="55" rx="9" fill="#fffefa" stroke="#a8c7bb"/>
+    <text x="81" y="343" font-size="21" font-weight="700">Edward J. Sponenberg</text>
+    <path d="M312 364 V382" stroke="#51917c" stroke-width="3"/>
+    <rect x="62" y="383" width="500" height="55" rx="9" fill="#fffefa" stroke="#a8c7bb"/>
+    <text x="81" y="417" font-size="21" font-weight="700">Aletha Fae Sponenberg</text>
+    <rect x="677" y="161" width="500" height="55" rx="9" fill="#fffefa" stroke="#aab9d3" stroke-dasharray="6 4"/>
+    <text x="696" y="195" font-size="21" font-weight="700">George Sponenberg · born c. 1811?</text>
+    <path d="M927 216 V234" stroke="#6e82b0" stroke-width="3" stroke-dasharray="6 5"/>
+    <rect x="677" y="235" width="500" height="55" rx="9" fill="#fffefa" stroke="#aab9d3" stroke-dasharray="6 4"/>
+    <text x="696" y="269" font-size="21" font-weight="700">Philip E. Sponenberg · born c. 1838</text>
+    <path d="M927 290 V308" stroke="#6e82b0" stroke-width="3" stroke-dasharray="6 5"/>
+    <rect x="677" y="309" width="500" height="55" rx="9" fill="#fffefa" stroke="#aab9d3"/>
+    <text x="696" y="343" font-size="21" font-weight="700">Harry E. → Lee A. Sponenberg</text>
+    <path d="M927 364 V382" stroke="#6e82b0" stroke-width="3"/>
+    <rect x="677" y="383" width="500" height="55" rx="9" fill="#fffefa" stroke="#aab9d3"/>
+    <text x="696" y="417" font-size="21" font-weight="700">Richard + Dale Sponenberg</text>
+    <path d="M562 188 H677" stroke="#bb765d" stroke-width="3" stroke-dasharray="7 6"/>
+    <rect x="35" y="519" width="1170" height="34" rx="9" fill="#fffefa" stroke="#dfd3c2"/>
+    <text x="52" y="542" font-size="15" fill="#8b513f">Dashed = derivative or unproved relationship. Daniel ↔ George as brothers is only a research hypothesis, so no cousin degree is assigned.</text>
+  </g>
+</svg>

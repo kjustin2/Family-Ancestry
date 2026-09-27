@@ -27,6 +27,8 @@ The profile describes Edward as especially well known in Berwick through his sto
 
 It also lists **nine children** of Daniel and Hannah Sponenberg: **James, Mary Jane, Alexander, Fannie M., Legrand, Abraham, Mahala, John Leonard and Dorcas D.** Alexander and Abraham reportedly died young. The profile gives John Leonard and Emma Hartman **two children**, **Edward J.** and **Margaret**. The [family Bible](../sources/records/hannah-sponenberg-family-bible-births.jpg) independently names John Leonard and Legrand in Daniel and Hannah's household; the other listed sibling relationships still need household or vital-record checks.
 
+Paulene Miller Beach separately remembered **Richard and Dale “Spoonenberg”** as childhood neighbors in Berwick. Their [likely household and the unproved possible link to Aletha's line](miller-gower-reese.md#were-the-neighborhood-sponenbergs-related-to-aletha) are shown side by side; shared surname and town alone do not establish a cousin relationship.
+
 ## Berwick work and a home
 
 The [printed 1915 biography, page 807](../sources/records/edward-sponenberg-biography-1915-187.jpg) says **Daniel** had common-school education, worked as a canal and bridge contractor in the late 1820s, then farmed. A [contemporary canal commissioners' table, printed page 98](../sources/records/daniel-sponenberg-canal-report-1827-113.jpg) lists a **Daniel Sponenberg** as a successor contractor on the **Susquehanna Division between the Juniata mouth and Northumberland** in December 1827. It supports the occupation, but does not identify him as this same grandfather or verify the biography's distinct **Rupert-to-Berwick** project. The table's costs and payments are not personal profit or family wealth.
