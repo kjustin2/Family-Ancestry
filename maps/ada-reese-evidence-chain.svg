@@ -1,9 +1,9 @@
 <svg xmlns="http://www.w3.org/2000/svg" width="1150" height="290" viewBox="0 0 1150 290" role="img" aria-labelledby="title desc">
   <title id="title">Ada Corderman to Pearl Miller: five evidence checkpoints</title>
-  <desc id="desc">Five cards show the 1900 Ada Corderman census, 1910 Elmeda Reese census, 1918 Meda Reese draft contact, 1919 Pennsylvania death index for Meda alongside Pearl's family-reported birth, and 1997 Grace Smith obituary naming Pearl. Dotted connections mark identities or parentage still awaiting a birth or marriage record.</desc>
+  <desc id="desc">Five cards show the 1900 Ada Corderman census, 1910 Elmeda Reese census, 1918 Meda Reese draft contact, 1919 Pennsylvania birth index for Mabel and death index for Meda, and 1997 Grace Smith obituary naming Pearl. Dotted connections mark identities or parentage still awaiting full certificates and a Reese-to-Wilson record.</desc>
   <rect width="1150" height="290" rx="18" fill="#f8f6f1"/>
   <text x="36" y="47" font-family="Arial,sans-serif" font-size="26" font-weight="700" fill="#173447">How Ada’s Reese family comes into focus</text>
-  <text x="36" y="72" font-family="Arial,sans-serif" font-size="15" fill="#52616a">Each card is a dated source. Dotted links need a marriage or birth record.</text>
+  <text x="36" y="72" font-family="Arial,sans-serif" font-size="15" fill="#52616a">Dotted links need full certificates or a Reese-to-Wilson record.</text>
   <path d="M239 158H260 M454 158H475 M669 158H690 M884 158H905" fill="none" stroke="#8b6a48" stroke-width="3" stroke-dasharray="7 6"/>
   <g font-family="Arial,sans-serif">
     <g fill="#e5f0f0" stroke="#91b7b7" stroke-width="1.5">
@@ -11,8 +11,8 @@
     </g>
     <g fill="#f7ead9" stroke="#c9a579" stroke-width="1.5"><rect x="690" y="101" width="194" height="125" rx="13"/><rect x="905" y="101" width="215" height="125" rx="13"/></g>
     <g fill="#176269" font-size="19" font-weight="700"><text x="46" y="130">1900 census</text><text x="276" y="130">1910 census</text><text x="491" y="130">1918 draft card</text></g>
-    <g fill="#825225" font-size="18" font-weight="700"><text x="706" y="130">1919 death index</text><text x="921" y="130">1997 obituary</text></g>
-    <g fill="#304e57" font-size="16"><text x="46" y="158">Ada A. Corderman</text><text x="46" y="181">with Wilson kin</text><text x="276" y="158">Elmeda Reese</text><text x="276" y="181">wife; Ruth, 1</text><text x="491" y="158">Meda Reese</text><text x="491" y="181">William’s contact</text><text x="706" y="158">Meda dies Feb. 12</text><text x="706" y="181">Pearl birth: memoir</text><text x="921" y="158">Grace names</text><text x="921" y="181">sister Pearl Miller</text></g>
+    <g fill="#825225" font-size="18" font-weight="700"><text x="706" y="130">1919 vital indexes</text><text x="921" y="130">1997 obituary</text></g>
+    <g fill="#304e57" font-size="16"><text x="46" y="158">Ada A. Corderman</text><text x="46" y="181">with Wilson kin</text><text x="276" y="158">Elmeda Reese</text><text x="276" y="181">wife; Ruth, 1</text><text x="491" y="158">Meda Reese</text><text x="491" y="181">William’s contact</text><text x="706" y="158">Mabel: Jan. 31 birth</text><text x="706" y="181">Meda: Feb. 12 death</text><text x="921" y="158">Grace names</text><text x="921" y="181">sister Pearl Miller</text></g>
   </g>
-  <text x="36" y="262" font-family="Arial,sans-serif" font-size="14" fill="#59666b">Original census, draft + death-index images saved in sources/records · Pearl’s birth and the obituary are later accounts</text>
+  <text x="36" y="262" font-family="Arial,sans-serif" font-size="14" fill="#59666b">Original 1919 birth and death indexes saved · birth-index mother surname unclear · Reese-to-Wilson identity unproved</text>
 </svg>
