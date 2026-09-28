@@ -1,36 +1,43 @@
-<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 960 310" role="img" aria-labelledby="title desc">
-  <title id="title">The Bosch and Kramer households, 1900 to 1930</title>
-  <desc id="desc">Four dated records trace Rose Bosch from her parents' rented 363 Park Avenue household in 1900, through her marriage to Ferdinand Kramer in 1909 and their shared Park Avenue household in 1910, to 146 Prospect Street in 1930. The diagram does not assert exact move dates or building continuity.</desc>
-  <rect width="960" height="310" rx="22" fill="#f5f1e8"/>
-  <text x="34" y="42" fill="#24394a" font-family="Arial, sans-serif" font-size="24" font-weight="700">Rose Bosch and Ferdinand Kramer: two recorded homes</text>
-  <text x="34" y="68" fill="#50616c" font-family="Arial, sans-serif" font-size="14">Wilkes-Barre, Pennsylvania · household records, not an exact moving diary</text>
-  <path d="M130 122 H830" fill="none" stroke="#b1a89b" stroke-width="4"/>
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1120 430" role="img" aria-labelledby="title desc">
+  <title id="title">Emil Bosch's four recorded address stages, 1890 to 1930</title>
+  <desc id="desc">Directory and census sightings place Emil Bosch's meat market and home at 52 Main Street in Ashley in 1890 to 1895, his home at 13 Jones Street in Wilkes-Barre in 1896 to 1898, his rented household at 363 Park Avenue in 1900 to 1910, and his residence at 146 Prospect Street by 1911. His daughter Rose married Ferdinand Kramer in 1909; their family owned the Prospect home by the 1930 census. Job and ownership evidence differ by record.</desc>
+  <rect width="1120" height="430" rx="22" fill="#f5f1e8"/>
+  <text x="35" y="43" fill="#24394a" font-family="Arial, sans-serif" font-size="25" font-weight="700">From a Main Street meat market to the Kramer home</text>
+  <text x="35" y="69" fill="#50616c" font-family="Arial, sans-serif" font-size="15">Emil Bosch and family · Ashley → Wilkes-Barre · dated sightings, not exact move dates</text>
+  <path d="M150 125 H965" stroke="#afa99c" stroke-width="4"/>
   <g font-family="Arial, sans-serif">
-    <circle cx="130" cy="122" r="10" fill="#bd633d"/><circle cx="365" cy="122" r="10" fill="#bd633d"/><circle cx="600" cy="122" r="10" fill="#bd633d"/><circle cx="830" cy="122" r="10" fill="#bd633d"/>
-    <text x="130" y="104" text-anchor="middle" font-size="17" font-weight="700" fill="#24394a">1900</text>
-    <text x="365" y="104" text-anchor="middle" font-size="17" font-weight="700" fill="#24394a">1909</text>
-    <text x="600" y="104" text-anchor="middle" font-size="17" font-weight="700" fill="#24394a">1910</text>
-    <text x="830" y="104" text-anchor="middle" font-size="17" font-weight="700" fill="#24394a">1930</text>
-    <rect x="28" y="143" width="205" height="111" rx="12" fill="#fffaf1" stroke="#d3c6b5"/>
-    <text x="42" y="169" font-size="16" font-weight="700" fill="#24394a">363 Park Avenue</text>
-    <text x="42" y="192" font-size="13" fill="#50616c">Emil + Hilda; five children</text>
-    <text x="42" y="212" font-size="13" fill="#50616c">Rose makes paper boxes</text>
-    <text x="42" y="232" font-size="13" fill="#50616c">Rented home</text>
-    <rect x="264" y="143" width="202" height="111" rx="12" fill="#fffaf1" stroke="#d3c6b5"/>
-    <text x="278" y="169" font-size="16" font-weight="700" fill="#24394a">Married 17 February</text>
-    <text x="278" y="192" font-size="13" fill="#50616c">Ferdinand Kramer</text>
-    <text x="278" y="212" font-size="13" fill="#50616c">+ Rose Bosch</text>
-    <text x="278" y="232" font-size="13" fill="#50616c">County marriage docket</text>
-    <rect x="499" y="143" width="203" height="111" rx="12" fill="#fffaf1" stroke="#d3c6b5"/>
-    <text x="513" y="169" font-size="16" font-weight="700" fill="#24394a">363 Park Avenue</text>
-    <text x="513" y="192" font-size="13" fill="#50616c">Couple with Bosch parents</text>
-    <text x="513" y="212" font-size="13" fill="#50616c">Ferdinand: rope mill</text>
-    <text x="513" y="232" font-size="13" fill="#50616c">Emil: axle works</text>
-    <rect x="729" y="143" width="203" height="111" rx="12" fill="#fffaf1" stroke="#d3c6b5"/>
-    <text x="743" y="169" font-size="16" font-weight="700" fill="#24394a">146 Prospect Street</text>
-    <text x="743" y="192" font-size="13" fill="#50616c">Ferdinand, Rose, children</text>
-    <text x="743" y="212" font-size="13" fill="#50616c">Owned; radio recorded</text>
-    <text x="743" y="232" font-size="13" fill="#50616c">$2,300 reported value</text>
+    <circle cx="150" cy="125" r="10" fill="#be6540"/><circle cx="420" cy="125" r="10" fill="#be6540"/><circle cx="690" cy="125" r="10" fill="#be6540"/><circle cx="965" cy="125" r="10" fill="#be6540"/>
+    <text x="150" y="105" text-anchor="middle" font-size="17" font-weight="700" fill="#24394a">1890–95</text>
+    <text x="420" y="105" text-anchor="middle" font-size="17" font-weight="700" fill="#24394a">1896–98</text>
+    <text x="690" y="105" text-anchor="middle" font-size="17" font-weight="700" fill="#24394a">1900–10</text>
+    <text x="965" y="105" text-anchor="middle" font-size="17" font-weight="700" fill="#24394a">1911–30</text>
+    <rect x="30" y="145" width="245" height="164" rx="13" fill="#fffaf1" stroke="#d0c4b3"/>
+    <text x="46" y="174" font-size="18" font-weight="700" fill="#24394a">52 Main · Ashley</text>
+    <text x="46" y="201" font-size="14" fill="#50616c">Meat market / butcher</text>
+    <text x="46" y="225" font-size="14" fill="#50616c">Directory: business and home</text>
+    <text x="46" y="249" font-size="14" fill="#50616c">at the same address</text>
+    <text x="46" y="282" font-size="13" fill="#9c5338">Title and shop building unproved</text>
+    <rect x="300" y="145" width="245" height="164" rx="13" fill="#fffaf1" stroke="#d0c4b3"/>
+    <text x="316" y="174" font-size="18" font-weight="700" fill="#24394a">13 Jones · Wilkes-Barre</text>
+    <text x="316" y="201" font-size="14" fill="#50616c">Ashley says “removed” in 1896</text>
+    <text x="316" y="225" font-size="14" fill="#50616c">Butcher in 1896–97</text>
+    <text x="316" y="249" font-size="14" fill="#50616c">Driver in 1898</text>
+    <text x="316" y="282" font-size="13" fill="#9c5338">No ownership evidence</text>
+    <rect x="570" y="145" width="245" height="164" rx="13" fill="#fffaf1" stroke="#d0c4b3"/>
+    <text x="586" y="174" font-size="18" font-weight="700" fill="#24394a">363 Park Avenue</text>
+    <text x="586" y="201" font-size="14" fill="#50616c">Butcher → laborer / oiler</text>
+    <text x="586" y="225" font-size="14" fill="#50616c">1900 census: rented home</text>
+    <text x="586" y="249" font-size="14" fill="#50616c">1909: Rose marries Ferdinand</text>
+    <text x="586" y="282" font-size="13" fill="#9c5338">1910: couple with Bosch parents</text>
+    <rect x="840" y="145" width="250" height="164" rx="13" fill="#fffaf1" stroke="#d0c4b3"/>
+    <text x="856" y="174" font-size="18" font-weight="700" fill="#24394a">146 Prospect Street</text>
+    <text x="856" y="201" font-size="14" fill="#50616c">Emil listed by 1911</text>
+    <text x="856" y="225" font-size="14" fill="#50616c">Ferdinand listed by 1914</text>
+    <text x="856" y="249" font-size="14" fill="#50616c">1930 Kramer census: owned</text>
+    <text x="856" y="282" font-size="13" fill="#9c5338">$2,300 reported; radio set</text>
   </g>
-  <text x="34" y="286" fill="#50616c" font-family="Arial, sans-serif" font-size="13">Sources: 1900 and 1910 original censuses, 1909 marriage docket, 1930 original census; see branch page for scans.</text>
+  <path d="M36 344 H1084" stroke="#d0c4b3"/>
+  <text x="36" y="375" fill="#24394a" font-family="Arial, sans-serif" font-size="15" font-weight="700">What changed?</text>
+  <text x="170" y="375" fill="#50616c" font-family="Arial, sans-serif" font-size="14">The record changes from a home-based meat market to wage jobs. It does not show profits, a sale, or why the family moved.</text>
+  <text x="36" y="407" fill="#50616c" font-family="Arial, sans-serif" font-size="12">Sources: MyHeritage city-directory transcriptions, 1900/1910/1930 original censuses, 1909 marriage docket; see Bosch branch for links.</text>
 </svg>

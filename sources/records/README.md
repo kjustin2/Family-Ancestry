@@ -230,6 +230,12 @@ The [public 1916 Oyster Bay town-record scan](https://archive.org/details/oyster
 
 ## A person, not just paperwork
 
+### Ashley Main Street in Emil Bosch's meat-market years
+
+<a href="sanborn-ashley-main-street-1891-plate3.jpg"><img src="../../media/ashley-main-street-sanborn-1891.jpg" alt="1891 Sanborn map of Ashley's Main Street commercial buildings, shown as setting rather than an identified Bosch shop" width="760"></a>
+
+The [Library of Congress 1891 Ashley Sanborn map](https://www.loc.gov/item/sanborn07504_002/) shows the commercial street during the years [city directories](https://www.myheritage.com/research/record-10705-189068458/emil-bosch-in-us-city-directories) list Emil Bosch's meat market and home at **52 Main**. This is **area context**: the map's numbering cannot yet identify his particular building. Full public-domain plate and a readable street crop are saved here. [Four-address timeline](../../maps/bosch-park-avenue-to-prospect.svg) · [short story](../../branches/other-paternal-lines.md#a-shared-boschkramer-home-on-park-avenue).
+
 ### Fanny Cordaro Mattina: a parent-naming marriage and a new Holden address
 
 <a href="calogera-cordaro-birth-1900.jpg"><img src="../../media/calogera-cordaro-birth-1900-detail.jpg" alt="Milocca act 35 recording Calogera Cordaro's 19 June 1900 birth to Antonio Cordaro and Pietra Magro" width="620"></a>
