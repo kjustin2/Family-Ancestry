@@ -1,0 +1,23 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 900 400" role="img" aria-labelledby="title desc">
+  <title id="title">Two Mulhall addresses on Fifth Street Southeast in 1920</title>
+  <desc id="desc">The 1920 Washington Herald places Captain James Mulhall at 520 Fifth Street SE and his brother Frank at 411 Fifth Street SE. The present 520 building is documented as built in 1879, while the present 411 building dates to 1961. Diagram is conceptual, not a scale map.</desc>
+  <rect width="900" height="400" fill="#f7f5ee"/>
+  <text x="38" y="49" font-family="Arial,sans-serif" font-size="27" font-weight="700" fill="#1e3038">Brothers on Fifth Street SE</text>
+  <text x="38" y="78" font-family="Arial,sans-serif" font-size="16" fill="#56636a">Washington, 1920 · same street, distinct building histories</text>
+  <line x1="156" y1="208" x2="741" y2="208" stroke="#74858a" stroke-width="12" stroke-linecap="round"/>
+  <text x="425" y="236" text-anchor="middle" font-family="Arial,sans-serif" font-size="13" fill="#56636a">Fifth Street SE · schematic, not to scale</text>
+  <circle cx="215" cy="208" r="14" fill="#b25736" stroke="#fff" stroke-width="4"/>
+  <circle cx="684" cy="208" r="14" fill="#30716d" stroke="#fff" stroke-width="4"/>
+  <rect x="38" y="103" width="352" height="91" rx="12" fill="#fff" stroke="#d7d4c9"/>
+  <text x="57" y="132" font-family="Arial,sans-serif" font-size="19" font-weight="700" fill="#713c2e">411 Fifth Street SE</text>
+  <text x="57" y="156" font-family="Arial,sans-serif" font-size="15" fill="#1e3038">Frank Mulhall · 1920 newspaper address</text>
+  <text x="57" y="178" font-family="Arial,sans-serif" font-size="13" fill="#713c2e">Present building dates to 1961</text>
+  <rect x="511" y="103" width="352" height="91" rx="12" fill="#fff" stroke="#d7d4c9"/>
+  <text x="530" y="132" font-family="Arial,sans-serif" font-size="19" font-weight="700" fill="#255c59">520 Fifth Street SE</text>
+  <text x="530" y="156" font-family="Arial,sans-serif" font-size="15" fill="#1e3038">Captain James Mulhall · 1920 death address</text>
+  <text x="530" y="178" font-family="Arial,sans-serif" font-size="13" fill="#255c59">Present building: documented 1879 house</text>
+  <rect x="38" y="270" width="825" height="86" rx="12" fill="#e9eee9"/>
+  <text x="57" y="298" font-family="Arial,sans-serif" font-size="16" font-weight="700" fill="#1e3038">What a present-day photo can show</text>
+  <text x="57" y="323" font-family="Arial,sans-serif" font-size="14" fill="#1e3038">520: surviving historic exterior, altered since the family’s time. 411: site only; the present house is too new.</text>
+  <text x="38" y="384" font-family="Arial,sans-serif" font-size="11" fill="#59686b">Sources: Washington Herald, 4 Oct 1920, p. 3; DC HistoryQuest building features 114011 and 84180. Addresses do not establish title.</text>
+</svg>
