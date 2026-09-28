@@ -6,6 +6,11 @@ The [compact faces and places gallery](../context/faces-and-places.md) brings se
 
 The [family-homes gallery](../context/family-homes.md) shows three **externally hosted, family-attributed** Sponenberg house photographs. John H. Harter III, Catherine Betty Sponenberg and cousin Susie C. are credited on the original pages; their photo dates and reuse rights are not stated, so the pictures are linked from their source rather than saved here. The gallery also links a modern street view for Edward and Jennie's documented address, without treating the pictured structure as their proven 1907 build.
 
+## A Raber family location
+
+- [Topton Lutheran Home, Old Main, photographed 8 April 2017](topton-lutheran-home-old-main-2017.jpg): **Smallbones**, [Wikimedia Commons item](https://commons.wikimedia.org/wiki/File:Lutheran_Home_Topton_PA_nrhp.jpg), **CC0 1.0**. It depicts the historic institution building many decades after **Carl, Geraldine and John Raber** were listed there in the [1940 census](../sources/records/raber-children-topton-census-1940.jpg). It does not show the children or prove that every part of the building looked the same in 1940.
+- [1940 census detail](raber-children-topton-census-detail.jpg): crop of [National Archives full page](../sources/records/raber-children-topton-census-1940.jpg), lines **76–78**, preserving the three names, ages and earlier Nescopeck residence. The original federal census page is public domain.
+
 ## Our parents' and our own era
 
 - [RIT campus plan, 17 July 1986](rit-campus-plan-1986.jpg): unmodified 1,364 × 1,081 JPG from [RIT *News & Events* via Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Campus_plan,_RIT_NandE_Vol17Num19_1986_Jul17_Complete.jpg); Commons marks the U.S. publication public domain for its missing notice/registration. It shows the campus around Paul Kramer's **family-reported** study period, not his enrollment or route through it.

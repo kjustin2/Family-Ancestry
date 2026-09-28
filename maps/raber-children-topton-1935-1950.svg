@@ -1,0 +1,28 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1100" height="440" viewBox="0 0 1100 440" role="img" aria-labelledby="title desc">
+  <title id="title">Raber children: Nescopeck, Topton and two 1950 households</title>
+  <desc id="desc">The 1940 census recalls Nescopeck as Carl, Geraldine and John's 1935 residence. It records all three at the Lutheran Orphans' Home at Topton. By 1950 Geraldine was in William G. and Alice's Nescopeck household, while William John lived with Shirley and Sonya in Briar Creek.</desc>
+  <rect width="1100" height="440" rx="20" fill="#f5f0e7"/>
+  <text x="36" y="42" font-family="Arial,sans-serif" font-size="24" font-weight="700" fill="#22344a">Three children, three dated snapshots</text>
+  <text x="36" y="67" font-family="Arial,sans-serif" font-size="15" fill="#546272">The records show places and households; they do not explain why the children stayed at Topton.</text>
+  <line x1="205" y1="126" x2="895" y2="126" stroke="#a9b8c4" stroke-width="5"/>
+  <circle cx="205" cy="126" r="11" fill="#317f82"/><circle cx="550" cy="126" r="11" fill="#317f82"/><circle cx="895" cy="126" r="11" fill="#317f82"/>
+  <rect x="36" y="155" width="315" height="205" rx="16" fill="white" stroke="#d8d1c6"/>
+  <text x="58" y="190" font-family="Arial,sans-serif" font-size="25" font-weight="700" fill="#22344a">1935</text>
+  <text x="58" y="223" font-family="Arial,sans-serif" font-size="19" font-weight="700" fill="#317f82">Nescopeck</text>
+  <text x="58" y="251" font-family="Arial,sans-serif" font-size="16" fill="#263749">Carl · Geraldine · John</text>
+  <text x="58" y="282" font-family="Arial,sans-serif" font-size="14" fill="#546272">Their earlier residence, as recalled</text>
+  <text x="58" y="302" font-family="Arial,sans-serif" font-size="14" fill="#546272">on the 1940 census page.</text>
+  <rect x="392" y="155" width="315" height="205" rx="16" fill="white" stroke="#d8d1c6"/>
+  <text x="414" y="190" font-family="Arial,sans-serif" font-size="25" font-weight="700" fill="#22344a">1940</text>
+  <text x="414" y="223" font-family="Arial,sans-serif" font-size="19" font-weight="700" fill="#317f82">Topton, Berks County</text>
+  <text x="414" y="251" font-family="Arial,sans-serif" font-size="16" fill="#263749">Carl 9 · Geraldine 6 · John 10</text>
+  <text x="414" y="282" font-family="Arial,sans-serif" font-size="14" fill="#546272">Consecutive lines at the Lutheran</text>
+  <text x="414" y="302" font-family="Arial,sans-serif" font-size="14" fill="#546272">Orphans' Home. Reason unknown.</text>
+  <rect x="748" y="155" width="315" height="205" rx="16" fill="white" stroke="#d8d1c6"/>
+  <text x="770" y="190" font-family="Arial,sans-serif" font-size="25" font-weight="700" fill="#22344a">1950</text>
+  <text x="770" y="223" font-family="Arial,sans-serif" font-size="19" font-weight="700" fill="#317f82">Two households</text>
+  <text x="770" y="251" font-family="Arial,sans-serif" font-size="14" fill="#263749">Nescopeck: William G., Alice, Geraldine</text>
+  <text x="770" y="280" font-family="Arial,sans-serif" font-size="14" fill="#263749">Briar Creek: William John, Shirley, Sonya</text>
+  <text x="770" y="310" font-family="Arial,sans-serif" font-size="14" fill="#546272">Carl's 1950 whereabouts not checked.</text>
+  <text x="36" y="402" font-family="Arial,sans-serif" font-size="13" fill="#546272">Sources: original 1940 census, ED 9-96, sheet 2B, lines 76–78; original 1950 censuses, ED 40-320 and ED 19-38.</text>
+</svg>
