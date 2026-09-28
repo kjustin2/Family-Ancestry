@@ -2,6 +2,8 @@
 
 Start with the [one-page linked family tree](../FAMILY-TREE.md) if you want to choose a parent or grandparent first.
 
+For a browser view, open the [interactive family explorer](../explore/family-explorer.html). Its connected canvas brings these eight long ancestral paths together; search, zoom, and click a card for a short story, evidence, an original image when available, and a map.
+
 These four long views follow **one ancestral path in each column** to show how far the current research can go. Click a person card to open that branch's source notes. The diagrams are not claims that every sibling or spouse's ancestry has been found.
 
 **Read the links first:** solid teal means a relationship supported by a record; purple marks Justin or Ashley's family account; dashed ochre means a proposed identity or parent link that still needs a decisive record. An old person appearing in a tree does **not** mean every link down to Justin or Ashley is established.

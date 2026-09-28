@@ -1,0 +1,71 @@
+<!doctype html>
+<html lang="en">
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <meta name="theme-color" content="#142a31">
+  <title>Family Atlas · Explore the tree</title>
+  <link rel="stylesheet" href="family-explorer.css">
+  <script src="family-explorer.js" defer></script>
+</head>
+<body>
+  <a class="skip" href="#tree-heading">Skip to the family tree</a>
+  <header class="site-header">
+    <a class="brand" href="../README.md"><span class="brand-symbol" aria-hidden="true">✳</span> Family Atlas</a>
+    <nav aria-label="Other views">
+      <a href="timeline.html">Timeline</a>
+      <a href="../context/geography-atlas.md">Maps</a>
+      <a href="../context/faces-and-places.md">Photo &amp; record gallery</a>
+    </nav>
+  </header>
+
+  <main>
+    <section class="intro">
+      <div>
+        <p class="eyebrow">Justin Kramer &amp; Ashley Weatherford</p>
+        <h1>Every branch has a story.</h1>
+        <p class="lede">Move through eight long family paths. Click a household to see its place, era, a short story, and the records behind it. The full tree stays in one view as you zoom and explore.</p>
+        <div class="intro-actions"><a class="primary-link" href="#tree-heading">Explore the tree <span aria-hidden="true">↘</span></a><a class="quiet-link" href="../FAMILY-TREE.md">Read the written tree ↗</a></div>
+      </div>
+      <div class="intro-card" aria-label="Explorer coverage">
+        <span class="intro-card-top">The family at a glance</span>
+        <strong id="path-count">8</strong><span>ancestral paths</span>
+        <div class="intro-card-rule"></div>
+        <strong id="node-count">…</strong><span>clickable households &amp; people</span>
+        <p>Germany · Italy · Ireland · Pennsylvania · Virginia · beyond</p>
+      </div>
+    </section>
+
+    <section class="story-row" aria-label="Start with a story">
+      <button type="button" data-story="kramer-pa"><span>01 / Germany → Pennsylvania</span><strong>Three Ferdinands, one open bridge</strong><small>Follow the Kramer line ↗</small></button>
+      <button type="button" data-story="cordaro-antonio"><span>02 / Sicily → Pennsylvania</span><strong>A family crossing in stages</strong><small>Follow the Cordaros ↗</small></button>
+      <button type="button" data-story="sponenberg-edward"><span>03 / Berwick, Pennsylvania</span><strong>A biography brings a family into view</strong><small>Follow the Sponenbergs ↗</small></button>
+      <button type="button" data-story="weatherford-garnett"><span>04 / Virginia → Fairfax</span><strong>Navy service and a changing county</strong><small>Follow the Weatherfords ↗</small></button>
+    </section>
+
+    <section class="explorer" aria-labelledby="tree-heading">
+      <div class="section-head"><div><p class="eyebrow">The connected view</p><h2 id="tree-heading">Explore the full tree</h2><p>Older generations are above their descendants. Vertical space shows family steps, not elapsed years.</p></div><a href="../context/full-family-trees.md">View the four printable trees ↗</a></div>
+      <div class="toolbar">
+        <label class="search-label">Find a name or place <input id="search" type="search" placeholder="Try Blevins, Sutera, Berwick…" autocomplete="off"></label>
+        <label class="branch-label">Jump to a branch <select id="branch"><option value="all">Whole tree</option></select></label>
+        <div class="zoom-controls" aria-label="Tree zoom controls"><button id="zoom-out" type="button" aria-label="Zoom out">−</button><button id="zoom-in" type="button" aria-label="Zoom in">+</button><button id="fit" type="button">Fit all</button></div>
+      </div>
+      <div class="legend" aria-label="Evidence key"><span><i class="line recorded"></i> Record-supported connection</span><span><i class="line family"></i> Family account</span><span><i class="line proposed"></i> Proposed connection</span><span class="legend-help">Drag to pan · scroll or use buttons to zoom · select a card to learn more</span></div>
+      <div class="workspace">
+        <div class="tree-window" id="tree-window" aria-label="Zoomable and pannable family tree">
+          <div class="tree-canvas" id="tree-canvas"><svg class="connections" id="connections" aria-hidden="true"></svg><div id="tree-nodes"></div></div>
+          <div class="tree-tip" id="tree-tip">Select a card to explore a life</div>
+        </div>
+        <aside class="detail" id="detail" aria-live="polite" aria-label="Selected family story"></aside>
+      </div>
+      <p class="tree-caption">Each card may represent a couple or a household. The eight paths show the longest researched route through each branch; siblings and other relatives are in the linked branch pages. A dashed connection is a research lead, even when people on either side are independently documented.</p>
+    </section>
+
+    <section class="after-tree" aria-label="More ways to explore">
+      <div><p class="eyebrow">Keep exploring</p><h2>From names to places and lives</h2><p>The tree is a doorway. These views add the local history, images and unanswered questions behind its cards.</p></div>
+      <div class="next-links"><a href="line-timelines.html"><strong>Time</strong><span>Ten clickable line timelines ↗</span></a><a href="../context/geography-atlas.md"><strong>Place</strong><span>Europe and U.S. map atlas ↗</span></a><a href="../context/faces-and-places.md"><strong>Artifacts</strong><span>Family photographs and original records ↗</span></a><a href="../research/open-questions.md"><strong>Research</strong><span>What still needs proof ↗</span></a></div>
+    </section>
+  </main>
+  <footer><span>Family history is still being checked. Some older links are hypotheses.</span><a href="../research/sources.md">Source ledger ↗</a></footer>
+</body>
+</html>
