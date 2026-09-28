@@ -105,4 +105,8 @@ For Garnett Weatherford Sr.'s bus-driving years, the City of Alexandria's [AB&W 
 
 For John and Alice's school-era surroundings, [FCPS's Hayfield Elementary history](https://hayfieldes.fcps.edu/about/history) includes period photographs of the school and 1970s construction. They illustrate how the area grew, but neither parent is identified in the photographs or known to have attended that elementary school. See the [Franconia period account](../context/franconia-growing-up.md).
 
-The three place JPGs are reduced-size versions supplied by Wikimedia Commons. No additional cropping or color changes were made. The Navy JPG is the 740 × 610 online image supplied by the Navy's selected-image archive mirror.
+![Emma Sponenberg's later listed 211 West Front address on an 1896 Sanborn map](sponenberg-emma-west-front-1896-sanborn-detail.jpg)
+
+This is a **crop of an 1896 Berwick map**, not a photograph or proof Emma occupied the building that year. Her [1901 directory entry](../sources/records/sponenberg-berwick-directory-1901-p169.jpg) later gives **211 W. Front**. [Saved full plate](../sources/records/sanborn-berwick-west-front-1896-plate4.jpg) · [Library of Congress original](https://www.loc.gov/resource/g3824bm.g3824bm_g075271896/?sp=4). Sanborn Map Company / Library of Congress Geography and Map Division, public domain. [Address interpretation](../context/family-homes.md#emma-hartman-sponenberg-a-mapped-west-front-address).
+
+The three other place JPGs are reduced-size versions supplied by Wikimedia Commons. No additional cropping or color changes were made. The Navy JPG is the 740 × 610 online image supplied by the Navy's selected-image archive mirror.

@@ -7,7 +7,8 @@ Daniel Sponenberg + Hannah Shellhammer
 ├─ James C. + Mary Jane Garney       → riverside farm; later Front/Ida house
 ├─ Legrant + Mary Alice Fortner       → possible farm, exact place unresolved
 └─ John Leonard + Emma Hartman
-   └─ Edward J. + Jennie Mensinger   → 505 E. Second St. by 1927–50
+   ├─ Emma → 211 W. Front St. in 1901
+   └─ Edward J. + Jennie Mensinger → 505 E. Second St. by 1927–50
 ```
 
 The [1915 Edward biography](../sources/records/edward-sponenberg-biography-1915-187.jpg) calls James, Legrant and John Leonard children of Daniel and Hannah and Edward a son of John. [Hannah's family Bible](../sources/records/hannah-sponenberg-family-bible-births.jpg) independently lists those sons. Thus **James and Legrant were Edward's uncles**; their photographed houses must not be captioned as Edward's.
@@ -30,6 +31,14 @@ Harter identifies this as the house **at West Front and Ida Streets** mentioned 
 
 A cousin supplied this picture as the **possible** home of Legrant and Mary Alice Fortner Sponenburg. The archive itself says the house might be in **Briar Creek, Columbia County, or Nescopeck, Luzerne County**; it does not know which. Legrant was Edward's uncle and is the [family-attributed cavalry portrait](../sources/family/legrant-sponenberg-mounted-portrait-attributed.jpg) subject. **No precise map pin is justified yet.** [Full archive caption and photograph](https://jowest.net/Genealogy/John/Christian/LegrantSponenbergFarm.htm).
 
+## Emma Hartman Sponenberg: a mapped West Front address
+
+<a href="../sources/records/sanborn-berwick-west-front-1896-plate4.jpg"><img src="../media/sponenberg-emma-west-front-1896-sanborn-detail.jpg" width="520" alt="1896 Berwick Sanborn map detail labeling a two-story dwelling at 211 West Front Street, near Mulberry Street"></a>
+
+The [1901 Berwick directory, p. 169](../sources/records/sponenberg-berwick-directory-1901-p169.jpg) lists **Emma, widow of John**, at **211 W. Front Street**. Five years earlier, the [1896 Sanborn map, plate 4](https://www.loc.gov/resource/g3824bm.g3824bm_g075271896/?sp=4) labels **211** on the west side of Front Street, south of Mulberry, as a **two-story dwelling** (`2 D`). This is a rare view of the *building footprint and block* near Emma's recorded residence. The map predates the directory: it does **not** name an occupant, establish ownership, or prove the identical building stood there in 1901. On the [1907 Sanborn plate 10](https://www.loc.gov/resource/g3824bm.g3824bm_g075271907/?sp=10), the number **211** is no longer labeled in that sequence; address continuity needs a directory or deed. Both Sanborn maps: Library of Congress Geography and Map Division, public domain.
+
+Edward is listed separately as a **Berwick Store Company clerk living on W. Front**, without a number. The directory does not say he lived with Emma at 211.
+
 ## Edward J. and Jennie Mensinger Sponenberg: the address trail
 
 | Date | What names their home | What it establishes |
@@ -42,7 +51,7 @@ A cousin supplied this picture as the **possible** home of Legrant and Mary Alic
 | **1950** | [1950 census, Edward and Jennie](https://www.myheritage.com/research/record-11006-175275386/edward-j-sponenberg-in-1950-united-states-federal-census) | The index again gives **505 E. Second Street**. |
 | **Modern view** | [505 E. Second Street property page with a Google street-view image](https://www.zillow.com/homedetails/505-E-2nd-St-Berwick-PA-18603/299280889_zpid/) | A way to **look at the address today**. The image is externally hosted; its capture date, the property's original construction year and the survival of Edward's 1907 building are not established. |
 
-Edward and Jennie's documented address sits in **East Berwick/Salem Township, Luzerne County** in the census, though a Berwick mailing address is used today. Their 1901 West Front residence, the claimed 1907 construction and the 1927–50 East Second address should **not** be collapsed into one house without a deed or a contemporary directory closer to 1907.
+Edward and Jennie's documented address sits in **East Berwick/Salem Township, Luzerne County** in the census, though a Berwick mailing address is used today. The [1919 Berwick Sanborn atlas](https://www.loc.gov/item/sanborn07527_007/) also labels a **505 E. Second Street**, but its plate 19 puts that numbered block on the **Columbia County** side of its printed boundary. That location conflicts with Edward's original Luzerne County census heading; it is **not safe to call the mapped 505 his house**. A boundary, numbering or source-location explanation remains to be found. Their 1901 West Front residence, the claimed 1907 construction and the 1927–50 East Second address should **not** be collapsed into one house without a deed or a contemporary directory closer to 1907.
 
 <a href="../sources/records/edward-jennie-sponenberg-census-1940.jpg"><img src="../sources/records/edward-jennie-sponenberg-census-1940.jpg" width="700" alt="1940 original census sheet with the Sponenberg family at 505 E. Second Street on lines 50–53"></a>
 
