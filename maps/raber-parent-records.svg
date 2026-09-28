@@ -1,9 +1,9 @@
 <svg xmlns="http://www.w3.org/2000/svg" width="1060" height="400" viewBox="0 0 1060 400" role="img" aria-labelledby="title desc">
   <title id="title">Two Raber children name the same father and different mothers</title>
-  <desc id="desc">Social Security indexes name William G. Raber as father of William John and Geraldine Elizabeth. William John's mother is Alice L. Houser; Geraldine's mother is Mary Nolf. Carl Richard's parents still require a record. A 1936 Pennsylvania death index lists a Mary Raber in Armstrong County, but does not identify her family.</desc>
+  <desc id="desc">Social Security indexes name William G. Raber as father of William John and Geraldine Elizabeth. William John's mother is Alice L. Houser; Geraldine's mother is Mary Nolf. Carl Richard's 2010 obituary index names William and Alice, but his birth mother remains unverified. A 1936 Pennsylvania death index lists a Mary Raber in Armstrong County, but does not identify her family.</desc>
   <rect width="1060" height="400" rx="20" fill="#f5f0e7"/>
   <text x="34" y="42" font-family="Arial,sans-serif" font-size="24" font-weight="700" fill="#22344a">One father named · two mothers named</text>
-  <text x="34" y="67" font-family="Arial,sans-serif" font-size="14" fill="#546272">Parent names come from each child's Social Security index; original applications are still needed.</text>
+  <text x="34" y="67" font-family="Arial,sans-serif" font-size="14" fill="#546272">John and Geraldine: Social Security indexes. Carl: later obituary. Original birth records are needed.</text>
   <rect x="355" y="92" width="350" height="54" rx="12" fill="#233c55"/>
   <text x="530" y="127" text-anchor="middle" font-family="Arial,sans-serif" font-size="20" font-weight="700" fill="white">William G. Raber · father</text>
   <path d="M435 146 V166 H205 V185 M625 146 V166 H855 V185" fill="none" stroke="#718799" stroke-width="3"/>
@@ -14,9 +14,9 @@
   <text x="55" y="300" font-family="Arial,sans-serif" font-size="14" fill="#546272">1950: Shirley and daughter Sonya</text>
   <rect x="390" y="185" width="280" height="142" rx="15" fill="#fffaf1" stroke="#d4d4cc"/>
   <text x="410" y="217" font-family="Arial,sans-serif" font-size="19" font-weight="700" fill="#22344a">Carl Richard Raber</text>
-  <text x="410" y="246" font-family="Arial,sans-serif" font-size="16" fill="#263749">Parent record still missing</text>
-  <text x="410" y="274" font-family="Arial,sans-serif" font-size="14" fill="#546272">With John and Geraldine at</text>
-  <text x="410" y="295" font-family="Arial,sans-serif" font-size="14" fill="#546272">Topton in the 1940 census</text>
+  <text x="410" y="246" font-family="Arial,sans-serif" font-size="14" fill="#263749">Obituary: William + Alice</text>
+  <text x="410" y="274" font-family="Arial,sans-serif" font-size="14" fill="#546272">Birth mother unverified</text>
+  <text x="410" y="295" font-family="Arial,sans-serif" font-size="14" fill="#546272">1940 Topton · 1950 coal work</text>
   <rect x="681" y="185" width="345" height="142" rx="15" fill="white" stroke="#d4d4cc"/>
   <text x="702" y="217" font-family="Arial,sans-serif" font-size="19" font-weight="700" fill="#a45243">Geraldine Elizabeth Raber</text>
   <text x="702" y="246" font-family="Arial,sans-serif" font-size="16" fill="#263749">Mother: Mary Nolf</text>

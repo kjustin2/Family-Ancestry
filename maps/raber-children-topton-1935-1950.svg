@@ -1,6 +1,6 @@
 <svg xmlns="http://www.w3.org/2000/svg" width="1100" height="440" viewBox="0 0 1100 440" role="img" aria-labelledby="title desc">
-  <title id="title">Raber children: Nescopeck, Topton and two 1950 households</title>
-  <desc id="desc">The 1940 census recalls Nescopeck as Carl, Geraldine and John's 1935 residence. It records all three at the Lutheran Orphans' Home at Topton. By 1950 Geraldine was in William G. and Alice's Nescopeck household, while William John lived with Shirley and Sonya in Briar Creek.</desc>
+  <title id="title">Raber children: Nescopeck, Topton and three 1950 households</title>
+  <desc id="desc">The 1940 census recalls Nescopeck as Carl, Geraldine and John's 1935 residence. It records all three at the Lutheran Orphans' Home at Topton. By 1950 Geraldine was in William G. and Alice's Nescopeck household, William John was with Shirley and Sonya in Briar Creek, and Carl was with Edna and her family in Shickshinny.</desc>
   <rect width="1100" height="440" rx="20" fill="#f5f0e7"/>
   <text x="36" y="42" font-family="Arial,sans-serif" font-size="24" font-weight="700" fill="#22344a">Three children, three dated snapshots</text>
   <text x="36" y="67" font-family="Arial,sans-serif" font-size="15" fill="#546272">The records show places and households; they do not explain why the children stayed at Topton.</text>
@@ -20,9 +20,9 @@
   <text x="414" y="302" font-family="Arial,sans-serif" font-size="14" fill="#546272">Orphans' Home. Reason unknown.</text>
   <rect x="748" y="155" width="315" height="205" rx="16" fill="white" stroke="#d8d1c6"/>
   <text x="770" y="190" font-family="Arial,sans-serif" font-size="25" font-weight="700" fill="#22344a">1950</text>
-  <text x="770" y="223" font-family="Arial,sans-serif" font-size="19" font-weight="700" fill="#317f82">Two households</text>
-  <text x="770" y="251" font-family="Arial,sans-serif" font-size="14" fill="#263749">Nescopeck: William G., Alice, Geraldine</text>
-  <text x="770" y="280" font-family="Arial,sans-serif" font-size="14" fill="#263749">Briar Creek: William John, Shirley, Sonya</text>
-  <text x="770" y="310" font-family="Arial,sans-serif" font-size="14" fill="#546272">Carl's 1950 whereabouts not checked.</text>
-  <text x="36" y="402" font-family="Arial,sans-serif" font-size="13" fill="#546272">Sources: original 1940 census, ED 9-96, sheet 2B, lines 76–78; original 1950 censuses, ED 40-320 and ED 19-38.</text>
+  <text x="770" y="223" font-family="Arial,sans-serif" font-size="19" font-weight="700" fill="#317f82">Three households</text>
+  <text x="770" y="251" font-family="Arial,sans-serif" font-size="13" fill="#263749">Nescopeck: Geraldine, William G., Alice</text>
+  <text x="770" y="280" font-family="Arial,sans-serif" font-size="13" fill="#263749">Briar Creek: John, Shirley, Sonya</text>
+  <text x="770" y="309" font-family="Arial,sans-serif" font-size="13" fill="#263749">Shickshinny: Carl, Edna, Switzers</text>
+  <text x="36" y="402" font-family="Arial,sans-serif" font-size="13" fill="#546272">Sources: original 1940 census, ED 9-96, sheet 2B; original 1950 censuses, ED 40-320, ED 19-38 and ED 40-423.</text>
 </svg>
