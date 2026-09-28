@@ -20,7 +20,9 @@ The [family-homes gallery](../context/family-homes.md) shows three **externally 
 
 ## Census details
 
-- [438/440 Holden census detail](cordaro-holden-1940-census-detail.jpg): straight crop of the public-domain [1940 federal census, ED 40-277, sheet 15A](../sources/records/joseph-dina-cordaro-census-1940.jpg), lines 11–14. It makes the adjacent Cordaro household names, house numbers and housing entries legible; it omits the sheet's street label and the occupation/wage columns. [House story and caveats](../branches/cordaro-passport-lead.md#two-holden-street-numbers-on-one-census-page).
+- [438 Holden, 1920](cordaro-household-1920-detail.jpg): straight crop of the public-domain [1920 West Wyoming census](../sources/records/antonio-pietra-cordaro-household-census-1920.jpg), ED 215, sheet 9A, lines 35–46. Shows the Anthony/Pietra household, reported mortgage-free ownership, and address; consult the full image for occupation columns.
+- [438 Holden, 1930](cordaro-household-1930-detail.jpg): straight crop of the public-domain [1930 West Wyoming census](../sources/records/antonio-pietra-cordaro-household-census-1930.jpg), ED 40-220, sheet 1B, lines 73–77. Shows Anthony/Beatrice, Joseph/Carmella/John, and reported $2,000 home value; consult the full image for occupation columns.
+- [438/440 Holden census detail](cordaro-holden-1940-census-detail.jpg): straight crop of the public-domain [1940 federal census, ED 40-277, sheet 15A](../sources/records/joseph-dina-cordaro-census-1940.jpg), lines 11–14. It makes the adjacent Cordaro household names, house numbers and housing entries legible; it omits the sheet's street label and the occupation/wage columns. [House story and caveats](../branches/cordaro-passport-lead.md#holden-street-across-three-census-years).
 
 ## Family-supplied originals
 

@@ -1,0 +1,41 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1280" height="520" viewBox="0 0 1280 520" role="img" aria-labelledby="title desc">
+  <title id="title">The Cordaro households at 438 and 440 Holden Street, 1920 to 1940</title>
+  <desc id="desc">The 1920 census records Anthony and Pietra at 438 Holden, owning without a mortgage. The 1930 census records Anthony, Beatrice, Joseph, Carmella and John there, with a reported two thousand dollar home value. In 1940 Mamie and John are at 438, marked owners, while Joseph and Dina rent neighboring 440 for fifteen dollars monthly. Exact identities and title transfers still need records.</desc>
+  <rect width="1280" height="520" rx="18" fill="#f5f3ec"/>
+  <rect width="10" height="520" fill="#287e77"/>
+  <g font-family="Arial,sans-serif">
+    <text x="34" y="47" font-size="29" font-weight="700" fill="#193e44">One street, three census snapshots</text>
+    <text x="34" y="76" font-size="16" fill="#52676a">West Wyoming, Pennsylvania · original schedules, 1920–40</text>
+    <rect x="32" y="105" width="370" height="285" rx="13" fill="#fff" stroke="#bed3cd" stroke-width="2"/>
+    <text x="52" y="138" font-size="15" font-weight="700" fill="#27766e">1920 · 438 HOLDEN</text>
+    <text x="52" y="179" font-size="22" font-weight="700" fill="#193e44">Anthony + Pietra</text>
+    <text x="52" y="211" font-size="16" fill="#455b61">Joseph, Mamie, John and others</text>
+    <text x="52" y="247" font-size="16" fill="#455b61">Anthony: coal miner</text>
+    <rect x="52" y="276" width="330" height="63" rx="8" fill="#e8f1eb"/>
+    <text x="66" y="302" font-size="16" font-weight="700" fill="#1a615b">Home marked owned</text>
+    <text x="66" y="326" font-size="14" fill="#45635e">and free of mortgage</text>
+    <text x="52" y="368" font-size="13" fill="#8b6137">Census ED 215, sheet 9A, lines 35–45</text>
+    <path d="M403 243 H441" fill="none" stroke="#b17b41" stroke-width="4" stroke-dasharray="8 6"/>
+    <rect x="441" y="105" width="370" height="285" rx="13" fill="#fff" stroke="#bed3cd" stroke-width="2"/>
+    <text x="461" y="138" font-size="15" font-weight="700" fill="#27766e">1930 · 438 HOLDEN</text>
+    <text x="461" y="179" font-size="22" font-weight="700" fill="#193e44">Anthony + Beatrice</text>
+    <text x="461" y="211" font-size="16" fill="#455b61">Joseph, Carmella, John</text>
+    <text x="461" y="247" font-size="16" fill="#455b61">Joseph: coal mine laborer</text>
+    <rect x="461" y="276" width="330" height="63" rx="8" fill="#e8f1eb"/>
+    <text x="475" y="302" font-size="16" font-weight="700" fill="#1a615b">Home marked owned</text>
+    <text x="475" y="326" font-size="14" fill="#45635e">reported value: $2,000</text>
+    <text x="461" y="368" font-size="13" fill="#8b6137">Census ED 40-220, sheet 1B, lines 73–77</text>
+    <path d="M812 243 H849" fill="none" stroke="#b17b41" stroke-width="4" stroke-dasharray="8 6"/>
+    <rect x="849" y="105" width="400" height="133" rx="13" fill="#fff" stroke="#bed3cd" stroke-width="2"/>
+    <text x="869" y="135" font-size="15" font-weight="700" fill="#27766e">1940 · 438 HOLDEN</text>
+    <text x="869" y="168" font-size="20" font-weight="700" fill="#193e44">Mamie + brother John</text>
+    <text x="869" y="201" font-size="15" fill="#455b61">Owned · reported value $2,000</text>
+    <rect x="849" y="255" width="400" height="135" rx="13" fill="#e8f1eb" stroke="#91bcb0" stroke-width="2"/>
+    <text x="869" y="285" font-size="15" font-weight="700" fill="#27766e">1940 · 440 HOLDEN</text>
+    <text x="869" y="318" font-size="20" font-weight="700" fill="#193e44">Joseph + Dina</text>
+    <text x="869" y="351" font-size="15" fill="#455b61">Rented · $15 per month</text>
+    <rect x="32" y="412" width="1217" height="79" rx="10" fill="#ede8db"/>
+    <text x="50" y="441" font-size="15" fill="#455b61">Antonio's 1927 petition also gives 438 and names Joseph, Carmela and Julius.</text>
+    <text x="50" y="467" font-size="14" fill="#725532">Mamie ↔ Carmella has a strong household match. John ↔ Julius, the ownership transfer and building continuity remain unproved.</text>
+  </g>
+</svg>
