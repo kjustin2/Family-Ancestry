@@ -1,5 +1,17 @@
 # Original images and identified family portrait
 
+### Raber, Kreischer and Balliet household trail (saved 27 September 2026)
+
+These seven original census images were viewed in Justin's signed-in MyHeritage account and saved as unaltered document pages. The [source log V137–V144](../../research/sources.md) gives page, line, URL and interpretation. They are **not family portraits**.
+
+| Line | Saved census pages | Main clue |
+| --- | --- | --- |
+| Raber | [William, Shirley and Sonya in 1950](william-shirley-sonya-raber-census-1950.jpg) · [William G. and Alice in 1950](william-alice-raber-census-1950.jpg) | Sonya is explicitly William John's daughter; the older household includes an Alice L. and a Houser brother-in-law. |
+| Kreischer | [Elder and younger William in 1930](william-bertha-younger-william-kreischer-census-1930.jpg) · [William and Alethea in 1950](william-aletha-kreischer-census-1950.jpg) | A direct father–son household, then the younger William's matching later home. |
+| Balliet | [Michael, Catherine and Nelson in 1870](michael-catherine-nelson-balliet-census-1870.jpg) · [Nelson, Amanda and Stanley in 1910](nelson-amanda-stanley-balliet-census-1910.jpg) · [Stanley and Crystal in 1930](stanley-crystal-balliet-census-1930.jpg) | Carpenter → lumber-woods workers → rented Dorrance household across three generations. |
+
+[Read the illustrated record trail](../../branches/raber-kreischer-balliet-record-trail.md).
+
 These are saved copies for reading alongside the [interactive timeline](../../explore/timeline.html). The original source link and the limit of each identification stay with the image. A record image depicts a document, **not** the person named in it.
 
 ### Northeast Blevin research leads

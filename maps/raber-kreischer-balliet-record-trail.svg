@@ -1,0 +1,43 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1260" height="690" viewBox="0 0 1260 690" role="img" aria-labelledby="title desc">
+  <title id="title">Three trails from Sonya Raber and Floyd Balliet into earlier households</title>
+  <desc id="desc">Three parallel record ladders: Raber to William G and Alice via a Social Security index; Kreischer to John through a 1915 biography with a census bridge between two Williams; Balliet to Michael and Catherine through 1870 and 1910 censuses. Dotted segments show unresolved identity links.</desc>
+  <rect width="1260" height="690" fill="#f7f4ed"/>
+  <g font-family="Arial, sans-serif" fill="#183444">
+    <text x="42" y="51" font-size="30" font-weight="700">Three trails back from Sonya and Floyd</text>
+    <text x="42" y="80" font-size="16" fill="#5d6970">The dated record comes first. Dotted links still need a parent or identity record.</text>
+    <rect x="35" y="107" width="382" height="496" rx="16" fill="#e8f2ee" stroke="#529282"/>
+    <rect x="439" y="107" width="382" height="496" rx="16" fill="#fff1df" stroke="#bf8d4e"/>
+    <rect x="843" y="107" width="382" height="496" rx="16" fill="#ebeff8" stroke="#6789b4"/>
+    <text x="56" y="143" font-size="23" font-weight="700">RABER</text>
+    <text x="460" y="143" font-size="23" font-weight="700">KREISCHER</text>
+    <text x="864" y="143" font-size="23" font-weight="700">BALLIET</text>
+    <g fill="#fff" stroke="#ccd3d2">
+      <rect x="54" y="163" width="343" height="83" rx="10"/><rect x="54" y="286" width="343" height="83" rx="10"/><rect x="54" y="409" width="343" height="83" rx="10"/>
+      <rect x="458" y="163" width="343" height="83" rx="10"/><rect x="458" y="286" width="343" height="83" rx="10"/><rect x="458" y="409" width="343" height="83" rx="10"/><rect x="458" y="525" width="343" height="60" rx="10"/>
+      <rect x="862" y="163" width="343" height="83" rx="10"/><rect x="862" y="286" width="343" height="83" rx="10"/><rect x="862" y="409" width="343" height="83" rx="10"/><rect x="862" y="525" width="343" height="60" rx="10"/>
+    </g>
+    <g font-size="18" font-weight="700">
+      <text x="70" y="193">Sonya Lea Raber</text><text x="70" y="316">William John Raber</text><text x="70" y="439">William G. + Alice L. Houser</text>
+      <text x="474" y="193">Shirley Kreischer Raber</text><text x="474" y="316">William H. Jr. + Aletha</text><text x="474" y="439">William H. Sr. + Bertha</text><text x="474" y="551">Henry → John Kreischer</text>
+      <text x="878" y="193">Floyd A. Balliet</text><text x="878" y="316">Stanley D. + Crystal</text><text x="878" y="439">Nelson N. + Amanda</text><text x="878" y="551">Michael + Catherine</text>
+    </g>
+    <g font-size="14" fill="#526169">
+      <text x="70" y="220">1950 census: William's daughter, age 1</text><text x="70" y="343">1950: silk-mill spinner · 1945 parent index</text><text x="70" y="466">1950 Nescopeck household; G. unresolved</text>
+      <text x="474" y="220">2018 obituary names parents</text><text x="474" y="343">1930 son, 20 · 1950 husband, 40</text><text x="474" y="466">1930: owned $2,500 home · car shop</text><text x="474" y="572">1915 biography only for older link</text>
+      <text x="878" y="220">Adult-to-child bridge: family identification</text><text x="878" y="343">1920 marriage · 1930 home rented $10</text><text x="878" y="466">1910 son Stanley · lumber woods</text><text x="878" y="572">1870: carpenter · $600 real estate</text>
+    </g>
+    <g fill="none" stroke-width="3">
+      <path d="M225 246v40m0 83v40" stroke="#529282"/>
+      <path d="M629 246v40" stroke="#bf8d4e"/>
+      <path d="M629 369v40" stroke="#bf8d4e" stroke-dasharray="7 6"/>
+      <path d="M629 492v33" stroke="#bf8d4e" stroke-dasharray="7 6"/>
+      <path d="M1034 246v40" stroke="#6789b4" stroke-dasharray="7 6"/>
+      <path d="M1034 369v40" stroke="#6789b4"/>
+      <path d="M1034 492v33" stroke="#6789b4" stroke-dasharray="7 6"/>
+    </g>
+    <rect x="35" y="626" width="1190" height="42" rx="10" fill="#fff" stroke="#d8d4cb"/>
+    <line x1="56" y1="647" x2="104" y2="647" stroke="#529282" stroke-width="3"/><text x="114" y="652" font-size="14">Named relationship in record</text>
+    <line x1="384" y1="647" x2="432" y2="647" stroke="#bf8d4e" stroke-width="3" stroke-dasharray="7 6"/><text x="442" y="652" font-size="14">Family identification or retrospective account</text>
+    <text x="868" y="652" font-size="13" fill="#5d6970">Read sources in the record trail note</text>
+  </g>
+</svg>

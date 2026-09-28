@@ -1,24 +1,24 @@
 <svg xmlns="http://www.w3.org/2000/svg" width="1200" height="600" viewBox="0 0 1200 600" role="img" aria-labelledby="title desc">
   <title id="title">Sonya Raber and Floyd Balliet: family links and the original 1940 household</title>
-  <desc id="desc">On the left, Justin's family account names Sonya's father William John Raber and grandfather William G. Raber, whose middle name conflicts between George and Glenmore. On the right, an original 1940 census names Crystal Balliet and eleven children, including a one-year-old Floyd. Justin identifies Stanley and Crystal as Sonya's Floyd's parents. The dotted arrow marks that family identification, still awaiting an independent adult-to-child record. Sources are linked in the branch note.</desc>
+  <desc id="desc">On the left, the original 1950 census names Sonya as William John Raber's daughter, and a Social Security index names his parents William G. Raber and Alice L. Houser. On the right, an original 1940 census names Crystal Balliet and eleven children, including a one-year-old Floyd. Justin identifies Stanley and Crystal as Sonya's Floyd's parents. The dotted arrow marks that family identification, still awaiting an independent adult-to-child record.</desc>
   <rect width="1200" height="600" rx="20" fill="#f6f3ed"/>
   <rect width="12" height="600" fill="#218b83"/>
   <g font-family="Arial, sans-serif" fill="#203943">
     <text x="38" y="50" font-size="29" font-weight="700">Two paths from Sonya and Floyd</text>
-    <text x="38" y="78" font-size="15" fill="#52636a">A family-named Raber chain · Floyd's family identified; original adult bridge still open</text>
-    <text x="56" y="127" font-size="18" font-weight="700" fill="#935a2d">RABER · FAMILY ACCOUNT</text>
+    <text x="38" y="78" font-size="15" fill="#52636a">Sonya's father is on the 1950 census · Floyd's adult identity bridge remains open</text>
+    <text x="56" y="127" font-size="18" font-weight="700" fill="#935a2d">RABER · 1950 CENSUS + FEDERAL INDEX</text>
     <text x="652" y="127" font-size="18" font-weight="700" fill="#935a2d">BALLIET · ORIGINAL 1940 CENSUS</text>
     <rect x="38" y="145" width="524" height="78" rx="13" fill="#ffffff" stroke="#cba27c" stroke-width="2"/>
-    <text x="60" y="175" font-size="20" font-weight="700">William G. Raber + Alice L. Houser?</text>
-    <text x="60" y="200" font-size="14">George (Justin) / Glenmore (tree); Alice from tree</text>
+    <text x="60" y="175" font-size="20" font-weight="700">William G. Raber + Alice L. Houser</text>
+    <text x="60" y="200" font-size="14">1945 son index; G. = George or Glenmore unresolved</text>
     <path d="M300 223 V253" stroke="#b98151" stroke-width="3" stroke-dasharray="7 6"/>
     <rect x="38" y="253" width="524" height="76" rx="13" fill="#ffffff" stroke="#cba27c" stroke-width="2"/>
     <text x="60" y="283" font-size="20" font-weight="700">William John Raber</text>
-    <text x="60" y="306" font-size="14">Named by Justin as Sonya's father; record bridge open</text>
-    <path d="M300 329 V361" stroke="#b98151" stroke-width="3" stroke-dasharray="7 6"/>
+    <text x="60" y="306" font-size="14">1950: Shirley's husband; silk-mill spinner</text>
+    <path d="M300 329 V361" stroke="#218b83" stroke-width="3"/>
     <rect x="38" y="361" width="524" height="82" rx="13" fill="#e3f1ec" stroke="#218b83" stroke-width="2"/>
     <text x="60" y="392" font-size="21" font-weight="700">Sonya Raber / Balliet</text>
-    <text x="60" y="419" font-size="14">Shirley's daughter: 2018 obituary; William: family account</text>
+    <text x="60" y="419" font-size="14">William's daughter: 1950 census, age one</text>
     <rect x="634" y="145" width="528" height="80" rx="13" fill="#ffffff" stroke="#cba27c" stroke-width="2"/>
     <text x="654" y="175" font-size="20" font-weight="700">Crystal Balliet, 40 · widowed</text>
     <text x="654" y="201" font-size="14">Stanley death: 25 Dec 1937 in newspaper index</text>
