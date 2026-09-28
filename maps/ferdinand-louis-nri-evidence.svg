@@ -1,29 +1,33 @@
 <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1100 505" role="img" aria-labelledby="title desc">
   <title id="title">What we know about Ferdinand Louis Kramer's radio training</title>
-  <desc id="desc">Two evidence lanes separate the 1976 obituary's National Radio Institute graduation statement and Ferdinand's documented machine work from period school advertising and lessons. No record yet gives his enrollment motive, course, project or radio job.</desc>
+  <desc id="desc">A 1930 census marks a radio set in teenage Ferdinand Louis's family home, before his documented machine work and a 1976 obituary's National Radio Institute graduation claim. School advertisements show the era. No record gives his enrollment motive, course or project.</desc>
   <style>
     .bg{fill:#f8f5ee}.paper{fill:#fff;stroke:#d9e1df;stroke-width:1.5}.ink{fill:#183343}.muted{fill:#526973}.blue{fill:#dceceb}.sand{fill:#f5e8d5}.pink{fill:#f1e1dd}.rule{stroke:#aabdbd;stroke-width:2}.title{font:700 29px system-ui,sans-serif}.lead{font:15px system-ui,sans-serif}.lane{font:700 17px system-ui,sans-serif}.cardhead{font:700 17px system-ui,sans-serif}.body{font:14px system-ui,sans-serif}.foot{font:13px system-ui,sans-serif}
   </style>
   <rect class="bg" width="1100" height="505" rx="20"/>
   <text class="ink title" x="36" y="48">Ferdinand Louis (1913) and radio school</text>
-  <text class="muted lead" x="36" y="75">One later family notice says he graduated. The records of his own work point to wire rope.</text>
+  <text class="muted lead" x="36" y="75">A radio was in his childhood home. His later work was in wire rope; a notice reports radio study.</text>
   <text class="ink lane" x="36" y="116">HIS DOCUMENTED TRAIL</text>
-  <line class="rule" x1="48" y1="195" x2="810" y2="195"/>
+  <line class="rule" x1="48" y1="195" x2="1052" y2="195"/>
   <g transform="translate(36 132)">
-    <rect class="paper" width="234" height="123" rx="13"/><rect class="blue" width="234" height="9" rx="8"/>
-    <text class="ink cardhead" x="15" y="39">1936 • his signed form</text><text class="muted body" x="15" y="66">“Machinist apprentice”</text><text class="muted body" x="15" y="89">at marriage; no school</text><text class="muted body" x="15" y="110">or radio project named.</text>
+    <rect class="paper" width="194" height="123" rx="13"/><rect class="blue" width="194" height="9" rx="8"/>
+    <text class="ink cardhead" x="12" y="39">1930 • family home</text><text class="muted body" x="12" y="66">Age 16, 146 Prospect;</text><text class="muted body" x="12" y="89">a radio set marked.</text><text class="muted body" x="12" y="110">Who used it? Unknown.</text>
   </g>
-  <g transform="translate(286 132)">
-    <rect class="paper" width="234" height="123" rx="13"/><rect class="blue" width="234" height="9" rx="8"/>
-    <text class="ink cardhead" x="15" y="39">1940 • signed draft card</text><text class="muted body" x="15" y="66">American Chain &amp; Cable,</text><text class="muted body" x="15" y="89">Hazard Division; home</text><text class="muted body" x="15" y="110">at 19 Flick Street.</text>
+  <g transform="translate(244 132)">
+    <rect class="paper" width="194" height="123" rx="13"/><rect class="blue" width="194" height="9" rx="8"/>
+    <text class="ink cardhead" x="12" y="39">1936 • signed form</text><text class="muted body" x="12" y="66">Machinist apprentice</text><text class="muted body" x="12" y="89">at marriage; no school</text><text class="muted body" x="12" y="110">or project named.</text>
   </g>
-  <g transform="translate(536 132)">
-    <rect class="paper" width="234" height="123" rx="13"/><rect class="blue" width="234" height="9" rx="8"/>
-    <text class="ink cardhead" x="15" y="39">1950 • federal census</text><text class="muted body" x="15" y="66">Machine operator in a</text><text class="muted body" x="15" y="89">wire-rope works.</text><text class="muted body" x="15" y="110">No radio role recorded.</text>
+  <g transform="translate(452 132)">
+    <rect class="paper" width="194" height="123" rx="13"/><rect class="blue" width="194" height="9" rx="8"/>
+    <text class="ink cardhead" x="12" y="39">1940 • draft card</text><text class="muted body" x="12" y="66">American Chain &amp;</text><text class="muted body" x="12" y="89">Cable, Hazard Division;</text><text class="muted body" x="12" y="110">home at 19 Flick.</text>
   </g>
-  <g transform="translate(786 132)">
-    <rect class="paper" width="278" height="123" rx="13"/><rect class="sand" width="278" height="9" rx="8"/>
-    <text class="ink cardhead" x="15" y="39">1976 • obituary claim</text><text class="muted body" x="15" y="66">Graduated from National</text><text class="muted body" x="15" y="89">Radio Institute; lived at</text><text class="muted body" x="15" y="110">19 Flick Street at death.</text>
+  <g transform="translate(660 132)">
+    <rect class="paper" width="194" height="123" rx="13"/><rect class="blue" width="194" height="9" rx="8"/>
+    <text class="ink cardhead" x="12" y="39">1950 • census</text><text class="muted body" x="12" y="66">Machine operator in</text><text class="muted body" x="12" y="89">a wire-rope works;</text><text class="muted body" x="12" y="110">no radio job recorded.</text>
+  </g>
+  <g transform="translate(868 132)">
+    <rect class="paper" width="194" height="123" rx="13"/><rect class="sand" width="194" height="9" rx="8"/>
+    <text class="ink cardhead" x="12" y="39">1976 • obituary</text><text class="muted body" x="12" y="66">Says he graduated</text><text class="muted body" x="12" y="89">National Radio</text><text class="muted body" x="12" y="110">Institute.</text>
   </g>
   <text class="ink lane" x="36" y="296">THE SCHOOL'S ERA — CONTEXT, NOT HIS PERSONAL FILE</text>
   <g transform="translate(36 311)">
