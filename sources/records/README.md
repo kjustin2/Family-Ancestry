@@ -10,6 +10,14 @@
 
 [Short household story and four-stop visual](../../branches/other-paternal-lines.md#a-shared-boschkramer-home-on-park-avenue) · [363 Park Avenue today, with building-age caveat](../../context/family-home-photo-atlas.md).
 
+**The address on a period map.** These Library of Congress Sanborn plates locate a separate dwelling numbered **363 Park Avenue**, just west of Holy Rosary church. They map a footprint, not a facade or a named occupant; the original censuses above provide the household connection.
+
+| 1910 plate 36 | Revision through February 1950, plate 36 |
+| --- | --- |
+| <a href="sanborn-wilkes-barre-park-1910-plate36.jpg"><img src="../../media/park-avenue-1910-sanborn-detail.jpg" alt="1910 Sanborn detail with a separate 363 Park Avenue dwelling next to Holy Rosary" width="500"></a> | <a href="sanborn-wilkes-barre-park-1950-plate36.jpg"><img src="../../media/park-avenue-1950-sanborn-detail.jpg" alt="1950 revised Sanborn detail still numbering a dwelling 363 Park Avenue" width="500"></a> |
+
+[1910 Library of Congress plate](https://www.loc.gov/resource/g3824wm.g3824wm_g08049191002/?sp=39) · [1950 revised Library of Congress plate](https://www.loc.gov/resource/g3824wm.g3824wm_g08049195002/?sp=41) · [map comparison and limits](../../context/family-home-photo-atlas.md#363-park-avenue-a-mapped-house-beside-holy-rosary). The saved 1910 plate is full resolution; the saved 1950 plate is a 45% Library of Congress scan. The displayed details are crops; map by Sanborn Map Company, Library of Congress Geography and Map Division, public domain.
+
 ### Andrews, Kennedy, Ferdinand Louis and Mary Kramer, 1900–40
 
 | Original image | Read this first |
