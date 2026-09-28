@@ -18,6 +18,10 @@ The [family-homes gallery](../context/family-homes.md) shows three **externally 
 - [Burruss Hall at Virginia Tech, June 2007](virginia-tech-burruss-hall-2007.jpg): unmodified 2,400 × 2,432 photograph by **EpicV27**, [CC BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0/), via its [Commons item](https://commons.wikimedia.org/wiki/File:Burruss_Hall_Virginia_Tech.jpg). This is a place view from before Ashley's family-reported attendance, not a photograph of her or a record of her classes.
 - [Washington Navy Yard aerial](washington-navy-yard-aerial-1980-2006.jpg): existing [Library of Congress item](https://www.loc.gov/item/2011634490/) for John and Alice Weatherford's **family-reported** workplace. Neither is identified in the image. [Recent-generation reading view](../context/recent-generations.md).
 
+## Census details
+
+- [438/440 Holden census detail](cordaro-holden-1940-census-detail.jpg): straight crop of the public-domain [1940 federal census, ED 40-277, sheet 15A](../sources/records/joseph-dina-cordaro-census-1940.jpg), lines 11–14. It makes the adjacent Cordaro household names, house numbers and housing entries legible; it omits the sheet's street label and the occupation/wage columns. [House story and caveats](../branches/cordaro-passport-lead.md#two-holden-street-numbers-on-one-census-page).
+
 ## Family-supplied originals
 
 - [Cordaro family portrait](../sources/family/cordaro-family-portrait-unidentified.jpg): Justin identifies the group as Cordaros and estimates the 1930s. A visual review leans toward the **1920s**, with a broad **c. 1915–1935** range and low confidence. The six people, place and exact date are unknown. See the [passport and photo note](../branches/cordaro-passport-lead.md) before identifying anyone in the image.
