@@ -130,3 +130,15 @@ The displayed detail is cropped from the [unaltered 1916 Luzerne County marriage
 ![Steve and Fannie Mattina's 1940 Holden Street census detail](mattina-household-1940-detail.jpg)
 
 This is a reading crop of the [unaltered 1940 census page](../sources/records/steve-fannie-mattina-household-census-1940.jpg), ED 40-277, sheet 13B, lines 49–58, [FamilySearch image](https://www.familysearch.org/ark:/61903/3:1:3QS7-L9MT-TPTS?view=index&personArk=%2Fark%3A%2F61903%2F1%3A1%3AKQ7W-KSD&action=view&lang=en). It lists the family and number **419**; the preceding 13A sheet writes Holden Street for the numbered run. Crops do not replace the full original pages.
+
+![Milocca act 35 recording Calogera Cordaro's birth in 1900](calogera-cordaro-birth-1900-detail.jpg)
+
+This crop of the [unaltered Italian act](../sources/records/calogera-cordaro-birth-1900.jpg) shows Antonio Cordaro and Pietra Magro naming daughter Calogera. It says she was born **19 June 1900** and the act was made **22 June**. [FamilySearch original](https://www.familysearch.org/ark:/61903/3:1:3QSQ-G9MX-C4Q8?view=index&personArk=%2Fark%3A%2F61903%2F1%3A1%3AXQ75-4C2V&action=view&lang=en); the crop changes framing only.
+
+![1930 census detail of Steve and Fannie Mattina at 417 Holden](mattina-household-1930-detail.jpg)
+
+This reading crop comes from the [unaltered 1930 census](../sources/records/steve-fannie-mattina-household-census-1930.jpg), ED 40-220, sheet 2A, lines 4–12. It includes **417 Holden**, the owned-home mark and the reported **$4,600** value. [Original viewer](https://www.familysearch.org/ark:/61903/3:1:33SQ-GRZN-QLM?view=index&personArk=%2Fark%3A%2F61903%2F1%3A1%3AXH74-DZC&action=view&lang=en).
+
+![1950 census detail of Steve and Fanny Mattina at 419 Holden](mattina-household-1950-detail.jpg)
+
+This reading crop comes from the [unaltered 1950 census](../sources/records/steve-fannie-mattina-household-census-1950.jpg), ED 40-443, sheet 17, lines 11–18. It includes **419 Holden** and the listed family; the full sheet supplies the occupation columns. [Original viewer](https://www.familysearch.org/ark:/61903/3:1:3QHN-PQHW-FCH3?view=index&personArk=%2Fark%3A%2F61903%2F1%3A1%3A6XBR-KPZN&action=view&lang=en).

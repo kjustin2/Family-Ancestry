@@ -213,6 +213,10 @@ The [public 1916 Oyster Bay town-record scan](https://archive.org/details/oyster
 
 ### Fanny Cordaro Mattina: a parent-naming marriage and a new Holden address
 
+<a href="calogera-cordaro-birth-1900.jpg"><img src="../../media/calogera-cordaro-birth-1900-detail.jpg" alt="Milocca act 35 recording Calogera Cordaro's 19 June 1900 birth to Antonio Cordaro and Pietra Magro" width="620"></a>
+
+The [original Italian act](https://www.familysearch.org/ark:/61903/3:1:3QSQ-G9MX-C4Q8?view=index&personArk=%2Fark%3A%2F61903%2F1%3A1%3AXQ75-4C2V&action=view&lang=en) dates **Calogera's birth 19 June 1900**, recorded 22 June; father Antonio was a farm worker. The unmodified full image is saved above. The second FamilySearch index agrees on the 19th, but another says the 29th and later American papers say the 18th. [Identity evidence and translation](../../branches/cordaro-passport-lead.md#fannie-crosses-the-same-street).
+
 <a href="stephen-mattina-fanny-cordaro-marriage-1916.jpg"><img src="../../media/mattina-cordaro-marriage-1916-detail.jpg" alt="1916 Luzerne marriage docket naming Stephen Mattina, Fanny Cordaro and her parents Anthony and Petra" width="620"></a>
 
 The [original Luzerne docket no. 76574](https://www.familysearch.org/ark:/61903/3:1:33SQ-GPT9-9WJK?view=index&personArk=%2Fark%3A%2F61903%2F1%3A1%3AKHF2-FBB&action=view&lang=en) records **Stephen Mattina and Fanny Cordaro's 13 August 1916 marriage**. The bride names Anthony and Petra as parents; the online surname index says *Kadali*, but the original and other parent-linked records identify the Cordaro household. The unaltered full spread is saved above; the displayed detail is cropped for legibility.
@@ -220,6 +224,12 @@ The [original Luzerne docket no. 76574](https://www.familysearch.org/ark:/61903/
 <a href="steve-fannie-mattina-household-census-1940.jpg"><img src="../../media/mattina-household-1940-detail.jpg" alt="1940 West Wyoming census listing Steve and Fannie Mattina and eight children at number 419" width="620"></a>
 
 The [1940 original, ED 40-277, sheet 13B, lines 49–58](https://www.familysearch.org/ark:/61903/3:1:3QS7-L9MT-TPTS?view=index&personArk=%2Fark%3A%2F61903%2F1%3A1%3AKQ7W-KSD&action=view&lang=en) lists **419 Holden**, with $15 monthly rent. The adjoining **sheet 13A** supplies the vertical Holden Street label. In 1920 Fannie, Stephen and daughter Marion had lived with Anthony/Pietra at **438 Holden**. [Story and street visual](../../branches/cordaro-passport-lead.md#fannie-crosses-the-same-street) · [today's 419 street-view page](https://www.realtor.com/realestateandhomes-detail/419-Holden-St_Wyoming_PA_18644_M44209-67513). Current building continuity is unproved.
+
+<a href="steve-fannie-mattina-household-census-1930.jpg"><img src="../../media/mattina-household-1930-detail.jpg" alt="1930 census: Steve and Fannie at 417 Holden, a home reported owned and valued at 4,600 dollars" width="620"></a>
+<a href="steve-fannie-mattina-household-census-1950.jpg"><img src="../../media/mattina-household-1950-detail.jpg" alt="1950 census: Steve and Fanny Mattina at 419 Holden with several grown children" width="620"></a>
+<a href="fannie-mattina-naturalization-index-1952.jpg"><img src="fannie-mattina-naturalization-index-1952.jpg" alt="1952 Fannie Mattina citizenship card repeating the 3 September 1909 arrival and 419 Holden address" width="620"></a>
+
+The [1930 census](https://www.familysearch.org/ark:/61903/3:1:33SQ-GRZN-QLM?view=index&personArk=%2Fark%3A%2F61903%2F1%3A1%3AXH74-DZC&action=view&lang=en) places the family at **417**, marked owned and valued **$4,600**. The [1950 census](https://www.familysearch.org/ark:/61903/3:1:3QHN-PQHW-FCH3?view=index&personArk=%2Fark%3A%2F61903%2F1%3A1%3A6XBR-KPZN&action=view&lang=en) and [official 1952 citizenship index](https://www.familysearch.org/ark:/61903/3:1:3QSQ-G9LR-W9VM-L?view=index&personArk=%2Fark%3A%2F61903%2F1%3A1%3A6KGK-ZBMC&action=view&lang=en) repeat **419**. The card's 1909 arrival date is the strongest link between Calogera and Fannie; it is still an identity inference across records. These are unaltered original downloads except the clearly labeled reading crops. [Today’s 417 photos](https://www.redfin.com/PA/West-Wyoming/417-Holden-St-18644/home/134069708) are context, not a period family photograph.
 
 ![Undated portrait tagged as Hilda Kramer Wolosz](../family/hilda-kramer-wolosz-portrait-undated.jpg)
 

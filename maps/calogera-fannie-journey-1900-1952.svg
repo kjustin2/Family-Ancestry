@@ -1,0 +1,41 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1320" height="395" viewBox="0 0 1320 395" role="img" aria-labelledby="title desc">
+  <title id="title">Calogera Cordaro to Fannie Mattina: a Sicilian birth, an Atlantic crossing, and three Holden Street homes</title>
+  <desc id="desc">Original records trace Calogera born in Milocca in 1900, arriving in New York in 1909, Fanny marrying in 1916, the Mattinas reporting an owned home at 417 Holden in 1930, and Fannie living at 419 Holden in 1940, 1950 and at her 1952 naturalization. The Calogera–Fannie name link is supported by matching parents and arrival date, but no record explicitly equates the names.</desc>
+  <rect width="1320" height="395" rx="18" fill="#f4f3ec"/>
+  <rect width="10" height="395" fill="#278278"/>
+  <g font-family="Arial, sans-serif">
+    <text x="35" y="46" fill="#163d43" font-size="27" font-weight="700">Calogera → Fannie: one likely life across two names</text>
+    <text x="35" y="72" fill="#52656a" font-size="15">Parents + exact arrival day join the records; her reason for using “Fannie” is unknown.</text>
+    <path d="M239 205 H277 M494 205 H532 M749 205 H787 M1004 205 H1042" stroke="#a97742" stroke-width="4"/>
+    <g fill="#fff" stroke="#bad4cd" stroke-width="2">
+      <rect x="30" y="108" width="209" height="205" rx="13"/>
+      <rect x="285" y="108" width="209" height="205" rx="13"/>
+      <rect x="540" y="108" width="209" height="205" rx="13"/>
+      <rect x="795" y="108" width="209" height="205" rx="13"/>
+      <rect x="1050" y="108" width="239" height="205" rx="13"/>
+    </g>
+    <g fill="#287c74" font-size="16" font-weight="700">
+      <text x="47" y="137">1900 · MILOCCA</text>
+      <text x="302" y="137">1909 · NEW YORK</text>
+      <text x="557" y="137">1916 · MARRIAGE</text>
+      <text x="812" y="137">1930 · 417 HOLDEN</text>
+      <text x="1067" y="137">1940–52 · 419 HOLDEN</text>
+    </g>
+    <g fill="#173e43" font-size="19" font-weight="700">
+      <text x="47" y="170">Calogera born</text>
+      <text x="302" y="170">Age nine at sea</text>
+      <text x="557" y="170">Fanny + Stephen</text>
+      <text x="812" y="170">Owned home</text>
+      <text x="1067" y="170">Rented; then citizen</text>
+    </g>
+    <g fill="#4a5e62" font-size="15">
+      <text x="47" y="199">Antonio Cordaro +</text><text x="47" y="221">Pietra Magro</text><text x="47" y="270">Birth act no. 35</text>
+      <text x="302" y="199">With mother + sister</text><text x="302" y="221">on the Calabria</text><text x="302" y="270">Arrived 3 September</text>
+      <text x="557" y="199">Names the same</text><text x="557" y="221">parents in docket</text><text x="557" y="270">Luzerne no. 76574</text>
+      <text x="812" y="199">Stephen: coal-mine</text><text x="812" y="221">laborer</text><text x="812" y="270">Reported $4,600 value</text>
+      <text x="1067" y="199">1940: $15 monthly rent</text><text x="1067" y="221">1950: same address</text><text x="1067" y="243">1952: naturalization</text><text x="1067" y="270">Card repeats 1909 arrival</text>
+    </g>
+    <text x="35" y="352" fill="#6f552e" font-size="14">Sources: Italian birth act; Calabria manifest; 1916 marriage; 1930, 1940, 1950 censuses; 1952 naturalization index.</text>
+    <text x="35" y="374" fill="#6f552e" font-size="14">1930's value is a census report, not net worth. Neither a deed nor a reason for the 417 → 419 move has been found.</text>
+  </g>
+</svg>
