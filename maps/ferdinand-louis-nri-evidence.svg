@@ -1,0 +1,40 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1100 505" role="img" aria-labelledby="title desc">
+  <title id="title">What we know about Ferdinand Louis Kramer's radio training</title>
+  <desc id="desc">Two evidence lanes separate the 1976 obituary's National Radio Institute graduation statement and Ferdinand's documented machine work from period school advertising and lessons. No record yet gives his enrollment motive, course, project or radio job.</desc>
+  <style>
+    .bg{fill:#f8f5ee}.paper{fill:#fff;stroke:#d9e1df;stroke-width:1.5}.ink{fill:#183343}.muted{fill:#526973}.blue{fill:#dceceb}.sand{fill:#f5e8d5}.pink{fill:#f1e1dd}.rule{stroke:#aabdbd;stroke-width:2}.title{font:700 29px system-ui,sans-serif}.lead{font:15px system-ui,sans-serif}.lane{font:700 17px system-ui,sans-serif}.cardhead{font:700 17px system-ui,sans-serif}.body{font:14px system-ui,sans-serif}.foot{font:13px system-ui,sans-serif}
+  </style>
+  <rect class="bg" width="1100" height="505" rx="20"/>
+  <text class="ink title" x="36" y="48">Ferdinand Louis (1913) and radio school</text>
+  <text class="muted lead" x="36" y="75">One later family notice says he graduated. The records of his own work point to wire rope.</text>
+  <text class="ink lane" x="36" y="116">HIS DOCUMENTED TRAIL</text>
+  <line class="rule" x1="48" y1="195" x2="810" y2="195"/>
+  <g transform="translate(36 132)">
+    <rect class="paper" width="234" height="123" rx="13"/><rect class="blue" width="234" height="9" rx="8"/>
+    <text class="ink cardhead" x="15" y="39">1936 • his signed form</text><text class="muted body" x="15" y="66">“Machinist apprentice”</text><text class="muted body" x="15" y="89">at marriage; no school</text><text class="muted body" x="15" y="110">or radio project named.</text>
+  </g>
+  <g transform="translate(286 132)">
+    <rect class="paper" width="234" height="123" rx="13"/><rect class="blue" width="234" height="9" rx="8"/>
+    <text class="ink cardhead" x="15" y="39">1940 • signed draft card</text><text class="muted body" x="15" y="66">American Chain &amp; Cable,</text><text class="muted body" x="15" y="89">Hazard Division; home</text><text class="muted body" x="15" y="110">at 19 Flick Street.</text>
+  </g>
+  <g transform="translate(536 132)">
+    <rect class="paper" width="234" height="123" rx="13"/><rect class="blue" width="234" height="9" rx="8"/>
+    <text class="ink cardhead" x="15" y="39">1950 • federal census</text><text class="muted body" x="15" y="66">Machine operator in a</text><text class="muted body" x="15" y="89">wire-rope works.</text><text class="muted body" x="15" y="110">No radio role recorded.</text>
+  </g>
+  <g transform="translate(786 132)">
+    <rect class="paper" width="278" height="123" rx="13"/><rect class="sand" width="278" height="9" rx="8"/>
+    <text class="ink cardhead" x="15" y="39">1976 • obituary claim</text><text class="muted body" x="15" y="66">Graduated from National</text><text class="muted body" x="15" y="89">Radio Institute; lived at</text><text class="muted body" x="15" y="110">19 Flick Street at death.</text>
+  </g>
+  <text class="ink lane" x="36" y="296">THE SCHOOL'S ERA — CONTEXT, NOT HIS PERSONAL FILE</text>
+  <g transform="translate(36 311)">
+    <rect class="paper" width="484" height="90" rx="13"/><rect class="sand" width="9" height="90" rx="8"/>
+    <text class="ink cardhead" x="23" y="31">1926 advertisement</text><text class="muted body" x="23" y="57">Home lessons, mailed practice equipment,</text><text class="muted body" x="23" y="77">and promised technical opportunities.</text>
+  </g>
+  <g transform="translate(536 311)">
+    <rect class="paper" width="528" height="90" rx="13"/><rect class="sand" width="9" height="90" rx="8"/>
+    <text class="ink cardhead" x="23" y="31">1930 course outline</text><text class="muted body" x="23" y="57">Circuits, vacuum tubes, receivers and troubleshooting;</text><text class="muted body" x="23" y="77">we do not know which lessons he took.</text>
+  </g>
+  <rect class="pink" x="36" y="422" width="1028" height="52" rx="12"/>
+  <text class="ink cardhead" x="54" y="445">Still unknown:</text><text class="ink body" x="180" y="445">why he enrolled • when he graduated • what he built • whether he used the training at work</text>
+  <text class="muted foot" x="36" y="494">Obituary is a retrospective family notice. No diploma, NRI student file, project or radio occupation has been found.</text>
+</svg>

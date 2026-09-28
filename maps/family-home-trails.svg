@@ -1,6 +1,6 @@
 <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1080 555" role="img" aria-labelledby="title desc">
   <title id="title">Six family home address trails</title>
-  <desc id="desc">Dated addresses for Kramer, Sponenberg, Cordaro, Miller, Blevins-Smith and Weatherford lines. Kramer's 146 Prospect and 19 Flick nodes belong to separate father and son households. Lines are family address trails, not geographic distance or proof that modern buildings survive.</desc>
+  <desc id="desc">Dated addresses for Kramer, Sponenberg, Cordaro, Miller, Blevins-Smith and Weatherford lines. Kramer's 146 Prospect and 19 Flick nodes belong to separate father and son households; 19 Flick appears again in a 1976 obituary. The Weatherford lane reaches from Danville's 824 Noble to two Fairfax County houses. Lines are family address trails, not geographic distance or proof that modern buildings survive.</desc>
   <style>
     .bg{fill:#f8f5ef}.ink{fill:#1e2933}.muted{fill:#60717d}.line{stroke:#bdcbd1;stroke-width:3}.card{fill:#fff;stroke:#d9e1e2;stroke-width:1}.name{font:700 19px system-ui,sans-serif}.place{font:600 15px system-ui,sans-serif}.small{font:13px system-ui,sans-serif}.head{font:700 28px system-ui,sans-serif}.pill{fill:#e8f0eb}.pilltext{fill:#41604c;font:600 12px system-ui,sans-serif}.node{stroke:#fff;stroke-width:3}
   </style>
@@ -10,7 +10,7 @@
   <g transform="translate(30,96)">
     <rect class="card" width="1020" height="65" rx="13"/><text class="name ink" x="18" y="27">Kramer</text><text class="small muted" x="18" y="47">Wilkes-Barre</text>
     <line class="line" x1="220" y1="33" x2="770" y2="33"/><circle class="node" cx="220" cy="33" r="10" fill="#a66248"/><circle class="node" cx="500" cy="33" r="10" fill="#a66248"/><circle class="node" cx="770" cy="33" r="10" fill="#a66248"/>
-    <text class="place ink" x="237" y="29">22 / 17 Susquehanna</text><text class="small muted" x="237" y="48">1880s–1904 directories</text><text class="place ink" x="517" y="29">146 Prospect</text><text class="small muted" x="517" y="48">father, 1914–51</text><text class="place ink" x="787" y="29">19 Flick St.</text><text class="small muted" x="787" y="48">son + Mary, c. 1940</text>
+    <text class="place ink" x="237" y="29">22 / 17 Susquehanna</text><text class="small muted" x="237" y="48">1880s–1904 directories</text><text class="place ink" x="517" y="29">146 Prospect</text><text class="small muted" x="517" y="48">father, 1914–51</text><text class="place ink" x="787" y="29">19 Flick St.</text><text class="small muted" x="787" y="48">son + Mary, 1940 and 1976</text>
   </g>
   <g transform="translate(30,169)">
     <rect class="card" width="1020" height="65" rx="13"/><text class="name ink" x="18" y="27">Sponenberg</text><text class="small muted" x="18" y="47">Berwick / Salem</text>
@@ -31,7 +31,8 @@
     <text class="place ink" x="277" y="29">902 E. Watauga</text><text class="small muted" x="277" y="48">1940–41 records</text><text class="place ink" x="747" y="29">6330 Miller Dr.</text><text class="small muted" x="747" y="48">1986 marriage return</text>
   </g>
   <g transform="translate(30,461)">
-    <rect class="card" width="1020" height="65" rx="13"/><text class="name ink" x="18" y="27">Weatherford</text><text class="small muted" x="18" y="47">Fairfax County</text>
-    <circle class="node" cx="730" cy="33" r="10" fill="#b66c76"/><text class="place ink" x="747" y="29">6312 Miller Dr.</text><text class="small muted" x="747" y="48">1980 title; 1986 marriage return</text>
+    <rect class="card" width="1020" height="65" rx="13"/><text class="name ink" x="18" y="27">Weatherford</text><text class="small muted" x="18" y="47">Danville → Fairfax</text>
+    <line class="line" x1="245" y1="33" x2="795" y2="33"/><circle class="node" cx="245" cy="33" r="10" fill="#b66c76"/><circle class="node" cx="520" cy="33" r="10" fill="#b66c76"/><circle class="node" cx="795" cy="33" r="10" fill="#b66c76"/>
+    <text class="place ink" x="262" y="29">824 Noble</text><text class="small muted" x="262" y="48">1937 + 1951 deaths</text><text class="place ink" x="537" y="29">6312 Miller</text><text class="small muted" x="537" y="48">1980 + 1986</text><text class="place ink" x="812" y="29">6307 Colette</text><text class="small muted" x="812" y="48">later family home</text>
   </g>
 </svg>

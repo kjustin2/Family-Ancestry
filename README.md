@@ -1,6 +1,6 @@
 # Family history atlas
 
-An evidence-led map of Justin and Ashley's family history. **Research snapshot: 27 September 2026.** This is a working history, not a certified pedigree.
+An evidence-led map of Justin and Ashley's family history. **Research snapshot: 28 September 2026.** This is a working history, not a certified pedigree.
 
 ## Start here
 
@@ -11,7 +11,7 @@ An evidence-led map of Justin and Ashley's family history. **Research snapshot: 
 | **What do we know about our own generations?** | [Recent generations: parents, Justin, Alex and Ashley](context/recent-generations.md) |
 | **What happened when?** | [Ten clickable line timelines](explore/line-timelines.html) → [interactive overall timeline](explore/timeline.html) |
 | **What were their lives like?** | [Four short storyboards](context/family-storyboards.md) → [work and assets](research/assets-by-generation.md) |
-| **Where were they?** | [Family geography atlas](context/geography-atlas.md) → [homes we can see](context/family-homes.md) → [migration stories](context/immigration-stories.md) |
+| **Where were they?** | [Family geography atlas](context/geography-atlas.md) → [address and photo atlas](context/family-home-photo-atlas.md) → [Sponenberg house photographs](context/family-homes.md) → [migration stories](context/immigration-stories.md) |
 | **What is the proof?** | [Photographs and artifacts](context/faces-and-places.md) → [original record gallery](sources/records/README.md) → [source ledger](research/sources.md) |
 
 ### The family at a glance
@@ -62,11 +62,11 @@ Open the [linked family tree](FAMILY-TREE.md) to follow names generation by gene
 - [Carl Miller and Agent Orange: evidence check](research/carl-miller-agent-orange.md): his reported exposure, VA's location rules, and the military and medical records still needed.
 - [Annie Neathery's Phelps and Danville family](branches/neathery-phelps.md): an 1889 North Carolina marriage names both parent pairs; an 1880 candidate household records schooling and farm work; the 1900 census explains why Mary Moring was probably her stepmother.
 - [Family places across generations](context/family-place-sequences.md): mapped Muncy Valley → Berwick → Muncy regional return, plus Kramer, Cordaro and Weatherford place sequences with evidence gaps shown.
-- [Family home and photo atlas](context/family-home-photo-atlas.md): a six-line visual leads to documented Kramer, Sponenberg, Cordaro, Miller, Blevins, Smith and Weatherford addresses, original record scans, and current house galleries. The [Andrews–Kennedy story](branches/andrews-kennedy.md) now follows an Ireland-born Kennedy household in 1900 through Mary's 1929 death and Frank's 1930 **71 Flick Street** home; a transcribed 1929 notice says **21 Flick**, and the house-number difference needs checking.
+- [Family home and photo atlas](context/family-home-photo-atlas.md): a six-line visual leads to documented Kramer, Sponenberg, Cordaro, Miller, Blevins, Smith and Weatherford addresses, original record scans, and current house galleries. Two original certificates add the Weatherford family's **824 Noble** address in Danville and a present-day exterior link; Ferdinand Louis's 1976 obituary repeats **19 Flick Street**, first seen in 1940. The [Andrews–Kennedy story](branches/andrews-kennedy.md) follows Frank's 1930 **71 Flick** home; a transcribed 1929 notice says **21 Flick**, and the house-number difference needs checking.
 - [Ashley's immigration question](branches/ashley-immigration.md): a [four-path evidence visual](maps/ashley-arrival-status.svg) shows what the present records establish and the exact links still needed to date an arrival.
 - [Immigration stories and evidence windows](context/immigration-stories.md): a concise comparison of the Kramer, Mulhall, Corbett, Disqué and Cordaro crossings, their period context, and the unanswered personal reasons.
 - [Places, education, and events](context/places-and-schools.md).
-- [Education across generations](context/education-across-generations.md): a visual school trail including the Kramer radio-to-engineering/computing story, plus Berwick, Fairfax and Virginia Tech, with evidence and unanswered years.
+- [Education across generations](context/education-across-generations.md): a visual school trail including the Kramer radio-to-engineering/computing story, plus Berwick, Fairfax and Virginia Tech. The [Ferdinand Louis NRI evidence graphic](maps/ferdinand-louis-nri-evidence.svg) separates his obituary's graduation report from the still-unknown reason for studying and any personal radio project.
 - [Agnes in the family's places](context/agnes-1972.md): a visual comparison of the 1972 flood in Wilkes-Barre, Berwick and northern Virginia, with family impact kept separate from local history.
 - [Growing up around Franconia](context/franconia-growing-up.md): schools, suburban growth, racing and crime in the years Ashley's parents remember, with a [population chart](maps/fairfax-growth-1950-1985.svg).
 - [The families in their times](context/family-in-its-times.md): local events and carefully bounded migration explanations.
