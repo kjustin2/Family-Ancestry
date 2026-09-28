@@ -23,6 +23,12 @@
 
 ## Addresses that need a better pin
 
+### West Wyoming on 26 June 1950
+
+<a href="../sources/records/pennpilot-west-wyoming-aerial-1950.jpg"><img src="../media/west-wyoming-neighborhood-aerial-1950.jpg" alt="USDA aerial photograph of West Wyoming streets, rooftops and nearby fields in June 1950" width="680"></a>
+
+This [USDA photograph in Penn State's PennPilot archive](https://www.pasda.psu.edu/pennpilot/era1950/luzerne_1950/luzerne_1950_photos_tif/luzerne_062650_arb_1f_11.tif.zip) shows the wider West Wyoming area a few weeks after the [Cordaro 1950 census](../branches/cordaro-passport-lead.md#two-cordaro-households-and-two-patricias-1950). Its mapped tile overlaps the modern 438 Holden point, but the crop is **neighborhood context, not a located Cordaro roof**. Resolving the census street label and comparing a georeferenced parcel map are required before drawing a house marker on this photograph.
+
 ### 363 Park Avenue: a mapped house beside Holy Rosary
 
 | 1910: during the Bosch–Kramer census years | Revised to February 1950: later address footprint |

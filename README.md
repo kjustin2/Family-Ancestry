@@ -14,6 +14,8 @@ An evidence-led map of Justin and Ashley's family history. **Research snapshot: 
 | **Where were they?** | [Family geography atlas](context/geography-atlas.md) → [address and photo atlas](context/family-home-photo-atlas.md) → [Sponenberg house photographs](context/family-homes.md) → [migration stories](context/immigration-stories.md) |
 | **What is the proof?** | [Photographs and artifacts](context/faces-and-places.md) → [original record gallery](sources/records/README.md) → [source ledger](research/sources.md) |
 
+**New period view:** [West Wyoming from the air in June 1950](context/family-home-photo-atlas.md#west-wyoming-on-26-june-1950) shows the streets and roofs around the Cordaro address area. The precise family house still needs a verified street and building match.
+
 ### The family at a glance
 
 - **Justin Kramer** ← [Paul Kramer](branches/kramer.md) and [Melissa Miller Kramer](branches/maternal-kramer-side.md). Paul's [Kramer and Cordaro ancestors](FAMILY-TREE.md#justins-paternal-paths) reach Germany and Italy; Melissa's [Miller, Raber, Kreischer, Sponenberg and Balliet branches](FAMILY-TREE.md#justins-maternal-paths) center on Pennsylvania.
