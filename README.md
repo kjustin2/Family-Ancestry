@@ -14,7 +14,7 @@ An evidence-led map of Justin and Ashley's family history. **Research snapshot: 
 | **Where were they?** | [Family geography atlas](context/geography-atlas.md) → [address and photo atlas](context/family-home-photo-atlas.md) → [Sponenberg house photographs](context/family-homes.md) → [migration stories](context/immigration-stories.md) |
 | **What is the proof?** | [Photographs and artifacts](context/faces-and-places.md) → [original record gallery](sources/records/README.md) → [source ledger](research/sources.md) |
 
-**New period view:** [West Wyoming from the air in June 1950](context/family-home-photo-atlas.md#west-wyoming-on-26-june-1950) shows the streets and roofs around the Cordaro address area. The precise family house still needs a verified street and building match.
+**New period views:** [West Wyoming](context/family-home-photo-atlas.md#west-wyoming-on-26-june-1950) around the Cordaros and [Parsons/Flick Street](context/family-home-photo-atlas.md#parsons-and-flick-street-on-26-june-1950) around Ferdinand Louis's home, both photographed from the air in June 1950. Each is neighborhood context until a specific roof is verified. [The three Ferdinands in two homes](maps/kramer-three-ferdinands-1950.svg) separates their repeated names.
 
 ### The family at a glance
 

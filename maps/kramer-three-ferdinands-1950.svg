@@ -1,0 +1,35 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1120 405" role="img" aria-labelledby="title desc">
+  <title id="title">Three Ferdinand Kramers, two 1950 homes</title>
+  <desc id="desc">The older Ferdinand, about 67, was at house number 146 with daughter Hilda. His son Ferdinand Louis, 36, was at 19 Flick Street with wife Mary and their son Ferdinand, 11, later known as Fred. The two original census sheets place them in separate Wilkes-Barre households.</desc>
+  <style>
+    .bg{fill:#f7f4ec}.card{fill:#fff;stroke:#b8cac8;stroke-width:2}.tag{fill:#d9eae7}.tag2{fill:#f5e5ca}.ink{fill:#19333d}.soft{fill:#50646d}.title{font:700 30px system-ui,sans-serif}.intro{font:16px system-ui,sans-serif}.name{font:700 22px system-ui,sans-serif}.small{font:15px system-ui,sans-serif}.foot{font:13px system-ui,sans-serif}.line{stroke:#78938e;stroke-width:3;fill:none}.dot{fill:#78938e}
+  </style>
+  <rect class="bg" width="1120" height="405" rx="22"/>
+  <text class="ink title" x="36" y="49">Three Ferdinands in 1950</text>
+  <text class="soft intro" x="36" y="78">Two Wilkes-Barre census sheets separate the grandfather’s home from his son’s young family.</text>
+  <rect class="card" x="34" y="113" width="336" height="196" rx="16"/>
+  <rect class="tag" x="50" y="129" width="130" height="27" rx="12"/>
+  <text class="ink small" x="64" y="148">GRANDFATHER</text>
+  <text class="ink name" x="50" y="187">Ferdinand (c. 1882)</text>
+  <text class="soft small" x="50" y="220">67 • widowed • house no. 146</text>
+  <text class="soft small" x="50" y="245">With daughter Hilda and Joseph Wolosz</text>
+  <text class="soft small" x="50" y="270">Not working during census week</text>
+  <path class="line" d="M371 209 H390"/><circle class="dot" cx="390" cy="209" r="5"/>
+  <rect class="card" x="391" y="113" width="336" height="196" rx="16"/>
+  <rect class="tag" x="407" y="129" width="81" height="27" rx="12"/>
+  <text class="ink small" x="421" y="148">SON</text>
+  <text class="ink name" x="407" y="187">Ferdinand Louis (1913)</text>
+  <text class="soft small" x="407" y="220">36 • 19 Flick Street</text>
+  <text class="soft small" x="407" y="245">With wife Mary, sons Fred and Paul</text>
+  <text class="soft small" x="407" y="270">Machine operator • wire-rope works</text>
+  <path class="line" d="M728 209 H747"/><circle class="dot" cx="747" cy="209" r="5"/>
+  <rect class="card" x="748" y="113" width="338" height="196" rx="16"/>
+  <rect class="tag2" x="764" y="129" width="125" height="27" rx="12"/>
+  <text class="ink small" x="778" y="148">GRANDSON</text>
+  <text class="ink name" x="764" y="187">Fred (1939)</text>
+  <text class="soft small" x="764" y="220">Recorded “Ferdinand,” age 11</text>
+  <text class="soft small" x="764" y="245">At 19 Flick with his parents</text>
+  <text class="soft small" x="764" y="270">Age conflicts with July 1939 obituary birth</text>
+  <text class="soft foot" x="36" y="351">Source: 1950 census, Wilkes-Barre ED 80-71 sheet 13 and ED 80-125 sheet 4.</text>
+  <text class="soft foot" x="36" y="374">Kinship bridge: Hilda’s obituary and Fred’s obituary; the census alone does not name the older man as Ferdinand Louis’s father.</text>
+</svg>
