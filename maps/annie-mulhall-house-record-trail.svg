@@ -1,0 +1,22 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1100" height="260" viewBox="0 0 1100 260" role="img" aria-labelledby="title desc">
+  <title id="title">The record trail for Annie M. Mulhall's 1879 Capitol Hill house</title>
+  <desc id="desc">An 1866 marriage reference pairs James E Mulhall and Annie M Burns; a DC building record names Annie as original owner of 520 Fifth Street Southeast in 1879; a 1920 obituary index puts police Captain James E Mulhall at that address; a modern exterior gallery shows the extant building. The couple identity is a strong inference, not directly stated by the house record.</desc>
+  <rect width="1100" height="260" rx="14" fill="#f4f0e7"/>
+  <rect width="9" height="260" fill="#6b6650"/>
+  <g font-family="Segoe UI, Arial, sans-serif">
+    <text x="32" y="38" font-size="25" font-weight="700" fill="#263b3d">A house with a name in its building record</text>
+    <text x="32" y="63" font-size="15" fill="#52605d">520 Fifth Street SE, Washington, DC · connect each point to its source below</text>
+    <line x1="154" y1="110" x2="949" y2="110" stroke="#b9b4a4" stroke-width="4"/>
+    <g fill="#37676c"><circle cx="154" cy="110" r="8"/><circle cx="421" cy="110" r="8"/><circle cx="688" cy="110" r="8"/><circle cx="949" cy="110" r="8"/></g>
+    <g fill="#fff" stroke="#d9d2c4" stroke-width="1.4">
+      <rect x="32" y="129" width="244" height="75" rx="10"/>
+      <rect x="287" y="129" width="244" height="75" rx="10"/>
+      <rect x="542" y="129" width="244" height="75" rx="10"/>
+      <rect x="797" y="129" width="271" height="75" rx="10"/>
+    </g>
+    <g fill="#233d43" font-size="17" font-weight="700"><text x="46" y="154">1866 · marriage reference</text><text x="301" y="154">1879 · building permit</text><text x="556" y="154">1920 · death address</text><text x="811" y="154">Today · exterior view</text></g>
+    <g fill="#53615e" font-size="14"><text x="46" y="179">James E. + Annie M. Burns</text><text x="301" y="179">Annie named original owner</text><text x="556" y="179">Captain James at 520 Fifth</text><text x="811" y="179">Historic structure still mapped</text></g>
+    <rect x="32" y="218" width="1036" height="28" rx="6" fill="#fff1e5"/>
+    <text x="45" y="237" font-size="14" fill="#754d3b">Open: original marriage entry, deed chain and captain's parent-naming death certificate. $1,600 was building cost, not net worth.</text>
+  </g>
+</svg>
