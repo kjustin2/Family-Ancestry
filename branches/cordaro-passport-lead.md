@@ -97,6 +97,8 @@ The passport places its holder's **birth and residence in Sutera**, an inland to
 
 The [inside page](../sources/family/italian-passport-details.jpg) and [cover](../sources/family/italian-passport-cover.jpg) are Justin's photographs of a family-held document, added without editing. The cover reads *Regno d'Italia, Passaporto per l'Estero* (“Kingdom of Italy, passport for travel abroad”). **This passport alone** does not establish a voyage or its bearer's identity; Antonio's separate naturalization file now supplies his own reported crossing.
 
+[Read the photographed Italian fields in English](../sources/family/italian-passport-translation.md), with uncertain handwritten names marked. The visible page calls the holder a *contadino* and places his birth and residence in Sutera, but gives no visible issue date, ship, destination or land ownership.
+
 <a href="../sources/family/italian-passport-details.jpg"><img src="../sources/family/italian-passport-details.jpg" alt="Photographed Italian passport page with handwritten identity, parents, Sutera birthplace and farm-worker occupation" width="400"></a>
 <a href="../sources/family/italian-passport-cover.jpg"><img src="../sources/family/italian-passport-cover.jpg" alt="Brown cover of Kingdom of Italy passport for foreign travel" width="400"></a>
 
