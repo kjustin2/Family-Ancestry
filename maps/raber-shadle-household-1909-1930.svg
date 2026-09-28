@@ -1,0 +1,48 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="960" height="440" viewBox="0 0 960 440" role="img" aria-labelledby="title desc">
+  <title id="title">The Raber and Shadle household, 1909 to 1930</title>
+  <desc id="desc">A four stop record path from Harry Raber's 1909 birth index in Nescopeck to William and Mary Raber's 1910, 1920, and 1930 original census pages. A dashed arrow marks the proposed identification of a hard-to-read son with the younger William G. Raber on another 1930 sheet.</desc>
+  <rect width="960" height="440" rx="22" fill="#f8f6f0"/>
+  <text x="36" y="48" font-family="Arial, sans-serif" font-size="28" font-weight="700" fill="#153d42">One household, two Pennsylvania counties</text>
+  <text x="36" y="78" font-family="Arial, sans-serif" font-size="15" fill="#476167">Recorded names, places and the proposed link to Sonya's Raber line</text>
+  <path d="M76 177H866" stroke="#2a7a79" stroke-width="5" stroke-linecap="round"/>
+  <g font-family="Arial, sans-serif">
+    <g transform="translate(38 116)">
+      <rect width="202" height="151" rx="15" fill="#e1eeea"/>
+      <text x="16" y="29" font-size="18" font-weight="700" fill="#124d51">1909 · Nescopeck</text>
+      <text x="16" y="56" font-size="15" fill="#233d41">Harry S. Raber born</text>
+      <text x="16" y="80" font-size="14" fill="#466268">Mother indexed</text>
+      <text x="16" y="99" font-size="14" fill="#466268">as “Shadel M”</text>
+      <text x="16" y="129" font-size="13" fill="#547079">Original state index</text>
+    </g>
+    <g transform="translate(264 116)">
+      <rect width="202" height="151" rx="15" fill="#e1eeea"/>
+      <text x="16" y="29" font-size="18" font-weight="700" fill="#124d51">1910 · Nescopeck</text>
+      <text x="16" y="56" font-size="15" fill="#233d41">William A. and Mary R.</text>
+      <text x="16" y="80" font-size="14" fill="#466268">Sons Stirling and Harry</text>
+      <text x="16" y="99" font-size="14" fill="#466268">Powder works; owned farm</text>
+      <text x="16" y="129" font-size="13" fill="#547079">Original census, sheet 17A</text>
+    </g>
+    <g transform="translate(490 116)">
+      <rect width="202" height="151" rx="15" fill="#e1eeea"/>
+      <text x="16" y="29" font-size="18" font-weight="700" fill="#124d51">1920 · Mahoning</text>
+      <text x="16" y="56" font-size="15" fill="#233d41">William Raber family</text>
+      <text x="16" y="80" font-size="14" fill="#466268">Eight children; laborer</text>
+      <text x="16" y="99" font-size="14" fill="#466268">at a powder works</text>
+      <text x="16" y="129" font-size="13" fill="#547079">Original sheet; boy “Glenore”?</text>
+    </g>
+    <g transform="translate(716 116)">
+      <rect width="202" height="151" rx="15" fill="#e1eeea"/>
+      <text x="16" y="29" font-size="18" font-weight="700" fill="#124d51">1930 · Mahoning</text>
+      <text x="16" y="56" font-size="15" fill="#233d41">William A., Mary R.</text>
+      <text x="16" y="80" font-size="14" fill="#466268">Ten children; truck driver</text>
+      <text x="16" y="99" font-size="14" fill="#466268">Powder works · $12 rent</text>
+      <text x="16" y="129" font-size="13" fill="#547079">Original census, sheet 17A</text>
+    </g>
+  </g>
+  <path d="M590 268V314H671" fill="none" stroke="#a0642d" stroke-width="3" stroke-dasharray="7 6"/>
+  <path d="M671 314l-12-7v14z" fill="#a0642d"/>
+  <rect x="672" y="282" width="246" height="82" rx="12" fill="#f4e7d5"/>
+  <text x="688" y="310" font-family="Arial, sans-serif" font-size="15" font-weight="700" fill="#6b431f">Possible son, sheet 16A</text>
+  <text x="688" y="334" font-family="Arial, sans-serif" font-size="14" fill="#6b431f">William G. Raber, age 19</text>
+  <text x="38" y="402" font-family="Arial, sans-serif" font-size="13" fill="#53686b">Solid line: repeating older household. Dashed link: 1920 “Glenore” → William G. needs a parent-naming record.</text>
+</svg>
