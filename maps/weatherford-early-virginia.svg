@@ -1,6 +1,6 @@
 <svg xmlns="http://www.w3.org/2000/svg" width="1020" height="430" viewBox="0 0 1020 430" role="img" aria-labelledby="t d">
   <title id="t">Weatherford record trail before George</title>
-  <desc id="d">Six record checkpoints from 1850 to 1884. The 1860 Acy T and July A household with William E bridges the 1857 birth to 1870 Asa, Julia and George. Name variants in 1855 and 1884 remain unresolved.</desc>
+  <desc id="d">Six checkpoints from 1850 to 1884. The 1855 marriage names and parents come from an index; the matching original row has not been located. The 1860 household bridges the 1857 birth to later Asa and Julia records. Name variants remain unresolved.</desc>
   <rect width="1020" height="430" rx="18" fill="#f6f3eb"/>
   <text x="30" y="43" font-family="Arial,sans-serif" font-size="25" font-weight="700" fill="#18394a">Before George: six records, unresolved names</text>
   <text x="30" y="69" font-family="Arial,sans-serif" font-size="15" fill="#52616a">The 1860 household strengthens the middle of the trail. Orange cards still need name reconciliation.</text>
@@ -12,7 +12,7 @@
     <rect x="364" y="104" width="292" height="92" rx="12" fill="#fff5e5" stroke="#b46827"/>
     <text x="381" y="130" font-size="14" font-weight="700" fill="#a05416">1855 · HALIFAX MARRIAGE</text>
     <text x="381" y="155" font-size="18" font-weight="700" fill="#18394a">“Thos E” + Julia Oakes</text>
-    <text x="381" y="179" font-size="13" fill="#52616a">Groom names Samuel + Jane</text>
+    <text x="381" y="179" font-size="13" fill="#52616a">Index names parents Samuel + Jane</text>
     <rect x="698" y="104" width="292" height="92" rx="12" fill="#dcefeb" stroke="#127f82"/>
     <text x="715" y="130" font-size="14" font-weight="700" fill="#127f82">1857 · WILLIAM’S BIRTH</text>
     <text x="715" y="155" font-size="18" font-weight="700" fill="#18394a">Asa T. + Julia A.</text>
