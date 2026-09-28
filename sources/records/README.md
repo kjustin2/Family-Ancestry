@@ -19,6 +19,8 @@ These seven original census images were viewed in Justin's signed-in MyHeritage 
 | Kreischer | [Elder and younger William in 1930](william-bertha-younger-william-kreischer-census-1930.jpg) · [William and Alethea in 1950](william-aletha-kreischer-census-1950.jpg) | A direct father–son household, then the younger William's matching later home. |
 | Balliet | [Michael, Catherine and Nelson in 1870](michael-catherine-nelson-balliet-census-1870.jpg) · [Nelson, Amanda and Stanley in 1910](nelson-amanda-stanley-balliet-census-1910.jpg) · [Stanley and Crystal in 1930](stanley-crystal-balliet-census-1930.jpg) | Carpenter → lumber-woods workers → rented Dorrance household across three generations. |
 
+**New original date check:** [Stanley Balliet's 1937 Pennsylvania death-index page](stanley-balliet-pa-death-index-1937-p144.png) is page **144** of the [State Archives A–B index](https://www.phmc.state.pa.us/bah/dam/rg/di/r11_090_DeathIndexes/Death_1937/D-37%20A-B.pdf#page=144). The line near the bottom reads **Nanticoke, 25 December 1937, certificate 117901**. This public index is an original state finding aid, not the death certificate: it does **not** state his cause of death or identify Floyd's father. [Read the household story](../../branches/balliet-raber-candidates.md#the-balliet-household-in-an-original-census).
+
 [Read the illustrated record trail](../../branches/raber-kreischer-balliet-record-trail.md).
 
 These are saved copies for reading alongside the [interactive timeline](../../explore/timeline.html). The original source link and the limit of each identification stay with the image. A record image depicts a document, **not** the person named in it.
