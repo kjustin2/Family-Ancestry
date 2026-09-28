@@ -1,0 +1,13 @@
+{
+  "name": "family-ancestry-atlas",
+  "private": true,
+  "type": "module",
+  "scripts": {
+    "build:site": "node scripts/build-site.mjs",
+    "check:site": "node scripts/check-site.mjs"
+  },
+  "devDependencies": {
+    "marked": "18.0.14",
+    "marked-gfm-heading-id": "4.1.4"
+  }
+}

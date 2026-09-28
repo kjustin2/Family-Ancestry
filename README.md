@@ -2,6 +2,10 @@
 
 An evidence-led map of Justin and Ashley's family history. **Research snapshot: 28 September 2026.** This is a working history, not a certified pedigree.
 
+**[Open the published Family Atlas](https://kjustin2.github.io/Family-Ancestry/)** · [Go straight to the interactive tree](https://kjustin2.github.io/Family-Ancestry/explore/family-explorer.html)
+
+The website turns the branch notes into readable pages and publishes the maps, timelines and permitted artifacts with them. Each push to `main` rebuilds GitHub Pages through [the deployment workflow](https://github.com/kjustin2/Family-Ancestry/blob/main/.github/workflows/pages.yml). To check it locally, run `npm ci`, `npm run build:site`, and `npm run check:site`; `_site/` is the generated output.
+
 ## Start here
 
 | Start with | Open |
