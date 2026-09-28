@@ -4,6 +4,8 @@ Justin supplied two photographs of an Italian passport kept on his father's side
 
 **Documented American line:** Patricia Cordaro married Fred / Ferdinand Francis Kramer on **22 November 1962**. Her original [Luzerne County marriage application](https://www.searchiqs.com/paluze/) names **Joseph Cordaro and Dina Caucci** as her parents (Marriages book **191**, page/license **2785 L**). Their own [1938 Lackawanna County application](https://www.familysearch.org/ark:/61903/3:1:S3HY-6BBF-2V?view=index&personArk=%2Fark%3A%2F61903%2F1%3A1%3AVF7D-NP2&action=view&cc=1589502&lang=en) names the next generation. The passport holder's relationship to them remains open.
 
+**New Caucci path:** Dina's name appears **Dena Caucci** on her 1938 original, which names parents **Joseph Caucci and Anna Belardinelli**. The remembered “Ciucchi” spelling led to this branch, but no inspected record uses it for Dina. [See the focused Caucci–Belardinelli diagram, Winton household leads and open migration question](caucci-belardinelli.md).
+
 Justin names **Joan Cordaro, Mary Cordaro, and Toni Cordaro** as Patricia's sisters. This is a **family account**; their parentage has not yet been independently verified. A childhood census or a parent's obituary should test whether all four were Joseph and Dina's daughters. [Family-supplied, 26 September 2026]
 
 ## Antonio's crossing and citizenship: an original record chain

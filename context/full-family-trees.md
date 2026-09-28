@@ -10,6 +10,8 @@ These four long views follow **one ancestral path in each column** to show how f
 
 The [Kramer records](../branches/kramer.md) trace Matthew and Lena to the Pennsylvania Ferdinands, Fred and Paul; the [Unadingen original](../branches/kramer-unadingen-household.md) independently traces Blasius to Bernhard to Matthäus. The dashed **Matthäus → Matthew** link needs a parent or birthplace record for the Pennsylvania man. [Original Sicilian birth and marriage acts, migration documents and Pennsylvania applications](../branches/cordaro-passport-lead.md) connect Giuseppe/Maria through Antonio/Pietra, Joseph/Dina and Patricia. The photographed Italian passport is not assigned to a holder.
 
+Dina's **separate maternal path** now reaches her Italian-born parents **Joseph Caucci and Anna Belardinelli** through the [1938 original application and focused evidence diagram](../branches/caucci-belardinelli.md). The proposed Winton census children and Anna Caucci burial stay outside the confirmed tree until an original record joins them.
+
 ## Justin's maternal branches
 
 ![Full Miller and Sponenberg to Kreischer to Raber ancestral paths toward Melissa and Justin](../maps/full-tree-maternal-miller-sponenberg.svg)
