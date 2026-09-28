@@ -1,5 +1,15 @@
 # Original images and identified family portrait
 
+### Bosch and Kramer at 363 Park Avenue, 1900–10
+
+| Original image | Read this first |
+| --- | --- |
+| [1900 Bosch household census](emil-hilda-bosch-household-census-1900.jpg) · [FamilySearch original](https://www.familysearch.org/ark:/61903/3:1:S3HY-6XY9-4RT?view=index&personArk=%2Fark%3A%2F61903%2F1%3A1%3AM3Q4-R5Q&action=view&cc=1325221&lang=en) | **Wilkes-Barre ED 178, sheet 2A, lines 16–23.** 363 Park Avenue, rented. Emil Bosch was a butcher; daughter Rose made paper boxes. Original census page, not a house photo. |
+| [1909 Ferdinand Kramer and Rose Bosch marriage docket](ferdinand-rose-bosch-marriage-docket-1909.jpg) · [FamilySearch original](https://www.familysearch.org/ark:/61903/3:1:33SQ-GPR3-V27?view=index&personArk=%2Fark%3A%2F61903%2F1%3A1%3AKHFN-NXP&action=view&cc=1589502&lang=en) | **Luzerne license 51842, lower left.** Married 17 February 1909. The docket gives both spouses' birth dates and Ferdinand's laborer occupation, but no parents or street number. |
+| [1910 Bosch and Kramer household census](emil-hilda-bosch-kramer-household-census-1910.jpg) · [preceding sheet](bosch-park-avenue-census-1910-previous-sheet.jpg) · [FamilySearch original](https://www.familysearch.org/ark:/61903/3:1:33SQ-GRVL-JYQ?view=index&personArk=%2Fark%3A%2F61903%2F1%3A1%3AMG8V-K9Q&action=view&lang=en) | **Wilkes-Barre Ward 13, ED 154, sheet 21B, lines 52–58.** 363 Park Avenue is the Bosch parents' household; daughter Rose and son-in-law Ferdinand live with them. The prior sheet confirms the street label. Ferdinand worked at a rope mill and Emil at an axle works. |
+
+[Short household story and four-stop visual](../../branches/other-paternal-lines.md#a-shared-boschkramer-home-on-park-avenue) · [363 Park Avenue today, with building-age caveat](../../context/family-home-photo-atlas.md).
+
 ### Andrews, Kennedy, Ferdinand Louis and Mary Kramer, 1900–40
 
 | Original image | Read this first |
