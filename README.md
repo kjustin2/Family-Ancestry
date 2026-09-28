@@ -10,7 +10,7 @@ An evidence-led map of Justin and Ashley's family history. **Research snapshot: 
 | **What do we know about our own generations?** | [Recent generations: parents, Justin, Alex and Ashley](context/recent-generations.md) |
 | **What happened when?** | [Ten clickable line timelines](explore/line-timelines.html) → [interactive overall timeline](explore/timeline.html) |
 | **What were their lives like?** | [Four short storyboards](context/family-storyboards.md) → [work and assets](research/assets-by-generation.md) |
-| **Where were they?** | [Family geography atlas](context/geography-atlas.md) → [migration stories](context/immigration-stories.md) |
+| **Where were they?** | [Family geography atlas](context/geography-atlas.md) → [homes we can see](context/family-homes.md) → [migration stories](context/immigration-stories.md) |
 | **What is the proof?** | [Photographs and artifacts](context/faces-and-places.md) → [original record gallery](sources/records/README.md) → [source ledger](research/sources.md) |
 
 ### The family at a glance
@@ -31,6 +31,7 @@ Open the [linked family tree](FAMILY-TREE.md) to follow names generation by gene
 - [Explore the full family trees](context/full-family-trees.md): four readable, evidence-marked views follow the Kramer/Cordaro, Miller/Sponenberg, Weatherford/Morrison and Smith/Blevins lines through as many linked generations as the research permits. Dashed links show the specific gaps.
 - [Explore the interactive family timeline](explore/timeline.html): filter family lines and centuries, then open events for people, places, evidence and unresolved questions. Open the HTML file in a browser. The [full research timeline](timeline.md) has more detail.
 - [Explore the family geography atlas](context/geography-atlas.md): three maps show **Europe**, **Baden versus the Palatinate**, and the **eastern U.S. family regions**, with each marker tied to records and uncertain origins left unpinned.
+- [See Sponenberg family homes](context/family-homes.md): three family-attributed house photographs, Edward and Jennie's documented East Second Street address, and a modern view link, with dates and identification limits beside each.
 - [Original record-image gallery and Hilda's portrait](sources/records/README.md): the 1915 Sponenberg and Kreischer biographies, signed draft cards, marriage records, a death certificate and obituary clippings, each with a source and identification note. The [visual artifact gallery](context/faces-and-places.md#artifacts-that-show-their-lives) highlights what each item says about a person's life.
 - [Read the original languages](sources/records/bernhard-kramer-huber-unadingen-memorial-1878.md): German text and English translation of the 1878 Unadingen memorial gift; the [Italian passport translation](sources/family/italian-passport-translation.md) explains its visible fields and uncertain handwriting.
 - [Kramer line](branches/kramer.md): Wilkes-Barre people, German-born Matthew, and the still-unknown German hometown.

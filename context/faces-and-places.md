@@ -4,6 +4,8 @@ The image's **date and identification** matter as much as its appearance. A “f
 
 For Justin, Ashley and their parents, see the [recent-generation timeline and place images](recent-generations.md). It separates person-specific records from family accounts; no authenticated portrait of those six has been added yet.
 
+For actual **house exteriors**, open the [Sponenberg family-homes gallery](family-homes.md): two homes attributed to Edward's uncle James C., a possible Legrant farmhouse, and Edward and Jennie's documented East Second Street address with a modern view link. The source photos are externally hosted and their dates are unknown.
+
 | Image | What it lets us see |
 | --- | --- |
 | <a href="../sources/family/hilda-kramer-wolosz-portrait-undated.jpg"><img src="../sources/family/hilda-kramer-wolosz-portrait-undated.jpg" width="230" alt="Undated portrait tagged as Hilda Kramer Wolosz"></a> | **Hilda Kramer Wolosz — named portrait.** A [FamilySearch contributor tagged the image](https://www.familysearch.org/memories/memory/122056242); her [obituary](https://www.legacy.com/us/obituaries/citizensvoice/name/hilda-wolosz-obituary?id=7822560) independently names Ferdinand and Rose as her parents. **Photo date and original inscription unknown.** |

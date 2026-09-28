@@ -4,6 +4,8 @@ The place and period illustrations below are **not portraits**, property deeds, 
 
 The [compact faces and places gallery](../context/faces-and-places.md) brings selected images from several branches together with short identification notes.
 
+The [family-homes gallery](../context/family-homes.md) shows three **externally hosted, family-attributed** Sponenberg house photographs. John H. Harter III, Catherine Betty Sponenberg and cousin Susie C. are credited on the original pages; their photo dates and reuse rights are not stated, so the pictures are linked from their source rather than saved here. The gallery also links a modern street view for Edward and Jennie's documented address, without treating the pictured structure as their proven 1907 build.
+
 ## Our parents' and our own era
 
 - [RIT campus plan, 17 July 1986](rit-campus-plan-1986.jpg): unmodified 1,364 × 1,081 JPG from [RIT *News & Events* via Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Campus_plan,_RIT_NandE_Vol17Num19_1986_Jul17_Complete.jpg); Commons marks the U.S. publication public domain for its missing notice/registration. It shows the campus around Paul Kramer's **family-reported** study period, not his enrollment or route through it.
