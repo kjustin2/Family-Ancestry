@@ -35,6 +35,12 @@
     "lon": 13.7313165,
     "source": "https://www.openstreetmap.org/relation/39258"
   },
+  "sassoferrato": {
+    "name": "Sassoferrato, Ancona, Marche, Italy",
+    "lat": 43.4326191,
+    "lon": 12.8572255,
+    "source": "https://www.openstreetmap.org/node/70979076"
+  },
   "milena": {
     "name": "Milena, Sicily, Italy",
     "lat": 37.4715206,
