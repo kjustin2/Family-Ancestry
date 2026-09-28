@@ -1,0 +1,30 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1100" height="330" viewBox="0 0 1100 330" role="img" aria-labelledby="title desc">
+  <title id="title">James E. Mulhall: from Irish-born painter to Washington police captain</title>
+  <desc id="desc">A dated trail from the probable 1850 Mulhall household through his 1871 police appointment, 1905 newspaper portrait, 1913 suffrage procession assignment and 1920 death notice. The connection to Ashley's Smith line remains unproved.</desc>
+  <rect width="1100" height="330" fill="#f5f2e9"/>
+  <rect x="0" y="0" width="9" height="330" fill="#53758a"/>
+  <g font-family="Segoe UI, Arial, sans-serif">
+    <text x="34" y="42" font-size="26" font-weight="700" fill="#17394c">A Mulhall life in Washington</text>
+    <text x="34" y="68" font-size="15" fill="#49616d">The man and his career are documented; the link to Ashley's family is still a candidate.</text>
+    <line x1="107" y1="129" x2="995" y2="129" stroke="#92aaa9" stroke-width="4"/>
+    <g fill="#53758a"><circle cx="107" cy="129" r="9"/><circle cx="324" cy="129" r="9"/><circle cx="541" cy="129" r="9"/><circle cx="758" cy="129" r="9"/><circle cx="995" cy="129" r="9"/></g>
+    <g fill="#fff" stroke="#c7d6d2" stroke-width="1.5">
+      <rect x="34" y="153" width="177" height="110" rx="11"/><rect x="232" y="153" width="185" height="110" rx="11"/>
+      <rect x="437" y="153" width="204" height="110" rx="11"/><rect x="661" y="153" width="194" height="110" rx="11"/>
+      <rect x="875" y="153" width="191" height="110" rx="11"/>
+    </g>
+    <g fill="#17394c" font-size="19" font-weight="700">
+      <text x="48" y="184">1850 · candidate</text><text x="246" y="184">1871</text><text x="451" y="184">1905</text>
+      <text x="675" y="184">1913</text><text x="889" y="184">1920</text>
+    </g>
+    <g fill="#425b66" font-size="15">
+      <text x="48" y="210">Irish-born James, 7,</text><text x="48" y="231">with John + Mary</text>
+      <text x="246" y="210">Painter joins DC</text><text x="246" y="231">police force</text>
+      <text x="451" y="210">Sergeant's portrait</text><text x="451" y="231">+ life sketch printed</text>
+      <text x="675" y="210">Captain assigned to</text><text x="675" y="231">suffrage assembly</text>
+      <text x="889" y="210">Death notice names</text><text x="889" y="231">Frank + Thomas</text>
+    </g>
+    <rect x="34" y="284" width="1032" height="29" rx="7" fill="#fff0e5"/>
+    <text x="47" y="304" font-size="14" fill="#714e3c">Open: prove 1850 James is the captain; settle Thomas vs. John T.; prove the later Smith-to-Ashley bridge.</text>
+  </g>
+</svg>

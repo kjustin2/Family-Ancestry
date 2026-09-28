@@ -261,3 +261,9 @@ The [1930 census](https://www.familysearch.org/ark:/61903/3:1:33SQ-GRZN-QLM?view
 This [FamilySearch memory](https://www.familysearch.org/memories/memory/122056242) was uploaded by **Cindy Lee Eppich** on **25 February 2021** and tagged **Hilda M. Kramer Wolosz (1921–2020)**. The image supplies **no exposure date** or original photographer. Hilda's [published obituary](https://www.legacy.com/us/obituaries/citizensvoice/name/hilda-wolosz-obituary?id=7822560) independently connects her to parents Ferdinand and Rose Bosch Kramer. The portrait identification is contributor-supplied; a labeled family original would strengthen it.
 
 The 1976 and 2004 newspaper clippings were uploaded by the same contributor in 2021; neither clipping itself gives a newspaper masthead or issue page. Do not treat an upload date as the date of a photograph or news item.
+
+## James E. Mulhall and the 1913 suffrage procession
+
+[![1913 Senate document page naming Captain J. E. Mulhall](james-e-mulhall-suffrage-police-order-1913.jpg)](james-e-mulhall-suffrage-police-order-1913.jpg)
+
+This full-page image is a faithful JPEG render of [U.S. Senate Document No. 1 (1913), p. 5](https://www.govinfo.gov/content/pkg/SERIALSET-06507_00_00-002-0001-0000/pdf/SERIALSET-06507_00_00-002-0001-0000.pdf#page=5), a public-domain government publication. The [smaller crop](../../media/james-e-mulhall-suffrage-order-1913-detail.jpg) highlights the assignment. It records Captain Mulhall's planned role, not his actions at the procession or his family relationship to Alice Mulhall Smith. [Short account](../../branches/smith-mulhall-corbett.md#a-possible-older-brother-in-uniform).

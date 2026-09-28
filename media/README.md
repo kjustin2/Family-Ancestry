@@ -148,3 +148,13 @@ This reading crop comes from the [unaltered 1930 census](../sources/records/stev
 ![1950 census detail of Steve and Fanny Mattina at 419 Holden](mattina-household-1950-detail.jpg)
 
 This reading crop comes from the [unaltered 1950 census](../sources/records/steve-fannie-mattina-household-census-1950.jpg), ED 40-443, sheet 17, lines 11–18. It includes **419 Holden** and the listed family; the full sheet supplies the occupation columns. [Original viewer](https://www.familysearch.org/ark:/61903/3:1:3QHN-PQHW-FCH3?view=index&personArk=%2Fark%3A%2F61903%2F1%3A1%3A6XBR-KPZN&action=view&lang=en).
+
+## A Washington Mulhall portrait and a Senate order
+
+![Labeled 1905 portrait of Sergeant J. E. Mulhall](james-e-mulhall-police-portrait-1905.jpg)
+
+This is only the **labeled portrait** from the public-domain **12 November 1905 *Evening Star*** police profile, accessed through [Sandra K. Schmidt's 2010 transcription and illustration compilation, PDF p. 42](https://bytesofhistory.com/MPDC/Histories/MPD_History-1905ES.pdf#page=42). The modern compilation itself carries a copyright notice, so its full page and transcription are linked, not reproduced here. The crop retains the original name label and does not identify the 1850 child James on its own. [Evidence and open family link](../branches/smith-mulhall-corbett.md#a-possible-older-brother-in-uniform).
+
+![1913 police order detail naming Captain J. E. Mulhall](james-e-mulhall-suffrage-order-1913-detail.jpg)
+
+This reading crop comes from [Senate Document No. 1 (1913), p. 5](https://www.govinfo.gov/content/pkg/SERIALSET-06507_00_00-002-0001-0000/pdf/SERIALSET-06507_00_00-002-0001-0000.pdf#page=5); [the full government page](../sources/records/james-e-mulhall-suffrage-police-order-1913.jpg) is saved separately. It identifies an assignment for the suffrage procession, not what Mulhall personally did there. U.S. government publication, public domain.
