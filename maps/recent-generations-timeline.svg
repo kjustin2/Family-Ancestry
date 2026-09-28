@@ -1,6 +1,6 @@
 <svg xmlns="http://www.w3.org/2000/svg" width="1080" height="635" viewBox="0 0 1080 635" role="img" aria-labelledby="title desc">
   <title id="title">Recent generations: family paths and the records that document them</title>
-  <desc id="desc">Four horizontal lanes show Paul and Melissa, John and Alice, Alex and Justin, and Ashley. Filled circles mark contemporary person-specific records; hollow circles mark family accounts. The years run from 1980 to 2021.</desc>
+  <desc id="desc">Four horizontal lanes show Paul and Melissa, John and Alice, Alex and Justin, and Ashley. In the first lane, family accounts place both parents at Luzerne County Community College in the mid-1980s and Paul later at RIT. Filled circles mark contemporary person-specific records; hollow circles mark family accounts. The years run from 1980 to 2021.</desc>
   <rect width="1080" height="635" rx="24" fill="#f7f5ef"/>
   <text x="42" y="57" font-family="Arial, sans-serif" font-size="29" font-weight="700" fill="#24364a">The recent generations</text>
   <text x="43" y="84" font-family="Arial, sans-serif" font-size="15" fill="#516072">Four paths through study, work and family records</text>
@@ -8,9 +8,10 @@
   <g stroke="#dce3e8" stroke-width="2"><line x1="330" y1="148" x2="330" y2="515"/><line x1="505" y1="148" x2="505" y2="515"/><line x1="680" y1="148" x2="680" y2="515"/><line x1="855" y1="148" x2="855" y2="515"/></g>
   <g font-family="Arial, sans-serif" font-size="14" font-weight="700" fill="#546678"><text x="308" y="136">1980</text><text x="485" y="136">1990</text><text x="660" y="136">2000</text><text x="835" y="136">2010</text><text x="985" y="136">2020</text></g>
   <g font-family="Arial, sans-serif" font-size="18" font-weight="700" fill="#24364a"><text x="58" y="202">Paul + Melissa</text><text x="58" y="303">John + Alice</text><text x="58" y="404">Alex + Justin</text><text x="58" y="505">Ashley</text></g>
-  <g stroke-width="7" stroke-linecap="round"><line x1="435" y1="220" x2="760" y2="220" stroke="#bb7247"/><line x1="428" y1="321" x2="785" y2="321" stroke="#558c94"/><line x1="925" y1="422" x2="1013" y2="422" stroke="#556ea6"/><line x1="943" y1="523" x2="1010" y2="523" stroke="#8b709b"/></g>
+  <g stroke-width="7" stroke-linecap="round"><line x1="390" y1="220" x2="760" y2="220" stroke="#bb7247"/><line x1="428" y1="321" x2="785" y2="321" stroke="#558c94"/><line x1="925" y1="422" x2="1013" y2="422" stroke="#556ea6"/><line x1="943" y1="523" x2="1010" y2="523" stroke="#8b709b"/></g>
   <g font-family="Arial, sans-serif" font-size="14" fill="#263e52">
-    <circle cx="435" cy="220" r="9" fill="#fff" stroke="#bb7247" stroke-width="3"/><text x="368" y="186">Paul: RIT c. 1986</text>
+    <circle cx="390" cy="220" r="9" fill="#fff" stroke="#bb7247" stroke-width="3"/><text x="337" y="253">Melissa: LCCC associate</text>
+    <circle cx="435" cy="220" r="9" fill="#fff" stroke="#bb7247" stroke-width="3"/><text x="357" y="186">Paul: LCCC → RIT, 1980s</text>
     <circle cx="715" cy="220" r="9" fill="#fff" stroke="#bb7247" stroke-width="3"/><text x="648" y="253">Melissa: PA real estate</text>
     <circle cx="428" cy="321" r="9" fill="#558c94"/><text x="367" y="286">1986 marriage return</text>
     <circle cx="728" cy="321" r="9" fill="#fff" stroke="#558c94" stroke-width="3"/><text x="663" y="355">Navy Yard careers</text>

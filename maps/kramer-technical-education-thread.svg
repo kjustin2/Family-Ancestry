@@ -1,6 +1,6 @@
 <svg xmlns="http://www.w3.org/2000/svg" width="1200" height="620" viewBox="0 0 1200 620" role="img" aria-labelledby="title desc">
   <title id="title">A Kramer thread from radio study to engineering and computer science</title>
-  <desc id="desc">Four family study paths: Ferdinand Louis at the National Radio Institute; his grandson Paul, who attended RIT around 1986 and completed electrical engineering at an unspecified date; Paul's son Alex, with electrical engineering degrees from Penn State starting 2014 and Georgia Tech around 2020; and Alex's brother Justin, with a computer science bachelor's and master's at Pitt from 2017 to 2021. Fred is the intervening generation. Later university degrees come from Justin's family account; the graphic does not claim direct influence.</desc>
+  <desc id="desc">Four family study paths: Ferdinand Louis at the National Radio Institute; his grandson Paul, who studied about two years at Luzerne County Community College in the mid-1980s, then completed an electrical engineering bachelor's at RIT; Paul's son Alex, with electrical engineering degrees from Penn State starting 2014 and Georgia Tech around 2020; and Alex's brother Justin, with a computer science bachelor's and master's at Pitt from 2017 to 2021. Fred is the intervening generation. Paul's schools and degree come from Justin's family account; the graphic does not claim direct influence.</desc>
   <rect width="1200" height="620" rx="24" fill="#f6f3eb"/>
   <rect x="0" y="0" width="14" height="620" fill="#267685"/>
   <text x="46" y="56" font-family="Arial,sans-serif" font-size="31" font-weight="700" fill="#173940">From radio lessons to computing</text>
@@ -25,8 +25,8 @@
     <text x="352" y="254" font-size="21" font-weight="700" fill="#173940">Paul Joseph</text>
     <text x="352" y="281" font-size="16" fill="#52676d">Kramer · Fred's son</text>
     <text x="352" y="322" font-size="19" font-weight="700" fill="#173940">Electrical engineering</text>
-    <text x="352" y="350" font-size="16" fill="#52676d">RIT · there c. 1986</text>
-    <text x="352" y="374" font-size="16" fill="#52676d">Degree completed · year open</text>
+    <text x="352" y="350" font-size="16" fill="#52676d">LCCC c. 1983–85 → RIT</text>
+    <text x="352" y="374" font-size="16" fill="#52676d">Bachelor's · year open</text>
     <text x="352" y="412" font-size="13" font-weight="700" fill="#267685">FAMILY ACCOUNT</text>
 
     <text x="638" y="254" font-size="21" font-weight="700" fill="#173940">Alex Kramer</text>
