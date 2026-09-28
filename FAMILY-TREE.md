@@ -29,7 +29,7 @@
 
 ## Ashley's paternal paths
 
-- [Weatherford, Neathery and Phelps](branches/weatherford-smith-generations.md): **Ashley** ← **John Sr.** ← **Garnett Sr. and Florence** ← **Doctor Duffy Weatherford and Annie Neathery**. Duffy's certificate names **George C. Weatherford and Ella Lumpkin**; Annie's names **John R. Neathery and Annie Phelps**. The [Samuel and Jane Weatherford extension](branches/weatherford-early-virginia.md) is a strong earlier candidate with an Asa/Thomas and Ann/Julia name conflict.
+- [Weatherford, Neathery and Phelps](branches/weatherford-smith-generations.md): **Ashley** ← **John Sr.** ← **Garnett Sr. and Florence** ← **Doctor Duffy Weatherford and Annie Neathery**. Duffy's certificate names **George C. Weatherford and Ella Lumpkin**; Annie's names **John R. Neathery and Annie Phelps**. The [Samuel and Jane Weatherford extension](branches/weatherford-early-virginia.md) is a strong earlier candidate with an Asa/Thomas and Ann/Julia name conflict. Two [Halifax court cases](branches/weatherford-early-virginia.md#julia-oakess-older-family-two-court-files) now name **Julia Oakes Weatherford's father Edward** and **her maternal grandfather William Adams**.
 - [Morrison and Hollinger](branches/morrison-hollinger.md): **Florence Morrison Weatherford** ← **Roscoe Morrison and Eleanor Hollinger**. Thomas and Isophena Morrison are probable older relatives through Roscoe's mother Celia/Delia; his original birth record is still needed.
 - [See the paternal tree diagram](maps/full-tree-weatherford-morrison.svg).
 

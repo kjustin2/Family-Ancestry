@@ -34,6 +34,10 @@ Justin's newly named **William John → William G. Raber** paternal path for Son
 
 The [Samuel and Jane household and George's 1884 marriage](../branches/weatherford-early-virginia.md) form an older **Weatherford candidate**, but the Asa/Thomas and Ann/Julia name conflict prevents a closed chain. [Duffy's and Annie's original certificates, household censuses and Garnett's 1954 marriage](../branches/weatherford-smith-generations.md) secure the later layers. [Indiana censuses and Roscoe's marriage](../branches/morrison-hollinger.md) suggest Delia/Celia was Roscoe's mother, while his exact birth record is still open.
 
+![Original court-record chain from William Adams to Amy Oakes to Julia Weatherford, with the later Weatherford identity open](../maps/oakes-adams-court-chain.svg)
+
+The [Adams and Oakes chancery scans](../branches/weatherford-early-virginia.md#julia-oakess-older-family-two-court-files) now support **William Adams → Amy Adams Oakes** and **Edward A. Oakes Sr. → Julia A. Oakes Weatherford** as named relationships. The 1855 marriage index ties Julia to **Amy Oakes**. This older path joins Ashley's **candidate** Weatherford branch at Julia; the Asa/Thomas and Ann/Julia identity issue still keeps the route from Julia to George dashed. The original files also document an **1846 sale of enslaved people from William's estate** and Edward's **1875 Black Walnut land sale**; neither sale amount is a proved personal inheritance for Julia.
+
 ## Ashley's maternal branches
 
 ![Full Smith-Mulhall and Blevins paths toward Alice and Ashley, separating recorded kin from colonial tree leads](../maps/full-tree-smith-blevins.svg)

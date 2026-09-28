@@ -1,0 +1,39 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1100" height="445" viewBox="0 0 1100 445" role="img" aria-labelledby="title desc">
+  <title id="title">The Adams–Oakes–Weatherford chain in two Halifax court files</title>
+  <desc id="desc">Contemporary court papers identify William Adams as Amy's father and Edward Oakes as Julia's father. Julia is named as Thomas Weatherford's wife. Whether this Thomas is the Asa Thomas in later records remains an identity question.</desc>
+  <style>
+    .head{font:700 27px Segoe UI,Arial,sans-serif;fill:#173643}.small{font:15px Segoe UI,Arial,sans-serif;fill:#506672}.name{font:700 21px Segoe UI,Arial,sans-serif;fill:#173643}.detail{font:15px Segoe UI,Arial,sans-serif;fill:#506672}.tag{font:700 12px Segoe UI,Arial,sans-serif;fill:#116d68}
+  </style>
+  <rect width="1100" height="445" fill="#f3f7f5"/>
+  <rect width="1100" height="7" fill="#117b73"/>
+  <text x="35" y="48" class="head">Three generations, two original court cases</text>
+  <text x="35" y="74" class="small">Halifax County, Virginia · solid line = named relationship · dashed line = identity still being tested</text>
+  <path d="M325 190 H387" stroke="#117b73" stroke-width="4"/>
+  <path d="M713 190 H775" stroke="#117b73" stroke-width="4"/>
+  <a href="../branches/weatherford-early-virginia.md#julia-oakess-older-family-two-court-files">
+    <rect x="35" y="119" width="290" height="142" rx="15" fill="#fff" stroke="#cfddda"/>
+    <rect x="35" y="119" width="7" height="142" rx="3" fill="#117b73"/>
+    <text x="57" y="157" class="name">William Adams</text>
+    <text x="57" y="184" class="detail">Father of Amy, named in</text>
+    <text x="57" y="205" class="detail">1840s estate petition</text>
+    <text x="57" y="240" class="tag">ORIGINAL COURT RECORD</text>
+    <rect x="387" y="119" width="326" height="142" rx="15" fill="#fff" stroke="#cfddda"/>
+    <rect x="387" y="119" width="7" height="142" rx="3" fill="#117b73"/>
+    <text x="409" y="157" class="name">Amy Adams + Edward Oakes</text>
+    <text x="409" y="184" class="detail">Marriage named in Adams case;</text>
+    <text x="409" y="205" class="detail">1855 index names both as parents</text>
+    <text x="409" y="240" class="tag">TWO COURT FILES + 1855 INDEX</text>
+    <rect x="775" y="119" width="290" height="142" rx="15" fill="#fff" stroke="#cfddda"/>
+    <rect x="775" y="119" width="7" height="142" rx="3" fill="#117b73"/>
+    <text x="797" y="157" class="name">Julia A. Oakes</text>
+    <text x="797" y="184" class="detail">Named heir; wife of Thomas</text>
+    <text x="797" y="205" class="detail">Weatherford in 1875 petition</text>
+    <text x="797" y="240" class="tag">ORIGINAL COURT RECORD</text>
+  </a>
+  <path d="M920 261 V289 H760" fill="none" stroke="#b0703f" stroke-width="3" stroke-dasharray="8 6"/>
+  <text x="748" y="294" text-anchor="end" class="small">toward George?</text>
+  <text x="35" y="325" class="small">1846 estate sale: Moses, Squire, Lewis and Michael were sold; a court order directs an heir's share to Amy.</text>
+  <text x="35" y="350" class="small">1875 land sale: Edward's Black Walnut tract and house sold for $997.61¼; Julia's personal receipt is unproved.</text>
+  <text x="35" y="393" class="small">Open: reconcile “Thos E,” “A. T.,” and later Asa / Thomas A. before closing the path to George Weatherford.</text>
+  <text x="35" y="418" class="small">Source: Library of Virginia, Halifax chancery cases 1848-057 and 1877-032; see the linked scans and caveats.</text>
+</svg>
