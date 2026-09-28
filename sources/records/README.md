@@ -1,5 +1,12 @@
 # Original images and identified family portrait
 
+### Ferdinand Louis and Mary Andrews, 1936–40
+
+| Original image | Read this first |
+| --- | --- |
+| [Signed 1936 Luzerne marriage application and return](ferdinand-louis-kramer-mary-andrews-marriage-1936.jpg) · [FamilySearch image 910](https://www.familysearch.org/ark:/61903/3:1:33SQ-GPR7-9Q3P?lang=en) | **Right page, license 1451 C.** Ferdinand calls himself a machinist apprentice; Mary lived at **71 Flick Street**. Their parents are Ferdinand/Rose Bosch Kramer and Frank/Mary Kennedy Andrews. Frank signs consent; the return records **19 September**. The left page belongs to another couple. |
+| [1940 census sheet 8B](ferdinand-mary-kramer-census-1940.jpg) · [NARA original](https://nara-1940-census.s3.us-east-2.amazonaws.com/population-schedules/pa/luzerne-county/ed/40-338/m-t0627-03564-00285.jpg) and [sheet 9A](ferdinand-mary-kramer-census-1940-continuation.jpg) · [NARA continuation](https://nara-1940-census.s3.us-east-2.amazonaws.com/population-schedules/pa/luzerne-county/ed/40-338/m-t0627-03564-00286.jpg) | **ED 40-338, lines 79–80 then 1–2.** At **19 Flick Street**, the couple rented for **$5/month**; son Ferdinand is recorded as **nine months**. The next line's “daughter” label for 17-year-old Rita Andrews conflicts with Mary's age and first-marriage statement. These are original document images, not family photographs. |
+
 ### Edward and Jennie Sponenberg's original census pages (saved 27 September 2026)
 
 | Page | What to inspect |
