@@ -4,6 +4,12 @@ The place and period illustrations below are **not portraits**, property deeds, 
 
 The [compact faces and places gallery](../context/faces-and-places.md) brings selected images from several branches together with short identification notes.
 
+## Our parents' and our own era
+
+- [RIT campus plan, 17 July 1986](rit-campus-plan-1986.jpg): unmodified 1,364 × 1,081 JPG from [RIT *News & Events* via Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Campus_plan,_RIT_NandE_Vol17Num19_1986_Jul17_Complete.jpg); Commons marks the U.S. publication public domain for its missing notice/registration. It shows the campus around Paul Kramer's **family-reported** study period, not his enrollment or route through it.
+- [Burruss Hall at Virginia Tech, June 2007](virginia-tech-burruss-hall-2007.jpg): unmodified 2,400 × 2,432 photograph by **EpicV27**, [CC BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0/), via its [Commons item](https://commons.wikimedia.org/wiki/File:Burruss_Hall_Virginia_Tech.jpg). This is a place view from before Ashley's family-reported attendance, not a photograph of her or a record of her classes.
+- [Washington Navy Yard aerial](washington-navy-yard-aerial-1980-2006.jpg): existing [Library of Congress item](https://www.loc.gov/item/2011634490/) for John and Alice Weatherford's **family-reported** workplace. Neither is identified in the image. [Recent-generation reading view](../context/recent-generations.md).
+
 ## Family-supplied originals
 
 - [Cordaro family portrait](../sources/family/cordaro-family-portrait-unidentified.jpg): Justin identifies the group as Cordaros and estimates the 1930s. A visual review leans toward the **1920s**, with a broad **c. 1915–1935** range and low confidence. The six people, place and exact date are unknown. See the [passport and photo note](../branches/cordaro-passport-lead.md) before identifying anyone in the image.

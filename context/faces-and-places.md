@@ -2,6 +2,8 @@
 
 The image's **date and identification** matter as much as its appearance. A “family portrait” is an actual or family-attributed relative; a “place view” shows a setting; a “period advertisement” shows what an institution offered or claimed. Only the first category depicts a possible relative. Click any thumbnail for the saved image. The [picture guide](../media/README.md) has provenance and reuse notes.
 
+For Justin, Ashley and their parents, see the [recent-generation timeline and place images](recent-generations.md). It separates person-specific records from family accounts; no authenticated portrait of those six has been added yet.
+
 | Image | What it lets us see |
 | --- | --- |
 | <a href="../sources/family/hilda-kramer-wolosz-portrait-undated.jpg"><img src="../sources/family/hilda-kramer-wolosz-portrait-undated.jpg" width="230" alt="Undated portrait tagged as Hilda Kramer Wolosz"></a> | **Hilda Kramer Wolosz — named portrait.** A [FamilySearch contributor tagged the image](https://www.familysearch.org/memories/memory/122056242); her [obituary](https://www.legacy.com/us/obituaries/citizensvoice/name/hilda-wolosz-obituary?id=7822560) independently names Ferdinand and Rose as her parents. **Photo date and original inscription unknown.** |

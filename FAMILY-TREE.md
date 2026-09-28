@@ -40,6 +40,6 @@
 
 ## Follow an event or a place
 
-[Clickable line timelines](explore/line-timelines.html) · [Interactive overall timeline](explore/timeline.html) · [Family maps](context/geography-atlas.md) · [Family photos and original documents](context/faces-and-places.md) · [Source ledger](research/sources.md) · [Research questions](research/open-questions.md) · [Monty's pedigree](branches/monty.md)
+[Recent generations](context/recent-generations.md) · [Clickable line timelines](explore/line-timelines.html) · [Interactive overall timeline](explore/timeline.html) · [Family maps](context/geography-atlas.md) · [Family photos and original documents](context/faces-and-places.md) · [Source ledger](research/sources.md) · [Research questions](research/open-questions.md) · [Monty's pedigree](branches/monty.md)
 
 The [full-tree atlas](context/full-family-trees.md) keeps the four long diagrams together. Its cards link to branch notes; if your viewer does not make an image card clickable, use the name links on this page.

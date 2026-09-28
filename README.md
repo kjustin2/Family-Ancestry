@@ -7,6 +7,7 @@ An evidence-led map of Justin and Ashley's family history. **Research snapshot: 
 | Start with | Open |
 | --- | --- |
 | **Who is connected to whom?** | [Overall linked family tree](FAMILY-TREE.md) → [four deep tree diagrams](context/full-family-trees.md) |
+| **What do we know about our own generations?** | [Recent generations: parents, Justin, Alex and Ashley](context/recent-generations.md) |
 | **What happened when?** | [Ten clickable line timelines](explore/line-timelines.html) → [interactive overall timeline](explore/timeline.html) |
 | **What were their lives like?** | [Four short storyboards](context/family-storyboards.md) → [work and assets](research/assets-by-generation.md) |
 | **Where were they?** | [Family geography atlas](context/geography-atlas.md) → [migration stories](context/immigration-stories.md) |
