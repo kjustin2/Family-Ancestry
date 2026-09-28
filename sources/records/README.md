@@ -1,5 +1,14 @@
 # Original images and identified family portrait
 
+### Edward and Jennie Sponenberg's original census pages (saved 27 September 2026)
+
+| Page | What to inspect |
+| --- | --- |
+| [1910 Salem Township, ED 115, sheet 4A](edward-jennie-sponenberg-census-1910.jpg) | Lines **40–43**: Edward, Jennie, Ray and Elsie. Edward was a **retail grocery salesman**. The home was **owned with a mortgage**, but no street name/number is written. The **308/309** figures are dwelling/family enumeration numbers. Downloaded original `004973746_01071.jpg`; host item link still needs recovery. |
+| [1940 Salem Township/East Berwick, ED 40-252, sheet 4B](edward-jennie-sponenberg-census-1940.jpg) · [NARA original](https://catalog.archives.gov/medialz/census-1940/T627/PA/m-t0627-03560/m-t0627-03560-00233.jpg) | Lines **50–53**: Edward, Jennie, Ray and Dorothy at **505 E. Second Street**, the original page behind a previous census index. Downloaded original `m-t0627-03560-00233.jpg`; NARA image endpoint checked. [House and photo guide](../../context/family-homes.md). |
+
+Both are unaltered federal census-page downloads. A census is strong for the address and the enumerator's recorded answers; it is not a deed or a photograph of the house.
+
 ### Raber, Kreischer and Balliet household trail (saved 27 September 2026)
 
 These seven original census images were viewed in Justin's signed-in MyHeritage account and saved as unaltered document pages. The [source log V137–V144](../../research/sources.md) gives page, line, URL and interpretation. They are **not family portraits**.
