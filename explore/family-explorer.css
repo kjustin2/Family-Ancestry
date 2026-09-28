@@ -50,6 +50,13 @@ h1{font-size:clamp(46px,5.3vw,76px);line-height:1.02;margin:0 0 20px;max-width:8
 .zoom-controls button{height:39px;min-width:39px;border:1px solid #cdd8d1;background:white;border-radius:8px;font-weight:800;color:#194347}
 .zoom-controls #fit{padding:0 13px;font-size:12px}
 .zoom-controls button:hover{background:#e5efeb}
+.search-results{display:flex;align-items:center;gap:8px;flex-wrap:wrap;padding:12px 15px;background:#fffefa;border:1px solid #dde2db;border-top:0}
+.search-results[hidden]{display:none}
+.search-results>span{font-size:11px;color:#526363;font-weight:800;margin-right:4px}
+.search-results button{display:flex;flex-direction:column;gap:2px;text-align:left;max-width:225px;padding:7px 10px;background:#f1f6f1;border:1px solid #d1dfd6;border-radius:8px;color:#183d3e}
+.search-results button:hover,.search-results button:focus-visible{border-color:#0e6965;background:#e5f0e8}
+.search-results button strong{font-size:12px}
+.search-results button small{font-size:10px;color:#5d6c6c;overflow:hidden;text-overflow:ellipsis;white-space:nowrap;max-width:200px}
 .legend{background:#f2f7f3;border:1px solid #dde2db;border-top:0;display:flex;gap:22px;align-items:center;flex-wrap:wrap;padding:12px 18px;font-size:11px;color:#48605d}
 .legend>span{display:flex;align-items:center;gap:8px}
 .legend-help{margin-left:auto}
@@ -103,7 +110,7 @@ h1{font-size:clamp(46px,5.3vw,76px);line-height:1.02;margin:0 0 20px;max-width:8
 .tree-caption{max-width:980px;margin:15px 0 0;font-size:12px;line-height:1.6;color:#60706a}
 .after-tree{background:#e9eee7;padding:60px max(28px,calc((100vw - 1440px)/2));display:grid;grid-template-columns:minmax(0,.8fr) minmax(0,1.2fr);gap:70px}
 .after-tree p:not(.eyebrow){font-size:15px;line-height:1.6;color:#5a6c66;max-width:450px}
-.next-links{display:grid;grid-template-columns:repeat(2,1fr);gap:11px}
+.next-links{display:grid;grid-template-columns:repeat(3,1fr);gap:11px}
 .next-links a{min-height:92px;border-radius:12px;background:#fffefa;border:1px solid #dce3da;text-decoration:none;padding:17px;display:flex;flex-direction:column;gap:9px}
 .next-links a:hover{border-color:#609b96}
 .next-links strong{font-family:Georgia,serif;font-size:20px}
@@ -126,6 +133,7 @@ footer a{color:#e6c294}
 .story-row{padding:15px 15px 0}
 .after-tree{grid-template-columns:1fr;padding:45px 22px;gap:25px}
 .legend-help{margin-left:0}
+.next-links{grid-template-columns:repeat(2,1fr)}
 }
 @media(max-width:520px){.site-header{display:block}
 .site-header nav{margin-top:17px;justify-content:start}

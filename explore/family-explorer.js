@@ -11,7 +11,7 @@ const groups = [
         person('kramer-matthaus', 'Matthäus Kramer (1840)', 'Born 1840', 'Unadingen, Baden', 'This child is named in the Unadingen records. Whether he is Pennsylvania’s Matthew Kramer remains unproved.', 'German birth original; identity bridge to Pennsylvania is proposed.', '../branches/kramer-baden-candidate.md', '', '../maps/europe-family-places.svg', 'proposed'),
         person('kramer-pa', 'Matthew Kramer + Lena', '1900 census · 1865 reported arrival', 'Wilkes-Barre, Pennsylvania', 'The 1900 census describes Matthew and Lena as German-born and reports 1865 U.S. arrivals. It does not give Matthew’s German town or parents.', '1900 census; proposed match to Unadingen Matthäus.', '../branches/kramer.md', '../sources/records/kramer-matthew-lena-census-1900.jpg', '../maps/europe-family-places.svg'),
         person('kramer-ferdinand1', 'Ferdinand Kramer + Rose Bosch', 'c. 1882–1951', 'Wilkes-Barre, Pennsylvania', 'The first of three generations called Ferdinand in this path. He appears as Matthew and Lena’s son in 1900 and with sons Ferdinand Louis and Emil in 1930.', '1900 and 1930 censuses; death certificate.', '../branches/kramer.md', '../sources/records/kramer-matthew-lena-census-1900.jpg'),
-        person('kramer-ferdinand2', 'Ferdinand Louis + Mary Andrews', '1913–1976', 'Wilkes-Barre, Pennsylvania', 'The second Ferdinand was reported as a National Radio Institute graduate. His own draft card puts him and Mary at 19 Flick Street and names American Chain & Cable’s Hazard Division as employer; the 1950 census calls him a wire-rope machine operator.', 'Signed draft card; 1950 census; 1976 obituary for NRI graduation.', '../branches/kramer.md', '../sources/records/ferdinand-louis-kramer-draft-registration-1940.jpg'),
+        person('kramer-ferdinand2', 'Ferdinand Louis + Mary Andrews', '1913–1976', 'Wilkes-Barre, Pennsylvania', 'The second Ferdinand was reported as a National Radio Institute graduate. His own draft card puts him and Mary at 19 Flick Street and names American Chain & Cable’s Hazard Division as employer; the 1950 census calls him a wire-rope machine operator. Why he studied radio and what he built remain unknown.', '1976 obituary reports NRI graduation; signed draft card and 1950 census establish his work, but no NRI project.', '../context/education-across-generations.md#a-radio-lesson-by-mail', '../sources/records/ferdinand-louis-kramer-obituary-1976.jpg', '../maps/ferdinand-louis-nri-evidence.svg'),
         person('kramer-ferdinand3', 'Fred / Ferdinand Francis Kramer', 'Born 1939', 'Pennsylvania', 'The third Ferdinand, generally called Fred, links the earlier Pennsylvania household to Paul Kramer and Justin.', '1950 household and later obituary; parent-to-Paul link supplied by family.', '../branches/kramer.md', '', '', 'family')
       ]},
       { label: 'Cordaro · Caucci', nodes: [
@@ -96,6 +96,7 @@ const nodesEl = document.querySelector('#tree-nodes');
 const linesEl = document.querySelector('#connections');
 const detailEl = document.querySelector('#detail');
 const searchEl = document.querySelector('#search');
+const resultsEl = document.querySelector('#search-results');
 const branchEl = document.querySelector('#branch');
 const all = new Map();
 const positions = new Map();
@@ -189,15 +190,20 @@ function selectedPath(item) {
   if (!lane) return '';
   return lane.nodes.map(n => n.id === item.id ? `<b>${escapeHtml(n.title)}</b>` : `<button type="button" data-jump="${escapeHtml(n.id)}">${escapeHtml(n.title)}</button>`).join('<span aria-hidden="true"> → </span>');
 }
-function selectNode(id, center = false) {
+function selectNode(id, center = false, updateUrl = true) {
   const item = all.get(id); if (!item) return;
   selected = id;
+  if (updateUrl) {
+    const hash = `#person=${encodeURIComponent(id)}`;
+    try { history.replaceState(null, '', hash); }
+    catch { location.hash = hash; }
+  }
   document.querySelectorAll('.tree-card').forEach(card => card.classList.toggle('selected', card.dataset.id === id));
   const group = groups[item.groupIndex];
   const status = statusLabel(item.edge);
   const read = safeHref(item.read);
-  const image = item.image ? `<a class="artifact" href="${safeHref(item.image)}" target="_blank" rel="noopener"><img src="${safeHref(item.image)}" alt="Historical record related to ${escapeHtml(item.title)}" loading="lazy"><span>Open the original image ↗</span></a>` : '';
-  const map = item.map ? `<a href="${safeHref(item.map)}" target="_blank" rel="noopener">See this branch on a map ↗</a>` : '';
+  const image = item.image ? `<a class="artifact" href="${safeHref(item.image)}" target="_blank" rel="noopener"><img src="${safeHref(item.image)}" alt="Record or period image associated with ${escapeHtml(item.title)}; see branch notes for identification" loading="lazy"><span>Open the related image ↗</span></a>` : '';
+  const map = item.map ? `<a href="${safeHref(item.map)}" target="_blank" rel="noopener">See the related visual ↗</a>` : '';
   detailEl.innerHTML = `<div class="detail-top"><span class="detail-branch">${escapeHtml(group.title)} / ${escapeHtml(item.laneLabel)}</span><span class="detail-status ${item.edge}">${status}</span></div><h3>${escapeHtml(item.title)}</h3><p class="detail-era">${escapeHtml(item.era)} <span>·</span> ${escapeHtml(item.place)}</p><p class="detail-story">${escapeHtml(item.story)}</p><div class="detail-evidence"><strong>What supports this</strong><p>${escapeHtml(item.evidence)}</p></div>${image}<div class="detail-links"><a href="${read}">Read this branch &amp; its sources ↗</a>${map}</div>${selectedPath(item) ? `<div class="detail-path"><strong>Follow this path</strong><div>${selectedPath(item)}</div></div>` : ''}`;
   detailEl.querySelectorAll('[data-jump]').forEach(button => button.addEventListener('click', () => selectNode(button.dataset.jump, true)));
   document.querySelector('#tree-tip').textContent = `${item.title} · ${status}`;
@@ -208,17 +214,43 @@ function markSearch() {
   const matches = [];
   document.querySelectorAll('.tree-card').forEach(card => {
     const item = all.get(card.dataset.id);
-    const match = !term || [item.title, item.place, item.era, item.story].some(v => v.toLocaleLowerCase().includes(term));
+    const match = !term || [item.title, item.place, item.era, item.story, item.laneLabel].some(v => v.toLocaleLowerCase().includes(term));
     card.classList.toggle('dimmed', Boolean(term) && !match);
     card.classList.toggle('match', Boolean(term) && match);
     if (term && match) matches.push(item.id);
   });
   document.querySelector('#tree-tip').textContent = term ? `${matches.length} matching cards${matches.length ? ' · press Enter to jump to the first' : ''}` : selected ? `${all.get(selected).title} · ${statusLabel(all.get(selected).edge)}` : 'Select a card to explore a life';
+  resultsEl.hidden = !term;
+  if (term) {
+    const shown = matches.slice(0, 12);
+    resultsEl.innerHTML = `<span>${matches.length ? `${matches.length} result${matches.length === 1 ? '' : 's'}` : 'No matches'}${matches.length > shown.length ? ' · showing first 12' : ''}</span>` + shown.map(id => {
+      const item = all.get(id);
+      return `<button type="button" data-result="${escapeHtml(id)}"><strong>${escapeHtml(item.title)}</strong><small>${escapeHtml(item.laneLabel)} · ${escapeHtml(item.place)}</small></button>`;
+    }).join('');
+    resultsEl.querySelectorAll('[data-result]').forEach(button => button.addEventListener('click', () => {
+      searchEl.value = '';
+      markSearch();
+      selectNode(button.dataset.result, true);
+    }));
+  }
   return matches;
 }
 
 renderTree();
-requestAnimationFrame(() => { fit(); selectNode('justin'); });
+function personFromHash() {
+  const match = location.hash.match(/^#person=(.+)$/);
+  if (!match) return '';
+  try { return decodeURIComponent(match[1]); } catch { return ''; }
+}
+requestAnimationFrame(() => {
+  fit();
+  const initial = personFromHash();
+  selectNode(all.has(initial) ? initial : 'justin', Boolean(initial), false);
+});
+window.addEventListener('hashchange', () => {
+  const id = personFromHash();
+  if (all.has(id)) selectNode(id, true, false);
+});
 document.querySelector('#fit').addEventListener('click', () => { branchEl.value = 'all'; fit(); });
 document.querySelector('#zoom-in').addEventListener('click', () => zoomAt(1.25));
 document.querySelector('#zoom-out').addEventListener('click', () => zoomAt(.8));
@@ -234,7 +266,7 @@ branchEl.addEventListener('change', () => {
   transform();
 });
 searchEl.addEventListener('input', markSearch);
-searchEl.addEventListener('keydown', event => { if (event.key === 'Enter') { const first = markSearch()[0]; if (first) { selectNode(first, true); document.querySelector('#tree-heading').scrollIntoView({ behavior: 'smooth' }); event.preventDefault(); } } });
+searchEl.addEventListener('keydown', event => { if (event.key === 'Enter') { const first = markSearch()[0]; if (first) { searchEl.value = ''; markSearch(); selectNode(first, true); document.querySelector('#tree-heading').scrollIntoView({ behavior: 'smooth' }); event.preventDefault(); } } });
 document.querySelectorAll('[data-story]').forEach(button => button.addEventListener('click', () => { selectNode(button.dataset.story, true); document.querySelector('#tree-heading').scrollIntoView({ behavior: 'smooth' }); }));
 windowEl.addEventListener('wheel', event => { event.preventDefault(); zoomAt(event.deltaY < 0 ? 1.12 : 1 / 1.12, event.clientX, event.clientY); }, { passive: false });
 windowEl.addEventListener('pointerdown', event => {

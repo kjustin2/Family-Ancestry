@@ -24,7 +24,7 @@
       <div>
         <p class="eyebrow">Justin Kramer &amp; Ashley Weatherford</p>
         <h1>Every branch has a story.</h1>
-        <p class="lede">Move through eight long family paths. Click a household to see its place, era, a short story, and the records behind it. The full tree stays in one view as you zoom and explore.</p>
+        <p class="lede">Move through eight long family paths. Search for a relative or place, then click a household to see its era, story, image and source notes. Your selected card gets a bookmarkable link.</p>
         <div class="intro-actions"><a class="primary-link" href="#tree-heading">Explore the tree <span aria-hidden="true">↘</span></a><a class="quiet-link" href="../FAMILY-TREE.md">Read the written tree ↗</a></div>
       </div>
       <div class="intro-card" aria-label="Explorer coverage">
@@ -50,6 +50,7 @@
         <label class="branch-label">Jump to a branch <select id="branch"><option value="all">Whole tree</option></select></label>
         <div class="zoom-controls" aria-label="Tree zoom controls"><button id="zoom-out" type="button" aria-label="Zoom out">−</button><button id="zoom-in" type="button" aria-label="Zoom in">+</button><button id="fit" type="button">Fit all</button></div>
       </div>
+      <div class="search-results" id="search-results" aria-live="polite" hidden></div>
       <div class="legend" aria-label="Evidence key"><span><i class="line recorded"></i> Record-supported connection</span><span><i class="line family"></i> Family account</span><span><i class="line proposed"></i> Proposed connection</span><span class="legend-help">Drag to pan · scroll or use buttons to zoom · select a card to learn more</span></div>
       <div class="workspace">
         <div class="tree-window" id="tree-window" aria-label="Zoomable and pannable family tree">
@@ -58,12 +59,12 @@
         </div>
         <aside class="detail" id="detail" aria-live="polite" aria-label="Selected family story"></aside>
       </div>
-      <p class="tree-caption">Each card may represent a couple or a household. The eight paths show the longest researched route through each branch; siblings and other relatives are in the linked branch pages. A dashed connection is a research lead, even when people on either side are independently documented.</p>
+      <p class="tree-caption">Each card may represent a couple or a household. The eight paths show the longest researched route through each branch; siblings and other relatives are in the linked branch pages. A dashed connection is a research lead, even when people on either side are independently documented. The image in a card's details may be a record or a period view; read its linked source before treating it as a portrait.</p>
     </section>
 
     <section class="after-tree" aria-label="More ways to explore">
       <div><p class="eyebrow">Keep exploring</p><h2>From names to places and lives</h2><p>The tree is a doorway. These views add the local history, images and unanswered questions behind its cards.</p></div>
-      <div class="next-links"><a href="line-timelines.html"><strong>Time</strong><span>Ten clickable line timelines ↗</span></a><a href="../context/geography-atlas.md"><strong>Place</strong><span>Europe and U.S. map atlas ↗</span></a><a href="../context/faces-and-places.md"><strong>Artifacts</strong><span>Family photographs and original records ↗</span></a><a href="../research/open-questions.md"><strong>Research</strong><span>What still needs proof ↗</span></a></div>
+      <div class="next-links"><a href="line-timelines.html"><strong>Time</strong><span>Ten clickable line timelines ↗</span></a><a href="../context/geography-atlas.md"><strong>Place</strong><span>Europe and U.S. map atlas ↗</span></a><a href="../context/family-home-photo-atlas.md"><strong>Homes</strong><span>Addresses and house-image leads ↗</span></a><a href="../context/faces-and-places.md"><strong>Artifacts</strong><span>Family photographs and original records ↗</span></a><a href="../context/education-across-generations.md"><strong>Education</strong><span>Schools across generations ↗</span></a><a href="../research/open-questions.md"><strong>Research</strong><span>What still needs proof ↗</span></a></div>
     </section>
   </main>
   <footer><span>Family history is still being checked. Some older links are hypotheses.</span><a href="../research/sources.md">Source ledger ↗</a></footer>

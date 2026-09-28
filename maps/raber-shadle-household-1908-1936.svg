@@ -1,7 +1,7 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="960" height="440" viewBox="0 0 960 440" role="img" aria-labelledby="title desc">
-  <title id="title">The Raber and Shadle household, 1909 to 1936</title>
-  <desc id="desc">A four stop birth and census path from Nescopeck to Mahoning, beginning with a 1908 boy and stillbirth plus Harry's 1909 index, then a 1936 Armstrong County death-index candidate for William A. A dashed arrow marks the proposed identification of a hard-to-read son with the younger William G. Raber on another 1930 sheet.</desc>
-  <rect width="960" height="440" rx="22" fill="#f8f6f0"/>
+<svg xmlns="http://www.w3.org/2000/svg" width="960" height="465" viewBox="0 0 960 465" role="img" aria-labelledby="title desc">
+  <title id="title">The Raber and Shadle household, 1908 to 1936</title>
+  <desc id="desc">A four-stop birth and census path from Nescopeck to Mahoning, beginning with a 1908 boy and stillbirth plus Harry's 1909 index, then a 1936 Armstrong County death-index candidate for William A. A dashed arrow marks the proposed identification of a hard-to-read son with the younger William G. Raber. Sterling's signed card reports 1907 rather than the index boy's 1908, so that identity remains open.</desc>
+  <rect width="960" height="465" rx="22" fill="#f8f6f0"/>
   <text x="36" y="48" font-family="Arial, sans-serif" font-size="28" font-weight="700" fill="#153d42">One household, two Pennsylvania counties</text>
   <text x="36" y="78" font-family="Arial, sans-serif" font-size="15" fill="#476167">Recorded names, places and the proposed link to Sonya's Raber line</text>
   <path d="M76 177H866" stroke="#2a7a79" stroke-width="5" stroke-linecap="round"/>
@@ -48,4 +48,5 @@
   <text x="688" y="310" font-family="Arial, sans-serif" font-size="15" font-weight="700" fill="#6b431f">Possible son, sheet 16A</text>
   <text x="688" y="334" font-family="Arial, sans-serif" font-size="14" fill="#6b431f">William G. Raber, age 19</text>
   <text x="38" y="402" font-family="Arial, sans-serif" font-size="13" fill="#53686b">1936 identity and burial need certificates. Dashed link: 1920 “Glenore” → William G. needs a parent-naming record.</text>
+  <text x="38" y="430" font-family="Arial, sans-serif" font-size="13" fill="#8c572b">1908 boy may be Sterling, but his signed WWII card says 22 Feb 1907; original birth certificate 20874 could resolve this.</text>
 </svg>
