@@ -1,36 +1,49 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="960" height="500" viewBox="0 0 960 500" role="img" aria-labelledby="title desc">
-  <title id="title">Mary and Rita Andrews in two Flick Street households, 1930 and 1940</title>
-  <desc id="desc">The 1930 census puts Mary and Rita among six children of widowed Frank Andrews at 71 Flick Street. The 1940 census puts both women in Mary and Ferdinand Louis Kramer's rented household at 19 Flick Street. A father and sister relationship is proved; movement of property or wealth is not.</desc>
+<svg xmlns="http://www.w3.org/2000/svg" width="1100" height="500" viewBox="0 0 1100 500" role="img" aria-labelledby="title desc">
+  <title id="title">Three Flick Street household snapshots, 1930 to 1950</title>
+  <desc id="desc">In 1930 widowed Frank Andrews and six children were at 71 Flick in a house he said he owned. In 1940 his daughter Mary, her husband Ferdinand Louis Kramer, their infant and Mary's sister Rita rented at 19 Flick. A 1948 phone directory lists Frank E. Andrews at 19 Flick, and the 1950 census names Frank as Ferdinand's father-in-law in that home. No record here explains the fate of Frank's earlier property.</desc>
   <defs><marker id="arrow" markerWidth="9" markerHeight="9" refX="7" refY="4.5" orient="auto"><path d="M0 0L9 4.5L0 9" fill="#167c80"/></marker></defs>
-  <rect width="960" height="500" fill="#f7f4ed"/>
+  <rect width="1100" height="500" fill="#f7f4ed"/>
   <rect x="0" y="0" width="10" height="500" fill="#167c80"/>
-  <text x="42" y="54" font-family="Segoe UI,Arial,sans-serif" font-size="28" font-weight="700" fill="#173348">Two households on Flick Street</text>
-  <text x="42" y="82" font-family="Segoe UI,Arial,sans-serif" font-size="16" fill="#596970">Mary and Rita appear together ten years apart. Click a card for its original census.</text>
-  <a href="../sources/records/frank-andrews-children-census-1930.jpg">
-    <rect x="42" y="111" width="399" height="291" rx="15" fill="#fff" stroke="#ccd9d9" stroke-width="2"/>
-    <rect x="42" y="111" width="399" height="55" rx="15" fill="#167c80"/>
-    <text x="63" y="146" font-family="Segoe UI,Arial,sans-serif" font-size="21" font-weight="700" fill="#fff">1930 · 71 Flick Street</text>
-    <text x="63" y="194" font-family="Segoe UI,Arial,sans-serif" font-size="18" font-weight="700" fill="#173348">Frank Andrews, 43 · widowed</text>
-    <text x="63" y="218" font-family="Segoe UI,Arial,sans-serif" font-size="15" fill="#596970">Coal-mine pump runner · six children at home</text>
-    <text x="63" y="258" font-family="Segoe UI,Arial,sans-serif" font-size="16" fill="#173348">Anna 20 · Edward 18 · Francis 17</text>
-    <text x="63" y="282" font-family="Segoe UI,Arial,sans-serif" font-size="16" fill="#173348">Michael 15</text>
-    <rect x="61" y="298" width="322" height="43" rx="9" fill="#e1f2ee"/>
-    <text x="77" y="325" font-family="Segoe UI,Arial,sans-serif" font-size="18" font-weight="700" fill="#145d62">Mary 13 · Rita 7</text>
-    <text x="63" y="374" font-family="Segoe UI,Arial,sans-serif" font-size="15" fill="#596970">Reported owned home value: $5,000</text>
-  </a>
-  <line x1="447" y1="315" x2="507" y2="315" stroke="#167c80" stroke-width="4" marker-end="url(#arrow)"/>
-  <a href="../sources/records/ferdinand-mary-kramer-census-1940.jpg">
-    <rect x="519" y="111" width="399" height="291" rx="15" fill="#fff" stroke="#ccd9d9" stroke-width="2"/>
-    <rect x="519" y="111" width="399" height="55" rx="15" fill="#167c80"/>
-    <text x="540" y="146" font-family="Segoe UI,Arial,sans-serif" font-size="21" font-weight="700" fill="#fff">1940 · 19 Flick Street</text>
-    <text x="540" y="194" font-family="Segoe UI,Arial,sans-serif" font-size="18" font-weight="700" fill="#173348">Ferdinand Louis + Mary</text>
-    <text x="540" y="218" font-family="Segoe UI,Arial,sans-serif" font-size="15" fill="#596970">With infant son Ferdinand</text>
-    <rect x="538" y="267" width="331" height="74" rx="9" fill="#e1f2ee"/>
-    <text x="554" y="295" font-family="Segoe UI,Arial,sans-serif" font-size="18" font-weight="700" fill="#145d62">Mary 23 · Rita 17</text>
-    <text x="554" y="321" font-family="Segoe UI,Arial,sans-serif" font-size="14" fill="#145d62">Rita is Mary's sister, despite the label.</text>
-    <text x="540" y="374" font-family="Segoe UI,Arial,sans-serif" font-size="15" fill="#596970">Reported monthly rent: $5</text>
-  </a>
-  <rect x="42" y="425" width="876" height="51" rx="10" fill="#e9e2d4"/>
-  <text x="59" y="447" font-family="Segoe UI,Arial,sans-serif" font-size="14" fill="#394c55">Frank owned a house in 1930; his married daughter rented in 1940. These are separate households and measures.</text>
-  <text x="59" y="466" font-family="Segoe UI,Arial,sans-serif" font-size="14" fill="#394c55">The records do not show a sale, inheritance, renumbering, or reason for Rita's stay with Mary.</text>
+  <text x="40" y="50" font-family="Segoe UI,Arial,sans-serif" font-size="28" font-weight="700" fill="#173348">Flick Street: the family regroups</text>
+  <text x="40" y="78" font-family="Segoe UI,Arial,sans-serif" font-size="16" fill="#596970">Four dated records of Frank, Mary and Rita. Open the source links in each card.</text>
+
+  <rect x="40" y="109" width="320" height="295" rx="14" fill="#fff" stroke="#ccd9d9" stroke-width="2"/>
+  <rect x="40" y="109" width="320" height="55" rx="14" fill="#167c80"/>
+  <text x="59" y="145" font-family="Segoe UI,Arial,sans-serif" font-size="21" font-weight="700" fill="#fff">1930 · 71 Flick</text>
+  <text x="59" y="193" font-family="Segoe UI,Arial,sans-serif" font-size="17" font-weight="700" fill="#173348">Frank Andrews, widowed</text>
+  <text x="59" y="221" font-family="Segoe UI,Arial,sans-serif" font-size="15" fill="#173348">Coal-mine pump runner</text>
+  <text x="59" y="247" font-family="Segoe UI,Arial,sans-serif" font-size="15" fill="#173348">Six children at home</text>
+  <rect x="57" y="265" width="275" height="48" rx="8" fill="#e1f2ee"/>
+  <text x="72" y="295" font-family="Segoe UI,Arial,sans-serif" font-size="17" font-weight="700" fill="#145d62">Mary 13 · Rita 7</text>
+  <text x="59" y="343" font-family="Segoe UI,Arial,sans-serif" font-size="14" fill="#596970">Reported owned-house value: $5,000</text>
+  <a href="../sources/records/frank-andrews-children-census-1930.jpg"><text x="59" y="382" font-family="Segoe UI,Arial,sans-serif" font-size="14" text-decoration="underline" fill="#146d72">Open 1930 census ↗</text></a>
+
+  <line x1="366" y1="257" x2="392" y2="257" stroke="#167c80" stroke-width="3" marker-end="url(#arrow)"/>
+
+  <rect x="397" y="109" width="320" height="295" rx="14" fill="#fff" stroke="#ccd9d9" stroke-width="2"/>
+  <rect x="397" y="109" width="320" height="55" rx="14" fill="#167c80"/>
+  <text x="416" y="145" font-family="Segoe UI,Arial,sans-serif" font-size="21" font-weight="700" fill="#fff">1940 · 19 Flick</text>
+  <text x="416" y="193" font-family="Segoe UI,Arial,sans-serif" font-size="17" font-weight="700" fill="#173348">Ferdinand Louis + Mary</text>
+  <text x="416" y="221" font-family="Segoe UI,Arial,sans-serif" font-size="15" fill="#173348">With infant Fred and Mary's sister Rita</text>
+  <rect x="414" y="265" width="275" height="48" rx="8" fill="#e1f2ee"/>
+  <text x="429" y="295" font-family="Segoe UI,Arial,sans-serif" font-size="17" font-weight="700" fill="#145d62">Mary 23 · Rita 17</text>
+  <text x="416" y="343" font-family="Segoe UI,Arial,sans-serif" font-size="14" fill="#596970">Reported monthly rent: $5</text>
+  <a href="../sources/records/ferdinand-mary-kramer-census-1940.jpg"><text x="416" y="382" font-family="Segoe UI,Arial,sans-serif" font-size="14" text-decoration="underline" fill="#146d72">Open 1940 census ↗</text></a>
+
+  <line x1="723" y1="257" x2="749" y2="257" stroke="#167c80" stroke-width="3" marker-end="url(#arrow)"/>
+
+  <rect x="754" y="109" width="306" height="295" rx="14" fill="#fff" stroke="#ccd9d9" stroke-width="2"/>
+  <rect x="754" y="109" width="306" height="55" rx="14" fill="#167c80"/>
+  <text x="773" y="145" font-family="Segoe UI,Arial,sans-serif" font-size="21" font-weight="700" fill="#fff">1948–50 · 19 Flick</text>
+  <text x="773" y="193" font-family="Segoe UI,Arial,sans-serif" font-size="17" font-weight="700" fill="#173348">Frank recorded at 19</text>
+  <text x="773" y="221" font-family="Segoe UI,Arial,sans-serif" font-size="15" fill="#173348">1948 directory: Frank E. Andrews</text>
+  <text x="773" y="247" font-family="Segoe UI,Arial,sans-serif" font-size="15" fill="#173348">1950: Ferdinand's father-in-law</text>
+  <rect x="771" y="265" width="266" height="48" rx="8" fill="#e1f2ee"/>
+  <text x="786" y="295" font-family="Segoe UI,Arial,sans-serif" font-size="16" font-weight="700" fill="#145d62">Three generations together</text>
+  <a href="https://westpittstonhistory.org/wp-content/uploads/2021/08/1948-Bell-Telephone-Directory-Pittston-_-Nearby-Points.pdf#page=87"><text x="773" y="351" font-family="Segoe UI,Arial,sans-serif" font-size="14" text-decoration="underline" fill="#146d72">Open 1948 directory, p. 85 ↗</text></a>
+  <a href="../sources/records/ferdinand-louis-mary-kramer-census-1950.jpg"><text x="773" y="382" font-family="Segoe UI,Arial,sans-serif" font-size="14" text-decoration="underline" fill="#146d72">Open 1950 census ↗</text></a>
+
+  <rect x="40" y="423" width="1020" height="52" rx="10" fill="#e9e2d4"/>
+  <text x="57" y="445" font-family="Segoe UI,Arial,sans-serif" font-size="14" fill="#394c55">These are different households and measures: Frank's 1930 reported home value and his daughter's 1940 rent.</text>
+  <text x="57" y="465" font-family="Segoe UI,Arial,sans-serif" font-size="14" fill="#394c55">The records do not show a sale, inheritance, continuous occupancy, or the reason Frank came to 19 Flick.</text>
 </svg>
