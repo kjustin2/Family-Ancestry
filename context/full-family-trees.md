@@ -2,7 +2,7 @@
 
 Start with the [one-page linked family tree](../FAMILY-TREE.md) if you want to choose a parent or grandparent first.
 
-For a browser view, open the [interactive family explorer](../explore/family-explorer.html). Its connected canvas brings these eight long ancestral paths together; search, zoom, and click a card for a short story, evidence, an original image when available, and a map.
+For a browser view, open the [interactive family explorer](../explore/family-explorer.html). Its connected canvas brings these eight long ancestral paths together; search, zoom, and click a card for a short story, evidence, an original image when available, and a map. Its [branch directory](../explore/family-explorer.html#side-branches) gives a simple route to the Balliets and other relatives outside the main canvas.
 
 These four long views follow **one ancestral path in each column** to show how far the current research can go. Click a person card to open that branch's source notes. The diagrams are not claims that every sibling or spouse's ancestry has been found.
 
