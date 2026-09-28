@@ -52,6 +52,12 @@
 
 [Full plate 4](sanborn-berwick-west-front-1896-plate4.jpg) · [Library of Congress original](https://www.loc.gov/resource/g3824bm.g3824bm_g075271896/?sp=4) · [1901 directory page naming Emma at 211](sponenberg-berwick-directory-1901-p169.jpg) · [house research note](../../context/family-homes.md#emma-hartman-sponenberg-a-mapped-west-front-address). The September **1896** map predates Emma's directory address; it shows a numbered **two-story dwelling footprint**, but neither resident nor owner. Sanborn Map Company / Library of Congress Geography and Map Division, public domain. The displayed detail is a crop of the saved 50%-resolution plate.
 
+### Edward and Jennie's East Second Street address on a 1919 map
+
+<a href="sanborn-east-berwick-1919-plate19.jpg"><img src="../../media/sponenberg-east-second-1919-sanborn-detail.jpg" alt="1919 Sanborn map detail of a two-story dwelling numbered 505 on East Second Street, east of Spruce" width="680"></a>
+
+[Saved complete plate 19](sanborn-east-berwick-1919-plate19.jpg) · [Library of Congress original](https://www.loc.gov/resource/g3824bm.g3824bm_g075271919/?sp=19) · [1940 census naming Edward and Jennie at 505](edward-jennie-sponenberg-census-1940.jpg). The **October 1919** map labels a **two-story dwelling (`2 D`) at 505 E. Second**, east of Spruce. The county line exits the plate's western edge **above** East Second, so this building is on the **Luzerne side**, consistent with the census's Salem Township heading. The map gives no resident, builder or photograph; its relationship to Edward's reported **1907** house remains unproved. Sanborn Map Company / Library of Congress Geography and Map Division, public domain. Full image saved at 50% of scan resolution; detail is an unaltered IIIF region.
+
 ### Edward and Jennie Sponenberg's original census pages (saved 27 September 2026)
 
 | Page | What to inspect |

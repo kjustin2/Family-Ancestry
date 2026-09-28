@@ -135,6 +135,10 @@ For John and Alice's school-era surroundings, [FCPS's Hayfield Elementary histor
 
 This is a **crop of an 1896 Berwick map**, not a photograph or proof Emma occupied the building that year. Her [1901 directory entry](../sources/records/sponenberg-berwick-directory-1901-p169.jpg) later gives **211 W. Front**. [Saved full plate](../sources/records/sanborn-berwick-west-front-1896-plate4.jpg) · [Library of Congress original](https://www.loc.gov/resource/g3824bm.g3824bm_g075271896/?sp=4). Sanborn Map Company / Library of Congress Geography and Map Division, public domain. [Address interpretation](../context/family-homes.md#emma-hartman-sponenberg-a-mapped-west-front-address).
 
+![A two-story dwelling numbered 505 East Second on the October 1919 Sanborn map](sponenberg-east-second-1919-sanborn-detail.jpg)
+
+The [saved complete plate](../sources/records/sanborn-east-berwick-1919-plate19.jpg) and [Library of Congress source](https://www.loc.gov/resource/g3824bm.g3824bm_g075271919/?sp=19) show **505 E. Second Street**, east of Spruce, marked `2 D` for a two-story dwelling. The map's printed Columbia/Luzerne boundary runs off the western edge **above** this address, correcting an earlier claim that 505 was in Columbia County. Edward and Jennie's [1940 Salem Township census](../sources/records/edward-jennie-sponenberg-census-1940.jpg) names them at 505; the map predates that record and names no occupant. It cannot prove the mapped house was Edward's reported 1907 build or that a modern structure is identical. Unaltered IIIF crop, Sanborn Map Company, October 1919; Library of Congress Geography and Map Division, public domain. [House analysis](../context/family-homes.md).
+
 The three other place JPGs are reduced-size versions supplied by Wikimedia Commons. No additional cropping or color changes were made. The Navy JPG is the 740 × 610 online image supplied by the Navy's selected-image archive mirror.
 
 ![Stephen Mattina and Fanny Cordaro's 1916 parent-naming marriage docket detail](mattina-cordaro-marriage-1916-detail.jpg)
