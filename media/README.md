@@ -122,3 +122,11 @@ For John and Alice's school-era surroundings, [FCPS's Hayfield Elementary histor
 This is a **crop of an 1896 Berwick map**, not a photograph or proof Emma occupied the building that year. Her [1901 directory entry](../sources/records/sponenberg-berwick-directory-1901-p169.jpg) later gives **211 W. Front**. [Saved full plate](../sources/records/sanborn-berwick-west-front-1896-plate4.jpg) · [Library of Congress original](https://www.loc.gov/resource/g3824bm.g3824bm_g075271896/?sp=4). Sanborn Map Company / Library of Congress Geography and Map Division, public domain. [Address interpretation](../context/family-homes.md#emma-hartman-sponenberg-a-mapped-west-front-address).
 
 The three other place JPGs are reduced-size versions supplied by Wikimedia Commons. No additional cropping or color changes were made. The Navy JPG is the 740 × 610 online image supplied by the Navy's selected-image archive mirror.
+
+![Stephen Mattina and Fanny Cordaro's 1916 parent-naming marriage docket detail](mattina-cordaro-marriage-1916-detail.jpg)
+
+The displayed detail is cropped from the [unaltered 1916 Luzerne County marriage docket](../sources/records/stephen-mattina-fanny-cordaro-marriage-1916.jpg), no. 76574, [FamilySearch image](https://www.familysearch.org/ark:/61903/3:1:33SQ-GPT9-9WJK?view=index&personArk=%2Fark%3A%2F61903%2F1%3A1%3AKHF2-FBB&action=view&lang=en). It shows the couple and Fanny's parents; it is a record image, not a portrait.
+
+![Steve and Fannie Mattina's 1940 Holden Street census detail](mattina-household-1940-detail.jpg)
+
+This is a reading crop of the [unaltered 1940 census page](../sources/records/steve-fannie-mattina-household-census-1940.jpg), ED 40-277, sheet 13B, lines 49–58, [FamilySearch image](https://www.familysearch.org/ark:/61903/3:1:3QS7-L9MT-TPTS?view=index&personArk=%2Fark%3A%2F61903%2F1%3A1%3AKQ7W-KSD&action=view&lang=en). It lists the family and number **419**; the preceding 13A sheet writes Holden Street for the numbered run. Crops do not replace the full original pages.

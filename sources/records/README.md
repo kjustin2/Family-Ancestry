@@ -211,6 +211,16 @@ The [public 1916 Oyster Bay town-record scan](https://archive.org/details/oyster
 
 ## A person, not just paperwork
 
+### Fanny Cordaro Mattina: a parent-naming marriage and a new Holden address
+
+<a href="stephen-mattina-fanny-cordaro-marriage-1916.jpg"><img src="../../media/mattina-cordaro-marriage-1916-detail.jpg" alt="1916 Luzerne marriage docket naming Stephen Mattina, Fanny Cordaro and her parents Anthony and Petra" width="620"></a>
+
+The [original Luzerne docket no. 76574](https://www.familysearch.org/ark:/61903/3:1:33SQ-GPT9-9WJK?view=index&personArk=%2Fark%3A%2F61903%2F1%3A1%3AKHF2-FBB&action=view&lang=en) records **Stephen Mattina and Fanny Cordaro's 13 August 1916 marriage**. The bride names Anthony and Petra as parents; the online surname index says *Kadali*, but the original and other parent-linked records identify the Cordaro household. The unaltered full spread is saved above; the displayed detail is cropped for legibility.
+
+<a href="steve-fannie-mattina-household-census-1940.jpg"><img src="../../media/mattina-household-1940-detail.jpg" alt="1940 West Wyoming census listing Steve and Fannie Mattina and eight children at number 419" width="620"></a>
+
+The [1940 original, ED 40-277, sheet 13B, lines 49–58](https://www.familysearch.org/ark:/61903/3:1:3QS7-L9MT-TPTS?view=index&personArk=%2Fark%3A%2F61903%2F1%3A1%3AKQ7W-KSD&action=view&lang=en) lists **419 Holden**, with $15 monthly rent. The adjoining **sheet 13A** supplies the vertical Holden Street label. In 1920 Fannie, Stephen and daughter Marion had lived with Anthony/Pietra at **438 Holden**. [Story and street visual](../../branches/cordaro-passport-lead.md#fannie-crosses-the-same-street) · [today's 419 street-view page](https://www.realtor.com/realestateandhomes-detail/419-Holden-St_Wyoming_PA_18644_M44209-67513). Current building continuity is unproved.
+
 ![Undated portrait tagged as Hilda Kramer Wolosz](../family/hilda-kramer-wolosz-portrait-undated.jpg)
 
 This [FamilySearch memory](https://www.familysearch.org/memories/memory/122056242) was uploaded by **Cindy Lee Eppich** on **25 February 2021** and tagged **Hilda M. Kramer Wolosz (1921–2020)**. The image supplies **no exposure date** or original photographer. Hilda's [published obituary](https://www.legacy.com/us/obituaries/citizensvoice/name/hilda-wolosz-obituary?id=7822560) independently connects her to parents Ferdinand and Rose Bosch Kramer. The portrait identification is contributor-supplied; a labeled family original would strengthen it.
