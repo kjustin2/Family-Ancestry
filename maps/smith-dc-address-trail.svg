@@ -1,0 +1,26 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="960" height="288" viewBox="0 0 960 288" role="img" aria-labelledby="title desc">
+  <title id="title">Candidate Smith family's Washington address trail, 1930 to 1950</title>
+  <desc id="desc">Three census cards: 1115 O Street NE in 1930, house 106 with street unconfirmed in 1940, and 108 6th Street SE in 1950. These records concern a candidate line not yet proved to be Ashley's ancestors.</desc>
+  <rect width="960" height="288" fill="#f6f5f0"/>
+  <text x="34" y="40" font-family="Arial,sans-serif" font-size="22" font-weight="700" fill="#17334a">Where Raymond and Alice Smith were recorded</text>
+  <text x="34" y="65" font-family="Arial,sans-serif" font-size="14" fill="#526575">Washington, DC census sightings · candidate line for Ashley</text>
+  <path d="M194 153H766" stroke="#9bb0bd" stroke-width="4"/>
+  <g font-family="Arial,sans-serif">
+    <rect x="34" y="92" width="273" height="130" rx="12" fill="#fff" stroke="#bad2d5"/>
+    <text x="54" y="123" font-size="16" font-weight="700" fill="#126579">1930 · 1115 O Street NE</text>
+    <text x="54" y="150" font-size="14" fill="#253d4e">Raymond, Alice, four children</text>
+    <text x="54" y="174" font-size="14" fill="#253d4e">Rented · $35.50/month</text>
+    <text x="54" y="201" font-size="12" fill="#6a7178">Original census, ED 2-66 · sheet 1A</text>
+    <rect x="344" y="92" width="273" height="130" rx="12" fill="#fff" stroke="#e0c58b"/>
+    <text x="364" y="123" font-size="16" font-weight="700" fill="#9b6514">1940 · house 106</text>
+    <text x="364" y="150" font-size="14" fill="#253d4e">Street still to identify</text>
+    <text x="364" y="174" font-size="14" fill="#253d4e">James A., age 6 · $20 rent</text>
+    <text x="364" y="201" font-size="12" fill="#6a7178">Original census, ED 1-175 · sheet 18B</text>
+    <rect x="654" y="92" width="273" height="130" rx="12" fill="#fff" stroke="#bad2d5"/>
+    <text x="674" y="123" font-size="16" font-weight="700" fill="#126579">1950 · 108 6th Street SE</text>
+    <text x="674" y="150" font-size="14" fill="#253d4e">James A., age 16</text>
+    <text x="674" y="174" font-size="14" fill="#253d4e">Raymond worked as an optician</text>
+    <text x="674" y="201" font-size="12" fill="#6a7178">Original census, ED 1-360 · page 7</text>
+    <text x="34" y="252" font-size="13" fill="#526575">Census addresses identify this household, but the 1957 groom's parent link is still probable.</text>
+  </g>
+</svg>
