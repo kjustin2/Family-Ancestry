@@ -1,6 +1,6 @@
 <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1080 555" role="img" aria-labelledby="title desc">
   <title id="title">Six family home address trails</title>
-  <desc id="desc">Dated addresses for Kramer, Sponenberg, Cordaro, Miller, Blevins-Smith and Weatherford lines. Connected nodes represent documented address sequences, not geographic distance or proof that modern buildings survive.</desc>
+  <desc id="desc">Dated addresses for Kramer, Sponenberg, Cordaro, Miller, Blevins-Smith and Weatherford lines. Kramer's 146 Prospect and 19 Flick nodes belong to separate father and son households. Lines are family address trails, not geographic distance or proof that modern buildings survive.</desc>
   <style>
     .bg{fill:#f8f5ef}.ink{fill:#1e2933}.muted{fill:#60717d}.line{stroke:#bdcbd1;stroke-width:3}.card{fill:#fff;stroke:#d9e1e2;stroke-width:1}.name{font:700 19px system-ui,sans-serif}.place{font:600 15px system-ui,sans-serif}.small{font:13px system-ui,sans-serif}.head{font:700 28px system-ui,sans-serif}.pill{fill:#e8f0eb}.pilltext{fill:#41604c;font:600 12px system-ui,sans-serif}.node{stroke:#fff;stroke-width:3}
   </style>
@@ -9,8 +9,8 @@
   <text x="34" y="73" class="small muted">Years are record dates • a current photograph is a view of the address today</text>
   <g transform="translate(30,96)">
     <rect class="card" width="1020" height="65" rx="13"/><text class="name ink" x="18" y="27">Kramer</text><text class="small muted" x="18" y="47">Wilkes-Barre</text>
-    <line class="line" x1="260" y1="33" x2="730" y2="33"/><circle class="node" cx="260" cy="33" r="10" fill="#a66248"/><circle class="node" cx="730" cy="33" r="10" fill="#a66248"/>
-    <text class="place ink" x="277" y="29">22 / 17 Susquehanna</text><text class="small muted" x="277" y="48">1880s–1904 directory trail</text><text class="place ink" x="747" y="29">146 Prospect</text><text class="small muted" x="747" y="48">1914–51 records</text>
+    <line class="line" x1="220" y1="33" x2="770" y2="33"/><circle class="node" cx="220" cy="33" r="10" fill="#a66248"/><circle class="node" cx="500" cy="33" r="10" fill="#a66248"/><circle class="node" cx="770" cy="33" r="10" fill="#a66248"/>
+    <text class="place ink" x="237" y="29">22 / 17 Susquehanna</text><text class="small muted" x="237" y="48">1880s–1904 directories</text><text class="place ink" x="517" y="29">146 Prospect</text><text class="small muted" x="517" y="48">father, 1914–51</text><text class="place ink" x="787" y="29">19 Flick St.</text><text class="small muted" x="787" y="48">son + Mary, c. 1940</text>
   </g>
   <g transform="translate(30,169)">
     <rect class="card" width="1020" height="65" rx="13"/><text class="name ink" x="18" y="27">Sponenberg</text><text class="small muted" x="18" y="47">Berwick / Salem</text>
