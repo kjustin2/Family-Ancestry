@@ -16,6 +16,7 @@
 ## Justin's paternal paths
 
 - [Kramer, Bosch and German candidates](branches/kramer.md): **Paul** ← **Fred / Ferdinand Francis (1939)** ← **Ferdinand Louis (1913)** ← **Ferdinand (c. 1882)** ← **Matthew and Lena**. The [older Unadingen family](branches/kramer-unadingen-household.md) has its own original records; whether its Matthäus is Pennsylvania's Matthew is [unproved](branches/kramer-baden-candidate.md).
+- [Andrews and Kennedy](branches/andrews-kennedy.md): Fred's mother **Mary Andrews** ← **Frank Andrews and Mary Kennedy**. A 1930 census names **Mary and sister Rita** among six children at **71 Flick Street**; the earlier Frank/Mary marriage is a strong local match, while the 1910 household remains a candidate. [Two-household visual](maps/andrews-flick-households.svg).
 - [Cordaro and Caucci](branches/cordaro-passport-lead.md): **Patricia Cordaro** ← **Joseph Cordaro and Dina Caucci**. Joseph's documented Italian side runs through **Antonio Cordaro and Pietra Magro** toward [Sutera, Sicily](maps/cordaro-sutera-places.svg). Dina's [Caucci–Belardinelli path](branches/caucci-belardinelli.md) has a strong Sassoferrato, Marche, candidate with an open parent bridge.
 - [See the paternal tree diagram](maps/full-tree-paternal-kramer-cordaro.svg) and [paternal storyboards](context/family-storyboards.md).
 

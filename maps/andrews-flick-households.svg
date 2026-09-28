@@ -1,0 +1,36 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="960" height="500" viewBox="0 0 960 500" role="img" aria-labelledby="title desc">
+  <title id="title">Mary and Rita Andrews in two Flick Street households, 1930 and 1940</title>
+  <desc id="desc">The 1930 census puts Mary and Rita among six children of widowed Frank Andrews at 71 Flick Street. The 1940 census puts both women in Mary and Ferdinand Louis Kramer's rented household at 19 Flick Street. A father and sister relationship is proved; movement of property or wealth is not.</desc>
+  <defs><marker id="arrow" markerWidth="9" markerHeight="9" refX="7" refY="4.5" orient="auto"><path d="M0 0L9 4.5L0 9" fill="#167c80"/></marker></defs>
+  <rect width="960" height="500" fill="#f7f4ed"/>
+  <rect x="0" y="0" width="10" height="500" fill="#167c80"/>
+  <text x="42" y="54" font-family="Segoe UI,Arial,sans-serif" font-size="28" font-weight="700" fill="#173348">Two households on Flick Street</text>
+  <text x="42" y="82" font-family="Segoe UI,Arial,sans-serif" font-size="16" fill="#596970">Mary and Rita appear together ten years apart. Click a card for its original census.</text>
+  <a href="../sources/records/frank-andrews-children-census-1930.jpg">
+    <rect x="42" y="111" width="399" height="291" rx="15" fill="#fff" stroke="#ccd9d9" stroke-width="2"/>
+    <rect x="42" y="111" width="399" height="55" rx="15" fill="#167c80"/>
+    <text x="63" y="146" font-family="Segoe UI,Arial,sans-serif" font-size="21" font-weight="700" fill="#fff">1930 · 71 Flick Street</text>
+    <text x="63" y="194" font-family="Segoe UI,Arial,sans-serif" font-size="18" font-weight="700" fill="#173348">Frank Andrews, 43 · widowed</text>
+    <text x="63" y="218" font-family="Segoe UI,Arial,sans-serif" font-size="15" fill="#596970">Coal-mine pump runner · six children at home</text>
+    <text x="63" y="258" font-family="Segoe UI,Arial,sans-serif" font-size="16" fill="#173348">Anna 20 · Edward 18 · Francis 17</text>
+    <text x="63" y="282" font-family="Segoe UI,Arial,sans-serif" font-size="16" fill="#173348">Michael 15</text>
+    <rect x="61" y="298" width="322" height="43" rx="9" fill="#e1f2ee"/>
+    <text x="77" y="325" font-family="Segoe UI,Arial,sans-serif" font-size="18" font-weight="700" fill="#145d62">Mary 13 · Rita 7</text>
+    <text x="63" y="374" font-family="Segoe UI,Arial,sans-serif" font-size="15" fill="#596970">Reported owned home value: $5,000</text>
+  </a>
+  <line x1="447" y1="315" x2="507" y2="315" stroke="#167c80" stroke-width="4" marker-end="url(#arrow)"/>
+  <a href="../sources/records/ferdinand-mary-kramer-census-1940.jpg">
+    <rect x="519" y="111" width="399" height="291" rx="15" fill="#fff" stroke="#ccd9d9" stroke-width="2"/>
+    <rect x="519" y="111" width="399" height="55" rx="15" fill="#167c80"/>
+    <text x="540" y="146" font-family="Segoe UI,Arial,sans-serif" font-size="21" font-weight="700" fill="#fff">1940 · 19 Flick Street</text>
+    <text x="540" y="194" font-family="Segoe UI,Arial,sans-serif" font-size="18" font-weight="700" fill="#173348">Ferdinand Louis + Mary</text>
+    <text x="540" y="218" font-family="Segoe UI,Arial,sans-serif" font-size="15" fill="#596970">With infant son Ferdinand</text>
+    <rect x="538" y="267" width="331" height="74" rx="9" fill="#e1f2ee"/>
+    <text x="554" y="295" font-family="Segoe UI,Arial,sans-serif" font-size="18" font-weight="700" fill="#145d62">Mary 23 · Rita 17</text>
+    <text x="554" y="321" font-family="Segoe UI,Arial,sans-serif" font-size="14" fill="#145d62">Rita is Mary's sister, despite the label.</text>
+    <text x="540" y="374" font-family="Segoe UI,Arial,sans-serif" font-size="15" fill="#596970">Reported monthly rent: $5</text>
+  </a>
+  <rect x="42" y="425" width="876" height="51" rx="10" fill="#e9e2d4"/>
+  <text x="59" y="447" font-family="Segoe UI,Arial,sans-serif" font-size="14" fill="#394c55">Frank owned a house in 1930; his married daughter rented in 1940. These are separate households and measures.</text>
+  <text x="59" y="466" font-family="Segoe UI,Arial,sans-serif" font-size="14" fill="#394c55">The records do not show a sale, inheritance, renumbering, or reason for Rita's stay with Mary.</text>
+</svg>
