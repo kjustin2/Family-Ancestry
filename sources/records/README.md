@@ -13,6 +13,20 @@
 | [Signed 1936 Luzerne marriage application and return](ferdinand-louis-kramer-mary-andrews-marriage-1936.jpg) · [FamilySearch image 910](https://www.familysearch.org/ark:/61903/3:1:33SQ-GPR7-9Q3P?lang=en) | **Right page, license 1451 C.** Ferdinand calls himself a machinist apprentice; Mary lived at **71 Flick Street**. Their parents are Ferdinand/Rose Bosch Kramer and Frank/Mary Kennedy Andrews. Frank signs consent; the return records **19 September**. The left page belongs to another couple. |
 | [1940 census sheet 8B](ferdinand-mary-kramer-census-1940.jpg) · [NARA original](https://nara-1940-census.s3.us-east-2.amazonaws.com/population-schedules/pa/luzerne-county/ed/40-338/m-t0627-03564-00285.jpg) and [sheet 9A](ferdinand-mary-kramer-census-1940-continuation.jpg) · [NARA continuation](https://nara-1940-census.s3.us-east-2.amazonaws.com/population-schedules/pa/luzerne-county/ed/40-338/m-t0627-03564-00286.jpg) | **ED 40-338, lines 79–80 then 1–2.** At **19 Flick Street**, the couple rented for **$5/month**; son Ferdinand is recorded as **nine months**. The next line's “daughter” label for 17-year-old Rita Andrews conflicts with the 1930 record that lists Mary and Rita as Frank's daughters. These are original document images, not family photographs. |
 
+### Prospect Street before the older Ferdinand's listed address
+
+<a href="sanborn-wilkes-barre-prospect-1910-plate34.jpg"><img src="../../media/prospect-street-1910-sanborn-detail.jpg" alt="1910 Sanborn detail of Prospect Street showing 144 and 150 but no numbered 146 building between them" width="520"></a>
+
+<a href="sanborn-wilkes-barre-prospect-1950-plate34.jpg"><img src="../../media/prospect-street-1950-sanborn-detail.jpg" alt="1950 revised Sanborn detail of the same block, now showing a two story dwelling numbered 146 Prospect" width="520"></a>
+
+[Full 1910 plate 34](sanborn-wilkes-barre-prospect-1910-plate34.jpg) · [full 1950 revised plate 34](sanborn-wilkes-barre-prospect-1950-plate34.jpg) · [LOC 1910 scan](https://www.loc.gov/resource/g3824wm.g3824wm_g08049191002/?sp=37) · [LOC 1950 revision](https://www.loc.gov/resource/g3824wm.g3824wm_g08049195002/?sp=39) · [house research note](../../context/family-home-photo-atlas.md#a-street-before-the-kramer-house-number-appears). Sanborn Map Company, *Wilkes-Barre*, vol. 2; Library of Congress Geography and Map Division, public domain. The displayed details are cropped from the saved 50%-resolution plates. They show how the block was mapped before and during the [1914–51 Kramer address trail](../../branches/kramer.md), but do not identify a builder or date today's structure.
+
+### The Hazard wire-rope works where Ferdinand Louis was employed
+
+<a href="sanborn-hazard-wire-rope-1950-plate19.jpg"><img src="../../media/hazard-wire-rope-1950-sanborn-detail.jpg" alt="1950 Sanborn map of Hazard Wire and Rope by East Ross Street, marking wire and rope mills and rail tracks" width="480"></a>
+
+[Full plate 19](sanborn-hazard-wire-rope-1950-plate19.jpg) · [Library of Congress scan](https://www.loc.gov/resource/g3824wm.g3824wm_g08049195002/?sp=24) · [NRI and work evidence](../../context/education-across-generations.md#a-radio-lesson-by-mail). Sanborn Map Company, revised to February **1950**; Library of Congress Geography and Map Division, public domain. The saved scan maps Ferdinand Louis's **employer's works**, corroborated by his signed draft card, but does not place him in one particular building or connect his machine work to radio training. The displayed detail is a crop of the saved 50%-resolution plate.
+
 ### Edward and Jennie Sponenberg's original census pages (saved 27 September 2026)
 
 | Page | What to inspect |
