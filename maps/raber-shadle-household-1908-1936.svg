@@ -1,6 +1,6 @@
 <svg xmlns="http://www.w3.org/2000/svg" width="960" height="440" viewBox="0 0 960 440" role="img" aria-labelledby="title desc">
-  <title id="title">The Raber and Shadle household, 1909 to 1930</title>
-  <desc id="desc">A four stop record path from Harry Raber's 1909 birth index in Nescopeck to William and Mary Raber's 1910, 1920, and 1930 original census pages. A dashed arrow marks the proposed identification of a hard-to-read son with the younger William G. Raber on another 1930 sheet.</desc>
+  <title id="title">The Raber and Shadle household, 1909 to 1936</title>
+  <desc id="desc">A four stop birth and census path from Nescopeck to Mahoning, beginning with a 1908 boy and stillbirth plus Harry's 1909 index, then a 1936 Armstrong County death-index candidate for William A. A dashed arrow marks the proposed identification of a hard-to-read son with the younger William G. Raber on another 1930 sheet.</desc>
   <rect width="960" height="440" rx="22" fill="#f8f6f0"/>
   <text x="36" y="48" font-family="Arial, sans-serif" font-size="28" font-weight="700" fill="#153d42">One household, two Pennsylvania counties</text>
   <text x="36" y="78" font-family="Arial, sans-serif" font-size="15" fill="#476167">Recorded names, places and the proposed link to Sonya's Raber line</text>
@@ -8,11 +8,11 @@
   <g font-family="Arial, sans-serif">
     <g transform="translate(38 116)">
       <rect width="202" height="151" rx="15" fill="#e1eeea"/>
-      <text x="16" y="29" font-size="18" font-weight="700" fill="#124d51">1909 · Nescopeck</text>
-      <text x="16" y="56" font-size="15" fill="#233d41">Harry S. Raber born</text>
-      <text x="16" y="80" font-size="14" fill="#466268">Mother indexed</text>
-      <text x="16" y="99" font-size="14" fill="#466268">as “Shadel M”</text>
-      <text x="16" y="129" font-size="13" fill="#547079">Original state index</text>
+      <text x="16" y="29" font-size="18" font-weight="700" fill="#124d51">1908–09 · Nescopeck</text>
+      <text x="16" y="56" font-size="15" fill="#233d41">1908: boy + stillbirth</text>
+      <text x="16" y="80" font-size="14" fill="#466268">Mother “Shadle M”</text>
+      <text x="16" y="99" font-size="14" fill="#466268">1909: Harry S. born</text>
+      <text x="16" y="129" font-size="13" fill="#547079">Original birth indexes</text>
     </g>
     <g transform="translate(264 116)">
       <rect width="202" height="151" rx="15" fill="#e1eeea"/>
@@ -39,10 +39,13 @@
       <text x="16" y="129" font-size="13" fill="#547079">Original census, sheet 17A</text>
     </g>
   </g>
+  <rect x="38" y="282" width="452" height="82" rx="12" fill="#dfece8"/>
+  <text x="54" y="310" font-family="Arial, sans-serif" font-size="15" font-weight="700" fill="#124d51">1936 · Armstrong County</text>
+  <text x="54" y="334" font-family="Arial, sans-serif" font-size="14" fill="#32585b">William A. death index; certificate 75754</text>
   <path d="M590 268V314H671" fill="none" stroke="#a0642d" stroke-width="3" stroke-dasharray="7 6"/>
   <path d="M671 314l-12-7v14z" fill="#a0642d"/>
   <rect x="672" y="282" width="246" height="82" rx="12" fill="#f4e7d5"/>
   <text x="688" y="310" font-family="Arial, sans-serif" font-size="15" font-weight="700" fill="#6b431f">Possible son, sheet 16A</text>
   <text x="688" y="334" font-family="Arial, sans-serif" font-size="14" fill="#6b431f">William G. Raber, age 19</text>
-  <text x="38" y="402" font-family="Arial, sans-serif" font-size="13" fill="#53686b">Solid line: repeating older household. Dashed link: 1920 “Glenore” → William G. needs a parent-naming record.</text>
+  <text x="38" y="402" font-family="Arial, sans-serif" font-size="13" fill="#53686b">1936 identity and burial need certificates. Dashed link: 1920 “Glenore” → William G. needs a parent-naming record.</text>
 </svg>
