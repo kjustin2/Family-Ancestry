@@ -20,7 +20,7 @@ Dina's **separate maternal path** now reaches her Italian-born parents **Joseph 
 
 ## Justin's maternal branches
 
-The [Raber–Kreischer–Balliet record trail](../branches/raber-kreischer-balliet-record-trail.md) adds a three-lane visual that reaches **Michael and Catherine Balliet's 1870 household**, independently places **elder and younger William Kreischer together in 1930**, and directly names **Sonya as William John Raber's daughter in 1950**. A separate [1909–30 Raber–Shadle household visual](../branches/raber-shadle-household.md) proposes one earlier Raber generation while marking its still-open link to William G. It does not silently attach that household to the confirmed full tree.
+The [Raber–Kreischer–Balliet record trail](../branches/raber-kreischer-balliet-record-trail.md) adds a three-lane visual that reaches **Michael and Catherine Balliet's 1870 household**, independently places **elder and younger William Kreischer together in 1930**, and directly names **Sonya as William John Raber's daughter in 1950**. On the Raber path, William's [signed card names him Glenmore and his mother Mary Rebecca](../branches/raber-shadle-household.md), strongly linking him to the older household; the father's name is still an inferred step, so the [Raber evidence visual](../maps/raber-shadle-household-1908-1936.svg) keeps it distinct from the fully documented steps.
 
 ![Full Miller and Sponenberg to Kreischer to Raber ancestral paths toward Melissa and Justin](../maps/full-tree-maternal-miller-sponenberg.svg)
 

@@ -1,0 +1,55 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1280" height="480" viewBox="0 0 1280 480" role="img" aria-labelledby="title desc">
+  <title id="title">The record bridge from the older Raber household to Sonya</title>
+  <desc id="desc">Four generations read left to right: William A. and Mary R. with a hard-to-read son in 1920; William Glenmore's signed 1940 card naming mother Mary Rebecca; a strongly matching William G. and Alice in the 1950 census; and William John with daughter Sonya in the 1950 census. The first two identity links are dashed because William A. is not named on Glenmore's card and the card and 1950 census do not share a full name.</desc>
+  <rect width="1280" height="480" rx="20" fill="#f6f8f4"/>
+  <text x="35" y="51" font-family="Arial,sans-serif" font-size="29" font-weight="700" fill="#173d43">Raber: a signed card names William's mother</text>
+  <text x="35" y="79" font-family="Arial,sans-serif" font-size="16" fill="#49676a">A strong path toward Sonya · dashed steps still need an original identity or parent record</text>
+  <g font-family="Arial,sans-serif">
+    <g transform="translate(35 121)">
+      <rect width="285" height="217" rx="14" fill="#ffffff" stroke="#d3e1dc" stroke-width="2"/>
+      <rect width="7" height="217" rx="3" fill="#b77a3e"/>
+      <text x="20" y="32" font-size="13" font-weight="700" fill="#a06631">1910–20 · OLDER HOME</text>
+      <text x="20" y="67" font-size="20" font-weight="700" fill="#173d43">William A. + Mary R.</text>
+      <text x="20" y="101" font-size="14" fill="#465e62">Son “Glenore” in 1920;</text>
+      <text x="20" y="124" font-size="14" fill="#465e62">Edna later says “Glenmore.”</text>
+      <text x="20" y="165" font-size="13" fill="#465e62">Powder works · 1910 farm</text>
+      <text x="20" y="189" font-size="12" fill="#8a653d">Father link still inferred</text>
+    </g>
+    <g transform="translate(343 121)">
+      <rect width="285" height="217" rx="14" fill="#ffffff" stroke="#d3e1dc" stroke-width="2"/>
+      <rect width="7" height="217" rx="3" fill="#158078"/>
+      <text x="20" y="32" font-size="13" font-weight="700" fill="#176a66">c. 1940 · SIGNED CARD</text>
+      <text x="20" y="67" font-size="20" font-weight="700" fill="#173d43">William Glenmore</text>
+      <text x="20" y="101" font-size="14" fill="#465e62">2 Feb 1911 · Nescopeck</text>
+      <text x="20" y="124" font-size="14" fill="#465e62">Mother: Mary Rebecca Raber</text>
+      <text x="20" y="165" font-size="13" fill="#465e62">American Car &amp; Foundry</text>
+      <text x="20" y="189" font-size="12" fill="#176a66">321 W. Second Street</text>
+    </g>
+    <g transform="translate(651 121)">
+      <rect width="285" height="217" rx="14" fill="#ffffff" stroke="#d3e1dc" stroke-width="2"/>
+      <rect width="7" height="217" rx="3" fill="#b77a3e"/>
+      <text x="20" y="32" font-size="13" font-weight="700" fill="#a06631">1950 · STRONG MATCH</text>
+      <text x="20" y="67" font-size="20" font-weight="700" fill="#173d43">William G. + Alice</text>
+      <text x="20" y="101" font-size="14" fill="#465e62">Nescopeck household;</text>
+      <text x="20" y="124" font-size="14" fill="#465e62">railroad-car furnace work</text>
+      <text x="20" y="165" font-size="13" fill="#465e62">321 W. Third Street</text>
+      <text x="20" y="189" font-size="12" fill="#8a653d">Different street from card</text>
+    </g>
+    <g transform="translate(959 121)">
+      <rect width="285" height="217" rx="14" fill="#e5f1ec" stroke="#90b8a9" stroke-width="2"/>
+      <rect width="7" height="217" rx="3" fill="#158078"/>
+      <text x="20" y="32" font-size="13" font-weight="700" fill="#176a66">1945 INDEX + 1950 CENSUS</text>
+      <text x="20" y="67" font-size="20" font-weight="700" fill="#173d43">William John → Sonya</text>
+      <text x="20" y="101" font-size="14" fill="#465e62">Index names father William G.</text>
+      <text x="20" y="124" font-size="14" fill="#465e62">and mother Alice Houser.</text>
+      <text x="20" y="165" font-size="13" fill="#465e62">1950: Shirley + infant Sonya</text>
+      <text x="20" y="189" font-size="12" fill="#176a66">Sonya's father named at home</text>
+    </g>
+  </g>
+  <path d="M320 229h23M628 229h23" fill="none" stroke="#b77a3e" stroke-width="4" stroke-dasharray="8 6"/>
+  <path d="M936 229h23" fill="none" stroke="#158078" stroke-width="4"/>
+  <rect x="35" y="366" width="1209" height="78" rx="12" fill="#eaf0e9"/>
+  <text x="53" y="393" font-family="Arial,sans-serif" font-size="14" font-weight="700" fill="#173d43">Why the edges differ</text>
+  <text x="53" y="419" font-family="Arial,sans-serif" font-size="13" fill="#49676a">Mary Rebecca is named on the signed card; William A. is not. The card and later census share town and identity clues, but Second ≠ Third Street.</text>
+  <a href="../branches/raber-shadle-household.md"><text x="1062" y="393" font-family="Arial,sans-serif" font-size="13" font-weight="700" fill="#0f6c68">Read source notes</text></a>
+</svg>
