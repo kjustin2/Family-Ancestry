@@ -166,3 +166,13 @@ This is only the **labeled portrait** from the public-domain **12 November 1905 
 ![1913 police order detail naming Captain J. E. Mulhall](james-e-mulhall-suffrage-order-1913-detail.jpg)
 
 This reading crop comes from [Senate Document No. 1 (1913), p. 5](https://www.govinfo.gov/content/pkg/SERIALSET-06507_00_00-002-0001-0000/pdf/SERIALSET-06507_00_00-002-0001-0000.pdf#page=5); [the full government page](../sources/records/james-e-mulhall-suffrage-police-order-1913.jpg) is saved separately. It identifies an assignment for the suffrage procession, not what Mulhall personally did there. U.S. government publication, public domain.
+
+## Reading the Smiths' 1940 Sixth Street address
+
+![Original 1940 sheet 18A street-label detail](smith-sixth-street-1940-sheet18a-detail.jpg)
+
+This is a mechanical crop of the [National Archives original sheet 18A](../sources/records/smith-dc-block-sixth-street-census-1940-sheet18a.jpg), Washington ED 1-175, [NARA image key m-t0627-00558-00642](https://nara-1940-census.s3.us-east-2.amazonaws.com/population-schedules/dc/district-of-columbia-county/ed/1-175/m-t0627-00558-00642.jpg). The handwritten **6th Street SE** label and the numbered sequence are visible. Federal census record, public domain.
+
+![Original 1940 sheet 18B Smith-household detail](smith-sixth-street-1940-household-detail.jpg)
+
+This is a mechanical crop of the [saved original sheet 18B](../sources/records/smith-dc-household-census-1940.jpg), same ED, lines 55–64; [NARA image key m-t0627-00558-00643](https://nara-1940-census.s3.us-east-2.amazonaws.com/population-schedules/dc/district-of-columbia-county/ed/1-175/m-t0627-00558-00643.jpg). Raymond and Alice Smith's family is numbered **106**. The adjoining-sheet sequence supplies the street name, not this crop alone. Federal census record, public domain.
