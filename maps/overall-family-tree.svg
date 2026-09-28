@@ -1,0 +1,56 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1260" height="630" viewBox="0 0 1260 630" role="img" aria-labelledby="title desc">
+  <title id="title">Justin and Ashley's family tree, four linked grandparent branches</title>
+  <desc id="desc">Four columns lead from Fred Kramer and Patricia Cordaro, Paul Miller and Sonya Raber, Garnett Weatherford and Florence Morrison, and James Smith and Gladys Blevins, through Justin and Ashley's parents to the couple. Each ancestor card opens its research page. Purple lines include family-reported relationships; read branch notes for original records and older uncertainties.</desc>
+  <rect width="1260" height="630" fill="#f7f4ee"/>
+  <g font-family="Arial, sans-serif" fill="#183444">
+    <text x="38" y="51" font-size="29" font-weight="700">Justin + Ashley: where the four paths meet</text>
+    <text x="38" y="80" font-size="15" fill="#566b72">Open a card for its records and older generations. This view keeps the nearest family connections readable.</text>
+    <g stroke="#d8dedc" stroke-width="1.5">
+      <rect x="30" y="115" width="286" height="167" rx="16" fill="#edf2ed"/>
+      <rect x="334" y="115" width="286" height="167" rx="16" fill="#eef2eb"/>
+      <rect x="638" y="115" width="286" height="167" rx="16" fill="#eaf1f5"/>
+      <rect x="942" y="115" width="286" height="167" rx="16" fill="#f2edf3"/>
+    </g>
+    <g font-size="14" font-weight="700">
+      <text x="48" y="143" fill="#3c745f">JUSTIN · PATERNAL</text>
+      <text x="352" y="143" fill="#5d8252">JUSTIN · MATERNAL</text>
+      <text x="656" y="143" fill="#477390">ASHLEY · PATERNAL</text>
+      <text x="960" y="143" fill="#85648d">ASHLEY · MATERNAL</text>
+    </g>
+    <g fill="#fff" stroke="#cad5d4">
+      <a href="../branches/cordaro-passport-lead.md"><rect x="45" y="158" width="256" height="92" rx="11"/></a>
+      <a href="../branches/maternal-kramer-side.md"><rect x="349" y="158" width="256" height="92" rx="11"/></a>
+      <a href="../branches/weatherford-smith-generations.md"><rect x="653" y="158" width="256" height="92" rx="11"/></a>
+      <a href="../branches/weatherford-smith-generations.md"><rect x="957" y="158" width="256" height="92" rx="11"/></a>
+    </g>
+    <g font-size="18" font-weight="700">
+      <a href="../branches/cordaro-passport-lead.md" fill="#183444"><text x="60" y="190">Fred + Patricia</text><text x="60" y="215" font-size="14" font-weight="400">Kramer · Cordaro</text><text x="60" y="237" font-size="12" font-weight="400">Germany · Sicily · Marche</text></a>
+      <a href="../branches/maternal-kramer-side.md" fill="#183444"><text x="364" y="190">Paul + Sonya</text><text x="364" y="215" font-size="14" font-weight="400">Miller · Raber</text><text x="364" y="237" font-size="12" font-weight="400">Berwick · Balliet · Kreischer</text></a>
+      <a href="../branches/weatherford-smith-generations.md" fill="#183444"><text x="668" y="190">Garnett + Florence</text><text x="668" y="215" font-size="14" font-weight="400">Weatherford · Morrison</text><text x="668" y="237" font-size="12" font-weight="400">Virginia · Indiana · Fairfax</text></a>
+      <a href="../branches/weatherford-smith-generations.md" fill="#183444"><text x="972" y="190">James + Gladys</text><text x="972" y="215" font-size="14" font-weight="400">Smith · Blevins</text><text x="972" y="237" font-size="12" font-weight="400">DC · Virginia · Irish lead</text></a>
+    </g>
+    <g fill="none" stroke="#8e77a5" stroke-width="3">
+      <path d="M173 282v58m304-58v58m304-58v58m304-58v58"/>
+      <path d="M173 424v27h152v32m152-59v27H325"/>
+      <path d="M781 424v27h152v32m152-59v27H933"/>
+    </g>
+    <g fill="#fff" stroke="#cbd4d2" stroke-width="1.5">
+      <rect x="61" y="340" width="224" height="84" rx="12"/><rect x="365" y="340" width="224" height="84" rx="12"/>
+      <rect x="669" y="340" width="224" height="84" rx="12"/><rect x="973" y="340" width="224" height="84" rx="12"/>
+      <rect x="206" y="483" width="238" height="69" rx="12"/><rect x="814" y="483" width="238" height="69" rx="12"/>
+    </g>
+    <g font-size="18" font-weight="700" fill="#183444">
+      <a href="../branches/kramer.md" fill="#183444"><text x="82" y="374">Paul Kramer</text><text x="82" y="400" font-size="13" font-weight="400">Father · engineering path</text></a>
+      <a href="../branches/maternal-kramer-side.md" fill="#183444"><text x="386" y="374">Melissa Miller</text><text x="386" y="400" font-size="13" font-weight="400">Mother · Berwick family</text></a>
+      <a href="../branches/weatherford-smith-generations.md" fill="#183444"><text x="690" y="374">John Weatherford</text><text x="690" y="400" font-size="13" font-weight="400">Father · Fairfax family</text></a>
+      <a href="../branches/smith.md" fill="#183444"><text x="994" y="374">Alice Smith</text><text x="994" y="400" font-size="13" font-weight="400">Mother · Smith/Blevins</text></a>
+      <text x="258" y="512">Justin Kramer</text><text x="865" y="512">Ashley Weatherford</text>
+    </g>
+    <g font-size="13" fill="#5b6871">
+      <text x="253" y="535">Family-reported connection</text><text x="861" y="535">Family-reported connection</text>
+    </g>
+    <path d="M444 518h370" fill="none" stroke="#8e77a5" stroke-width="3"/>
+    <rect x="30" y="574" width="1198" height="39" rx="10" fill="#fff" stroke="#d8dedc"/>
+    <text x="49" y="599" font-size="14" fill="#465a64">Purple lines include family accounts. Older identity gaps are marked in the linked deep trees; these place labels are not birth certificates.</text>
+  </g>
+</svg>

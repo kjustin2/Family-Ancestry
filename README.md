@@ -4,7 +4,22 @@ An evidence-led map of Justin and Ashley's family history. **Research snapshot: 
 
 ## Start here
 
-For a quick visual route: **[four family storyboards](context/family-storyboards.md)** → [ten family-line timelines](explore/line-timelines.html) → [full family trees](context/full-family-trees.md) → [family places](context/geography-atlas.md) → [detailed interactive timeline](explore/timeline.html). The storyboards put **work, assets, education and short source-linked scenes together by generation**; unproved relationships are marked. The one-page views also answer [Ashley's arrival question](maps/ashley-arrival-status.svg), show [the Disqué mill and migration gap](maps/disque-mills-and-migration.svg), and capture [Paulene's remembered scenes](maps/paulene-miller-moments.svg).
+| Start with | Open |
+| --- | --- |
+| **Who is connected to whom?** | [Overall linked family tree](FAMILY-TREE.md) → [four deep tree diagrams](context/full-family-trees.md) |
+| **What happened when?** | [Ten clickable line timelines](explore/line-timelines.html) → [interactive overall timeline](explore/timeline.html) |
+| **What were their lives like?** | [Four short storyboards](context/family-storyboards.md) → [work and assets](research/assets-by-generation.md) |
+| **Where were they?** | [Family geography atlas](context/geography-atlas.md) → [migration stories](context/immigration-stories.md) |
+| **What is the proof?** | [Photographs and artifacts](context/faces-and-places.md) → [original record gallery](sources/records/README.md) → [source ledger](research/sources.md) |
+
+### The family at a glance
+
+- **Justin Kramer** ← [Paul Kramer](branches/kramer.md) and [Melissa Miller Kramer](branches/maternal-kramer-side.md). Paul's [Kramer and Cordaro ancestors](FAMILY-TREE.md#justins-paternal-paths) reach Germany and Italy; Melissa's [Miller, Raber, Kreischer, Sponenberg and Balliet branches](FAMILY-TREE.md#justins-maternal-paths) center on Pennsylvania.
+- **Ashley Weatherford** ← [John Weatherford Sr.](branches/weatherford-smith-generations.md) and [Alice Smith Weatherford](branches/smith.md). John's [Weatherford and Morrison paths](FAMILY-TREE.md#ashleys-paternal-paths) lead through Virginia and Indiana; Alice's [Smith, Mulhall, Corbett, Blevins and Hines paths](FAMILY-TREE.md#ashleys-maternal-paths) include a probable Irish-born layer and older Virginia records.
+
+Open the [linked family tree](FAMILY-TREE.md) to follow names generation by generation. A dashed tree edge or **proposed** label marks a relationship that still needs a decisive record.
+
+![Four branches link through Justin's and Ashley's parents to the couple](maps/overall-family-tree.svg)
 
 <details>
 <summary><strong>Browse every branch, map, source and research guide</strong> (all existing links preserved)</summary>
