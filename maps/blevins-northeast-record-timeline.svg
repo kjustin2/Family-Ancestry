@@ -3,7 +3,7 @@
 <desc id="desc">Four dated record clusters: 1678 to 1687 Oyster Bay James and An, 1691 Westerly Edward and Isabel, reported 1714 Westerly James and Ann, and a reported 1771 Virginia claim to Rhode Island land. Dashed arrows mark unproved identity and kinship.</desc>
 <style>text{font-family:Arial,sans-serif;fill:#17323b}.title{font-size:27px;font-weight:700}.sub{font-size:15px}.date{font-size:20px;font-weight:700}.head{font-size:16px;font-weight:700}.body{font-size:13px}.fine{font-size:12px}.card{fill:#fff;stroke:#5c8084;stroke-width:2;rx:15}.lead{fill:#fdf2e5;stroke:#af7348}.line{stroke:#a96c47;stroke-width:3;stroke-dasharray:8 7;fill:none}.chip{fill:#e4efe9}.chiptext{font-size:12px;font-weight:700;fill:#286551}</style>
 <rect width="1200" height="425" fill="#f8faf7"/>
-<text id="title" x="25" y="47" class="title">The Blevin trail: records before relationships</text>
+<text x="25" y="47" class="title">The Blevin trail: records before relationships</text>
 <text x="25" y="76" class="sub">Scans and citations accompany the research page. Dashed arrows show questions, not proved descent.</text>
 <path d="M294 183H315 M589 183H610 M884 183H905" class="line"/>
 <rect class="card" x="20" y="112" width="274" height="179"/>

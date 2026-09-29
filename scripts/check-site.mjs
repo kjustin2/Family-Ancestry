@@ -15,20 +15,44 @@ async function walk(directory) {
 }
 const files = await walk(root);
 const missing = [];
+const contentsByFile = new Map(await Promise.all(files.filter(name => /\.(html|svg)$/i.test(name)).map(async file => [file, await readFile(file, 'utf8')])));
+const idsByFile = new Map();
+const timelineStates = new Set([... (await readFile(path.join(root, 'explore', 'timeline.js'), 'utf8')).matchAll(/item\("([^"]+)"/g)].map(match => match[1]));
+for (const [file, contents] of contentsByFile) {
+  const ids = [...contents.matchAll(/\bid=(['"])([^'"]+)\1/g)].map(match => match[2]);
+  idsByFile.set(file, new Set(ids));
+  if (new Set(ids).size !== ids.length) missing.push(`${path.relative(root, file)} has duplicate element IDs`);
+  if (file.endsWith('.html')) {
+    if (/<p>\|/.test(contents)) missing.push(`${path.relative(root, file)} contains unrendered table rows`);
+    const headings = [...contents.matchAll(/<h1\b/g)];
+    if (headings.length !== 1) missing.push(`${path.relative(root, file)} has ${headings.length} main headings`);
+    for (const image of contents.matchAll(/<img\b[^>]*>/g)) {
+      if (!/\balt=(['"])[\s\S]*?\1/.test(image[0])) missing.push(`${path.relative(root, file)} has an image without alt text`);
+    }
+  }
+}
+const ledgerMarkdown = await readFile(path.resolve(root, '..', 'research', 'sources.md'), 'utf8');
+const sourceLabels = [...ledgerMarkdown.matchAll(/^\| ([A-Z][A-Z0-9-]*(?: \/ [A-Z][A-Z0-9-]*)?) \|/gm)].flatMap(match => match[1] === 'ID' ? [] : match[1].split(' / '));
+if (new Set(sourceLabels).size !== sourceLabels.length) missing.push('Source ledger has colliding record labels');
 for (const file of files.filter(name => /\.(html|svg)$/i.test(name))) {
   const contents = await readFile(file, 'utf8');
   for (const match of contents.matchAll(/\b(?:href|src)=(['"])([^'"]+)\1/g)) {
     const url = match[2].replaceAll('&amp;', '&');
-    if (/^(?:[a-z]+:|\/\/|#)/i.test(url)) continue;
+    if (/^(?:[a-z]+:|\/\/)/i.test(url)) continue;
     const local = decodeURIComponent(url.split(/[?#]/, 1)[0]);
-    if (!local) continue;
-    const target = path.resolve(path.dirname(file), local);
+    const target = local ? path.resolve(path.dirname(file), local) : file;
     if (!target.startsWith(`${root}${path.sep}`) && target !== root) {
       missing.push(`${path.relative(root, file)} → ${url} (outside site)`);
       continue;
     }
     try {
       if (!(await stat(target)).isFile()) missing.push(`${path.relative(root, file)} → ${url}`);
+      const fragment = url.includes('#') ? decodeURIComponent(url.slice(url.indexOf('#') + 1)) : '';
+      // The explorer stores selected person IDs in its URL; these are application state, not DOM anchors.
+      const validState = path.relative(root, target).replaceAll('\\', '/') === 'explore/timeline.html' && timelineStates.has(fragment);
+      if (fragment && !fragment.startsWith('person=') && !validState && idsByFile.has(target) && !idsByFile.get(target).has(fragment)) {
+        missing.push(`${path.relative(root, file)} → ${url} (missing section)`);
+      }
     } catch {
       missing.push(`${path.relative(root, file)} → ${url}`);
     }
@@ -38,5 +62,5 @@ if (missing.length) {
   console.error(`Broken local site links (${missing.length}):\n${missing.join('\n')}`);
   process.exitCode = 1;
 } else {
-  console.log(`Checked local links across ${files.filter(name => /\.(html|svg)$/i.test(name)).length} HTML and SVG files.`);
+  console.log(`Checked files, section links, unique IDs, main headings and image descriptions across ${contentsByFile.size} HTML and SVG files.`);
 }

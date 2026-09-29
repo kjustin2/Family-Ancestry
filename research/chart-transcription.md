@@ -13,6 +13,8 @@ Source: [Kramer family tree.doc](../sources/family/Kramer%20family%20tree.doc), 
 | Magdalena Disque | Born Feb 1844 in Germany. |
 | Bernhard Kramer or Kraemer; Mary Horner | Named as Matthew's parents; no dates in screenshot. |
 
+| Person | Text visible in chart |
+| --- | --- |
 | Amiel Bosch; Hildegard G. Greener | Amiel born 1856 in Baden, Germany; Hildegard born 1851 in Baden/Germany/Bavaria as displayed. Proposed parents of Rose. |
 | Thomas Greener; Elizabeth [surname absent] | Born 1831 and 1823 respectively, chart says Bavaria; proposed parents of Hildegard. |
 | Johann Ludwig Disque; Magdalena Froelich | Johann born 7 Jul 1796 in Knittelsheim/Pfalz, died 2 Jan 1853 in Wilgartswiesen; Magdalena born 14 Nov 1808 in Trippstadt/Pfalz. Proposed parents of Magdalena Disque. |
