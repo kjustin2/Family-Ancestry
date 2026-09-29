@@ -58,6 +58,20 @@ for (const file of files.filter(name => /\.(html|svg)$/i.test(name))) {
     }
   }
 }
+// Story links assembled by the interactive views are not present in their initial HTML.
+for (const file of files.filter(name => name.endsWith('.js'))) {
+  const contents = await readFile(file, 'utf8');
+  for (const match of contents.matchAll(/['"]((?:\.\.\/|branches\/|context\/|maps\/|media\/|sources\/)[^'"\n]+\.(?:html|svg|jpg|png)(?:#[^'"\n]*)?)['"]/g)) {
+    const [local, fragment] = match[1].split('#');
+    const target = path.resolve(local.startsWith('../') ? path.dirname(file) : root, decodeURIComponent(local));
+    try {
+      if (!(await stat(target)).isFile()) throw new Error('Missing file');
+      if (fragment && idsByFile.has(target) && !idsByFile.get(target).has(fragment)) missing.push(`${path.relative(root, file)} → ${match[1]} (missing section)`);
+    } catch {
+      missing.push(`${path.relative(root, file)} → ${match[1]}`);
+    }
+  }
+}
 if (missing.length) {
   console.error(`Broken local site links (${missing.length}):\n${missing.join('\n')}`);
   process.exitCode = 1;
