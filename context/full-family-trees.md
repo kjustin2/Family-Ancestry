@@ -1,6 +1,6 @@
 # Full family trees
 
-Start with the [one-page linked family tree](../FAMILY-TREE.md) if you want to choose a parent or grandparent first.
+Start with the [family-line directory](../explore/branches.html) for a smaller tree by surname, including [Andrews](../explore/lines/andrews.html), [Raber](../explore/lines/raber.html) and [Balliet](../explore/lines/balliet.html). The [one-page linked family tree](../FAMILY-TREE.md) lets you choose a parent or grandparent first.
 
 For a browser view, open the [interactive family explorer](../explore/family-explorer.html). Its connected canvas brings these eight long ancestral paths together; search, zoom, and click a card for a short story, evidence, an original image when available, and a map. Its [branch directory](../explore/family-explorer.html#side-branches) gives a simple route to the Balliets and other relatives outside the main canvas.
 

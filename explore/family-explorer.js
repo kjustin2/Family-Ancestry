@@ -103,7 +103,7 @@ const positions = new Map();
 let scale = 1, offsetX = 0, offsetY = 0, selected = '', dragging = null, moved = false;
 
 const escapeHtml = value => String(value).replace(/[&<>"']/g, character => ({ '&': '&amp;', '<': '&lt;', '>': '&gt;', '"': '&quot;', "'": '&#39;' })[character]);
-const safeHref = path => /^(\.\.\/|https:\/\/)/.test(path) ? path : '#';
+const safeHref = path => /^(?:\.\.\/|lines\/[a-z-]+\.html$|https:\/\/)/.test(path) ? path : '#';
 const statusLabel = status => status === 'family' ? 'Family account' : status === 'proposed' ? 'Proposed link' : 'Record supported';
 function putNode(item, x, y, groupIndex, laneLabel) {
   all.set(item.id, { ...item, groupIndex, laneLabel });
@@ -161,6 +161,10 @@ function renderTree() {
     branchEl.add(new Option(group.title, `g${i}`));
     group.lanes.forEach((lane, li) => branchEl.add(new Option(`  ↳ ${lane.label}`, `l${i}-${li}`)));
   });
+  const branchChoices = document.createElement('optgroup');
+  branchChoices.label = 'Open a smaller family tree';
+  for (const line of window.FAMILY_LINES ?? []) branchChoices.append(new Option(`${line.name} line`, `line:${line.url}`));
+  branchEl.append(branchChoices);
 }
 function transform() { canvas.style.transform = `translate(${offsetX}px, ${offsetY}px) scale(${scale})`; }
 function clampScale(value) { return Math.max(.08, Math.min(2.2, value)); }
@@ -222,8 +226,11 @@ function markSearch() {
   document.querySelector('#tree-tip').textContent = term ? `${matches.length} matching cards${matches.length ? ' · press Enter to jump to the first' : ''}` : selected ? `${all.get(selected).title} · ${statusLabel(all.get(selected).edge)}` : 'Select a card to explore a life';
   resultsEl.hidden = !term;
   if (term) {
+    const normalized = term.normalize('NFD').replace(/[\u0300-\u036f]/g, '');
+    const branches = (window.FAMILY_LINES ?? []).filter(line => [line.name,line.aliases,line.origin].join(' ').normalize('NFD').replace(/[\u0300-\u036f]/g, '').toLocaleLowerCase().includes(normalized));
+    document.querySelector('#tree-tip').textContent = `${branches.length} family lines · ${matches.length} canvas cards · select a result`;
     const shown = matches.slice(0, 12);
-    resultsEl.innerHTML = `<span>${matches.length ? `${matches.length} result${matches.length === 1 ? '' : 's'}` : 'No matches'}${matches.length > shown.length ? ' · showing first 12' : ''}</span>` + shown.map(id => {
+    resultsEl.innerHTML = `<span>${branches.length} family line${branches.length === 1 ? '' : 's'} · ${matches.length} canvas card${matches.length === 1 ? '' : 's'}${matches.length > shown.length ? ' · showing first 12 cards' : ''}</span>` + branches.map(line=>`<a class="tree-branch-result" href="${safeHref(line.url)}"><strong>${escapeHtml(line.name)} line · small tree &amp; timeline ↗</strong><small>${escapeHtml(line.side)} · ${escapeHtml(line.origin)}</small></a>`).join('') + shown.map(id => {
       const item = all.get(id);
       return `<button type="button" data-result="${escapeHtml(id)}"><strong>${escapeHtml(item.title)}</strong><small>${escapeHtml(item.laneLabel)} · ${escapeHtml(item.place)}</small></button>`;
     }).join('');
@@ -256,6 +263,7 @@ document.querySelector('#zoom-in').addEventListener('click', () => zoomAt(1.25))
 document.querySelector('#zoom-out').addEventListener('click', () => zoomAt(.8));
 branchEl.addEventListener('change', () => {
   if (branchEl.value === 'all') return fit();
+  if (branchEl.value.startsWith('line:')) { location.href = safeHref(branchEl.value.slice(5)); return; }
   const isLane = branchEl.value.startsWith('l');
   const [gi, li] = (isLane ? branchEl.value.slice(1).split('-') : [branchEl.value.slice(1), '0']).map(Number);
   const x = 40 + gi * 750 + (isLane ? li * 310 + CARD_W / 2 : 310);
@@ -266,7 +274,14 @@ branchEl.addEventListener('change', () => {
   transform();
 });
 searchEl.addEventListener('input', markSearch);
-searchEl.addEventListener('keydown', event => { if (event.key === 'Enter') { const first = markSearch()[0]; if (first) { searchEl.value = ''; markSearch(); selectNode(first, true); document.querySelector('#tree-heading').scrollIntoView({ behavior: 'smooth' }); event.preventDefault(); } } });
+searchEl.addEventListener('keydown', event => {
+  if (event.key !== 'Enter') return;
+  const normalize = text => text.normalize('NFD').replace(/[\u0300-\u036f]/g, '').toLocaleLowerCase().trim();
+  const line = (window.FAMILY_LINES ?? []).find(line=>normalize(line.name) === normalize(searchEl.value));
+  if (line) { event.preventDefault(); location.href = safeHref(line.url); return; }
+  const first = markSearch()[0];
+  if (first) { searchEl.value = ''; markSearch(); selectNode(first, true); document.querySelector('#tree-heading').scrollIntoView({ behavior: 'smooth' }); event.preventDefault(); }
+});
 document.querySelectorAll('[data-story]').forEach(button => button.addEventListener('click', () => { selectNode(button.dataset.story, true); document.querySelector('#tree-heading').scrollIntoView({ behavior: 'smooth' }); }));
 windowEl.addEventListener('wheel', event => { event.preventDefault(); zoomAt(event.deltaY < 0 ? 1.12 : 1 / 1.12, event.clientX, event.clientY); }, { passive: false });
 windowEl.addEventListener('pointerdown', event => {

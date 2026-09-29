@@ -356,9 +356,19 @@ function render() {
 }
 $("total-count").textContent = EVENTS.length + " curated events";
 Object.entries(BRANCHES).forEach(([key,value]) => { const option = el("option","",value.label); option.value = key; $("branch").append(option); });
+const smallerTimelines = document.createElement('optgroup');
+smallerTimelines.label = 'Open a branch’s own timeline';
+for (const line of window.FAMILY_LINES ?? []) {
+  const option = el('option', '', `${line.name} timeline`); option.value = `line:${line.url}`; smallerTimelines.append(option);
+}
+$("branch").append(smallerTimelines);
 TYPES.forEach(type => { const option = el("option","",type); option.value = type; $("type").append(option); });
 $("search").addEventListener("input", event => { state.query = event.target.value.trim().toLowerCase(); render(); });
-$("branch").addEventListener("change", event => { state.branch = event.target.value; render(); });
+$("branch").addEventListener("change", event => {
+  const chosen = (window.FAMILY_LINES ?? []).find(line=>`line:${line.url}` === event.target.value);
+  if (chosen) { location.href = chosen.url + '#branch-timeline'; return; }
+  state.branch = event.target.value; render();
+});
 $("type").addEventListener("change", event => { state.type = event.target.value; render(); });
 $("reset").addEventListener("click", () => { state.branch="all";state.type="all";state.era="all";state.query="";$("search").value="";$("branch").value="all";$("type").value="all";render(); });
 window.addEventListener("hashchange", () => { const id = decodeURIComponent(location.hash.slice(1)); if (id === state.selected) return; if (EVENTS.some(e => e.id === id)) { state.branch="all";state.type="all";state.era="all";state.query="";$("search").value="";$("branch").value="all";$("type").value="all";state.selected=id;render(); } });

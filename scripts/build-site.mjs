@@ -4,6 +4,7 @@ import path from 'node:path';
 import { fileURLToPath } from 'node:url';
 import { marked } from 'marked';
 import { gfmHeadingId } from 'marked-gfm-heading-id';
+import { buildLines, branchBrowser, articleBranchLinks } from './build-lines.mjs';
 
 const root = path.resolve(path.dirname(fileURLToPath(import.meta.url)), '..');
 const output = path.resolve(root, '_site');
@@ -17,7 +18,7 @@ const escapeHtml = value => String(value).replace(/[&<>"']/g, char => ({
 })[char]);
 
 const plainText = html => html.replace(/<[^>]+>/g, ' ').replace(/&(?:amp|lt|gt|quot|#39);/g, s => ({'&amp;':'&','&lt;':'<','&gt;':'>','&quot;':'"','&#39;':"'"})[s]).replace(/\s+/g, ' ').trim();
-const views = [['Stories', 'explore/stories.html'], ['Tree', 'explore/family-explorer.html'], ['Timeline', 'explore/timeline.html'], ['Homes', 'explore/family-homes.html'], ['Maps', 'context/geography-atlas.html'], ['Gallery', 'context/faces-and-places.html'], ['Find a page', 'explore/library.html']];
+const views = [['Branches', 'explore/branches.html'], ['Tree', 'explore/family-explorer.html'], ['Timeline', 'explore/timeline.html'], ['Homes', 'explore/family-homes.html'], ['Maps', 'context/geography-atlas.html'], ['Gallery', 'context/faces-and-places.html'], ['Find a page', 'explore/library.html']];
 const navigation = prefix => `<nav aria-label="Site views">${views.map(([label, url]) => `<a href="${prefix}${url}">${label}</a>`).join('')}</nav>`;
 const header = prefix => `<header class="site-header"><a class="brand" href="${prefix}index.html"><span class="brand-symbol" aria-hidden="true">✳</span> Family Atlas</a>${navigation(prefix)}</header>`;
 const searchIndex = [];
@@ -60,13 +61,14 @@ function documentPage(markdown, sourcePath) {
   <title>${escapeHtml(title)} · Family Atlas</title>
   <meta name="description" content="${escapeHtml(description)}">
   <link rel="stylesheet" href="${relativeRoot}site.css">
+  <link rel="stylesheet" href="${relativeRoot}lines.css">
   <script src="${relativeRoot}site.js" defer></script>
 </head>
 <body class="document-page${ledger ? ' ledger-page' : ''}">
-  <a class="skip" href="#main">Skip to story</a>
+  <a class="skip" href="#main">Skip to research</a>
   ${header(relativeRoot)}
-  <div class="document-shell"><aside class="document-rail"><p class="eyebrow">Research notebook</p><a href="${relativeRoot}explore/family-explorer.html">← Back to the tree</a><a href="${relativeRoot}FAMILY-TREE.html">All four family sides</a><a href="${relativeRoot}research/sources.html">Source ledger</a><p>Names, dates and family links are labeled by their supporting records or as open research leads.</p></aside>
-  <main id="main" class="document-main">${toc}${ledger ? '<div class="ledger-tools" hidden><label>Find a source <input type="search" id="source-search" placeholder="Name, source ID, place or record…"></label><p id="source-count" role="status"></p><button id="source-more" type="button">Show more sources</button></div>' : ''}<article class="prose">${article}</article><footer>Family Atlas · <a href="${relativeRoot}index.html">Home</a> · <a href="${relativeRoot}research/open-questions.html">Open questions</a></footer></main></div>
+  <div class="document-shell"><aside class="document-rail"><p class="eyebrow">Research notebook</p><a href="${relativeRoot}explore/branches.html">← Choose a family line</a><a href="${relativeRoot}explore/family-explorer.html">Combined tree</a><a href="${relativeRoot}research/sources.html">Source ledger</a><p>Names, dates and family links are labeled by their supporting records or as open research leads.</p></aside>
+  <main id="main" class="document-main">${articleBranchLinks(sourcePath,relativeRoot)}${toc}${ledger ? '<div class="ledger-tools" hidden><label>Find a source <input type="search" id="source-search" placeholder="Name, source ID, place or record…"></label><p id="source-count" role="status"></p><button id="source-more" type="button">Show more sources</button></div>' : ''}<article class="prose">${article}</article><footer>Family Atlas · <a href="${relativeRoot}index.html">Home</a> · <a href="${relativeRoot}research/open-questions.html">Open questions</a></footer></main></div>
 </body>
 </html>`;
 }
@@ -93,7 +95,9 @@ for (const file of [...tracked, ...authored]) {
     pages += 1;
   } else if (/\.(?:html|svg)$/i.test(normalized)) {
     const source = await readFile(path.join(root, normalized), 'utf8');
-    await writeFile(destination, rewriteHtmlLinks(source), 'utf8');
+    const prefix = '../'.repeat(normalized.split('/').length - 1);
+    const rendered = normalized.startsWith('explore/') && normalized.endsWith('.html') ? source.replace(/<nav aria-label="Site views">([\s\S]*?)<\/nav>/, (_, original) => `<nav aria-label="Site views">${original.includes('Family Atlas') ? `<a href="${prefix}index.html">✳ Family Atlas</a>` : ''}${views.map(([label,url])=>`<a class="nav-link" href="${prefix}${url}">${label}</a>`).join('')}</nav>`) : source;
+    await writeFile(destination, rewriteHtmlLinks(rendered), 'utf8');
     assets += 1;
   } else if (normalized.endsWith('.js')) {
     const source = await readFile(path.join(root, normalized), 'utf8');
@@ -105,10 +109,11 @@ for (const file of [...tracked, ...authored]) {
   }
 }
 const home = await readFile(path.join(root, 'site', 'index.html'), 'utf8');
-await writeFile(path.join(output, 'index.html'), home.replace(/<nav aria-label="Site views">[\s\S]*?<\/nav>/, navigation('')));
+await writeFile(path.join(output, 'index.html'), home.replace(/<nav aria-label="Site views">[\s\S]*?<\/nav>/, navigation('')).replace('<!-- BRANCH_DIRECTORY -->', branchBrowser('', 'Choose the branch you came to see')));
 for (const file of await readdir(path.join(root, 'site'))) {
   if (/\.(?:css|js)$/.test(file)) await copyFile(path.join(root, 'site', file), path.join(output, file));
 }
+pages += await buildLines(output, header, searchIndex);
 await writeFile(path.join(output, 'search-index.json'), JSON.stringify(searchIndex));
 const stories = await readFile(path.join(root, 'context', 'people-and-stories.md'), 'utf8');
 const storySections = stories.split(/^## /m).slice(1).map(section => {

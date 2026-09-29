@@ -1,5 +1,7 @@
 # The family tree: choose a person, then follow the evidence
 
+**Looking for a surname?** [Choose a family line](explore/branches.html): [Raber](explore/lines/raber.html) · [Balliet](explore/lines/balliet.html) · [Andrews](explore/lines/andrews.html) and the other branches each have a smaller tree, their own timeline, places and work details.
+
 **Justin Kramer and Ashley Weatherford** connect the four main branches below. Each linked name opens a short research guide; the four diagrams show longer ancestral paths with uncertainty marked on the connecting lines. This is a reading map, not a claim that every older generation has been proved.
 
 ![Four clickable grandparent branches lead through Justin and Ashley's parents to the couple](maps/overall-family-tree.svg)

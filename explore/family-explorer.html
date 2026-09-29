@@ -6,22 +6,24 @@
   <meta name="theme-color" content="#142a31">
   <title>Family Atlas · Explore the tree</title>
   <link rel="stylesheet" href="family-explorer.css">
+  <link rel="stylesheet" href="../lines.css">
+  <script src="line-directory.js" defer></script>
   <script src="family-explorer.js" defer></script>
 </head>
 <body>
   <a class="skip" href="#tree-heading">Skip to the family tree</a>
   <header class="site-header">
     <a class="brand" href="../index.html"><span class="brand-symbol" aria-hidden="true">✳</span> Family Atlas</a>
-    <nav aria-label="Site views"><a class="nav-link" href="stories.html">Stories</a><a class="nav-link" href="family-explorer.html">Tree</a><a class="nav-link" href="timeline.html">Timeline</a><a class="nav-link" href="family-homes.html">Homes</a><a class="nav-link" href="../context/geography-atlas.md">Maps</a><a class="nav-link" href="../context/faces-and-places.md">Gallery</a><a class="nav-link" href="library.html">Find a page</a></nav>
+    <nav aria-label="Site views"><a class="nav-link" href="branches.html">Branches</a><a class="nav-link" href="family-explorer.html">Tree</a><a class="nav-link" href="timeline.html">Timeline</a><a class="nav-link" href="family-homes.html">Homes</a><a class="nav-link" href="../context/geography-atlas.md">Maps</a><a class="nav-link" href="../context/faces-and-places.md">Gallery</a><a class="nav-link" href="library.html">Find a page</a></nav>
   </header>
 
   <main>
     <section class="intro">
       <div>
         <p class="eyebrow">Justin Kramer &amp; Ashley Weatherford</p>
-        <h1>Every branch has a story.</h1>
-        <p class="lede">Move through eight long family paths. Search for a relative or place, then click a household to see its era, story, image and source notes. Your selected card gets a bookmarkable link.</p>
-        <div class="intro-actions"><a class="primary-link" href="#tree-heading">Explore the tree <span aria-hidden="true">↘</span></a><a class="quiet-link" href="#side-branches">Browse more branches ↓</a><a class="quiet-link" href="../FAMILY-TREE.md">Read the written tree ↗</a></div>
+        <h1>See how the lines connect.</h1>
+        <p class="lede">The combined canvas shows eight long ancestral paths. For Raber, Balliet, Andrews and other smaller trees, choose a family line. Search here also finds branches beyond the canvas.</p>
+        <div class="intro-actions"><a class="primary-link" href="branches.html">Choose a family line <span aria-hidden="true">↗</span></a><a class="quiet-link" href="#tree-heading">Explore the combined tree ↓</a><a class="quiet-link" href="../FAMILY-TREE.md">Read the written tree ↗</a></div>
       </div>
       <div class="intro-card" aria-label="Explorer coverage">
         <span class="intro-card-top">The family at a glance</span>
@@ -32,17 +34,10 @@
       </div>
     </section>
 
-    <section class="story-row" aria-label="Start with a story">
-      <button type="button" data-story="kramer-pa"><span>01 / Germany → Pennsylvania</span><strong>Three Ferdinands, one open bridge</strong><small>Follow the Kramer line ↗</small></button>
-      <button type="button" data-story="cordaro-antonio"><span>02 / Sicily → Pennsylvania</span><strong>A family crossing in stages</strong><small>Follow the Cordaros ↗</small></button>
-      <button type="button" data-story="sponenberg-edward"><span>03 / Berwick, Pennsylvania</span><strong>A biography brings a family into view</strong><small>Follow the Sponenbergs ↗</small></button>
-      <button type="button" data-story="weatherford-garnett"><span>04 / Virginia → Fairfax</span><strong>Navy service and a changing county</strong><small>Follow the Weatherfords ↗</small></button>
-    </section>
-
     <section class="explorer" aria-labelledby="tree-heading">
       <div class="section-head"><div><p class="eyebrow">The connected view</p><h2 id="tree-heading">Explore the full tree</h2><p>Older generations are above their descendants. Vertical space shows family steps, not elapsed years.</p></div><a href="../context/full-family-trees.md">View the four printable trees ↗</a></div>
       <div class="toolbar">
-        <label class="search-label">Find a name or place <input id="search" type="search" placeholder="Try Blevins, Sutera, Berwick…" autocomplete="off"></label>
+        <label class="search-label">Find a name or place <input id="search" type="search" placeholder="Try Raber, Balliet, Andrews…" autocomplete="off"></label>
         <label class="branch-label">Jump to a branch <select id="branch"><option value="all">Whole tree</option></select></label>
         <div class="zoom-controls" aria-label="Tree zoom controls"><button id="zoom-out" type="button" aria-label="Zoom out">−</button><button id="zoom-in" type="button" aria-label="Zoom in">+</button><button id="fit" type="button">Fit all</button></div>
       </div>
@@ -59,7 +54,7 @@
     </section>
 
     <section class="side-branches" id="side-branches" aria-labelledby="side-branches-heading">
-      <div class="section-head"><div><p class="eyebrow">Beyond the eight paths</p><h2 id="side-branches-heading">Explore another branch</h2><p>Choose the family side, then follow a name into its short story, records and diagrams. These paths include relatives by marriage and research leads as well as direct ancestors.</p></div><a href="../context/full-family-trees.md">How the main paths connect ↗</a></div>
+      <div class="section-head"><div><p class="eyebrow">Beyond the eight paths</p><h2 id="side-branches-heading">Explore another branch</h2><p>Choose the family side, then open a smaller tree with places, work, timeline and records. These paths include relatives by marriage and research leads as well as direct ancestors.</p></div><a href="../context/full-family-trees.md">How the main paths connect ↗</a></div>
       <nav class="branch-jumps" aria-label="Jump to a family side">
         <a href="#more-justin-paternal">Justin · paternal</a><a href="#more-justin-maternal">Justin · maternal</a><a href="#more-ashley-paternal">Ashley · paternal</a><a href="#more-ashley-maternal">Ashley · maternal</a>
       </nav>
@@ -67,34 +62,34 @@
         <section class="branch-group" id="more-justin-paternal" aria-labelledby="more-justin-paternal-heading">
           <h3 id="more-justin-paternal-heading">Justin · paternal</h3>
           <div class="branch-cards">
-            <a href="../branches/andrews-kennedy.md"><span>From Mary Andrews</span><strong>Andrews · Kennedy · Durkin</strong><small>Coal work, eight Kennedy children and the Flick Street households ↗</small></a>
-            <a href="../branches/caucci-belardinelli.md"><span>From Dina Caucci Cordaro</span><strong>Caucci · Belardinelli</strong><small>Jessup records and a Sassoferrato birthplace lead ↗</small></a>
-            <a href="../branches/disque-schaaf.md"><span>From Magdalena Disqué in the family chart</span><strong>Disqué · Schaaf</strong><small>Palatinate mills; the Pennsylvania parent bridge remains open ↗</small></a>
-            <a href="../branches/other-paternal-lines.md"><span>From Rose Bosch Kramer</span><strong>Bosch and related households</strong><small>Baden-born parents in the Pennsylvania records ↗</small></a>
+            <a href="lines/andrews.html"><span>From Mary Andrews</span><strong>Andrews · Kennedy · Durkin</strong><small>Coal work, eight Kennedy children and the Flick Street households ↗</small></a>
+            <a href="lines/caucci.html"><span>From Dina Caucci Cordaro</span><strong>Caucci · Belardinelli</strong><small>Jessup records and a Sassoferrato birthplace lead ↗</small></a>
+            <a href="lines/disque.html"><span>From Magdalena Disqué in the family chart</span><strong>Disqué · Schaaf</strong><small>Palatinate mills; the Pennsylvania parent bridge remains open ↗</small></a>
+            <a href="lines/bosch.html"><span>From Rose Bosch Kramer</span><strong>Bosch and related households</strong><small>Baden-born parents in the Pennsylvania records ↗</small></a>
           </div>
         </section>
         <section class="branch-group" id="more-justin-maternal" aria-labelledby="more-justin-maternal-heading">
           <h3 id="more-justin-maternal-heading">Justin · maternal</h3>
           <div class="branch-cards">
-            <a href="../branches/balliet-raber-candidates.md"><span>Through Sonya Raber's marriage to Floyd</span><strong>Balliet · Rinehimer</strong><small>Crystal's eleven-child home; the adult Floyd parent bridge is still being checked ↗</small></a>
-            <a href="../branches/raber-shadle-household.md"><span>From William Glenmore Raber</span><strong>Raber · Shadle · Houser</strong><small>A signed card, sibling trail and the Topton school record ↗</small></a>
-            <a href="../branches/sponenberg-deep-dive.md"><span>From Aletha Sponenberg Kreischer</span><strong>The wider Sponenbergs</strong><small>Berwick biographies, work and Paulene's neighborhood memory ↗</small></a>
-            <a href="../branches/raber-kreisher-fairchild.md"><span>From Shirley Kreischer Raber</span><strong>Kreischer · Fairchild</strong><small>A family Bible, Berwick biography and sibling links ↗</small></a>
+            <a href="lines/balliet.html"><span>Through Sonya Raber's marriage to Floyd</span><strong>Balliet · Rinehimer</strong><small>Crystal's eleven-child home; the adult Floyd parent bridge is still being checked ↗</small></a>
+            <a href="lines/raber.html"><span>From William Glenmore Raber</span><strong>Raber · Shadle · Houser</strong><small>A signed card, sibling trail and the Topton school record ↗</small></a>
+            <a href="lines/sponenberg.html"><span>From Aletha Sponenberg Kreischer</span><strong>The wider Sponenbergs</strong><small>Berwick biographies, work and Paulene's neighborhood memory ↗</small></a>
+            <a href="lines/kreischer.html"><span>From Shirley Kreischer Raber</span><strong>Kreischer · Fairchild</strong><small>A family Bible, Berwick biography and sibling links ↗</small></a>
           </div>
         </section>
         <section class="branch-group" id="more-ashley-paternal" aria-labelledby="more-ashley-paternal-heading">
           <h3 id="more-ashley-paternal-heading">Ashley · paternal</h3>
           <div class="branch-cards">
-            <a href="../branches/morrison-hollinger.md"><span>From Florence Morrison Weatherford</span><strong>Morrison · Hollinger · Straub</strong><small>Sheet-metal work and a Pennsylvania-to-Virginia household ↗</small></a>
-            <a href="../branches/neathery-phelps.md"><span>From Garnett Weatherford's mother</span><strong>Neathery · Phelps</strong><small>Older Virginia households and parent-naming records ↗</small></a>
-            <a href="../branches/weatherford-early-virginia.md#julia-oakess-older-family-two-court-files"><span>From a candidate Julia Weatherford</span><strong>Oakes · Adams</strong><small>Original court records; the later Weatherford bridge is open ↗</small></a>
+            <a href="lines/morrison.html"><span>From Florence Morrison Weatherford</span><strong>Morrison · Hollinger · Straub</strong><small>Sheet-metal work and a Pennsylvania-to-Virginia household ↗</small></a>
+            <a href="lines/neathery.html"><span>From Garnett Weatherford's mother</span><strong>Neathery · Phelps</strong><small>Older Virginia households and parent-naming records ↗</small></a>
+            <a href="lines/oakes.html"><span>From a candidate Julia Weatherford</span><strong>Oakes · Adams</strong><small>Original court records; the later Weatherford bridge is open ↗</small></a>
           </div>
         </section>
         <section class="branch-group" id="more-ashley-maternal" aria-labelledby="more-ashley-maternal-heading">
           <h3 id="more-ashley-maternal-heading">Ashley · maternal</h3>
           <div class="branch-cards">
-            <a href="../branches/cowan-mason.md"><span>From Mary Hines Blevins</span><strong>Cowan · Mason</strong><small>Southwestern Virginia households behind the Hines line ↗</small></a>
-            <a href="../branches/smith-mulhall-corbett.md"><span>From a proposed DC Smith-to-James bridge</span><strong>Mulhall · Corbett</strong><small>Washington households and an Irish arrival window ↗</small></a>
+            <a href="lines/cowan.html"><span>From Mary Hines Blevins</span><strong>Cowan · Mason</strong><small>Southwestern Virginia households behind the Hines line ↗</small></a>
+            <a href="lines/mulhall.html"><span>From a proposed DC Smith-to-James bridge</span><strong>Mulhall · Corbett</strong><small>Washington households and an Irish arrival window ↗</small></a>
             <a href="../branches/blevins-rhode-island-lead.md"><span>Research lead beyond the Blevins tree</span><strong>Oyster Bay · Westerly Blevins</strong><small>Seventeenth-century records; no proved bridge to Ashley ↗</small></a>
           </div>
         </section>

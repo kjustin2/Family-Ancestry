@@ -2,16 +2,16 @@
 
 A sourced history of Justin Kramer and Ashley Weatherford's families: the people, their work, their homes, and the questions the records leave open. **Reviewed 29 September 2026.**
 
-**[Open the Family Atlas website](https://kjustin2.github.io/Family-Ancestry/)** → [start with eight short stories](https://kjustin2.github.io/Family-Ancestry/explore/stories.html) → [connect the people in the tree](https://kjustin2.github.io/Family-Ancestry/explore/family-explorer.html).
+**[Open the Family Atlas website](https://kjustin2.github.io/Family-Ancestry/)** → [choose a family line](https://kjustin2.github.io/Family-Ancestry/explore/branches.html) → see that branch’s smaller tree, timeline, places and occupations.
 
 ## Choose a way in
 
 | To explore | Open |
 | --- | --- |
-| **The people behind the names** | [Music, work, home and learning](context/people-and-stories.md) → [four family storyboards](context/family-storyboards.md) |
+| **A particular family line** | [Branch directory](https://kjustin2.github.io/Family-Ancestry/explore/branches.html) → [Raber](https://kjustin2.github.io/Family-Ancestry/explore/lines/raber.html), [Balliet](https://kjustin2.github.io/Family-Ancestry/explore/lines/balliet.html), [Andrews](https://kjustin2.github.io/Family-Ancestry/explore/lines/andrews.html) or another surname |
 | **Family connections** | [Interactive tree](explore/family-explorer.html) → [written family guide](FAMILY-TREE.md) → [four deep trees](context/full-family-trees.md) |
 | **Any name, place or subject** | [Search the whole research notebook](explore/library.html) |
-| **Time** | [Overall interactive timeline](explore/timeline.html) → [ten family-line timelines](explore/line-timelines.html) |
+| **Time** | Each branch’s own timeline → [overall interactive timeline](explore/timeline.html) → [ten comparison lanes](explore/line-timelines.html) |
 | **Place** | [Geography atlas](context/geography-atlas.md) → [house explorer](explore/family-homes.html) → [immigration stories](context/immigration-stories.md) |
 | **Work, school and property** | [Lives across generations](context/lives-across-generations.md) · [education](context/education-across-generations.md) · [asset evidence](research/assets-by-generation.md) |
 | **Photographs and proof** | [Faces and artifacts](context/faces-and-places.md) → [original record gallery](sources/records/README.md) → [source ledger](research/sources.md) |
@@ -24,7 +24,7 @@ A sourced history of Justin Kramer and Ashley Weatherford's families: the people
 - **Ashley's paternal side:** Weatherford and Neathery families around Danville, later Navy service and transit work; Morrison, Hollinger and Straub households; older Halifax and Indiana candidates. [People and branch links](FAMILY-TREE.md#ashleys-paternal-paths).
 - **Ashley's maternal side:** Smith, Blevins, Hines and Cowan records; a probable DC Smith–Mulhall–Corbett path; earlier colonial Blevin leads with unproved intervening links. [People and branch links](FAMILY-TREE.md#ashleys-maternal-paths).
 
-The [recent generations](context/recent-generations.md) keep parents' and children's family accounts beside their person-specific records. [Monty's separate pedigree](branches/monty.md) has its own certificate and source lane.
+Stories and family recollections stay with the related branch research. The [recent generations](context/recent-generations.md) keep parents' and children's accounts beside their records. [Monty's separate pedigree](branches/monty.md) has its own certificate and source lane.
 
 ## How to read the evidence
 
@@ -36,4 +36,4 @@ This repository and its GitHub Pages site are **public**. Justin has authorized 
 
 ## Site maintenance
 
-Pushes to main rebuild the site through the Pages workflow. Run `npm ci`, `npm run build:site`, and `npm run check:site` to build and verify it locally. `_site/` is generated and ignored. The page directory and story cards are generated from the research notes, keeping one editable source for each account.
+Pushes to main rebuild the site through the Pages workflow. Run `npm ci`, `npm run build:site`, and `npm run check:site` to build and verify it locally. `_site/` is generated and ignored. Edit the sourced branch summaries in `site/family-lines.mjs` to update the 23 branch overviews; each entry links to the underlying research. The builder generates their trees, timelines, directory and combined-tree search choices together. Detailed notes and original records remain the evidence authority.
